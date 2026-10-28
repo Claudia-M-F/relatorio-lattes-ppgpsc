@@ -1,0 +1,1415 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "7245172604097622",
+    "nome_completo": "Joaci de Sousa Cunha",
+    "nome_citacoes": "CUNHA, J. S.;CUNHA, Joaci de S.;CUNHA, Joaci;CUNHA, Joaci de Sousa;CUNHA, JOACI DE S.",
+    "sexo": "Masculino",
+    "rotulo": "Permanente",
+    "periodo": "1999",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Católica do Salvador, PPGPPC-UCSAL. Avenida Professor Pinto de Aguiar Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (071) 991476548",
+    "atualizacao_cv": "27/08/2026",
+    "url": "http://lattes.cnpq.br/7245172604097622",
+    "texto_resumo": "Doutor em História pela Universidade Federal da Bahia (UFBA, 2011), pós-doutor pelo Programa de Políticas Sociais e Cidadania da Universidade Católica do Salvador - UCSal (2020), onde desde 2022 é professor do quadro efetivo; mestre em História e Bacharel em Direito também pela UFBA. Tem experiência docente em pesquisa nas áreas de Brasil Republicano, História do Direito, Políticas e Movimentos Sociais, além de História Econômica. É assessor do Centro de Estudos e Ação Social e atual coeditor científico da revista Cadernos do CEAS. Pela Edufba publicou os livros O fazer político da Bahia na República (2017) e, em 2025, Questão agrária-ambiental e movimentos sociais: lições a partir do espaço baiano (1998-2022). (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em História",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2011",
+      "descricao": "Título: O fazer político da Bahia, 1904 - 1930, Ano de obtenção: 2011. Orientador: Maria Cecília Veslasco Cruz. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Estrategias políticas; Política e econômia; Historia republicana da Bahia."
+    },
+    {
+      "tipo": "Mestrado em História",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "1992",
+      "ano_conclusao": "1995",
+      "descricao": "Título: Amargo açúcar: elementos da história da indústria e do trabalho no Recôncavo baiano, 1943-1964, Ano de Obtenção: 1996. Orientador: Jorge Nóvoa. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil."
+    },
+    {
+      "tipo": "Graduação em Direito",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "1982",
+      "ano_conclusao": "1986",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidad Iberoamericana Ciudad de México, UIA, México.",
+      "instituicao_nome": "Universidad Iberoamericana Ciudad de México",
+      "instituicao_sigla": "UIA",
+      "instituicao_pais": "México",
+      "periodo": "2021 - 2022",
+      "ano_inicio": "2021",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2008 - 2011",
+      "ano_inicio": "2008",
+      "ano_fim": "2011",
+      "vinculo": "Bolsista",
+      "enquadramento": "Pesquisador capes",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1992 - 1995",
+      "ano_inicio": "1992",
+      "ano_fim": "1995",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista cnpq",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Prof. do Quadro Permanente do PPGPSC-UCSal",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "disciplinas": [
+        "1. Fundamentos do Estado Social: Componentes e Transformações Contemporâneas (60h) - 1 semestre de 2023;2. Movimentos sociais no século xxi, novas práticas e concepções na América Latina (30h) - 2 semestre de 2023;31. Fundamentos do Estado Social: Componentes e Transformações Contemporâneas (60h) - 1 semestre de 2024 (em andamento)."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2023",
+      "ano_inicio": "2015",
+      "ano_fim": "2023",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor Colaborador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 2015",
+      "ano_inicio": "1999",
+      "ano_fim": "2015",
+      "vinculo": "Celetista formal",
+      "enquadramento": "(Contrato suspenso)",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 2015",
+      "ano_inicio": "1999",
+      "ano_fim": "2015",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2022 - 06/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2021 - 12/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 06/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 06/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2019 - 06/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2019 - 06/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2018 - 12/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2018 - 06/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2017 - 12/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2017 - 06/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2016 - 12/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/1999 - 06/2015",
+      "ano_inicio": "1999",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2003 - 03/2006",
+      "ano_inicio": "2003",
+      "ano_fim": "2006",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Feira de Santana, UEFS, Brasil.",
+      "instituicao_nome": "Universidade Estadual de Feira de Santana",
+      "instituicao_sigla": "UEFS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2015",
+      "ano_inicio": "2012",
+      "ano_fim": "2015",
+      "vinculo": "Direito Administrativo",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Feira de Santana, UEFS, Brasil",
+      "instituicao_nome": "Universidade Estadual de Feira de Santana",
+      "instituicao_sigla": "UEFS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "disciplinas": [
+        "História Econômica Geral e do Brasil Brasil Republicano Formação Econômica do Brasil (curso de Economia)."
+      ]
+    },
+    {
+      "instituicao": "Universidade Estadual de Feira de Santana, UEFS, Brasil",
+      "instituicao_nome": "Universidade Estadual de Feira de Santana",
+      "instituicao_sigla": "UEFS",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2012 - 04/2015",
+      "ano_inicio": "2012",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro de Estudos e Ação Social, CEAS, Brasil.",
+      "instituicao_nome": "Centro de Estudos e Ação Social",
+      "instituicao_sigla": "CEAS",
+      "instituicao_pais": "Brasil",
+      "periodo": "1996 - Atual",
+      "ano_inicio": "1996",
+      "ano_fim": "Atual",
+      "vinculo": "Assessor Jurídico",
+      "enquadramento": "Advogado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro de Estudos e Ação Social, CEAS, Brasil",
+      "instituicao_nome": "Centro de Estudos e Ação Social",
+      "instituicao_sigla": "CEAS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro de Estudos e Ação Social, CEAS, Brasil",
+      "instituicao_nome": "Centro de Estudos e Ação Social",
+      "instituicao_sigla": "CEAS",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2015 - Atual",
+      "ano_inicio": "2015",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Comissão de Justiça e Paz da Arquidiocese do Salvador, CJP, Brasil.",
+      "instituicao_nome": "Comissão de Justiça e Paz da Arquidiocese do Salvador",
+      "instituicao_sigla": "CJP",
+      "instituicao_pais": "Brasil",
+      "periodo": "1988 - 1996",
+      "ano_inicio": "1988",
+      "ano_fim": "1996",
+      "vinculo": "Celetista",
+      "enquadramento": "Advogado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "APLB - Sindicato dos Trabalhadores em Educação do Estado da Bahia, APLB, Brasil.",
+      "instituicao_nome": "APLB - Sindicato dos Trabalhadores em Educação do Estado da Bahia",
+      "instituicao_sigla": "APLB",
+      "instituicao_pais": "Brasil",
+      "periodo": "1996 - 2002",
+      "ano_inicio": "1996",
+      "ano_fim": "2002",
+      "vinculo": "Contrato de honorários",
+      "enquadramento": "Advogado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Crise climática e movimentos sociais ambientais: utopia, organização de base e políticas públicas",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Este projeto parte da experiência de organização social popular de gestão dos bens naturais em uma bacia hidrográfica nacional, com o objetivo de sistematizar e desenvolver os princípios metodológicos da atuação político-ambiental postos em prática pelos setores populares no espaço do Médio rio Pardo, entre a Bahia e Minas Gerais, com cerca de um milhão de habitantes; recupera os fundamentos teórico-filosóficos que embasam, nas tradições progressistas ocidentais e afro-ameríndias, a atuação política que tem por base o controle e gestão sustentáveis do território e do meio ambiente. Assim, trará à baila, além de práticas sociais concretas, questões de método e teóricas, amplamente abordadas por pensadores do ecosocialismo (cristão e marxista), do \"buen vivir\" latinoamericano, e das tradições indígenas e quilombolas brasileiras. Nessa direção, premidos pela destruição e pela apropriação privada acelerada dos bens ambientais, postas em curso pelo modelo de desenvolvimento mercantil capitalista, esta pesquisa colocará em diálogo as experiências vividas e em curso pelos residentes da bacia do rio Pardo, com os princípios de concepções filosóficas distintas, mas não antagônicas, com vistas a fundamentar modos de viver e de produzir alternativos e sustentáveis, que acalentam a perspectiva de retirar o planeta da via de implosão ambiental e climática.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Joaci de Sousa Cunha - Coordenador / Gilca Garcia de Oliveira - Integrante / Maicon Leopoldino Andrande - Integrante / Larissa da Silva Santana - Integrante. Número de produções C, T & A: 6"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Joaci de Sousa Cunha",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Gilca Garcia de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maicon Leopoldino Andrande",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Larissa da Silva Santana",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Questão agrária-ambiental e movimentos sociais no contexto institucional do século xxi",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: Esta investigação deu continuidade à pesquisa iniciada com o projeto de pós-doutoramento e objetivou realizar um inventário sócio histórico dos movimentos populares brasileiros a partir de suas representações ou organizações baianas, que atuam num espaço agrário redefinido pela questão ambiental coetânea. Partindo deste recorte, o projeto avaliou também as relações estabelecidas entre estes os movimentos do campo e os que atuam no espaço urbano, tendo como cenário institucional os governos petistas nas esferas nacional e estadual, assim como o modelo de relacionamento construído pelo Estado, nas décadas iniciais do século xxi, com os setores mobilizados das classes trabalhadoras. Este projeto resultou no livro escrito em 2023 e aprovado para publicação pela EDUFBA, sob o título \"Questão agrária-ambiental e movimentos sociais. Inspirações para o porvir\", com publicação, por meio impresso, prevista para 2024.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Joaci de Sousa Cunha - Coordenador / Maicon Andrade - Integrante. Número de produções C, T & A: 7"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Joaci de Sousa Cunha",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Maicon Andrade",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [
+    {
+      "nome": "Agroecologia, proteção e gestão popular dos bens naturais do território da Bacia Hidrográfica do Rio Pardo",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O modelo de Desenvolvimento baseado no latifúndio e na exportação é uma causa transversal de problemas na região de atuação da equipe rural do CEAS, dados seus efeitos ao nível da concentração da estrutura agrária, do modelo agrícola predominante e das dinâmicas das cadeias de valor/mercados, hegemonicamente protagonizadas pela iniciativa privada. A perpetuação desse modelo impulsiona a expansão de áreas destinadas à monocultura, o uso e disseminação de insumos químicos e o desmatamento, fatores que resultam na desproteção e sequestro dos bens hídricos e territórios das pessoas/comunidades envolvidas no projeto. A não concretização do direito de acesso à água e a falta de controle social sobre os bens hídricos são as principais demandas a que o projeto se propõe atuar. Para isto, intervirá na situação de degradação ambiental das microbacias e afluentes da parte média da Bacia Hidrográfica do Rio Pardo (BHRP), incentivando a organização sociopolítica, a implementação de boas práticas de preservação e a produção agroecológica de alimentos. O projeto também incidirá na comercialização, principal oportunidade de geração e repartição de renda nos territórios, variável que repercute sobre a segurança hídrica, econômica, alimentar e social das comunidades rurais. Esta estratégia aposta que se houver maior controle popular sobre os bens hídricos na região, inspirado por boas práticas locais de preservação e proteção desses bens naturais conciliadas ao aprimoramento da produção agroecológica, será possível empoderar as comunidades para a permanência e defesa dos seus territórios, contrapondo o modelo de Desenvolvimento hegemônico. Assume-se também que, para tanto, é fundamental trabalhar a dimensão econômica, demonstrando a viabilidade da produção agroecológica e da proteção dos bens naturais para a geração de renda, a partir da ampliação e diversificação dos canais de comercialização protagonizados por agricultores e agricultoras familiares. Assim sendo, o projeto prevê dois objetivos específicos: 1) Comunidades das microbacias da parte média do Rio Pardo habilitadas e realizando a proteção e gestão dos bens hídricos e naturais de seus territórios; e 2) Comunidades comercializando a produção agroecológica e assegurando uma base material necessária à defesa do território em suas dimensões física e sociocultural. Por base material\" se entende o conjunto dos elementos (infra)estruturais que possibilita a reprodução do modo de vida das famílias no território. Neste contexto, isso significa a convergência do acesso/uso da terra e dos bens naturais, da produção/acesso a alimentos de qualidade e da comercialização de parte dessa produção, gerando a renda monetária de que necessitam essas famílias para permanecerem e se organizar no território. A definição dos objetivos incorporou a recomendação de Simetria Invertida (ou reversa) referida pela Avaliação da fase anterior, ou seja, procura investir na integração sinérgica das experiências de produção/comercialização agroecológica e dos êxitos coletivos e populares de gestão/defesa da água nos diferentes afluentes da bacia do Rio Pardo e adjacentes.. Situação: Em andamento; Natureza: Desenvolvimento. Integrantes: Joaci de Sousa Cunha - Coordenador / Joctan Moreno - Integrante / Maicon Andrade - Integrante / Edilene Silva - Integrante."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Joaci de Sousa Cunha",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Joctan Moreno",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maicon Andrade",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Edilene Silva",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Ciência Política",
+      "subarea": "Transformações econômicas, políticas públicas e movimentos sociais",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Ciência Política / Subárea: Transformações econômicas, políticas públicas e movimentos sociais."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Ciência Política",
+      "subarea": "História do Brasil República",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Ciência Política / Subárea: História do Brasil República."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Ciência Política",
+      "subarea": "História da Bahia",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Ciência Política / Subárea: História da Bahia."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Ciência Política",
+      "subarea": "História Econômica",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Ciência Política / Subárea: História Econômica."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Ciência Política",
+      "subarea": "História do Direito",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Ciência Política / Subárea: História do Direito."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Razoavelmente",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "",
+        "ano": 2025,
+        "autores": "CUNHA, JOACI DE S..",
+        "revista": "CADERNOS DO CEAS",
+        "volume": "50",
+        "numero": "",
+        "paginas": "493-528",
+        "issn": "2447-861X",
+        "doi": "http://dx.doi.org/10.25247/2447-861X.2025.n265.p493-528",
+        "qualis": ""
+      },
+      {
+        "titulo": "UMA  REVISTA  LATINO-AMERICANA:  INTRODUÇÃO  AO  DOSSIÊ ENCRUZILHADAS DA AMÉRICA LATINA CONTEMPORÂNEA",
+        "ano": 2024,
+        "autores": "COSTA, I. ; CUNHA, JOACI DE S.",
+        "revista": "CADERNOS DO CEAS",
+        "volume": "v. 49",
+        "numero": "",
+        "paginas": "273-285",
+        "issn": "2447-861X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "ARTICULAÇÃO RURAIS - URBANOS E MOVIMENTOS SOCIAIS NO CENÁRIO BAIANO DA 1ª DÉCADA DO SÉC. XXI",
+        "ano": 2022,
+        "autores": "CUNHA, JOACI DE S",
+        "revista": "CADERNOS DO CEAS",
+        "volume": "47",
+        "numero": "",
+        "paginas": "455-488",
+        "issn": "2447-861X",
+        "doi": "http://dx.doi.org/10.25247/2447-861X.2022.n257.p455-488",
+        "qualis": ""
+      },
+      {
+        "titulo": "A ECONOMIA SOCIAL SOLIDÁRIA E RED COMPARTE NA AMÉRICA LATINA EM TEMPOS DE PANDEMIA",
+        "ano": 2021,
+        "autores": "IDÁRRAGA, Alvaro ; CUNHA, JOACI DE S.",
+        "revista": "CADERNOS DO CEAS",
+        "volume": "45",
+        "numero": "",
+        "paginas": "398-428",
+        "issn": "2447-861X",
+        "doi": "http://dx.doi.org/10.25247/2447-861X.2020.n250.p398-428",
+        "qualis": ""
+      },
+      {
+        "titulo": "Da pandemia sob dominãncia financeira",
+        "ano": 2021,
+        "autores": "CUNHA, JOACI DE S.; BORGES, A.",
+        "revista": "CADERNOS DO CEAS",
+        "volume": "46",
+        "numero": "",
+        "paginas": "4-8",
+        "issn": "2447-861X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "ANÁLISE DE CONJUNTURA EM ATOS: A CRISE BRASILEIRA EM CONTEXTO VIRAL",
+        "ano": 2021,
+        "autores": "CUNHA, JOACI DE S.; LOPES, C. ; VALVERDE, T. ; ANDRANDE, M. L. ; FERREIRA, A. ; MENDES, M.",
+        "revista": "CADERNOS DO CEAS",
+        "volume": "46",
+        "numero": "",
+        "paginas": "193-211",
+        "issn": "2447-861X",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Questão agrária-ambiental e movimentos sociais: lições a partir do espaço baiano (1998-2022)",
+        "ano": 2025,
+        "autores": "CUNHA, Joaci",
+        "editora": "Salvador: EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "213"
+      }
+    ],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Formação sociohistórica para jovens de movimentos sociais do campo",
+        "ano": 2026,
+        "autores": "CUNHA, Joaci de S.; OLIVEIRA NETO, C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Questão Agrária-ambiental e movimentos sociais: lições a partir do espaço baiano",
+        "ano": 2025,
+        "autores": "CUNHA, JOACI DE S",
+        "evento": ""
+      },
+      {
+        "titulo": "Lançamento de Livro (Questão agrária-ambienta e movimentos sociais: lições a partir do espaço baiano",
+        "ano": 2025,
+        "autores": "CUNHA, JOACI DE S.; GERMANI, G. I.",
+        "evento": ""
+      },
+      {
+        "titulo": "Questão agrária-ambienta e conjuntuntura no campo brasileiro",
+        "ano": 2025,
+        "autores": "CUNHA, JOACI DE S",
+        "evento": ""
+      },
+      {
+        "titulo": "Terra e território no litoral sul da Bahia (Oficina)",
+        "ano": 2025,
+        "autores": "CUNHA, JOACI DE S.; RODRIGUES, W.",
+        "evento": ""
+      },
+      {
+        "titulo": "'Movimentos sociais, políticas públicas, Estado e democracia'",
+        "ano": 2023,
+        "autores": "CUNHA, JOACI DE S.; MATOS, Larissa. B. S. ; MOSCOSO, Fernanda ; SANTIAGO, Teresa ; FERREIRA, A.",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": [
+      {
+        "titulo": "Questão agrária ambiental e movimentos sociais. Inspirações para o porvir. Salvador: EDUFBA",
+        "ano": 2023,
+        "autores": "CUNHA, Joaci de S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "DA EUROPA, FRANÇA, BAHIA A GAZA BRASÍLIS. Salvador/Recife: CEAS/UNICAP/UCSAL",
+        "ano": 2023,
+        "autores": "CUNHA, Joaci de S.; BORGES, A.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "DISPUTAS SEM LIMITES. Salvador-Recife: Ceas-UCSal-Unicap",
+        "ano": 2022,
+        "autores": "CUNHA, JOACI DE S.; BORGES, A.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Que 2022 enterre a ameaça antidemocrática. Salvador-Recife: Ceas-UCSal-Unicap",
+        "ano": 2022,
+        "autores": "CUNHA, JOACI DE S.; Ângela Borges ; VICENTE, M.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Questão agrária socioambiental e movimentos sociais. Salvador: EDUFBA",
+        "ano": 2022,
+        "autores": "CUNHA, JOACI DE S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "2021 termina, sem deixar saudades. Salvador-Recife: Ceas-UCSal-Unicap",
+        "ano": 2021,
+        "autores": "CUNHA, JOACI DE S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Entre o vírus e o estigma. Salvador/Recife: Ceas/UCSal?Unicap",
+        "ano": 2020,
+        "autores": "CUNHA, JOACI DE S.; BORGES, A.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "INTERAÇÕES CONTEMPORÂNEAS ENTRE O RURAL E O URBANO. Salvador-Recife: Ceas-UCSal-Unicap",
+        "ano": 2020,
+        "autores": "Ângela Borges ; CUNHA, JOACI DE S.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "Projeto de Lei de Iniciativa aprovado (Lei n. 10/2025) sem alterações pelo Poder Legislativo Municipal de Itarantim",
+        "ano": 2025,
+        "autores": "CUNHA, Joaci de S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Emenda a projeto de lei municipal (Aditiva)",
+        "ano": 2021,
+        "autores": "CUNHA, JOACI DE S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Emenda a projeto de lei municipal (Modificativa)",
+        "ano": 2021,
+        "autores": "CUNHA, JOACI DE S",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "MEMORIAL COSPAC ? COMITÊ DE SOLIDARIEDADE AOS POVOS DA AMÉRICA CENTRAL",
+        "ano": 2024,
+        "autores": "(Org) Simões, L. ; CUNHA, J. S. (ORG.) ; CUNHA, JOACI DE S.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "LEI Nº 010/2025: INSTITUI COMO MONUMENTOS NATURAIS E PATRIMÔNIO PAISAGÍSTICO AS SERRAS DO MUNICÍPIO DE ITARANTIM E DÁ OUTRAS PROVIDÊNCIAS.'",
+        "ano": 2024,
+        "autores": "CUNHA, Joaci de S.; ITARANTIM, M.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Cacau de Alta Qualidade, Orgânico e Agroecológico",
+        "ano": 2021,
+        "autores": "CUNHA, Joaci de Sousa; SANTIAGO, T. F. V. ; OLIVEIRA NETO, C. ; SANTIAGO, R. D. ; SILVA, L. F.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Gestão da Água do Rio Pardo",
+        "ano": 2021,
+        "autores": "CUNHA, Joaci de Sousa; LIMA, A. J. R.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "VI. RELATÓRIO FINAL DO PROJETO DE PESQUISA, Capital e conflito socioambiental: Movimentos sociais e políticas públicas na bacia do rio Pardo",
+        "ano": 2020,
+        "autores": "CUNHA, JOACI DE S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "RELATÓRIO FINAL (Estágio Pós-Doutoral)",
+        "ano": 2020,
+        "autores": "CUNHA, Joaci de S",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "Histórias dos movimentos sociais na Bahia",
+        "ano": 2021,
+        "autores": "CUNHA, J. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Movimentos e organizações populares da Bahia discutem o cenário atual da questão agrária no Brasil",
+        "ano": 2021,
+        "autores": "CUNHA, J. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Rio Pardo: Crise hídrica, irrigação e iniciativas por um rio ?vivo e corrente?. 2021; Tema: Movimentos",
+        "ano": 2021,
+        "autores": "CUNHA, JOACI DE S.; ANDRADE, MAICON LEOPOLDINO DE",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "INTELIGÊNCIA ARTIFICIAL, DIREITO E ÉTICA: FUNDAMENTOS PARA UMA TOMADA DE DECISÃO AUTOMATIZADA RESPONSÁVEL",
+          "ano_inicio": 2026,
+          "orientando": "TATIANA GOMES SILVA SANTOS",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Sistema de Proteção Social dos Militares dos Estados e do Distrito Federal e a Fixação de Alíquota Únicas no Federalismo Cooperativo do Brasil: uma proposta",
+          "ano_inicio": 2025,
+          "orientando": "Hérlon Conceição Santos Lima",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Decisões multilaterais e sua configuração como ferramenta de dominação no caso palestina em suas consequências migratórias",
+          "ano_inicio": 2025,
+          "orientando": "Lara Macedo de Alencar",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A ECONOMIA BASEADA NA OFERTA DE CRÉDITO BANCÁRIO TEM CONTRIBUÍDO PARA O ENDIVIDAMENTO DAS FAMÍLIAS",
+          "ano_inicio": 2024,
+          "orientando": "NORMA SUELY NEGRÃO SANTOS",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A PRESENÇA DA UNIVERSIDADE DO ESTADO DA BAHIA NO TERRITÓRIO DO PIEMONTE DO PARAGUAÇU: Trajetória, abrangência e possibilidades nas transformações sócio educacionais dos municípios",
+          "ano_inicio": 2021,
+          "orientando": "Ademir Silva",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [
+        {
+          "titulo": "",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Márcio Pereira Dias",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "doutorado": [
+        {
+          "titulo": "UMA ANÁLISE CONFORME O PERCENTUAL MÍNIMO CONSTITUCIONAL E LEGAL?",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Dalzimar Fontes de Andrade. ?AS DESPESAS PÚBLICAS DO ESTADO DA BAHIA E A EFETIVIDADE DO DIREITO À SAÚDE",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O TRABALHO DO AGRICULTOR FAMILIAR FRENTE AO AVANÇO DA EUCALIPTOCULTURA NO MUNICÍPIO DE ALAGOINHAS-BA",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "JANDIRA DANTAS DOS SANTOS",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "(AS MANIFESTAÇÕES DOS MOVIMENTOS SOCIAIS CONTEMPORÂNEO COM O ADVENTO DA LEI ANTITERRORISTA FRENTE AO ESTADO DEMOCRÁTICO DE DIREITO",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "LARISSA BASTOS DA SILVA MATOS",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O novo inferno de Dante: Neoliberalismo e os seus tratos",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Caique de Oliveira Sobreira Cruz",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "MEMÓRIAS DA DITADURA: REDES DE SOLIDARIEDADE E A LUTA PELA DEMOCRACIA",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Marilda de Souza Ferri",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "Audiência Pública sobre a legalidade da pesquisa mineral em Patrimônio Municipal Natural e Paisagístico",
+        "apresentacao": "Condicionantes legais e ambientais para a pesquisa mineral",
+        "ano": 2026,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso da UFBA (80 anos)",
+        "apresentacao": "Expropriados e Resistentes do Campo, das Florestas e das Água",
+        "ano": 2026,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Jornada da Ecologia Política da UFBA",
+        "apresentacao": "EXPOLIAÇÃO DA NATUREZA E ACUMULAÇÃO FINANCEIRA-ESPECULATIVA. Água e questão agrária-ambiental no oeste da Bahia",
+        "ano": 2026,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "\"Dois Dedos de Prosa\" (Conjuntura da cooperação internacional)",
+        "apresentacao": "A cooperação para o desenvolvimento na conjuntura internacional",
+        "ano": 2025,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "CAMPO BAIANO EM DEBATE - Lançamento do livro \"Questão Agrária-ambiental: lições a partir do campo baiano (1998-2022)",
+        "apresentacao": ".QUESTÃO AGRÁRIA-AMBIENTAL E MOVIMENTOS SOCIAS",
+        "ano": 2025,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IX JORNADA UNIVERSITARIA EM DEFESA DA REFORMA AGRARIA POPULAR NA UNIVERSIDADE ESTADUAL DE SANTA CRUZ (IX JURA-UESC)",
+        "apresentacao": "TERRA E TERRITORIO: O DIREITO AGRARIO E O MOVIMENTO DE LUTA PELA TERRA na IX JORNADA UNIVERSITARIA EM DEFESA DA REFORMA AGRARIA",
+        "ano": 2025,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Audiência Pública sobre os Impactos da Pesquisa e Mineração",
+        "apresentacao": "Impactos da Pesquisa e Mineração nas Serras de Itarantim",
+        "ano": 2024,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Análise de conjuntura: A pandemia e os desafios para a luta popular",
+        "apresentacao": "A pandemia e os desafios para a luta popular",
+        "ano": 2021,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "História das lutas no campo na Bahia - articulação campo e cidade",
+        "apresentacao": "História das lutas no campo na Bahia - articulação campo e cidade",
+        "ano": 2021,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Questão Agrária no Brasil e na Bahia: Decifra-me ou te devoro",
+        "apresentacao": "Questão Agrária no Brasil e na Bahia: Decifra-me ou te devoro",
+        "ano": 2021,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "CUNHA, Joaci de S.; BALLESTER, R. ; GUASCH, A. ; ANDRANDE, M. L. ; OLIVEIRA NETO, C. ; SANTIAGO, T. F. V.",
+        "evento": "Seminário de Inmersión - Programa Together",
+        "ano": 2022,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "GERMANI, G. I. ; OLIVEIRA, Ariovaldo. U. ; CUNHA, JOACI DE S.",
+        "evento": "Seminário Questão agrária no Brasil e na Bahia: decifra-me ou te devoro",
+        "ano": 2021,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "CUNHA, JOACI DE S.. Seminário Realidade Sócio racial e Ambiental de Salvador: Desafio para uma Igreja em Saída. 2020. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "CUNHA, J. S.. II Simpósio de História. 2003. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "CUNHA, J. S.. I Simpósio de História da Ucsal. 2002. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "CUNHA, J. S.. 1º Congresso Pedagógico dos Professores Municipais de Vitória da Conquista. 2001. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "SANTANA, L. S.; FREITAS, H. I.; OLIVEIRA, G. G.; PROST, C.; CUNHA, Joaci de S.. Participação em banca de Larissa Silva Santana. ?INTERFACES ENTRE A QUESTÃO AGRÁRIA E AMBIENTAL: USOS E CONFLITOS PELA ÁGUA NA BACIA HIDROGRÁFICA DO RIO PARDO ? BA?. 2026. Dissertação (Mestrado em Mestrado em Geografia) - Universidade Federal da Bahia.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "Larissa Silva Santana. ?INTERFACES ENTRE A QUESTÃO AGRÁRIA E AMBIENTAL: USOS E CONFLITOS PELA ÁGUA NA BACIA HIDROGRÁFICA DO RIO PARDO ? BA?",
+        "membros_banca": [
+          "SANTANA, L. S.",
+          "FREITAS, H. I.",
+          "OLIVEIRA, G. G.",
+          "PROST, C.",
+          "CUNHA, Joaci de S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Mestrado em Geografia)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CUNHA, JOACI DE S.; SOUSA, A.; SOUZA, B. J.. Participação em banca de Francisco Sales dos Santos,. ?Serra do Ramalho, disputas e resistências na definição do território de identidade: possibilidades para o Ensino de História no Ensino Fundamental II?,. 2025. Dissertação (Mestrado em Mestrado Profissional em História) - Universidade Estadual do Sudoeste da Bahia.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Francisco Sales dos Santos,. ?Serra do Ramalho, disputas e resistências na definição do território de identidade: possibilidades para o Ensino de História no Ensino Fundamental II?,",
+        "membros_banca": [
+          "CUNHA, JOACI DE S.",
+          "SOUSA, A.",
+          "SOUZA, B. J."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Mestrado Profissional em História)",
+        "universidade": "Universidade Estadual do Sudoeste da Bahia"
+      },
+      {
+        "descricao": "CUNHA, Joaci de S.; SA, Kária. O.; MARTINS, Maurício. V.. Participação em banca de Caíque de Oliveira Sobreira Cruz. O novo inferno de Dante: Neoliberalismo e os seus tratos. 2023. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "Caíque de Oliveira Sobreira Cruz",
+        "membros_banca": [
+          "CUNHA, Joaci de S.",
+          "SA, Kária. O.",
+          "MARTINS, Maurício. V."
+        ],
+        "titulo_trabalho": "O novo inferno de Dante: Neoliberalismo e os seus tratos",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA, Joaci de S.; COSTA, I.; SENA JUNIOR, C. Z. F.. Participação em banca de Marilda de Souza Ferri. MEMÓRIAS DA DITADURA: REDES DE SOLIDARIEDADE E A LUTA PELA DEMOCRACIA. 2020. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Marilda de Souza Ferri",
+        "membros_banca": [
+          "CUNHA, Joaci de S.",
+          "COSTA, I.",
+          "SENA JUNIOR, C. Z. F."
+        ],
+        "titulo_trabalho": "MEMÓRIAS DA DITADURA: REDES DE SOLIDARIEDADE E A LUTA PELA DEMOCRACIA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA, Joaci de S.; BAQUEIRO, F. L. R.; CAPPI, R.; OLIVEIRA, J. A. C.. Participação em banca de AGLAÉ CAROLINE SANTOS CARNEIRO. REPETIÇÃO, NEUROSES E PERVERSÃO EM SENTENÇAS PENAIS CONDENATÓRIAS: UMA ANÁLISE CRÍTICA E PSICANALÍTICA DA POLÍTICA DE VIDA E MORTE EM DOCUMENTOS DECISÓRIOS PROLATADOS CONTRA MULHERES CONDENADAS POR TRÁFICO DE DROGAS NO CONJUNTO PENAL FEMININO DE SALVADOR ? BA. 2020. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "AGLAÉ CAROLINE SANTOS CARNEIRO",
+        "membros_banca": [
+          "CUNHA, Joaci de S.",
+          "BAQUEIRO, F. L. R.",
+          "CAPPI, R.",
+          "OLIVEIRA, J. A. C."
+        ],
+        "titulo_trabalho": "REPETIÇÃO, NEUROSES E PERVERSÃO EM SENTENÇAS PENAIS CONDENATÓRIAS: UMA ANÁLISE CRÍTICA E PSICANALÍTICA DA POLÍTICA DE VIDA E MORTE EM DOCUMENTOS DECISÓRIOS PROLATADOS CONTRA MULHERES CONDENADAS POR TRÁFICO DE DROGAS NO CONJUNTO PENAL FEMININO DE SALVADOR ? BA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "CUNHA, JOACI DE S.; SILVA, Julie S. L. A.; SOUZA, A. C. G.; FONSECA, D. J.. Participação em banca de Stela Gleide Oliveira Santana Dilago. ?A ATUAÇÃO DAS MULHERES DO ROSARIO NUMA IRMANDADE DE HOMENS PRETOS NA CONTRAMÃO DAS RELAÇÕES DE PODER?. 2024. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Stela Gleide Oliveira Santana Dilago. ?A ATUAÇÃO DAS MULHERES DO ROSARIO NUMA IRMANDADE DE HOMENS PRETOS NA CONTRAMÃO DAS RELAÇÕES DE PODER?",
+        "membros_banca": [
+          "CUNHA, JOACI DE S.",
+          "SILVA, Julie S. L. A.",
+          "SOUZA, A. C. G.",
+          "FONSECA, D. J."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA, JOACI DE S.; SILVA, Julie. S. L. A.; Fonseca, Dagoberto; MALOMALO, B.; BAQUEIRO, F. L. R.. Participação em banca de Paulo Cezar Martins Pinto. ?CORPOS NEGROS, VIDAS MATÁVEIS: SELETIVIDADE PENAL, RACISMO INSTITUCIONAL E ESTADO DE EXCEÇÃO, NAS PRÁTICAS DE AUTO DE RESISTÊNCIA NA CIDADE DE SALVADOR?. 2024. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Paulo Cezar Martins Pinto. ?CORPOS NEGROS, VIDAS MATÁVEIS: SELETIVIDADE PENAL, RACISMO INSTITUCIONAL E ESTADO DE EXCEÇÃO, NAS PRÁTICAS DE AUTO DE RESISTÊNCIA NA CIDADE DE SALVADOR?",
+        "membros_banca": [
+          "CUNHA, JOACI DE S.",
+          "SILVA, Julie. S. L. A.",
+          "Fonseca, Dagoberto",
+          "MALOMALO, B.",
+          "BAQUEIRO, F. L. R."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "ANDRADE, D. F.; CUNHA, Joaci de S.; PORTELLA, André. A.; MONTEIRO, A. O.. Participação em banca de Dalzimar Fontes de Andrade. ?AS DESPESAS PÚBLICAS DO ESTADO DA BAHIA E A EFETIVIDADE DO DIREITO À SAÚDE. UMA ANÁLISE CONFORME O PERCENTUAL MÍNIMO CONSTITUCIONAL E LEGAL?. 2024. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Dalzimar Fontes de Andrade. ?AS DESPESAS PÚBLICAS DO ESTADO DA BAHIA E A EFETIVIDADE DO DIREITO À SAÚDE",
+        "membros_banca": [
+          "ANDRADE, D. F.",
+          "CUNHA, Joaci de S.",
+          "PORTELLA, André. A.",
+          "MONTEIRO, A. O."
+        ],
+        "titulo_trabalho": "UMA ANÁLISE CONFORME O PERCENTUAL MÍNIMO CONSTITUCIONAL E LEGAL?",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BORGES, A.; CUNHA, Joaci de Sousa; FREITAS, K. S.; NASCIMENTO, A. F.; PEREIRA, A. S.. Participação em banca de JANDIRA DANTAS DOS SANTOS. O TRABALHO DO AGRICULTOR FAMILIAR FRENTE AO AVANÇO DA EUCALIPTOCULTURA NO MUNICÍPIO DE ALAGOINHAS-BA. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "JANDIRA DANTAS DOS SANTOS",
+        "membros_banca": [
+          "BORGES, A.",
+          "CUNHA, Joaci de Sousa",
+          "FREITAS, K. S.",
+          "NASCIMENTO, A. F.",
+          "PEREIRA, A. S."
+        ],
+        "titulo_trabalho": "O TRABALHO DO AGRICULTOR FAMILIAR FRENTE AO AVANÇO DA EUCALIPTOCULTURA NO MUNICÍPIO DE ALAGOINHAS-BA",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "SILVA, Julie. S. L. A.; LEPIKSON, M. F.; Souza, Ana Cláudia G.; Fonseca, Dagoberto; CUNHA, JOACI DE S.. Participação em banca de Stela Santana. A atuação das Mulheres do Rosário numa Irmandade de Homens Pretos. 2024. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Stela Santana",
+        "membros_banca": [
+          "SILVA, Julie. S. L. A.",
+          "LEPIKSON, M. F.",
+          "Souza, Ana Cláudia G.",
+          "Fonseca, Dagoberto",
+          "CUNHA, JOACI DE S."
+        ],
+        "titulo_trabalho": "A atuação das Mulheres do Rosário numa Irmandade de Homens Pretos",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA, Joaci de S.; CUNHA, D.; PITTA, Ana. M. F.; PORTELLA, André. A.; MONTEIRO, A.. Participação em banca de Dalzimar Fontes de Andrade. AS DESPESAS PÚBLICAS DO ESTADO DA BAHIA E A EFETIVIDADE DO DIREITO A SAÚDE. 2023. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Dalzimar Fontes de Andrade",
+        "membros_banca": [
+          "CUNHA, Joaci de S.",
+          "CUNHA, D.",
+          "PITTA, Ana. M. F.",
+          "PORTELLA, André. A.",
+          "MONTEIRO, A."
+        ],
+        "titulo_trabalho": "AS DESPESAS PÚBLICAS DO ESTADO DA BAHIA E A EFETIVIDADE DO DIREITO A SAÚDE",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "ANDRADE, D. F.; CUNHA, Joaci de S.; MONTEIRO, A. O.; PORTELLA, André. A.. Participação em banca de Dalzimar Fontes de Andrade. ?AS DESPESAS PÚBLICAS DO ESTADO DA BAHIA E A EFETIVIDADE DO DIREITO À SAÚDE. UMA ANÁLISE CONFORME O PERCENTUAL MÍNIMO CONSTITUCIONAL E LEGAL?. 2023. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Dalzimar Fontes de Andrade. ?AS DESPESAS PÚBLICAS DO ESTADO DA BAHIA E A EFETIVIDADE DO DIREITO À SAÚDE",
+        "membros_banca": [
+          "ANDRADE, D. F.",
+          "CUNHA, Joaci de S.",
+          "MONTEIRO, A. O.",
+          "PORTELLA, André. A."
+        ],
+        "titulo_trabalho": "UMA ANÁLISE CONFORME O PERCENTUAL MÍNIMO CONSTITUCIONAL E LEGAL?",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BORGES, A.; CUNHA, Joaci de S.; NASCIMENTO, A. F.; PEREIRA, A. S.; FREITAS, K. S.. Participação em banca de JANDIRA DANTAS DOS SANTOS. O TRABALHO DO AGRICULTOR FAMILIAR FRENTE AO AVANÇO DA EUCALIPTOCULTURA NO MUNICÍPIO DE ALAGOINHAS-BA. 2020. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "JANDIRA DANTAS DOS SANTOS",
+        "membros_banca": [
+          "BORGES, A.",
+          "CUNHA, Joaci de S.",
+          "NASCIMENTO, A. F.",
+          "PEREIRA, A. S.",
+          "FREITAS, K. S."
+        ],
+        "titulo_trabalho": "O TRABALHO DO AGRICULTOR FAMILIAR FRENTE AO AVANÇO DA EUCALIPTOCULTURA NO MUNICÍPIO DE ALAGOINHAS-BA",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA, JOACI DE S.; SOUZA, B. J.; SOUSA, A.. Participação em banca de Francisco Sales dos Santos,. ?Serra do Ramalho, disputas e resistências na definição do território de identidade: possibilidades para o Ensino de História no Ensino Fundamental II?. 2025. Exame de qualificação (Mestrando em Mestrado Profissional em História) - Universidade Estadual do Sudoeste da Bahia.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Francisco Sales dos Santos,. ?Serra do Ramalho, disputas e resistências na definição do território de identidade: possibilidades para o Ensino de História no Ensino Fundamental II?",
+        "membros_banca": [
+          "CUNHA, JOACI DE S.",
+          "SOUZA, B. J.",
+          "SOUSA, A."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Mestrando em Mestrado Profissional em História)",
+        "universidade": "Universidade Estadual do Sudoeste da Bahia"
+      },
+      {
+        "descricao": "SANTANA, L. S.; OLIVEIRA, G. G.; FREITAS, H. I.; PROST, C.; CUNHA, Joaci de S.. Participação em banca de Larissa da Silva Santana. ?INTERFACES ENTRE A QUESTÃO AGRÁRIA E AMBIENTAL: USOS E CONFLITOS PELA ÁGUA NA BACIA HIDROGRÁFICA DO RIO PARDO ? BA?. 2025. Exame de qualificação (Mestrando em Mestrado em Geografia) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Larissa da Silva Santana. ?INTERFACES ENTRE A QUESTÃO AGRÁRIA E AMBIENTAL: USOS E CONFLITOS PELA ÁGUA NA BACIA HIDROGRÁFICA DO RIO PARDO ? BA?",
+        "membros_banca": [
+          "SANTANA, L. S.",
+          "OLIVEIRA, G. G.",
+          "FREITAS, H. I.",
+          "PROST, C.",
+          "CUNHA, Joaci de S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Mestrando em Mestrado em Geografia)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SILVA, Julie. S. L. A.; CUNHA, JOACI DE S.; MALOMALO, B.; BAQUEIRO, F. L. R.. Participação em banca de PAULO CEZAR MARTINS PINTO. Corpos negros, vidas matáveis: racismo institucional e estado de exceção no caso da chacina do cabula e a seletividade penal refletida nos homicídios por autos de resistência cometidos por policiais militares em serviço na cidade de Salvador. 2024. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "PAULO CEZAR MARTINS PINTO",
+        "membros_banca": [
+          "SILVA, Julie. S. L. A.",
+          "CUNHA, JOACI DE S.",
+          "MALOMALO, B.",
+          "BAQUEIRO, F. L. R."
+        ],
+        "titulo_trabalho": "Corpos negros, vidas matáveis: racismo institucional e estado de exceção no caso da chacina do cabula e a seletividade penal refletida nos homicídios por autos de resistência cometidos por policiais militares em serviço na cidade de Salvador",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA, Joaci de S.; SA, Kária. O.; MARTINS, Maurício. V.. Participação em banca de Caique de Oliveira Sobreira Cruz. O novo inferno de Dante: Neoliberalismo e os seus tratos. 2022. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Caique de Oliveira Sobreira Cruz",
+        "membros_banca": [
+          "CUNHA, Joaci de S.",
+          "SA, Kária. O.",
+          "MARTINS, Maurício. V."
+        ],
+        "titulo_trabalho": "O novo inferno de Dante: Neoliberalismo e os seus tratos",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 6,
+    "total_livros": 1,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 2,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 1,
+    "total_orientacoes_concluidas": 6,
+    "total_orientacoes_andamento": 5
+  }
+}

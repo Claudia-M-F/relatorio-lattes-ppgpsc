@@ -1,0 +1,3261 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "7702914755827440",
+    "nome_completo": "Maria de Fátima Pessôa Lepikson",
+    "nome_citacoes": "LEPIKSON, M. F. P.;LEPIKSON, Maria de Fátima;LEPIKSON, MARIA DE FÁTIMA PESSOA;LEPIKSON, MARIA DE FÁTIMA PESSÔA",
+    "sexo": "Masculino",
+    "rotulo": "Permanente",
+    "periodo": "2004",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania. Av. Cardeal da Silva, 205 Federação 40231305 - Salvador, BA - Brasil Telefone: (71) 32478711 URL da Homepage: http://ucsal.br",
+    "atualizacao_cv": "28/07/2026",
+    "url": "http://lattes.cnpq.br/7702914755827440",
+    "texto_resumo": "Assistente Social formada pela Escola de Serviço Social da Universidade Católica do Salvador / UCSAL (1978); possui doutorado em Educação pela Universidade Federal da Bahia (2014), mestrado em Educação pela Universidade Federal de Santa Catarina (1998) e especialização em Metodologia do Ensino Superior pela ?Faculdades Olga Mettig?. Assumiu a função de coordenadora do Programa de Mestrado e Doutorado em Políticas Sociais e Cidadania da Universidade Católica do Salvador -UCSAL de janeiro de 2018 a junho de 2020; atualmente é membro do corpo docente deste PPG. Foi membro da Comissão que elaborou Projeto de Mestrado Profissional em Educação (APCN /CAPES) / Programa de Pós-Graduação da UCSAL; foi coordenadora da Escola de Serviço Social da UCSal do qual é hoje, professora; membro do Núcleo Docente Estruturante (NDE) da UCSal; é líder do Grupo de Pesquisa Questão Social, Estado e Sociedade Civil. Presidiu o Conselho Municipal dos Direitos da Criança e do Adolescente da cidade do Salvador / Bahia (por duas gestões 2004/2006 e 2006/2008); exerceu, até o ano de 2016, funções relacionadas à educação popular, mais especificamente execução direta, coordenação e assessoria de projetos voltados para comunidades de periferia e crianças e adolescentes em situação de rua. (Texto informado pelo autor) (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Educação",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2014",
+      "descricao": "Título: Conselho de Direitos e Política para a Infância e Adolescência em situação de vulnerabilidade Social (título provisório), Ano de obtenção: 2014. Orientador: Celma Borges Gomes. Palavras-chave: conselhos; políticas sociais; criança e adolescente. Grande área: Ciências Sociais Aplicadas / Área: Direito. Grande Área: Ciências Humanas / Área: Educação / Subárea: Tópicos Específicos de Educação. Grande Área: Ciências Sociais Aplicadas / Área: Serviço Social. Setores de atividade: Administração pública, defesa e seguridade social; Educação."
+    },
+    {
+      "tipo": "Mestrado em Educação",
+      "nome_instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "ano_inicio": "1996",
+      "ano_conclusao": "1998",
+      "descricao": "Título: Meninos e Meninas em Risco - análise da prática da (des)proteção em regime de abrigo O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 1998. Orientador: Maristela Fantin. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Criança adolescente Estatuto exclusão atendimento. Grande área: Ciências Humanas / Área: Educação / Subárea: Educação e Trabalho / Especialidade: Assistência e Proteção à Infância e Adolescência. Setores de atividade: Educação."
+    },
+    {
+      "tipo": "Especialização em Metodologia do Ensino Superior",
+      "nome_instituicao": "(Carga Horária: 360h)",
+      "ano_inicio": "2001",
+      "ano_conclusao": "2002",
+      "descricao": "Faculdades Integradas Olga Mettig, FAMETTIG, Brasil. Título: A Atualidade da Educação Popular. Orientador: Elizeu Clementino de Souza."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2016 - Atual",
+      "ano_inicio": "2016",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor Permanente",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2004 - Atual",
+      "ano_inicio": "2004",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Professora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2020",
+      "ano_inicio": "2018",
+      "ano_fim": "2020",
+      "vinculo": "Celetista",
+      "enquadramento": "Coordenadora do PPG Pol. Sociais e Cidadania",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ação Social Arquidiocesana, ASA, Brasil.",
+      "instituicao_nome": "Ação Social Arquidiocesana",
+      "instituicao_sigla": "ASA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1986 - 1990",
+      "ano_inicio": "1986",
+      "ano_fim": "1990",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Assistente Social",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão, ACOPAMEC, Brasil.",
+      "instituicao_nome": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão",
+      "instituicao_sigla": "ACOPAMEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "1998 - 2008",
+      "ano_inicio": "1998",
+      "ano_fim": "2008",
+      "vinculo": "CLT",
+      "enquadramento": "Assistente Social",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão, ACOPAMEC, Brasil",
+      "instituicao_nome": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão",
+      "instituicao_sigla": "ACOPAMEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2000 - Atual",
+      "ano_inicio": "2000",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão, ACOPAMEC, Brasil",
+      "instituicao_nome": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão",
+      "instituicao_sigla": "ACOPAMEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - Atual",
+      "ano_inicio": "1999",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão, ACOPAMEC, Brasil",
+      "instituicao_nome": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão",
+      "instituicao_sigla": "ACOPAMEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "1998 - Atual",
+      "ano_inicio": "1998",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Acopamec, Conselho Diretor."
+      ]
+    },
+    {
+      "instituicao": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão, ACOPAMEC, Brasil",
+      "instituicao_nome": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão",
+      "instituicao_sigla": "ACOPAMEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "1998 - Atual",
+      "ano_inicio": "1998",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão, ACOPAMEC, Brasil",
+      "instituicao_nome": "Ass das Comunidades Paroquiais de Mata Escura e Calabetão",
+      "instituicao_sigla": "ACOPAMEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "1998 - Atual",
+      "ano_inicio": "1998",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Organização de Auxílio Fraterno, OAF, Brasil.",
+      "instituicao_nome": "Organização de Auxílio Fraterno",
+      "instituicao_sigla": "OAF",
+      "instituicao_pais": "Brasil",
+      "periodo": "1991 - 1994",
+      "ano_inicio": "1991",
+      "ano_fim": "1994",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Assistente Social",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Políticas Sociais, Pobreza e Combate à Fome",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: A Pesquisa visa idsentificar diferentes projetos de comabate à pobreza e à fome no Brasil. Prioriza políticas de combate à Pobreza, especialmente com base na intersetorialidade.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Maria de Fátima Pessôa Lepikson - Coordenador / Ivone Pires Ferreira de Oliveira - Integrante / Roberto Carlos Vieira - Integrante / Nadjane Prado - Integrante / Tais Dorea - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Maria de Fátima Pessôa Lepikson",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ivone Pires Ferreira de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Roberto Carlos Vieira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Nadjane Prado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tais Dorea",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Questão Social, pobreza e fome",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: A Pesquisa visa identificar diferentes projetos de combate à pobreza e à fome no Brasil. Prioriza políticas de combate à Pobreza, especialmente com base na intersetorialidade. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (4) . Integrantes: Maria de Fátima Pessôa Lepikson - Coordenador / Ivone Pires Ferreira de Oliveira - Integrante / Roberto Carlos Vieira - Integrante / Nadjane Prado - Integrante / Tais Dorea - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Maria de Fátima Pessôa Lepikson",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ivone Pires Ferreira de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Roberto Carlos Vieira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Nadjane Prado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tais Dorea",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Direitos da Criança e do Adolescente",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Estudo desenvolvido pelo Núcleo Interdisciplinar da Criança, do Adolescente e do Jovem. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (7) Doutorado: (1) . Integrantes: Maria de Fátima Pessôa Lepikson - Coordenador / Evandro Luís Santos de Jesus - Integrante / Nadjane Prado - Integrante / Cássia Marly Moreira dos Santos Barros - Integrante / Matheus Martins de Oliveira - Integrante / Carlos Clóvis Gomes Neto - Integrante / Nelson Amaral - Integrante / Daniele Furtunato - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Maria de Fátima Pessôa Lepikson",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Evandro Luís Santos de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Nadjane Prado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cássia Marly Moreira dos Santos Barros",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Matheus Martins de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Carlos Clóvis Gomes Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Nelson Amaral",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Daniele Furtunato",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "CURSO DE ATUALIZAÇÃO EM GESTÃO EDUCACIONAL E PRÁTICAS PEDAGÓGICAS",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Descrição: Curso de formação continuada de profissionais de educação na linha extensionista, tratada por experientes docentes pesquisadores de cursos de pós-graduação stricto sensu da UCSal, articulados com docentes experientes de escolas públicas que podem contribuir para fortalecer a ação pedagógica de professores em suas práticas de ensino e de gestão educacional e assim proporcionar a ampliação de conhecimentos que atualizam a formação de gestores educacionais, que estão em serviço na rede pública de ensino. A proposta desse curso, portando, visa oferecer um momento de formação continuada, a partir da atualização de estudos, que partem de temáticas que relacionam a teoria com a prática, considerando a possibilidade de potencializar relações extensionista da universidade com a sociedade, via a construção de comunidades de professores voltados para conceber o desenvolvimento profissional, ao tempo em que articula esse processo com estudantes de curso de pedagogia e licenciaturas da UCSal.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (3) / Especialização: (2) / Mestrado acadêmico: (7) / Doutorado: (5) . Integrantes: Maria de Fátima Pessôa Lepikson - Integrante / kátia Oliver de Sá - Coordenador / Maria Gorete Borges - Integrante / Liliane Vasconcelos de Jesus - Integrante / Maina Pirajá Silva - Integrante / Marcia Pereira Martins Vale - Integrante / Mariza Pacheco da Costa - Integrante / Adenildes Teles de Lima - Integrante / Patrícia Nogueira Peixoto - Integrante / Moisés Henrique Zeferino Alves - Integrante / Jaildo Calda dos Santos Vilas Bôas Junio - Integrante / Carla Souza Viana dos Santos Martins - Integrante / Marcia de Medeiros Assad - Integrante / Namara Santos Nonato de Sousa - Integrante / Elisângela Barbosa Freitas - Integrante / Thaís Cosmo Coutinho - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Maria de Fátima Pessôa Lepikson",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "kátia Oliver de Sá",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Maria Gorete Borges",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Liliane Vasconcelos de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maina Pirajá Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcia Pereira Martins Vale",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Mariza Pacheco da Costa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Adenildes Teles de Lima",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Patrícia Nogueira Peixoto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Moisés Henrique Zeferino Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jaildo Calda dos Santos Vilas Bôas Junio",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Carla Souza Viana dos Santos Martins",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcia de Medeiros Assad",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Namara Santos Nonato de Sousa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Elisângela Barbosa Freitas",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Thaís Cosmo Coutinho",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Serviço Social",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Serviço Social."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Educação",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Educação."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Italiano",
+      "compreende": "Pouco",
+      "fala": "",
+      "le": "Pouco",
+      "escreve": "",
+      "proficiencia_completa": "Compreende Pouco, Lê Pouco."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "",
+      "le": "Bem",
+      "escreve": "",
+      "proficiencia_completa": "Compreende Bem, Lê Bem."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Paul Freire para além das fronteiras",
+        "ano": 2021,
+        "autores": "FREITAS, K. S. ; PIMENTEL, G. S. ; LEPIKSON, M. F. P. ; TAVARES, C. A. R.",
+        "revista": "Revista Internacional de Educação de Jovens e Adultos",
+        "volume": "04",
+        "numero": "",
+        "paginas": "153-167-167",
+        "issn": "2595-6329",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "EJA NA PERSPECTIVA DA EDUCAÇÃO EM DIREITOS HUMANOS: IMPLICAÇÕES NO CONTEXTO SOCIAL",
+        "ano": 2020,
+        "autores": "DAS NEVES, ADNA SANTOS ; DE FREITAS, KATIA SIQUEIRA ; AMORIM, ANTÔNIO ; LEPIKSON, MARIA DE FÁTIMA PESSOA",
+        "revista": "Revista Mbote",
+        "volume": "1",
+        "numero": "",
+        "paginas": "001",
+        "issn": "2675-6048",
+        "doi": "http://dx.doi.org/10.47551/mbote.v1i1.9363",
+        "qualis": ""
+      },
+      {
+        "titulo": "APONTAMENTOS SOBRE JUVENTUDES UNIVERSITÁRIAS: O CASO DA UNIVERSIDADE CATÓLICA DO SALVADOR, BAHIA, BRASIL",
+        "ano": 2020,
+        "autores": "DE FREITAS, KATIA SIQUEIRA ; BORGES, ÂNGELA ; LEPIKSON, MARIA DE FÁTIMA PESSÔA ; LOURAU, JULIE",
+        "revista": "PRÁXIS EDUCACIONAL (ONLINE)",
+        "volume": "16",
+        "numero": "",
+        "paginas": "135-157",
+        "issn": "2178-2679",
+        "doi": "http://dx.doi.org/10.22481/praxisedu.v16i42.7346",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "O Desafio de um Programa de Egresso do Sistema Socioeducativo: algumas discussões",
+        "ano": 2025,
+        "autores": "JESUS, E. L. S. ; LEPIKSON, Maria de Fátima ; AMARAL, N.",
+        "editora": "Ponta Grossa - PR: Atena Editora",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "201"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "Necessidades Humanas e Políticas Intersetoriais",
+        "ano": 2020,
+        "autores": "LEPIKSON, M. F. P",
+        "titulo_livro": "",
+        "editora": "Annablume",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "446-451"
+      },
+      {
+        "titulo": "PROGRAMA ESCOLA ACESSÍVEL NO ENSINO BÁSICO EM SALVADOR, BAHIA",
+        "ano": 2020,
+        "autores": "SILVA, M. D. ; FREITAS, K. S. ; LEPIKSON, M. F. P.",
+        "titulo_livro": "",
+        "editora": "EdUECE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "15-35"
+      },
+      {
+        "titulo": "Educação de jovens e adultos: implicações na vida pessoal e no contexto social. Educação de jovens e adultos: implicações na vida pessoal e no contexto social. 1ed.Barcelona",
+        "ano": 2020,
+        "autores": "DAS NEVES, ADNA SANTOS ; FREITAS, K. S. ; LEPIKSON, MARIA DE FÁTIMA PESSOA",
+        "titulo_livro": "",
+        "editora": "Univesitat de Barcelona ? Marge Books",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "34-46"
+      },
+      {
+        "titulo": "Pós-graduação: desafios para uma política de avaliação",
+        "ano": 2020,
+        "autores": "DE FREITAS, KATIA SIQUEIRA ; LEPIKSON, M. F. P. ; PIMENTEL, G. S.",
+        "titulo_livro": "",
+        "editora": "ciep ue",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "303-323"
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [
+      {
+        "titulo": "- EDUCAÇÃO E AVALIAÇÃO COM QUALIDADE: O VIÉS DA RESPONSABILIDADE DO PODER",
+        "ano": 2020,
+        "autores": "FREITAS, K. S. ; SA, K. O. ; LEPIKSON, M. F. P.",
+        "evento": "IV Encontro Estadual da ANPAE Bahia, 2020, Salvador. Anísio Teixeira: educação não é privilégio, é um direito. Brasília: Meio Eletrônico - Brasília: Anpae,",
+        "cidade": "",
+        "paginas": "240-245"
+      },
+      {
+        "titulo": "EDUCAÇÃO E AVALIAÇÃO COM QUALIDADE: O VIÉS DA RESPONSABILIDADE DO PODER PÚBLICO",
+        "ano": 2020,
+        "autores": "Freitas, Kátia ; SA, K. O. ; LEPIKSON, Maria de Fátima",
+        "evento": "ANPAE, 2020. ANPAE, 2020.. Brasília,DF.: ANPAE",
+        "cidade": "",
+        "paginas": "240-245, 2021"
+      }
+    ],
+    "resumos_congressos": [],
+    "artigos_aceitos": [
+      {
+        "titulo": "'A TRAJETÓRIA DO CURSO DE SERVIÇO SOCIAL NA BAHIA: REFLEXÕES SOBRE A FORMAÇÃO E O TRABALHO PROFISSIONA. Atena (IESB",
+        "ano": 2020,
+        "autores": "GALVINO, T. ; LEPIKSON, MARIA DE FÁTIMA PESSOA",
+        "revista": "Impresso)",
+        "issn": ""
+      }
+    ],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "Revisão Regimento Interno do PPGPSC/UCSAL",
+        "ano": 2024,
+        "autores": "SA, K. O. ; TEIXEIRA, A. N. ; LEPIKSON, MARIA DE FÁTIMA PESSOA ; FIGUEREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Seleção discentes PPGPSC",
+        "ano": 2024,
+        "autores": "TEIXEIRA, A. N. ; SA, K. O. ; LEPIKSON, Maria de Fátima ; BORGES, M. G.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parceres defesa orientandos(as)",
+        "ano": 2024,
+        "autores": "LEPIKSON, Maria de Fátima",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "G. ; LEPIKSON, Maria de Fátima . Edital seleção docente",
+        "ano": 2024,
+        "autores": "BORGES, M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "F. P.. Artigo Caderno do Ceas",
+        "ano": 2021,
+        "autores": "LEPIKSON, M",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Edital Seleção Discentes PPG Políticas Sociais e Cidadania",
+        "ano": 2021,
+        "autores": "Sá. K.O ; LEPIKSON, M. F. P. ; LOURAU, JULIE",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Documentos Defesa Doutorado",
+        "ano": 2021,
+        "autores": "LEPIKSON, M. F. P",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Documentos Defesa Mestrado",
+        "ano": 2021,
+        "autores": "LEPIKSON, M. F. P",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Documento Defesa Graduação",
+        "ano": 2021,
+        "autores": "LEPIKSON, M. F. P",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Documento Credenciamento",
+        "ano": 2020,
+        "autores": "PITTA, A. M. F. ; BORGES, A. ; Silva, A.C ; SA, K. O. ; FREITAS, K. S. ; LEPIKSON, M. F. P.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Documentos seleção de mestrandos e doutorandos",
+        "ano": 2020,
+        "autores": "Silva, J.S.L ; FREITAS, K. S. ; Sá. K.O ; BORGES, A. ; Silva, A.C ; LEPIKSON, M. F. P.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Comissão Permanente de Avaliação PPG",
+        "ano": 2020,
+        "autores": "SILVA, J. L. ; Puridade, L. ; FREITAS, K. S. ; LEPIKSON, M. F. P. ; VIEIRA, R.C",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [
+        {
+          "titulo": "",
+          "ano_inicio": 2025,
+          "orientando": "Andrea Ariadna Santos Correa",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Católica do Salvador.",
+          "curso": ""
+        }
+      ],
+      "doutorado": [
+        {
+          "titulo": "VIDAS AINDA SECAS: DESIGUALDADE SOCIAL E LUTA DE CLASSES NO BRASIL DO SÉCULO XXI A PARTIR DE GRACILIANO RAMOS",
+          "ano_inicio": 2026,
+          "orientando": "JEFERSON LACERDA GÓES",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Aposentadoria híbrida no Brasil: políticas sociais, dignidade da pessoa humana e análise crítica da insegurança normativa nas decisões administrativas e judicial",
+          "ano_inicio": 2026,
+          "orientando": "Diego Saraiva Sá",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A FORMAÇÃO DOS EDUCADORES DA EJA COMO ELEMENTO ESTRUTURANTE DA POLÍTICA EDUCACIONAL: ANÁLISE DA PRÁXIS DOCENTE NA GERÊNCIA REGIONAL LIBERDADE/CIDADE BAIXA DA REDE MUNICIPAL DE SALVADOR.",
+          "ano_inicio": 2026,
+          "orientando": "Rose Assis",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A IMPLANTAÇÃO , EXECUÇÃO E DESAFIOS DA ESCUTA ESPECIALIZADA E DEPOIMENTO ESPECIAL DE CRIANÇAS E ADOLESCENTES NO MUNICÍPIO DE CAMAÇARI",
+          "ano_inicio": 2025,
+          "orientando": "Daniele Nóbrega Furtunato",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Adoecimento mental, condições e relações de trabalho de trabalhadoras da saúde em um hospital público de Salvador (2019 e 2025)",
+          "ano_inicio": 2025,
+          "orientando": "Ivone Pires Ferreira de Oliveira",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A ATUAÇÃO DO PSICÓLOGO NAS POLÍTICAS SOCIAIS SOB O OLHAR DE DISCENTES EGRESSOS DO CURSO DE PSICOLOGIA",
+          "ano_inicio": 2025,
+          "orientando": "Cláudia Valéria de Andrade Moreira",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O papel do Assistente Social na promoção da qualidade de vida das trabalhadoras mães em trabalho remoto: um estudo sobre a realidade pós pandêmica do COVID-19",
+          "ano_inicio": 2024,
+          "orientando": "Adalgisa Diana Barbosa Báfica",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "TRABALHO COMO FATOR DE ADOECIMENTO",
+          "ano_inicio": 2024,
+          "orientando": "IVONE PIRES FERREIRA DE OLIVEIRA",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "DESCONTINUIDADE DAS POLÍTICAS PÚBLICAS E SEUS IMPACTOS SOCIAIS NA ATENÇÃO À PESSOA IDOSA: UM ESTUDO SOBRE O ?PROGRAMA MAIOR CUIDADO? REALIZADO NO BAIRRO BARREIRAS DO MUNICÍPIO DE SALVADOR / BA - 2023 E 2024",
+          "ano_inicio": 2026,
+          "orientando": "LAYRA SOUTO OLIVEIRA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "VOZES INVISÍVEIS: OS DESAFIOS DA REINTEGRAÇÃO À SOCIEDADE NA PERSPECTIVA DOS EGRESSOS DO SISTEMA PRISIONAL",
+          "ano_inicio": 2025,
+          "orientando": "Anderson Amarante Dantas",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "GESTÃO INCLUSIVA NOS CAPE DE SALVADOR COMO FERRAMENTA DE TRANSFORMAÇÃO SOCIAL: Políticas, Práticas e Impactos na Construção de Sujeitos e Cidadania",
+          "ano_inicio": 2025,
+          "orientando": "Donaldo Rico de Souza Tavares",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "FILHOS DE MÃES ENCARCERADAS, O IMPACTO DO AMBIENTE PRISIONAL",
+          "ano_inicio": 2024,
+          "orientando": "JAMILE CRUZ CERQUEIRA COUTINHO",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Desvelando o invisível: Narrativas ocultas da violência contra Pessoas com Deficiência Intelectual na Bahia, sob as lentes das expressões da questão social",
+          "ano_inicio": 2024,
+          "orientando": "Elizete Evelyn Bonifácio Sá",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [
+        {
+          "titulo": "",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Evandro Luís dos Santos de Jesus",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Emerson Tyrone Mattje",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "doutorado": [
+        {
+          "titulo": "O PROGRAMA DE APOIO E ACOMPANHAMENTO AOS ADOLESCENTES E JOVENS EGRESSOS NA CIDADE DE SALVADOR: UM ESTUDO SOBRE A CONTRIBUIÇÃO DO PAEG/PARA (RE) INSERÇÃO SOCIAL",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Evandro Luís de Jesus",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Programa Bolsa Família: a voz da família beneficiária",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Nadjane Crisóstomo Prado",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "Mulheres em Movimento: Uma análise bibliográfica sobre as múltiplas identidades de mulheres que trabalham, estudam e cuidam",
+          "ano_inicio": 2026,
+          "ano_conclusao": 2026,
+          "orientando": "Adalgisa Diana Báfica",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "?MULHERES EM MOVIMENTO: MÚLTIPLAS IDENTIDADES NA ARTICULAÇÃO ENTRE INSERÇÃO PROFISSIONAL, FORMAÇÃO ACADÊMICA E RESPONSABILIDADES DE CUIDADO: DA EXPECTATIVA SOCIAL À REALIDADE POSSÍVEL NA CONTEMPORANEIDADE?.",
+          "ano_inicio": 2026,
+          "ano_conclusao": 2026,
+          "orientando": "Adalgisa Diana Barbosa Báfica",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A POLÍCIA PENAL COMO GARANTIDORA DOS DIREITOS FUNDAMENTAIS NO SISTEMA CARCERÁRIO: UMA ANÁLISE NA PENITENCIÁRIA LEMOS BRITO EM SALVADOR/BA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Henrique Antonio de Arruda Martins",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Trabalho Infantil: um estudo sobre as políticas de combate ao trabalho infantil no município de Lauro de Freitas-BA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Aleine de Araújo Ferreira",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O PODER TRANSFORMADOR DA EDUCAÇÃO CRÍTICA E A SUA INAPLICABILIDADE NO SISTEMA PENITENCIÁRIO: OS CAMINHOS DE ADEQUAÇÃO DO APENADO NA PENITENCIÁRIA LEMOS BRITO",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Tiago Emanuel Rebouças Martins",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "POLÍTICAS DE DIVERSIDADES, EQUIDADE E INCLUSÃO VOLTADAS A DEFESA DE DIREITOS DE MINORIAS POR MEIO DE COMITÊS DA CIDADE DE SALVADOR",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "de VANESSA LAGO NERY NUNES",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "DIFICULDADES E DASAFIO NA ATUAÇÃO DA POLÍCIA PENAL NO CONTROLE DISCIPLINAR DOS SENTENCIADOS NA PENINTENCIÁRIA LEMOS BRITO SALVADOR/BA.",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Henrique Antonio de Arruda Martins",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "OS EFEITOS DO PROGRAMA CREDIAMIGO NA CIDADE DE ANTÔNIO CARDOSO-BA NO PERÍODO DA PANDEMIA COVID-19: CONTRIBUIÇÕES À INCLUSÃO PRODUTIVA E ECONÔMICA COMO ESTRATÉGIA DE PROTEÇÃO SOCIAL",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Jefferson Lacerda Góes",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O poder transformador da educação e a sua (in)aplicabilidade no sistema penitenciário: um estudo sobre a educação na penitenciária Lemos Brito - Salvador/BA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Tiago Emanuel Rebouças Martins da Silva",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O REFLEXO DA POLÍTICA DE EDUCAÇÃO DE JOVENS E ADULTOS NAS UNIDADES DE ENSINO DA REDE MUNICIPAL DE SALVADOR/BA: UMA ANÁLISE DA FORMAÇÃO DE PROFESSORES NO PERÍODO DE 2016 A 2024",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Rose Assis",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Gestão e Assistência Farmacêutica em idosos fora do estabelecimento de Saúde",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Raphael da Silva Santana-",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "CRIANÇAS E ADOLESCENTES COM TRANSTORNO DO ESPECTRO AUTISTA(TEA) E DEFICIÊNCIA INTELECTUAL: O ESTUDO SOBRE A RELAÇÃO DA SITUAÇÃO DE POBREZA E A VIOLÊNCIA SEXUAL INTRAFAMILI",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Elizete Evelyn Bonifácio Sá",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "PROGRAMA MADRE SOCIAL: BENEFÍCIOS DE LIMITAÇÕES",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "César Augusto dos Santos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "EDUCAÇÃO E NEOLIBERALISMO: Análises sobre os interesses do empresariado na educação pública brasileira",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "MARCOS MARCELO FERREIRA BARRETO",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "AVALIAÇÃO DE POLÍTICAS PÚBLICAS APLICADAS AOS ADOLESCENES QUE CUMPREM MEDIDAS SOCIOEDUCATIVAS NO MUNICÍPIO DE CAMAÇARI- BA ? 2015 A 2021",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Daniele da Nóbrega Furtunato",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "TRABALHO PROFISSIONAL DO SERVIÇO SOCIAL NO BRASIL: REFLEXÕES E DESAFIOS CONTEMPORÂNEOS",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Tâmara Galvino Leite de Almeida",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Programa Madre Deus Social no Município de Madre Deus-BA: benefícios e limites na Efetivação dos direitos sociais",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Cesar Augusto dos Santos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A contribuição das Pastorais Sociais inseridas em comunidades de periferia de Salvador: um estudo a partir dos/das agentes de pastoral",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Elísio Santos M Serpa",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Políticas Públicas e Medidas Socioeducativas: realidade e possibilidades para jovens que cumprem medidas socioeducativas no município de Camaçari - Ba - 2010-2021",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Daniele da Nóbrega Furtunado",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A Criança Refugiada no Brasil e as Políticas Públicas de Integração Social",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Cássia Marly Moreira dos Santos Barros",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "ADOLESCENTE AUTOR DE ATO INFRACIONAL: A IMPORTÂNCIA DA FAMÍLIA NA FORMAÇÃO E SOCIALIZAÇÃO DO/A ADOLESCENTE",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "ELINEIDE COELHO DOS SANTOS",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A intervenção do Profissional de Serviço Social e a efetividade das políticas públicas voltadas para famílias",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Raidalva Santos da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A contribuição do Serviço Social na afirmação dos direitos dos adolescentes em situação de vulnerabilidade social",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Elda Midyan Araújo da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O Programa Bolsa Família : um estudo sobre a contribuição do eixo atividades Complmentares",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Luciele Amaral de Souza",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Os impactos da discriminação racial no processo de adoção de crianças e adolescentes",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Sued dos Santos Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A CONTRIBUIÇÃO DO SERVIÇO SOCIAL NO PROCESSO DE ADOÇÃO DE CRIANÇAS NEGRAS (OS)",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Sued dos Santos Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "DIFICULDADES E DESAFIOS DOS CUIDADORES DE PACIENTES ONCOLÓGICOS EM CUIDADOS PALIATIVOS",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "MARIA APARECIDA MATOS FERNANDES",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O ACOMPANHAMENTO FAMILIAR EM ÂMBITO HOSPITALAR: AS DIFICULDADES ENFRENTADAS POR ACOMPANHANTES DURANTE O PROCESSO DE HOSPITALIZAÇÃO DO FAMILIAR IDOSO.",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "GEISA FERREIRA PEREIRA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": [
+        {
+          "titulo": "TRABALHO INFANTIL EM TEMPOS PANDÊMICOS: UMA ANÁLISE DO TRABALHO PRECOCE E DESPROTEGIDO NO CONTEXTO BRASILEIRO",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Leia Souza Fernandes",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ]
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "SEMOC",
+        "apresentacao": "Programa de apoioi a egresos de Medida Socioeducativade privação de liberdade",
+        "ano": 2025,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "?Determinantes sociais da saúde: Desigualdades e garantias de direitos?,",
+        "apresentacao": null,
+        "ano": 2023,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Seminário Interdisciplinar de Pós-Doutorado: Diálogos Avançados em Políticas Sociais e Cidadania,",
+        "apresentacao": "apresentação docente - supervisora pós-doc",
+        "ano": 2023,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "SEMOC - Semana Pesquisa / UCSAL",
+        "apresentacao": "O gtrabalho da pessoa com deficiênica: entre o direito e o dever",
+        "ano": 2023,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Webinario NEICAJ GQESCE",
+        "apresentacao": "Apresentação Grupo de Pesquisa - Questão Social Estado e Sociedade Civil",
+        "ano": 2021,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "PRADO, N. ; BARROS, C. M. M. S. ; OLIVEIRA, M. M. ; GOMES NETO, C. C. ; JESUS, E. L. S. ; LEPIKSON, M. F. P.",
+        "evento": "Webinário NEICAJ - GQESCI",
+        "ano": 2021,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "LEPIKSON, MARIA DE FÁTIMA PESSÔA; FIGUEIREDO, M. G. B.; AVENA, M. E.. Participação em banca de Adalgisa Diana Barbosa Báfica. MULHERES EM MOVIMENTO Múltiplas identidades na articulação entre inserção profissional, formação acadêmica e responsabilidades de cuidado: da expectativa social à realidade possível na contemporaneidade. 2026. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "Adalgisa Diana Barbosa Báfica",
+        "membros_banca": [
+          "LEPIKSON, MARIA DE FÁTIMA PESSÔA",
+          "FIGUEIREDO, M. G. B.",
+          "AVENA, M. E."
+        ],
+        "titulo_trabalho": "MULHERES EM MOVIMENTO Múltiplas identidades na articulação entre inserção profissional, formação acadêmica e responsabilidades de cuidado: da expectativa social à realidade possível na contemporaneidade",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, J. L.; LEPIKSON, MARIA DE FÁTIMA PESSÔA; Glades, S1. Participação em banca de Iliassa Turé. POLÍTICAS EDUCACIONAIS, DIREITOS HUMANOS E INTERCULTURALIDADE: O CASO DAS ESCOLAS CORÂNICAS NA GUINÉ-BISSAU. 2026. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "Iliassa Turé",
+        "membros_banca": [
+          "SILVA, J. L.",
+          "LEPIKSON, MARIA DE FÁTIMA PESSÔA",
+          "Glades, S1"
+        ],
+        "titulo_trabalho": "POLÍTICAS EDUCACIONAIS, DIREITOS HUMANOS E INTERCULTURALIDADE: O CASO DAS ESCOLAS CORÂNICAS NA GUINÉ-BISSAU",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; LEPIKSON, M. F. P.; FIGUEIREDO, M. G. B.; SOARES, R. M. F.; PORTELLA, A. A.. Participação em banca de Carolina Oliveira Serra da Silveira. ?ENTIDADES BENEFICENTES DE ENSINO SUPERIOR E OS CRITÉRIOS EXIGIDOS PARA FRUIÇÃO DA IMUNIDADE TRIBUTÁRIA: UMA ABORDAGEM SOCIOCONSTITUCIONAL. 2026. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "Carolina Oliveira Serra da Silveira. ?ENTIDADES BENEFICENTES DE ENSINO SUPERIOR E OS CRITÉRIOS EXIGIDOS PARA FRUIÇÃO DA IMUNIDADE TRIBUTÁRIA: UMA ABORDAGEM SOCIOCONSTITUCIONAL",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "LEPIKSON, M. F. P.",
+          "FIGUEIREDO, M. G. B.",
+          "SOARES, R. M. F.",
+          "PORTELLA, A. A."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, Maria de Fátima; AVENA, M. E.; FIGUEREDO, M. G. B.. Participação em banca de Adalgisa Diana Barbosa Báfica. IDENTIDADES FEMININAS: A INTERSEÇÃO ENTRE TRABALHO, ESTUDO E CUIDADO. 2026. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "Adalgisa Diana Barbosa Báfica",
+        "membros_banca": [
+          "LEPIKSON, Maria de Fátima",
+          "AVENA, M. E.",
+          "FIGUEREDO, M. G. B."
+        ],
+        "titulo_trabalho": "IDENTIDADES FEMININAS: A INTERSEÇÃO ENTRE TRABALHO, ESTUDO E CUIDADO",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; CUNHA, A. R. B. A.; LEPIKSON, Maria de Fátima. Participação em banca de Fernanda Carolina Gomes Pataro de Queiroz Cunha,. ?Discurso Estereotipado de Exclusão do(a) Cidadão(ã) Nordestino(a): uma Análise Histórico-Discursiva sobre a Reprodução do Status Quo Regional no Brasil?,. 2026. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "Fernanda Carolina Gomes Pataro de Queiroz Cunha,. ?Discurso Estereotipado de Exclusão do(a) Cidadão(ã) Nordestino(a): uma Análise Histórico-Discursiva sobre a Reprodução do Status Quo Regional no Brasil?,",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "CUNHA, A. R. B. A.",
+          "LEPIKSON, Maria de Fátima"
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; FIGUEIREDO, M. G.; COREA, A. A.. Participação em banca de Henrique Antonio de Arruda. A atuação da polícia penal no controle disciplinar dos sentenciados na Penitenciária Lemos Brito Salvador/BA. 2025. Dissertação (Mestrado em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Henrique Antonio de Arruda",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "FIGUEIREDO, M. G.",
+          "COREA, A. A."
+        ],
+        "titulo_trabalho": "A atuação da polícia penal no controle disciplinar dos sentenciados na Penitenciária Lemos Brito Salvador/BA",
+        "curso": "Dissertação (Mestrado em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; BORGES, M. G.; TEIXEIRA, A. N.; SA, K. O.; VIEIRA, ROBERTO CARLOS; PRADO, N.. Participação em banca de Vanessa Lago Nery Nunes. POLITICAS DE DIVERSIDADE, EQUIDADE E INCLUSÃO NA ADMINISTRAÇÃO PÚBLICA VOLTADAS A DEFESA DE DIREITOS DE MINORIAS POR MEIO DE COMITÊS NA CIDADE DE SALVADOR. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Vanessa Lago Nery Nunes",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "BORGES, M. G.",
+          "TEIXEIRA, A. N.",
+          "SA, K. O.",
+          "VIEIRA, ROBERTO CARLOS",
+          "PRADO, N."
+        ],
+        "titulo_trabalho": "POLITICAS DE DIVERSIDADE, EQUIDADE E INCLUSÃO NA ADMINISTRAÇÃO PÚBLICA VOLTADAS A DEFESA DE DIREITOS DE MINORIAS POR MEIO DE COMITÊS NA CIDADE DE SALVADOR",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; BORGES, M. G.; PINTO, M. F. S.. Participação em banca de Rafael da Silva Santana. do Trabalho: ?A INFLUÊNCIA DAS POLÍTICAS PÚBLICAS NA ADESÃO ÀS CAMPANHAS DE VACINAÇÃO: UM ESTUDO COMPARATIVO ENTRE A REVOLTA DA VACINA AS ATUAIS QUEDAS NAS COBERTURAS VACINAI. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Rafael da Silva Santana",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "BORGES, M. G.",
+          "PINTO, M. F. S."
+        ],
+        "titulo_trabalho": "do Trabalho: ?A INFLUÊNCIA DAS POLÍTICAS PÚBLICAS NA ADESÃO ÀS CAMPANHAS DE VACINAÇÃO: UM ESTUDO COMPARATIVO ENTRE A REVOLTA DA VACINA AS ATUAIS QUEDAS NAS COBERTURAS VACINAI",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; SA, K. O.; BORGES, M. G.; Ravazzano. F. Participação em banca de Tiago Emanuel Rebolsas da Siva. O PODER TRANSFORMADOR DA EDUCAÇÃO CRÍTICA E A SUA INAPLICABILIDADE NO SISTEMA PENITENCIÁRIO: OS CAMINHOS DE ADEQUAÇÃO DO APENADO NA PENITENCIÁRIA LEMOS BRITO. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Tiago Emanuel Rebolsas da Siva",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "SA, K. O.",
+          "BORGES, M. G.",
+          "Ravazzano. F"
+        ],
+        "titulo_trabalho": "O PODER TRANSFORMADOR DA EDUCAÇÃO CRÍTICA E A SUA INAPLICABILIDADE NO SISTEMA PENITENCIÁRIO: OS CAMINHOS DE ADEQUAÇÃO DO APENADO NA PENITENCIÁRIA LEMOS BRITO",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; BORGES, M. G.; FORNASIER, R. C.. Participação em banca de Jeffesron Lacerda Góes. O PROGRAMA CREDIAMIGO NA CIDADE DE ANTÔNIO CARDOSO-BA NO PERÍODO DA PANDEMIA COVID-19: ANÁLISE DOS RESULTADOS ALCANÇADOS A PARTIR DA AÇÃO DE PROTEÇÃO SOCIAL. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Jeffesron Lacerda Góes",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "BORGES, M. G.",
+          "FORNASIER, R. C."
+        ],
+        "titulo_trabalho": "O PROGRAMA CREDIAMIGO NA CIDADE DE ANTÔNIO CARDOSO-BA NO PERÍODO DA PANDEMIA COVID-19: ANÁLISE DOS RESULTADOS ALCANÇADOS A PARTIR DA AÇÃO DE PROTEÇÃO SOCIAL",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; LEPIKSON, M. F. P.. Participação em banca de Aline Junqueirra. ?A POLÍTICA DE SAÚDE MENTAL NO MUNICÍPIO DE CAMAÇARI-BA: DILEMAS E DESAFIOS. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Aline Junqueirra. ?A POLÍTICA DE SAÚDE MENTAL NO MUNICÍPIO DE CAMAÇARI-BA: DILEMAS E DESAFIOS",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BORGES, M. G.; LEPIKSON, M. F. P.; VIEIRA, R.C. Participação em banca de José Oliveira Araújo Netto. Auditoria Interna como Instrumento de Avaliação da Governança dos recursos da Pol. de Educação no Progr. Dinheiro Direto na Escola - PDDE, município de Camaçari - BA. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "José Oliveira Araújo Netto",
+        "membros_banca": [
+          "BORGES, M. G.",
+          "LEPIKSON, M. F. P.",
+          "VIEIRA, R.C"
+        ],
+        "titulo_trabalho": "Auditoria Interna como Instrumento de Avaliação da Governança dos recursos da Pol. de Educação no Progr. Dinheiro Direto na Escola - PDDE, município de Camaçari - BA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.; MIRANDA, H. P.. Participação em banca de Camila Ferreira Santos. ENSINO MÉDIO: REALIDADE, DESAFIOS E CONTRADIÇÕES NA IMPLANTAÇÃO DA POLÍTICA DE REFORMA A PARTIR DO TRABALHO PEDAGÓGICO - 2023. 2024. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "Camila Ferreira Santos",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, M. F. P.",
+          "MIRANDA, H. P."
+        ],
+        "titulo_trabalho": "",
+        "curso": "2024. Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, Maria de Fátima; MIRANDA, H. P.. Participação em banca de Camila Ferreira Santos. ENSINO MÉDIO: REALIDADE, DESAFIOS E CONTRADIÇÕES NA IMPLANTAÇÃO DA POLÍTICA DE REFORMA A PARTIR DO TRABALHO PEDAGÓGICO - 2023. 2024. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "Camila Ferreira Santos",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, Maria de Fátima",
+          "MIRANDA, H. P."
+        ],
+        "titulo_trabalho": "",
+        "curso": "2024. Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, Maria de Fátima; MIRANDA, H. P.. Participação em banca de Camila F Santos. ENSINO MÉDIO: REALIDADE, DESAFIOS E CONTRADIÇÕES NA IMPLANTAÇÃO DA POLÍTICA DE REFORMA A PARTIR DO TRABALHO PEDAGÓGICO - 2023. 2024. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "Camila F Santos",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, Maria de Fátima",
+          "MIRANDA, H. P."
+        ],
+        "titulo_trabalho": "",
+        "curso": "2024. Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; LEPIKSON, Maria de Fátima; FREITAS, C. E.. Participação em banca de Daniel Soares de Oliveira Pessoa Santana. SOBRECARGA LABORAL, MEIO AMBIENTE DE TRABALHO E SOFRIMENTO MENTAL - REFLEXÕES ACERCA DO ESGOTAMENTO PROFISSIONAL DOS TRABALHADORES DA SAÚDE. 2024. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Daniel Soares de Oliveira Pessoa Santana",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "LEPIKSON, Maria de Fátima",
+          "FREITAS, C. E."
+        ],
+        "titulo_trabalho": "SOBRECARGA LABORAL, MEIO AMBIENTE DE TRABALHO E SOFRIMENTO MENTAL - REFLEXÕES ACERCA DO ESGOTAMENTO PROFISSIONAL DOS TRABALHADORES DA SAÚDE",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; SA, K. O.; MIRANDA, H. P.. Participação em banca de César Augusto dos Santos. PROGRAMA MADRE SOCIAL: BENEFÍCIOS E LIMITAÇÕES. 2023. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "César Augusto dos Santos",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "SA, K. O.",
+          "MIRANDA, H. P."
+        ],
+        "titulo_trabalho": "PROGRAMA MADRE SOCIAL: BENEFÍCIOS E LIMITAÇÕES",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "Ravazzano. F; ARAUJO, F. R. S.; LEPIKSON, M. F. P.. Participação em banca de Carlos Clóvis Gomers Neto. O CRESCIMENTO DA VIOLÊNCIA DOMÉSTICA CONTRA CRIANÇA E ADOLESCENTE NO PERÍODO DA PANDEMIA DA COVID-19 (MARÇO 2020 A MARÇO 2021): A DETERIORAÇÃO DA CONSTRUÇÃO DA IDENTIDADE DO SUJEITO E O PAPEL DA DELEGACIA ESPECIALIZADA DE REPRESSÃO A CRIMES CONTRA A CRIANÇA E ADOLESCENTE NA CIDADE DE SALVADOR. 2023. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Carlos Clóvis Gomers Neto",
+        "membros_banca": [
+          "Ravazzano. F",
+          "ARAUJO, F. R. S.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; LEPIKSON, M. F. P.; FREITAS, C. E.. Participação em banca de DANIEL SOARES DE OLIVEIRA PESSOA SANTANA. SOBRECARGA LABORAL, MEIO AMBIENTE DE TRABALHO E SÍNDROME DE BURNOUT? REFLEXÕES ACERCA DO ESGOTAMENTO PROFISSIONAL DOS TRABALHADORES DA SAÚDE. 2023. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "DANIEL SOARES DE OLIVEIRA PESSOA SANTANA",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "LEPIKSON, M. F. P.",
+          "FREITAS, C. E."
+        ],
+        "titulo_trabalho": "SOBRECARGA LABORAL, MEIO AMBIENTE DE TRABALHO E SÍNDROME DE BURNOUT? REFLEXÕES ACERCA DO ESGOTAMENTO PROFISSIONAL DOS TRABALHADORES DA SAÚDE",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; OLIVEIRA, J. M. S.; PITTA, A. M. F.. Participação em banca de ELIZETE EVELYN BONIFÁCIO SÁ. ?CRIANÇAS E ADOLESCENTES COM TRANSTORNO DO ESPECTRO AUTISTA(TEA) E DEFICIÊNCIA INTELECTUAL: O ESTUDO SOBRE A RELAÇÃO DA SITUAÇÃO DE POBREZA E A VIOLÊNCIA SEXUAL INTRAFAMILIAR?. 2023. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "ELIZETE EVELYN BONIFÁCIO SÁ. ?CRIANÇAS E ADOLESCENTES COM TRANSTORNO DO ESPECTRO AUTISTA(TEA) E DEFICIÊNCIA INTELECTUAL: O ESTUDO SOBRE A RELAÇÃO DA SITUAÇÃO DE POBREZA E A VIOLÊNCIA SEXUAL INTRAFAMILIAR?",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "OLIVEIRA, J. M. S.",
+          "PITTA, A. M. F."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.; MIRANDA, H. P.. Participação em banca de NAMARA SANTOS NONATO DE SOUSA. PROJETO POLÍTICO PEDAGÓGICO DA EJA DA REDE MUNICIPAL DE SALVADOR - BA: ASPECTOS HISTÓRICOS, LEGAIS E INDICADORES DE ATUALIZAÇÃO E FORTALECIMENTO. 2023. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "NAMARA SANTOS NONATO DE SOUSA",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, M. F. P.",
+          "MIRANDA, H. P."
+        ],
+        "titulo_trabalho": "PROJETO POLÍTICO PEDAGÓGICO DA EJA DA REDE MUNICIPAL DE SALVADOR - BA: ASPECTOS HISTÓRICOS, LEGAIS E INDICADORES DE ATUALIZAÇÃO E FORTALECIMENTO",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; MIRANDA, H. P.; SA, K. O.. Participação em banca de Marcos Marcelo Ferreira Barreto. EDUCAÇÃO E NEOLIBERALISMO: ANÁLISES SOBRE OS INTERESSES DO EMPRESARIADO NA EDUCAÇÃO PÚBLICA BRASILEIRA. 2023. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "Marcos Marcelo Ferreira Barreto",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "MIRANDA, H. P.",
+          "SA, K. O."
+        ],
+        "titulo_trabalho": "EDUCAÇÃO E NEOLIBERALISMO: ANÁLISES SOBRE OS INTERESSES DO EMPRESARIADO NA EDUCAÇÃO PÚBLICA BRASILEIRA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SÁ, K.N.; LEPIKSON, M. F. P.; PORTO, H.. Participação em banca de Leonardo dos Santos Brandão. Base Nacional Comum Curricular de Educação Física e a realidade do Retorno do Ensino por Competências. 2023. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "Leonardo dos Santos Brandão",
+        "membros_banca": [
+          "SÁ, K.N.",
+          "LEPIKSON, M. F. P.",
+          "PORTO, H."
+        ],
+        "titulo_trabalho": "Base Nacional Comum Curricular de Educação Física e a realidade do Retorno do Ensino por Competências",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "Ravazzano. F; ARAUJO, F. R. S.; LEPIKSON, Maria de Fátima. Participação em banca de Carlos Gloeves Gomes. CRESCIMENTO DA VIOLÊNCIA DOMÉSTICA CONTRA CRIANÇA E ADOLESCENTE NO PERÍODO DA PANDEMIA DA COVID-19 (MARÇO 2020 A MARÇO 2021): A DETERIORAÇÃO DA CONSTRUÇÃO DA IDENTIDADE DO SUJEITO E O PAPEL DA DELEGACIA ESPECIALIZADA DE REPRESSÃO A CRIMES CONTRA A CRIANÇA E ADOLESCENTE NA CIDADE DE SALVADOR. 2023. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Carlos Gloeves Gomes",
+        "membros_banca": [
+          "Ravazzano. F",
+          "ARAUJO, F. R. S.",
+          "LEPIKSON, Maria de Fátima"
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; DELGADO, . J. A.; LEPIKSON, Maria de Fátima. Participação em banca de MARIA TEREZA DE JESUS DAMASCENO RODRIGUES. ANÁLISE DA ATENÇÃO À SAÚDE DA PESSOA IDOSA NA ATENÇÃO PRIMÁRIA À SAÚDE NO MUNICÍPIO DE CAMAÇARI-BA. 2022. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "MARIA TEREZA DE JESUS DAMASCENO RODRIGUES",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "DELGADO, . J. A.",
+          "LEPIKSON, Maria de Fátima"
+        ],
+        "titulo_trabalho": "ANÁLISE DA ATENÇÃO À SAÚDE DA PESSOA IDOSA NA ATENÇÃO PRIMÁRIA À SAÚDE NO MUNICÍPIO DE CAMAÇARI-BA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SANTOS, E. M. O.; BORGES, A.; LEPIKSON, M. F. P.; OLIVEIRA, D. M.. Participação em banca de JULIANA CABRAL DE OLIVEIRA. O TRABALHO EM PLATAFORMAS DIGITAIS E OS IMPACTOS NOS DIREITOS DOS BIKEBOYS. 2022. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "JULIANA CABRAL DE OLIVEIRA",
+        "membros_banca": [
+          "SANTOS, E. M. O.",
+          "BORGES, A.",
+          "LEPIKSON, M. F. P.",
+          "OLIVEIRA, D. M."
+        ],
+        "titulo_trabalho": "O TRABALHO EM PLATAFORMAS DIGITAIS E OS IMPACTOS NOS DIREITOS DOS BIKEBOYS",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SÁ, K.N.; VASCONCELOS, P. S. D.; LEPIKSON, M. F. P.. Participação em banca de IGOR GONÇALVES DA SILVA. FILOSOFIA E FORMAÇÃO CRÍTICA: PRESSUPOSTOS EM KANT PARA AUTONOMIA ENQUANTO DIREITO SOCIAL E CIDADANIA PARA O ENSINO MÉDIO. 2022. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "IGOR GONÇALVES DA SILVA",
+        "membros_banca": [
+          "SÁ, K.N.",
+          "VASCONCELOS, P. S. D.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "FILOSOFIA E FORMAÇÃO CRÍTICA: PRESSUPOSTOS EM KANT PARA AUTONOMIA ENQUANTO DIREITO SOCIAL E CIDADANIA PARA O ENSINO MÉDIO",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.; LAGO, D.. Participação em banca de MARILEIDE SANTOS BENTO BRAGA. ACERVO LITERÁRIO DO CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL EDUARDO FREITAS DA CIDADE DO SALVADOR-BA: REALIDADE, LIMITES E POSSIBILIDADES NA FORMAÇÃO IDENTITÁRIA DA CRIANÇA NEGRA MEDIANTE A LUTA DE CLASSES. 2022. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "MARILEIDE SANTOS BENTO BRAGA",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, M. F. P.",
+          "LAGO, D."
+        ],
+        "titulo_trabalho": "ACERVO LITERÁRIO DO CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL EDUARDO FREITAS DA CIDADE DO SALVADOR-BA: REALIDADE, LIMITES E POSSIBILIDADES NA FORMAÇÃO IDENTITÁRIA DA CRIANÇA NEGRA MEDIANTE A LUTA DE CLASSES",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; LEPIKSON, M. F. P.; SOUZA, M. K. B.. Participação em banca de Glaucya Chaves Barbosa da Matta. DOAÇÃO DE SANGUE NO ESTADO DA BAHIA: REFLEXÕES SOBRE PARTICIPAÇÃO SOCIAL, SOLIDARIEDADE E CIDADANIA. 2022. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "Glaucya Chaves Barbosa da Matta",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "LEPIKSON, M. F. P.",
+          "SOUZA, M. K. B."
+        ],
+        "titulo_trabalho": "DOAÇÃO DE SANGUE NO ESTADO DA BAHIA: REFLEXÕES SOBRE PARTICIPAÇÃO SOCIAL, SOLIDARIEDADE E CIDADANIA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LORENZO, D. C.; LEPIKSON, M. F. P.; BOUS, J. A. D.; CAVALCANTI, V. R. S.; DIAS, M. I. C.. Participação em banca de ÂNGELA VIRGÍNIA BRITO XIMENES. CONEXÕES ENTRE MULHERES EM TEMPO SUSPENSO: O ÁRIDO PRESENTE ATRAVESSADO PELAS TRANSITÓRIAS MEMÓRIAS FAMILIARES. 2022. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "ÂNGELA VIRGÍNIA BRITO XIMENES",
+        "membros_banca": [
+          "LORENZO, D. C.",
+          "LEPIKSON, M. F. P.",
+          "BOUS, J. A. D.",
+          "CAVALCANTI, V. R. S.",
+          "DIAS, M. I. C."
+        ],
+        "titulo_trabalho": "CONEXÕES ENTRE MULHERES EM TEMPO SUSPENSO: O ÁRIDO PRESENTE ATRAVESSADO PELAS TRANSITÓRIAS MEMÓRIAS FAMILIARES",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.; CARVATHO, M. S.. Participação em banca de REALTDADE DA FORMÀÇÃO Oe PROFESSORES PARA EDUCAçÃO TNTEGRAL. REALTDADE DA FORMÀÇÃO Oe PROFESSORES PARA EDUCAçÃO TNTEGRAL EM TEMPO INTEGRAL: LIMITES, DESAFIOS E AVANÇOS A PARTIR DA PEDAGOGIA HISTÓRICO.CRíflCA. 2022. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "REALTDADE DA FORMÀÇÃO Oe PROFESSORES PARA EDUCAçÃO TNTEGRAL",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, M. F. P.",
+          "CARVATHO, M. S."
+        ],
+        "titulo_trabalho": "REALTDADE DA FORMÀÇÃO Oe PROFESSORES PARA EDUCAçÃO TNTEGRAL EM TEMPO INTEGRAL: LIMITES, DESAFIOS E AVANÇOS A PARTIR DA PEDAGOGIA HISTÓRICO.CRíflCA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; ANUNCIACAO, C. S.; CUNHA JUNIOR, D.. Participação em banca de Cássia Marly Moreira dos Santos Barr. A PROTEÇÃO JURÍDICA E SOCIAL DE CRIANÇAS E ADOLESCENTES VENEZUELANOS REFUGIADOS NO BRASIL E INTERIORIZADOS EM FEIRA DE SANTANA, BAHIA: DESAFIOS A SUA EFETIVAÇÃO?. 2022. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "Cássia Marly Moreira dos Santos Barr",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "ANUNCIACAO, C. S.",
+          "CUNHA JUNIOR, D."
+        ],
+        "titulo_trabalho": "A PROTEÇÃO JURÍDICA E SOCIAL DE CRIANÇAS E ADOLESCENTES VENEZUELANOS REFUGIADOS NO BRASIL E INTERIORIZADOS EM FEIRA DE SANTANA, BAHIA: DESAFIOS A SUA EFETIVAÇÃO?",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BORGES, A.; LEPIKSON, Maria de Fátima; OLIVEIRA, D. M.; SANTOS, E. M. O.. Participação em banca de Juliana Cabral de Oliveira. ?O TRABALHO EM PLATAFORMAS DIGITAIS E OS IMPACTOS NOS DIREITOS DOS BIKEBOYS. 2022. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "Juliana Cabral de Oliveira. ?O TRABALHO EM PLATAFORMAS DIGITAIS E OS IMPACTOS NOS DIREITOS DOS BIKEBOYS",
+        "membros_banca": [
+          "BORGES, A.",
+          "LEPIKSON, Maria de Fátima",
+          "OLIVEIRA, D. M.",
+          "SANTOS, E. M. O."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; DELGADO, . J. A.; LEPIKSON, Maria de Fátima. Participação em banca de Maria Tereza de Jesus Damasceno Rodrigue. ANÁLISE DA ATENÇÃO À SAÚDE DA PESSOA IDOSA NA ATENÇÃO PRIMÁRIA À SAÚDE NO MUNICÍPIO DE CAMAÇARI-BA. 2022. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "Maria Tereza de Jesus Damasceno Rodrigue",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "DELGADO, . J. A.",
+          "LEPIKSON, Maria de Fátima"
+        ],
+        "titulo_trabalho": "ANÁLISE DA ATENÇÃO À SAÚDE DA PESSOA IDOSA NA ATENÇÃO PRIMÁRIA À SAÚDE NO MUNICÍPIO DE CAMAÇARI-BA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CAVALCANTI, V. S. R; DELGADO, J. A.; LEPIKSON, M. F. P.. Participação em banca de Ângela Virgínia Brito Ximenes. Conexões entre mulheres idosas em tempo suspenso: o árido presente atravessado pelas transitórias memórias familiares. 2021. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Ângela Virgínia Brito Ximenes",
+        "membros_banca": [
+          "CAVALCANTI, V. S. R",
+          "DELGADO, J. A.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "Conexões entre mulheres idosas em tempo suspenso: o árido presente atravessado pelas transitórias memórias familiares",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CAVALCANTI, V. S. R; LEPIKSON, M. F. P.; Ávila, H.D.D. Participação em banca de Semírames Barros Aragão Pimentel. PESSOAS IDOSAS, REDES FAMILIARES E PROTEÇÃO SOCIAL: ESTUDO DE CASO EM UMA UPA DE SALVADOR, BAHIA. 2021. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Semírames Barros Aragão Pimentel",
+        "membros_banca": [
+          "CAVALCANTI, V. S. R",
+          "LEPIKSON, M. F. P.",
+          "Ávila, H.D.D"
+        ],
+        "titulo_trabalho": "PESSOAS IDOSAS, REDES FAMILIARES E PROTEÇÃO SOCIAL: ESTUDO DE CASO EM UMA UPA DE SALVADOR, BAHIA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; CARVALHO, Inaiá M. M. de; Ávila, H.D.D. Participação em banca de Eunice Bastos de Oliveira Neta. ?O PROGRAMA DE PROTEÇÃO A CRIANÇAS E ADOLESCENTES AMEAÇADOS DE MORTE (PPCAAM) DO ESTADO DA BAHIA: UM ESTUDO DA RESPOSTA DO ESTADO FRENTE À VIOLÊNCIA LETAL CONTRA CRIANÇAS, ADOLESCENTES E JOVEN. 2021. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Eunice Bastos de Oliveira Neta. ?O PROGRAMA DE PROTEÇÃO A CRIANÇAS E ADOLESCENTES AMEAÇADOS DE MORTE (PPCAAM) DO ESTADO DA BAHIA: UM ESTUDO DA RESPOSTA DO ESTADO FRENTE À VIOLÊNCIA LETAL CONTRA CRIANÇAS, ADOLESCENTES E JOVEN",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "CARVALHO, Inaiá M. M. de",
+          "Ávila, H.D.D"
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; BORGES, A.; BOUS, J. A. D.. Participação em banca de Tâmara Galvino Leite de Almeida. TRABALHO PROFISSIONAL DO SERVIÇO SOCIAL NO BRASIL: REFLEXÕES E DESAFIOS CONTEMPORÂNEOS. 2021. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Tâmara Galvino Leite de Almeida",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "BORGES, A.",
+          "BOUS, J. A. D."
+        ],
+        "titulo_trabalho": "TRABALHO PROFISSIONAL DO SERVIÇO SOCIAL NO BRASIL: REFLEXÕES E DESAFIOS CONTEMPORÂNEOS",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FREITAS, K. S.; LEPIKSON, M. F. P.; PIMENTA, L.B. Participação em banca de Luciana Teixeira Medeiros. ONDE VOCÊ MORA? AONDE VOCÊ FOI MORAR?? UMA ANÁLISE SOBRE A CONTRIBUIÇÃO DA MORADIA UNIVERSITÁRIA PARA OS DISCENTES BENEFICIADOS NOS CAMPI I, IX E XI DA UNIVERSIDADE DO ESTADO DA BAHIA ? UNEB. 2021. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Luciana Teixeira Medeiros",
+        "membros_banca": [
+          "FREITAS, K. S.",
+          "LEPIKSON, M. F. P.",
+          "PIMENTA, L.B"
+        ],
+        "titulo_trabalho": "ONDE VOCÊ MORA? AONDE VOCÊ FOI MORAR?? UMA ANÁLISE SOBRE A CONTRIBUIÇÃO DA MORADIA UNIVERSITÁRIA PARA OS DISCENTES BENEFICIADOS NOS CAMPI I, IX E XI DA UNIVERSIDADE DO ESTADO DA BAHIA ? UNEB",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FREITAS, K. S.; LEPIKSON, M. F. P.; PIMENTA, L.B. Participação em banca de LUCIANA TEIXEIRA MEDEIROS. REALIDADE DA FORMAÇÃO DE PROFESSORES PARA EDUCAÇÃO INTEGRAL EM TEMPO INTEGRAL: LIMITES, DESAFIOS E AVANÇOS A PARTIR DA PEDAGOGIA HISTÓRICO-CRÍTICA. 2021. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "LUCIANA TEIXEIRA MEDEIROS",
+        "membros_banca": [
+          "FREITAS, K. S.",
+          "LEPIKSON, M. F. P.",
+          "PIMENTA, L.B"
+        ],
+        "titulo_trabalho": "REALIDADE DA FORMAÇÃO DE PROFESSORES PARA EDUCAÇÃO INTEGRAL EM TEMPO INTEGRAL: LIMITES, DESAFIOS E AVANÇOS A PARTIR DA PEDAGOGIA HISTÓRICO-CRÍTICA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, Maria de Fátima; ANDRADE, C.J.N. Participação em banca de Ivanlúcia Oliveira da Silva. Política Nacional de Saúde da Pessoa Idosa: realidade, limites, contradições e Prossibilidades. 2020. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Ivanlúcia Oliveira da Silva",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, Maria de Fátima",
+          "ANDRADE, C.J.N"
+        ],
+        "titulo_trabalho": "Política Nacional de Saúde da Pessoa Idosa: realidade, limites, contradições e Prossibilidades",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "Silva, J.S.L; MALOMALO, B.; LEPIKSON, MARIA DE FÁTIMA PESSOA. Participação em banca de Cintia Santana de Farias. (DES) Continuidade nas Políticas de Enfrentamento da Divisão Sexual e Racial do Trabalo: o caso do Programa Pró-equidade de Gênero e Raça. 2020. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Cintia Santana de Farias. (DES) Continuidade nas Políticas de Enfrentamento da Divisão Sexual e Racial do Trabalo: o caso do Programa Pró-equidade de Gênero e Raça",
+        "membros_banca": [
+          "Silva, J.S.L",
+          "MALOMALO, B.",
+          "LEPIKSON, MARIA DE FÁTIMA PESSOA"
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "AVILA, H. D. D.; CARVALHO, Inaiá M. M. de; LEPIKSON, M. F. P.. Participação em banca de Eunice Bastos de Oliveira Neta. VÍTIMAS OU ALGOZES NO PURGATÓRIO: HISTÓRIAS DE VIDA MARCADAS PELA INSTITUCIONALIZAÇÃO NO PROGRAMA DE PROTEÇÃO A CRIANÇAS E ADOLESCENTES AMEAÇADAS DE MORTE (PPCAM) DO ESTADO DA BAHIA. 2020. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Eunice Bastos de Oliveira Neta",
+        "membros_banca": [
+          "AVILA, H. D. D.",
+          "CARVALHO, Inaiá M. M. de",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "VÍTIMAS OU ALGOZES NO PURGATÓRIO: HISTÓRIAS DE VIDA MARCADAS PELA INSTITUCIONALIZAÇÃO NO PROGRAMA DE PROTEÇÃO A CRIANÇAS E ADOLESCENTES AMEAÇADAS DE MORTE (PPCAM) DO ESTADO DA BAHIA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "LOURAU, JULIE; LEPIKSON, M. F. P.; CUNHA, J.S; SOUZA, A. C. G.; FONSECA, D. J.. Participação em banca de Stela Gleice de Oliveira Dilago. A atuação das Mulheres do /rosário dos Pretoes numa irmandade de homens pretos da contramão das relações de poder. 2025. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Stela Gleice de Oliveira Dilago",
+        "membros_banca": [
+          "LOURAU, JULIE",
+          "LEPIKSON, M. F. P.",
+          "CUNHA, J.S",
+          "SOUZA, A. C. G.",
+          "FONSECA, D. J."
+        ],
+        "titulo_trabalho": "A atuação das Mulheres do /rosário dos Pretoes numa irmandade de homens pretos da contramão das relações de poder",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; SOARES, R. M. F.; Portela, A.; BORGES, M. G.; LEPIKSON, M. F. P.. Participação em banca de Carolina Oliveira Serra da Silveira. ?ENTIDADES BENEFICENTES DE ENSINO SUPERIOR E OS CRITÉRIOS EXIGIDOS PARA FRUIÇÃO DA IMUNIDADE TRIBUTÁRIA: UMA ABORDAGEM SOCIOCONSTITUCIONA. 2025. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Carolina Oliveira Serra da Silveira. ?ENTIDADES BENEFICENTES DE ENSINO SUPERIOR E OS CRITÉRIOS EXIGIDOS PARA FRUIÇÃO DA IMUNIDADE TRIBUTÁRIA: UMA ABORDAGEM SOCIOCONSTITUCIONA",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "SOARES, R. M. F.",
+          "Portela, A.",
+          "BORGES, M. G.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; BORGES, M. G.; LEPIKSON, M. F. P.. Participação em banca de Isaura Manuela Pimentel Nunes. INCLUSÃO DIGITAL COMO DIREITO FUNDAMENTAL NA SOCIEDADE DA INFORMAÇÃO: TECNOLOGIA, CIDADANIA, ENVELHECIMENTO E NOVAS FORMAS DE EXCLUSÃO. 2025. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Isaura Manuela Pimentel Nunes",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "BORGES, M. G.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "INCLUSÃO DIGITAL COMO DIREITO FUNDAMENTAL NA SOCIEDADE DA INFORMAÇÃO: TECNOLOGIA, CIDADANIA, ENVELHECIMENTO E NOVAS FORMAS DE EXCLUSÃO",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "Cunha, D; SA, K. O.; SOUZA, C. A.; LEPIKSON, Maria de Fátima; TEIXEIRA, R. F.. Participação em banca de André Márcio Neves Soares. O MITO DA DEMOCRACIA BRASILEIRA. 2024. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "André Márcio Neves Soares",
+        "membros_banca": [
+          "Cunha, D",
+          "SA, K. O.",
+          "SOUZA, C. A.",
+          "LEPIKSON, Maria de Fátima",
+          "TEIXEIRA, R. F."
+        ],
+        "titulo_trabalho": "O MITO DA DEMOCRACIA BRASILEIRA",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "Cunha, D; SA, K. O.; LEPIKSON, Maria de Fátima; VIEIRA, R.C; HIRCH, F. P. A.. Participação em banca de André Márcio Soares. O Mito da Democracia. 2024. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "André Márcio Soares",
+        "membros_banca": [
+          "Cunha, D",
+          "SA, K. O.",
+          "LEPIKSON, Maria de Fátima",
+          "VIEIRA, R.C",
+          "HIRCH, F. P. A."
+        ],
+        "titulo_trabalho": "O Mito da Democracia",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, MARIA DE FÁTIMA PESSÔA; SA, K. O.; Ávila, H.D.D; PITTA, A. M. F.; Ravazzano. F; TORRES, C. R. O. V.. Participação em banca de Andrea Ariadna Correa. O doido criminoso. 2024. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Andrea Ariadna Correa",
+        "membros_banca": [
+          "LEPIKSON, MARIA DE FÁTIMA PESSÔA",
+          "SA, K. O.",
+          "Ávila, H.D.D",
+          "PITTA, A. M. F.",
+          "Ravazzano. F",
+          "TORRES, C. R. O. V."
+        ],
+        "titulo_trabalho": "O doido criminoso",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; SOARES, R. M. F.; LEPIKSON, M. F. P.; HIRSCH, F. P. A.; PITTA, A. M. F.. Participação em banca de ANDREA MACHADO TEIXEIRA DIAS. A JUDICIALIZAÇÃO DA POLÍTICA PÚBLICA DE SAÚDE E EFETIVAÇÃO DO DIREITO NO ESTADO DA BAHIA: UM DESAFIO INTERDISCIPLINAR. 2023. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "ANDREA MACHADO TEIXEIRA DIAS",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "SOARES, R. M. F.",
+          "LEPIKSON, M. F. P.",
+          "HIRSCH, F. P. A.",
+          "PITTA, A. M. F."
+        ],
+        "titulo_trabalho": "A JUDICIALIZAÇÃO DA POLÍTICA PÚBLICA DE SAÚDE E EFETIVAÇÃO DO DIREITO NO ESTADO DA BAHIA: UM DESAFIO INTERDISCIPLINAR",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "Ravazzano. F; LEPIKSON, M. F. P.; SA, K. O.. Participação em banca de José Carlos Lima. MULTILETRAMENTOS NA EDUCAÇÃO PRISIONAL: PRÁTICA PEDAGÓGICA DA LEITURA E ESCRITA NA ESCOLA ESTADUAL NA PENITENCIÁRIA LEMOS DE BRITO DE SALVADOR-BA. 2023. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "José Carlos Lima",
+        "membros_banca": [
+          "Ravazzano. F",
+          "LEPIKSON, M. F. P.",
+          "SA, K. O."
+        ],
+        "titulo_trabalho": "MULTILETRAMENTOS NA EDUCAÇÃO PRISIONAL: PRÁTICA PEDAGÓGICA DA LEITURA E ESCRITA NA ESCOLA ESTADUAL NA PENITENCIÁRIA LEMOS DE BRITO DE SALVADOR-BA",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; AVENA, M. E.; AVILA, H. D. D.; NASCIMENTO, J. F.; FIGUEIREDO, M. G. B.. Participação em banca de Nadjane Crisóstomo Prado. PROGRAMA BOLSA FAMÍLIA: A VOZ DAS FAMÍLIAS BENEFECIÁRIAS SOB. 2023. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Nadjane Crisóstomo Prado",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "AVENA, M. E.",
+          "AVILA, H. D. D.",
+          "NASCIMENTO, J. F.",
+          "FIGUEIREDO, M. G. B."
+        ],
+        "titulo_trabalho": "PROGRAMA BOLSA FAMÍLIA: A VOZ DAS FAMÍLIAS BENEFECIÁRIAS SOB",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; OLIVEIRA, M. A. F.; BARROS, S.; CUNHA JUNIOR, D.; LEPIKSON, M. F. P.; MENDES, V. L. P. S.. Participação em banca de Denízia Maria Barberino Xavier Santos. Título do Trabalho: ?CONCILIAÇÃO COMO ESTRATÉGIA UTILIZADA POR PESSOAS IDOSAS NO ACESSO ÀS POLÍTICAS PÚBLICAS: a efetivação do direito fundamental na Bahia?. 2023. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Denízia Maria Barberino Xavier Santos",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "OLIVEIRA, M. A. F.",
+          "BARROS, S.",
+          "CUNHA JUNIOR, D.",
+          "LEPIKSON, M. F. P.",
+          "MENDES, V. L. P. S."
+        ],
+        "titulo_trabalho": "Título do Trabalho: ?CONCILIAÇÃO COMO ESTRATÉGIA UTILIZADA POR PESSOAS IDOSAS NO ACESSO ÀS POLÍTICAS PÚBLICAS: a efetivação do direito fundamental na Bahia?",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, MARIA DE FÁTIMA PESSOA; AVILA, H. D. D.; AVENA, M. E.; NASCIMENTO, J. F.; BORGES, M. G.. Participação em banca de Nadjane Crisóstomo Prado. PROGRAMA BOLSA FAMÍLIA: A VOZ DAS FAMÍLIAS BENEFICIÁRIAS SOBRE O PROGRAMA. 2023. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Nadjane Crisóstomo Prado",
+        "membros_banca": [
+          "LEPIKSON, MARIA DE FÁTIMA PESSOA",
+          "AVILA, H. D. D.",
+          "AVENA, M. E.",
+          "NASCIMENTO, J. F.",
+          "BORGES, M. G."
+        ],
+        "titulo_trabalho": "PROGRAMA BOLSA FAMÍLIA: A VOZ DAS FAMÍLIAS BENEFICIÁRIAS SOBRE O PROGRAMA",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, Maria de Fátima; FIGUEIREDO, M. G. B.; AVENA, M. E.; AVILA, H. D. D.; NASCIMENTO, J. F.. Participação em banca de Nadjane Crisóstomo Prado. ?PROGRAMA BOLSA FAMÍLIA: A VOZ DAS FAMÍLIAS BENEFECIÁRIAS SOBRE O PROGRAMA?. 2023. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Nadjane Crisóstomo Prado. ?PROGRAMA BOLSA FAMÍLIA: A VOZ DAS FAMÍLIAS BENEFECIÁRIAS SOBRE O PROGRAMA?",
+        "membros_banca": [
+          "LEPIKSON, Maria de Fátima",
+          "FIGUEIREDO, M. G. B.",
+          "AVENA, M. E.",
+          "AVILA, H. D. D.",
+          "NASCIMENTO, J. F."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, Maria de Fátima; AVILA, H. D. D.; CUNHA JUNIOR, D.; FIGUEIREDO, M. G. B.; CARRERA, G. O.. Participação em banca de Evandro Luis Santos de Jesus. O PROGRAMA DE APOIO E ACOMPANHAMENTO AOS ADOLESCENTES E JOVENS EGRESSOS NA CIDADE DE SALVADOR: UM ESTUDO SOBRE A CONTRIBUIÇÃO DO PAEG PARA (RE) INSERÇÃO SOCIAL. 2023. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Evandro Luis Santos de Jesus",
+        "membros_banca": [
+          "LEPIKSON, Maria de Fátima",
+          "AVILA, H. D. D.",
+          "CUNHA JUNIOR, D.",
+          "FIGUEIREDO, M. G. B.",
+          "CARRERA, G. O."
+        ],
+        "titulo_trabalho": "O PROGRAMA DE APOIO E ACOMPANHAMENTO AOS ADOLESCENTES E JOVENS EGRESSOS NA CIDADE DE SALVADOR: UM ESTUDO SOBRE A CONTRIBUIÇÃO DO PAEG PARA (RE) INSERÇÃO SOCIAL",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "Ravazzano. F; SA, K. O.; LEPIKSON, Maria de Fátima; Ávila, H.D.D; CORREIA, T. C.. Participação em banca de José Lima. MULTILETRAMENTOS NA EDUCAÇÃO PRISIONAL: PRÁTICA PEDAGÓGICA DA LEITURA E ESCRITA NA ESCOLA ESTADUAL NA PENITENCIÁRIA LEMOS DE BRITO DE SALVADOR-BA. 2023. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "José Lima",
+        "membros_banca": [
+          "Ravazzano. F",
+          "SA, K. O.",
+          "LEPIKSON, Maria de Fátima",
+          "Ávila, H.D.D",
+          "CORREIA, T. C."
+        ],
+        "titulo_trabalho": "MULTILETRAMENTOS NA EDUCAÇÃO PRISIONAL: PRÁTICA PEDAGÓGICA DA LEITURA E ESCRITA NA ESCOLA ESTADUAL NA PENITENCIÁRIA LEMOS DE BRITO DE SALVADOR-BA",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BORGES, A.; FREITAS, K. S.; LEPIKSON, M. F. P.; AMORIM, ANTÔNIO; AMORIM, R. R.. Participação em banca de Mara Rute dos Santos Lima. TRAJETÓRIAS DAS JUVENTUDES EM TEMPOS SOMBRIOS: UM OLHAR PARA A EDUCAÇÃO E O TRABALHO DAS JUVENTUDES DO BRASIL. 2022. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Mara Rute dos Santos Lima",
+        "membros_banca": [
+          "BORGES, A.",
+          "FREITAS, K. S.",
+          "LEPIKSON, M. F. P.",
+          "AMORIM, ANTÔNIO",
+          "AMORIM, R. R."
+        ],
+        "titulo_trabalho": "TRAJETÓRIAS DAS JUVENTUDES EM TEMPOS SOMBRIOS: UM OLHAR PARA A EDUCAÇÃO E O TRABALHO DAS JUVENTUDES DO BRASIL",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; LEPIKSON, M. F. P.; SILVA, J. L.; BAHIA, S. C.; SOARES, R. M. F.. Participação em banca de Taís Dórea de Carvalho Santos. A INCOMPATIBILIDADE DOS PRINCÍPIOS CONSTITUCIONAIS ADMINISTRATIVOS COM AS NORMAS DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA NO TRIBUNAL DE JUSTIÇA DA BAHIA COMO OBSTÁCULO AO ACESSO À JUSTIÇA E A CIDADANIA. 2022. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Taís Dórea de Carvalho Santos",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "LEPIKSON, M. F. P.",
+          "SILVA, J. L.",
+          "BAHIA, S. C.",
+          "SOARES, R. M. F."
+        ],
+        "titulo_trabalho": "A INCOMPATIBILIDADE DOS PRINCÍPIOS CONSTITUCIONAIS ADMINISTRATIVOS COM AS NORMAS DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA NO TRIBUNAL DE JUSTIÇA DA BAHIA COMO OBSTÁCULO AO ACESSO À JUSTIÇA E A CIDADANIA",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BORGES, A.; FREITAS, K. S.; LEPIKSON, Maria de Fátima; AMORIM, A.; AMORIM, R. R.. Participação em banca de Mara Rute dos Santos Lima. TRAJETÓRIAS DAS JUVENTUDES EM TEMPOS SOMBRIOS: UM OLHAR PARA A EDUCAÇÃO E O TRABALHO DAS JUVENTUDES DO BRASIL. 2022. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Mara Rute dos Santos Lima",
+        "membros_banca": [
+          "BORGES, A.",
+          "FREITAS, K. S.",
+          "LEPIKSON, Maria de Fátima",
+          "AMORIM, A.",
+          "AMORIM, R. R."
+        ],
+        "titulo_trabalho": "TRAJETÓRIAS DAS JUVENTUDES EM TEMPOS SOMBRIOS: UM OLHAR PARA A EDUCAÇÃO E O TRABALHO DAS JUVENTUDES DO BRASIL",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; OLIVEIRA, M. A. F.; Barros, Sônia; LEPIKSON, MARIA DE FÁTIMA PESSOA; MENDES, V. L. P. S.; MONTEIRO, A.. Participação em banca de Denízia Maria Barberino Xavier Santos. CONCILIAÇÃO COMO ESTRATÉGIA UTILIZADA POR PESSOAS IDOSAS NO ACESSO ÀS POLÍTICAS PÚBLICAS: a efetivação do direito fundamental à saúde. 2022. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Denízia Maria Barberino Xavier Santos",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "OLIVEIRA, M. A. F.",
+          "Barros, Sônia",
+          "LEPIKSON, MARIA DE FÁTIMA PESSOA",
+          "MENDES, V. L. P. S.",
+          "MONTEIRO, A."
+        ],
+        "titulo_trabalho": "CONCILIAÇÃO COMO ESTRATÉGIA UTILIZADA POR PESSOAS IDOSAS NO ACESSO ÀS POLÍTICAS PÚBLICAS: a efetivação do direito fundamental à saúde",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; MAIA, H. F.; PINTO, J. M.; LEPIKSON, MARIA DE FÁTIMA PESSOA; CAVALCANTE NETO, J. L.. Participação em banca de Jorge Augusto Beck Filho. SINTOMAS MÚSCULO ESQUELÉTICOS, DEPRESSIVOS E INATIVIDADE FÍSICA EM TRABALHADORES TÉCNICO-ADMINISTRATIVOS DE UMA UNIVERSIDADE PÚBLICA DO NORDESTE DO BRASIL. 2022. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Jorge Augusto Beck Filho",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "MAIA, H. F.",
+          "PINTO, J. M.",
+          "LEPIKSON, MARIA DE FÁTIMA PESSOA",
+          "CAVALCANTE NETO, J. L."
+        ],
+        "titulo_trabalho": "SINTOMAS MÚSCULO ESQUELÉTICOS, DEPRESSIVOS E INATIVIDADE FÍSICA EM TRABALHADORES TÉCNICO-ADMINISTRATIVOS DE UMA UNIVERSIDADE PÚBLICA DO NORDESTE DO BRASIL",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "AMORIM, ANTÔNIO; DE FREITAS, KATIA SIQUEIRA; MUTIM, L. B.; LEPIKSON, M. F. P.. Participação em banca de Eliezer Santos da Silva. Educação Profissional na Rede Pública de Ensino no Estado da Bahia: um apolítica de expansão com precarização do trabalho docnete. 2021. Tese (Doutorado em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Eliezer Santos da Silva",
+        "membros_banca": [
+          "AMORIM, ANTÔNIO",
+          "DE FREITAS, KATIA SIQUEIRA",
+          "MUTIM, L. B.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "Educação Profissional na Rede Pública de Ensino no Estado da Bahia: um apolítica de expansão com precarização do trabalho docnete",
+        "curso": "Tese (Doutorado em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; LOURAU, JULIE; ROCHA, J. C. S.; SOARES, R. M. F.; LEPIKSON, M. F. P.. Participação em banca de Marco Aurélio Nascimento Amado. Partitocracia X Juristocracia: em busca de uma dogmática do equilíbrio para o problema da representatividade da sociedade civil no Brasil. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Marco Aurélio Nascimento Amado",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "LOURAU, JULIE",
+          "ROCHA, J. C. S.",
+          "SOARES, R. M. F.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "Partitocracia X Juristocracia: em busca de uma dogmática do equilíbrio para o problema da representatividade da sociedade civil no Brasil",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; LOURAU, JULIE; ROCHA, J. C. S.; SOARES, R. M. F.; LEPIKSON, M. F. P.. Participação em banca de Marco Aurélio Nascimento Amado. PartitocraciaX Justitocracia: em busca de uma teoria do equilíbrio para o problema da representatividade da Sociedade Civil no Brasil. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Marco Aurélio Nascimento Amado",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "LOURAU, JULIE",
+          "ROCHA, J. C. S.",
+          "SOARES, R. M. F.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "PartitocraciaX Justitocracia: em busca de uma teoria do equilíbrio para o problema da representatividade da Sociedade Civil no Brasil",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "ALENCAR, C; MANCINI, M.; NASCIMENTO, J.; TORRES, P. R.; LEPIKSON, MARIA DE FÁTIMA PESSÔA. Participação em banca de Maria Gorete Borges Figuerêdo. A Utopia do Reconhecimento da Cidadania na Agricultura Familiar: existência e invisibilidade do cidadão na Bahia. 2021. Tese (Doutorado em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Maria Gorete Borges Figuerêdo",
+        "membros_banca": [
+          "ALENCAR, C",
+          "MANCINI, M.",
+          "NASCIMENTO, J.",
+          "TORRES, P. R.",
+          "LEPIKSON, MARIA DE FÁTIMA PESSÔA"
+        ],
+        "titulo_trabalho": "A Utopia do Reconhecimento da Cidadania na Agricultura Familiar: existência e invisibilidade do cidadão na Bahia",
+        "curso": "Tese (Doutorado em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; LEPIKSON, Maria de Fátima; FREITAS, K. S.; PINTO, I. C. M.; AMORIN, A.. Participação em banca de THALINE TEIXEIRA NOVAES CARNEIRO. O PLANO DE PERMANÊNCIA E ÊXITO ESTUDANTIL PARA LICENCIATURAS DO INSTITUTO FEDERAL DE EDUCAÇÃO BAIANO: UMA AVALIAÇÃO SOBRE O PROCESSO DE IMPLEMENTAÇÃO. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "THALINE TEIXEIRA NOVAES CARNEIRO",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "LEPIKSON, Maria de Fátima",
+          "FREITAS, K. S.",
+          "PINTO, I. C. M.",
+          "AMORIN, A."
+        ],
+        "titulo_trabalho": "O PLANO DE PERMANÊNCIA E ÊXITO ESTUDANTIL PARA LICENCIATURAS DO INSTITUTO FEDERAL DE EDUCAÇÃO BAIANO: UMA AVALIAÇÃO SOBRE O PROCESSO DE IMPLEMENTAÇÃO",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BORGES, ÂNGELA; DE FREITAS, KATIA SIQUEIRA; AMORIM, ANTÔNIO; LEPIKSON, M. F. P.. Participação em banca de Elieser Santos da Silva. EDUCAÇÃO PROFISSIONAL NA REDE PÚBLICA ESTADUAL DE ENSINO DO ESTADO DA BAHIA: UMA POLÍTICA DE EXPANSÃO COM PRECARIZAÇÃO DO TRABALHO DOCENTE. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Elieser Santos da Silva",
+        "membros_banca": [
+          "BORGES, ÂNGELA",
+          "DE FREITAS, KATIA SIQUEIRA",
+          "AMORIM, ANTÔNIO",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "EDUCAÇÃO PROFISSIONAL NA REDE PÚBLICA ESTADUAL DE ENSINO DO ESTADO DA BAHIA: UMA POLÍTICA DE EXPANSÃO COM PRECARIZAÇÃO DO TRABALHO DOCENTE",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CARVALHO, Inaiá M. M. de; LEPIKSON, M. F. P.; BOUS, J. A. D.; Silva, J.S.L; MARQUES, E. J. S. T.. Participação em banca de Iraci Santos. Homens e Mulheres em situação de rua: um estudo comparativo entre Brasil e Portugal. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Iraci Santos",
+        "membros_banca": [
+          "CARVALHO, Inaiá M. M. de",
+          "LEPIKSON, M. F. P.",
+          "BOUS, J. A. D.",
+          "Silva, J.S.L",
+          "MARQUES, E. J. S. T."
+        ],
+        "titulo_trabalho": "Homens e Mulheres em situação de rua: um estudo comparativo entre Brasil e Portugal",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FREITAS, K. S.; LEPIKSON, M. F. P.; DAS NEVES, ADNA SANTOS; Sá. K.O; PIMENTEL, G.; SA, M. R. G. B.. Participação em banca de Christiane Andrade Regis Tavares. EXTENSÃO UNIVERSrTÁRH Ei,T UÀIA UNIYERSIDADE CÂTOLICA BRÂ§ILEIRA: RECORTES, REÀ/IENDOS E COSTURÂS DE PROCESSO FORiT1ATIVO COÀ O REQUISITO PARA O CUiÂPRI}üENTO DO PÂPEL SOCIÂL DÀ UNIYERSIDADE-2oI 5.2020. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Christiane Andrade Regis Tavares",
+        "membros_banca": [
+          "FREITAS, K. S.",
+          "LEPIKSON, M. F. P.",
+          "DAS NEVES, ADNA SANTOS",
+          "Sá. K.O",
+          "PIMENTEL, G.",
+          "SA, M. R. G. B."
+        ],
+        "titulo_trabalho": "EXTENSÃO UNIVERSrTÁRH Ei,T UÀIA UNIYERSIDADE CÂTOLICA BRÂ§ILEIRA: RECORTES, REÀ/IENDOS E COSTURÂS DE PROCESSO FORiT1ATIVO COÀ O REQUISITO PARA O CUiÂPRI}üENTO DO PÂPEL SOCIÂL DÀ UNIYERSIDADE-2oI 5",
+        "curso": "2021. Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CAVALCANTI, V. S. R; LEPIKSON, M. F. P.; BARROS, D. O. S.; ARAUJO, U. C.; OLIVEIRA, T. C. F.; ROCHA, S. M. C.. Participação em banca de Leide Fernanda de Oliveira. Cotidianos vividos e narrados: percepções das relações sociais, institucionais e familiares referentes à População e Situação de Rua na cidade do Salvador/Ba.. 2021. Tese (Doutorado em Família na Sociedade Contemporãnea) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Leide Fernanda de Oliveira",
+        "membros_banca": [
+          "CAVALCANTI, V. S. R",
+          "LEPIKSON, M. F. P.",
+          "BARROS, D. O. S.",
+          "ARAUJO, U. C.",
+          "OLIVEIRA, T. C. F.",
+          "ROCHA, S. M. C."
+        ],
+        "titulo_trabalho": "Cotidianos vividos e narrados: percepções das relações sociais, institucionais e familiares referentes à População e Situação de Rua na cidade do Salvador/Ba",
+        "curso": "Tese (Doutorado em Família na Sociedade Contemporãnea)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CAVALCANTI, V. S. R; LEPIKSON, M. F. P.; DIAS, M. I. C.; BASTOS, S. S.; ROCHA, S. M. C.; MOREIRA, L. V. C.. Participação em banca de Jeane da Silva Ramos. QUANDO AS VOZES SE TORNAM VISÍVEIS: O PANORAMA DE VIDA DE PESSOAS IDOSAS EM COMUNIDADES CIGANAS. 2021. Tese (Doutorado em Família na Sociedade Contemporãnea) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Jeane da Silva Ramos",
+        "membros_banca": [
+          "CAVALCANTI, V. S. R",
+          "LEPIKSON, M. F. P.",
+          "DIAS, M. I. C.",
+          "BASTOS, S. S.",
+          "ROCHA, S. M. C.",
+          "MOREIRA, L. V. C."
+        ],
+        "titulo_trabalho": "QUANDO AS VOZES SE TORNAM VISÍVEIS: O PANORAMA DE VIDA DE PESSOAS IDOSAS EM COMUNIDADES CIGANAS",
+        "curso": "Tese (Doutorado em Família na Sociedade Contemporãnea)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; Silva, J.S.L; LEPIKSON, M. F. P.; BAHIA, S. C.; SOARES, R. M. F.. Participação em banca de WDILESTON GOMES BATISTA. ?O ASSÉDIO IDEOLÓGICO NO ÂMBITO ACADÊMICO SOB O PRISMA DA NORMATIZAÇÃO. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "WDILESTON GOMES BATISTA. ?O ASSÉDIO IDEOLÓGICO NO ÂMBITO ACADÊMICO SOB O PRISMA DA NORMATIZAÇÃO",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "Silva, J.S.L",
+          "LEPIKSON, M. F. P.",
+          "BAHIA, S. C.",
+          "SOARES, R. M. F."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, Maria de Fátima; IVO, A. B. L.; CRDEL. L.M.S. Participação em banca de Gilmar Bittencourt Santos Silva. QUILOMBO COMO CATEGORIA DAS ORDENS JURÍDICAS: efeitos sobre as políticas sociais públicas de acesso à terra. 2020. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Gilmar Bittencourt Santos Silva",
+        "membros_banca": [
+          "LEPIKSON, Maria de Fátima",
+          "IVO, A. B. L.",
+          "CRDEL. L.M.S"
+        ],
+        "titulo_trabalho": "QUILOMBO COMO CATEGORIA DAS ORDENS JURÍDICAS: efeitos sobre as políticas sociais públicas de acesso à terra",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "CUNHA JUNIOR, D.; FIGUEIREDO, M. G. B.; LEPIKSON, MARIA DE FÁTIMA PESSOA; PERIANDO, F.. Participação em banca de André Vacarezza Basto. O DIREITO FUNDAMENTAL À MORADIA: ACESSO E VIDA DIGNA. 2026. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "André Vacarezza Basto",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "FIGUEIREDO, M. G. B.",
+          "LEPIKSON, MARIA DE FÁTIMA PESSOA",
+          "PERIANDO, F."
+        ],
+        "titulo_trabalho": "O DIREITO FUNDAMENTAL À MORADIA: ACESSO E VIDA DIGNA",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, Maria de Fátima; BORGES, M. G.; PRADO, N.; TEIXEIRA, A. N.; SA, K. O.. Participação em banca de Elizete Evelyn Bonifácio. FORMAÇÃO EM NEURODIVERSIDADE: IMPACTOS NA CONSTRUÇÃO DE PRÁTICAS INCLUSIVAS DA EQUIPE MULTIPROFISSIONAL DO PARQUE SOCIAL NOS ANOS DE 2024/2026. 2026. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Elizete Evelyn Bonifácio",
+        "membros_banca": [
+          "LEPIKSON, Maria de Fátima",
+          "BORGES, M. G.",
+          "PRADO, N.",
+          "TEIXEIRA, A. N.",
+          "SA, K. O."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; LEPIKSON, Maria de Fátima; FIGUEIREDO, M. G. B.; GODOY, A. S. M.; HIRSCH, F. P. A.. Participação em banca de Rui Magalhães Piscitelli,. ?Necessárias Contribuições do Direito Administrativo Contemporâneo e da Interdisciplinaridade Visando à Máxima Efetividade do Direito Fundamental à Educação Mediante Políticas Públicas no Brasil?,. 2026. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Rui Magalhães Piscitelli,. ?Necessárias Contribuições do Direito Administrativo Contemporâneo e da Interdisciplinaridade Visando à Máxima Efetividade do Direito Fundamental à Educação Mediante Políticas Públicas no Brasil?,",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "LEPIKSON, Maria de Fátima",
+          "FIGUEIREDO, M. G. B.",
+          "GODOY, A. S. M.",
+          "HIRSCH, F. P. A."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, Maria de Fátima; FIGUEIREDO, M. G. B.; PRADO, N.; SA, K. O.; TEIXEIRA, A. N.; VIEIRA, ROBERTO CARLOS. Participação em banca de Elizete Evelyn Bonifacio Sá. ?FORMAÇÃO EM NEURODIVERSIDADE: IMPACTOS NA CONSTRUÇÃO DE PRÁTICAS INCLUSIVAS DA EQUIPE MULTIPROFISSIONAL DO PARQUE SOCIAL NOS ANOS DE 2024/2026.?. 2026. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Elizete Evelyn Bonifacio Sá. ?FORMAÇÃO EM NEURODIVERSIDADE: IMPACTOS NA CONSTRUÇÃO DE PRÁTICAS INCLUSIVAS DA EQUIPE MULTIPROFISSIONAL DO PARQUE SOCIAL NOS ANOS DE 2024/2026.?",
+        "membros_banca": [
+          "LEPIKSON, Maria de Fátima",
+          "FIGUEIREDO, M. G. B.",
+          "PRADO, N.",
+          "SA, K. O.",
+          "TEIXEIRA, A. N.",
+          "VIEIRA, ROBERTO CARLOS"
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; BORGES, M. G.; LEPIKSON, M. F. P.; SOARES, R. M. F.; CRUZ, G. D. M.. Participação em banca de Isaura Pimentel Nunes. INFORMAÇÃO: TECNOLOGIA, CIDADANIA, ENVELHECIMENTO E NOVAS FORMAS DE EXCLUSÃO. 2025. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Isaura Pimentel Nunes",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "BORGES, M. G.",
+          "LEPIKSON, M. F. P.",
+          "SOARES, R. M. F.",
+          "CRUZ, G. D. M."
+        ],
+        "titulo_trabalho": "INFORMAÇÃO: TECNOLOGIA, CIDADANIA, ENVELHECIMENTO E NOVAS FORMAS DE EXCLUSÃO",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; FIGUEIREDO, M. G.; LEPIKSON, M. F. P.; SOARES, R. M. F.; Portela, A.. Participação em banca de Carolina Oliveira Serra da Silveira. ENTIDADES BENEFICENTES DE ENSINO SUPERIOR E OS CRITÉRIOS EXIGIDOS PARA FRUIÇÃO DA IMUNIDADE TRIBUTÁRIA: UMA ABORDAGEM SOCIOCONSTITUCIONAL. 2025. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Carolina Oliveira Serra da Silveira",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "FIGUEIREDO, M. G.",
+          "LEPIKSON, M. F. P.",
+          "SOARES, R. M. F.",
+          "Portela, A."
+        ],
+        "titulo_trabalho": "ENTIDADES BENEFICENTES DE ENSINO SUPERIOR E OS CRITÉRIOS EXIGIDOS PARA FRUIÇÃO DA IMUNIDADE TRIBUTÁRIA: UMA ABORDAGEM SOCIOCONSTITUCIONAL",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; TEIXEIRA, A. N.; BORGES, M. G.; SA, K. O.; VIEIRA, R.C; PRADO, N.. Participação em banca de Elizete Evelyn de Sá. FORMAÇÃO EM NEURODIVERSIDADE: IMPACTOS NA CONSTRUÇÃO DE PRÁTICAS INCLUSIVAS DA EQUIPE MULTIPROFISSIONAL DO PARQUE SOCIAL NOS ANOS DE 2024/2026. 2025. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Elizete Evelyn de Sá",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "TEIXEIRA, A. N.",
+          "BORGES, M. G.",
+          "SA, K. O.",
+          "VIEIRA, R.C",
+          "PRADO, N."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU, JULIE; LEPIKSON, M. F. P.; BENEDICTO, R. M.. Participação em banca de Iliassa Ture. POLÍTICAS EDUCACIONAIS, DIREITOS HUMANOS E INTERCULTURALIDADE: O CASO DAS ESCOLAS CORÂNICAS NA GUINÉ-BISSAU. 2025. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Iliassa Ture",
+        "membros_banca": [
+          "LOURAU, JULIE",
+          "LEPIKSON, M. F. P.",
+          "BENEDICTO, R. M."
+        ],
+        "titulo_trabalho": "POLÍTICAS EDUCACIONAIS, DIREITOS HUMANOS E INTERCULTURALIDADE: O CASO DAS ESCOLAS CORÂNICAS NA GUINÉ-BISSAU",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; BOSKA, G. A.; LEPIKSON, M. F. P.. Participação em banca de Karla Beckman. AURICULOTERAPIA EM CRIANÇAS E ADOLESCENTES NO ÂMBITO DA ATENÇÃO PRIMÁRIA À SAÚDE. 2025. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Karla Beckman",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "BOSKA, G. A.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "AURICULOTERAPIA EM CRIANÇAS E ADOLESCENTES NO ÂMBITO DA ATENÇÃO PRIMÁRIA À SAÚDE",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, Maria de Fátima; AVILA, H. D. D.; FIGUEIREDO, M. G. B.; CARRERA, G. O.; CUNHA JUNIOR, D.. Participação em banca de Evandro Luís Santos de Jesus. O PROGRAMA DE APOIO E ACOMPANHAMENTO AOS ADOLESCENTES E JOVENS EGRESSOS NA CIDADE DE SALVADOR: UM ESTUDO SOBRE A CONTRIBUIÇÃO DO PAEG/PARA (RE)INSERÇÃO SOCIAL. 2024. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Evandro Luís Santos de Jesus",
+        "membros_banca": [
+          "LEPIKSON, Maria de Fátima",
+          "AVILA, H. D. D.",
+          "FIGUEIREDO, M. G. B.",
+          "CARRERA, G. O.",
+          "CUNHA JUNIOR, D."
+        ],
+        "titulo_trabalho": "O PROGRAMA DE APOIO E ACOMPANHAMENTO AOS ADOLESCENTES E JOVENS EGRESSOS NA CIDADE DE SALVADOR: UM ESTUDO SOBRE A CONTRIBUIÇÃO DO PAEG/PARA (RE)INSERÇÃO SOCIAL",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, J. L.; LEPIKSON, Maria de Fátima. Participação em banca de Stela SANTANA. SANTANA Stela. ?A atuação das Mulheres do Rosário numa Irmandade de Homens Pretos.?. 2024. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Stela SANTANA",
+        "membros_banca": [
+          "SILVA, J. L.",
+          "LEPIKSON, Maria de Fátima"
+        ],
+        "titulo_trabalho": "SANTANA Stela. ?A atuação das Mulheres do Rosário numa Irmandade de Homens Pretos.?",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; SOARES, R. M. F.; LEPIKSON, M. F. P.; HIRSCH, F. P. A.; PITTA, A. M. F.. Participação em banca de ANDREA MACHADO TEIXEIRA DIAS. CONDIÇÕES DA EFETIVAÇÃO DO DIREITO À SAÚDE E A JUDICIALIZAÇÃO DA POLÍTICA PÚBLICA DE SAÚDE NO ESTADO DA BAHIA ? DO DEVER DO ESTADO AO DIREITO DE TODOS. 2023. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "ANDREA MACHADO TEIXEIRA DIAS",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "SOARES, R. M. F.",
+          "LEPIKSON, M. F. P.",
+          "HIRSCH, F. P. A.",
+          "PITTA, A. M. F."
+        ],
+        "titulo_trabalho": "CONDIÇÕES DA EFETIVAÇÃO DO DIREITO À SAÚDE E A JUDICIALIZAÇÃO DA POLÍTICA PÚBLICA DE SAÚDE NO ESTADO DA BAHIA ? DO DEVER DO ESTADO AO DIREITO DE TODOS",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; AVILA, H. D. D.; NASCIMENTO, J. F.; BORGES, A.; FIGUEIREDO, M. G.. Participação em banca de Nadjane Crisóstomo Prado. PROGRAMA BOLSA FAMÍLIA: A VOZ DAS FAMÍLIAS BENEFICIÁRIAS SOBRE O PROGRAMA. 2022. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Nadjane Crisóstomo Prado",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "AVILA, H. D. D.",
+          "NASCIMENTO, J. F.",
+          "BORGES, A.",
+          "FIGUEIREDO, M. G."
+        ],
+        "titulo_trabalho": "PROGRAMA BOLSA FAMÍLIA: A VOZ DAS FAMÍLIAS BENEFICIÁRIAS SOBRE O PROGRAMA",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; OLIVEIRA, M. A. F.; CUNHA JUNIOR, D.; LEPIKSON, Maria de Fátima; MENDES, V. L. P. S.; BARROS, S.; MONTEIRO, A.. Participação em banca de Denízia Maria Barberino Xavier Santos. CONCILIAÇÃO COMO ESTRATÉGIA UTILIZADA POR PESSOAS IDOSAS NO ACESSO ÀS POLÍTICAS PÚBLICAS: a efetivação do direito fundamental à saúde?. 2022. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Denízia Maria Barberino Xavier Santos",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "OLIVEIRA, M. A. F.",
+          "CUNHA JUNIOR, D.",
+          "LEPIKSON, Maria de Fátima",
+          "MENDES, V. L. P. S.",
+          "BARROS, S.",
+          "MONTEIRO, A."
+        ],
+        "titulo_trabalho": "CONCILIAÇÃO COMO ESTRATÉGIA UTILIZADA POR PESSOAS IDOSAS NO ACESSO ÀS POLÍTICAS PÚBLICAS: a efetivação do direito fundamental à saúde?",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CAVALCANTI, V. S. R; LEPIKSON, M.F.P.; BASTOS, S. S.; ROCHA, S. M. C.; MOREIRA, L. V. C.; LEPIKSON, MARIA DE FÁTIMA PESSÔA. Participação em banca de Jeane da Silva Ramos. QUANDO AS VOZES SE TORNAM VISÍVEIS: O PANORAMA DE VIDA DE PESSOAS IDOSAS EM COMUNIDADES CIGANAS. 2021. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Jeane da Silva Ramos",
+        "membros_banca": [
+          "CAVALCANTI, V. S. R",
+          "LEPIKSON, M.F.P.",
+          "BASTOS, S. S.",
+          "ROCHA, S. M. C.",
+          "MOREIRA, L. V. C.",
+          "LEPIKSON, MARIA DE FÁTIMA PESSÔA"
+        ],
+        "titulo_trabalho": "QUANDO AS VOZES SE TORNAM VISÍVEIS: O PANORAMA DE VIDA DE PESSOAS IDOSAS EM COMUNIDADES CIGANAS",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BORGES, ÂNGELA; FREITAS, K. S.; AMORIM, ANTÔNIO; LEPIKSON, M. F. P.; MUTIM, A. L. B.. Participação em banca de ELIEZER SANTOS DA SILVA. EDUCAÇÃO PROFISSIONAL NA REDE PÚBLICA DE ENSINO DO ESTADO DA BAHIA: UMA POLÍTICA DE EXPANSÃO COM PRECARIZAÇÃO DO TRABALHO DOCENTE. 2021. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "ELIEZER SANTOS DA SILVA",
+        "membros_banca": [
+          "BORGES, ÂNGELA",
+          "FREITAS, K. S.",
+          "AMORIM, ANTÔNIO",
+          "LEPIKSON, M. F. P.",
+          "MUTIM, A. L. B."
+        ],
+        "titulo_trabalho": "EDUCAÇÃO PROFISSIONAL NA REDE PÚBLICA DE ENSINO DO ESTADO DA BAHIA: UMA POLÍTICA DE EXPANSÃO COM PRECARIZAÇÃO DO TRABALHO DOCENTE",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; PINTO, J. M.; LEPIKSON, M. F. P.; LOPES NETO, J.; MAIA, H. F.. Participação em banca de Jorge Augusto Beck Filho. SINTOMAS MUSCULOESQUELÉTICOS, DEPRESSIVOS E INATIVIDADE FÍSICA EM TRABALHADORES TÉCNICO-ADMINISTRATIVO DE UM UNIVERSIDADE PÚBLICA DO NORDESTE DO BRASIL. 2021. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Jorge Augusto Beck Filho",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "PINTO, J. M.",
+          "LEPIKSON, M. F. P.",
+          "LOPES NETO, J.",
+          "MAIA, H. F."
+        ],
+        "titulo_trabalho": "SINTOMAS MUSCULOESQUELÉTICOS, DEPRESSIVOS E INATIVIDADE FÍSICA EM TRABALHADORES TÉCNICO-ADMINISTRATIVO DE UM UNIVERSIDADE PÚBLICA DO NORDESTE DO BRASIL",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BORGES, A.; LEPIKSON, M. F. P.; AMORIM, R. R.; FREITAS, K. S.. Participação em banca de Mara Rute dos Santos Lima. TRAJETÓRIAS DAS JUVENTUDES EM TEMPOS SOMBRIOS: UM OLHAR PARA A EDUCAÇÃO E O TRABALHO DAS JUVENTUDES DO BRASIL. 2021. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Mara Rute dos Santos Lima",
+        "membros_banca": [
+          "BORGES, A.",
+          "LEPIKSON, M. F. P.",
+          "AMORIM, R. R.",
+          "FREITAS, K. S."
+        ],
+        "titulo_trabalho": "TRAJETÓRIAS DAS JUVENTUDES EM TEMPOS SOMBRIOS: UM OLHAR PARA A EDUCAÇÃO E O TRABALHO DAS JUVENTUDES DO BRASIL",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; ANUNCIACAO, C. S.; DE FREITAS, KATIA SIQUEIRA. Participação em banca de Cássia Marly Moreira dos Santos Barros. Crianças e Adolescentes Venezuelanos: a interiorização em Feira de Santana, Bahia e os desafios da Proteção Integral. 2021. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Cássia Marly Moreira dos Santos Barros",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "ANUNCIACAO, C. S.",
+          "DE FREITAS, KATIA SIQUEIRA"
+        ],
+        "titulo_trabalho": "Crianças e Adolescentes Venezuelanos: a interiorização em Feira de Santana, Bahia e os desafios da Proteção Integral",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; ROCHA, J. C. S.; Silva, J.S.L; SOARES, R. M. F.; LEPIKSON, M. F. P.. Participação em banca de MARCO AURÉLIO NASCIMENTO AMADO. PARTITOCRACIA X JURISTOCRACIA: EM BUSCA DE UMA TEORIA DO EQUILÍBRIO PARA O PROBLEMA DA REPRESENTATIVIDADE DA SOCIEDADE CIVIL NO BRASIL. 2021. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "MARCO AURÉLIO NASCIMENTO AMADO",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "ROCHA, J. C. S.",
+          "Silva, J.S.L",
+          "SOARES, R. M. F.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "PARTITOCRACIA X JURISTOCRACIA: EM BUSCA DE UMA TEORIA DO EQUILÍBRIO PARA O PROBLEMA DA REPRESENTATIVIDADE DA SOCIEDADE CIVIL NO BRASIL",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; ROCHA, J. C. S.; SOARES, R. M. F.; Silva, J.S.L; LEPIKSON, M. F. P.. Participação em banca de Marco Aurélio Nascimento Amado. ?PARTITOCRACIA X JURISTOCRACIA: EM BUSCA DE UMA DOGMÁTICA DO EQUILÍBRIO PARA O PROBLEMA DA REPRESENTATIVIDADE DA SOCIEDADE CIVIL NO BRASIL. 2021. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Marco Aurélio Nascimento Amado. ?PARTITOCRACIA X JURISTOCRACIA: EM BUSCA DE UMA DOGMÁTICA DO EQUILÍBRIO PARA O PROBLEMA DA REPRESENTATIVIDADE DA SOCIEDADE CIVIL NO BRASIL",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "ROCHA, J. C. S.",
+          "SOARES, R. M. F.",
+          "Silva, J.S.L",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; LOURAU, JULIE; BAHIA, S. C.; SOARES, R. M. F.; LEPIKSON, M. F. P.. Participação em banca de TAÍS DÓREA DE CARVALHO SANTOS. CIDADANIA, DIREITOS FUNDAMENTAIS E ACESSO À JUSTIÇA: UMA ANÁLISE DA INCOMPATIBILIDADE DOS PRINCÍPIOS CONSTITUCIONAIS ADMINISTRATIVOS COM AS NORMAS DOS JUIZADOS DA FAZENDA PÚBLICA NO TRIBUNAL DE JUSTIÇA DA BAHIA. 2021. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "TAÍS DÓREA DE CARVALHO SANTOS",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "LOURAU, JULIE",
+          "BAHIA, S. C.",
+          "SOARES, R. M. F.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "CIDADANIA, DIREITOS FUNDAMENTAIS E ACESSO À JUSTIÇA: UMA ANÁLISE DA INCOMPATIBILIDADE DOS PRINCÍPIOS CONSTITUCIONAIS ADMINISTRATIVOS COM AS NORMAS DOS JUIZADOS DA FAZENDA PÚBLICA NO TRIBUNAL DE JUSTIÇA DA BAHIA",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; CUNHA, A. R. B. A.; LEPIKSON, Maria de Fátima. Participação em banca de Fernanda Carolina Gomes Pataro de Queiroz Cunha,. ?A POLÍTICA DE SAÚDE MENTAL NO MUNICÍPIO DE CAMAÇARI DESAFIOS.?. 2026. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Fernanda Carolina Gomes Pataro de Queiroz Cunha,. ?A POLÍTICA DE SAÚDE MENTAL NO MUNICÍPIO DE CAMAÇARI DESAFIOS.?",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "CUNHA, A. R. B. A.",
+          "LEPIKSON, Maria de Fátima"
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; BORGES, M. G.. Participação em banca de Henrique Antonio de Arruda. DIFICULDADES E DASAFIO NA ATUAÇÃO DA POLÍCIA PENAL NO CONTROLE DISCIPLINAR DOS SENTENCIADOS NA PENINTENCIÁRIA LEMOS BRITO SALVADOR/BA.. 2025. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Henrique Antonio de Arruda",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "BORGES, M. G."
+        ],
+        "titulo_trabalho": "DIFICULDADES E DASAFIO NA ATUAÇÃO DA POLÍCIA PENAL NO CONTROLE DISCIPLINAR DOS SENTENCIADOS NA PENINTENCIÁRIA LEMOS BRITO SALVADOR/BA",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SANTOS, R.; LEPIKSON, M. F. P.; SANTOS, L. M. S.. Participação em banca de MARIANA MEIRA PORTO DE CASTRO. A VULNERABILIDADE SOCIAL DE ADOLESCENTES EM SALVADOR E O PAPEL DO CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL - CREAS: UMA ANÁLISE CRÍTICA DO SERVIÇO DE EXECUÇÃO DE MEDIDAS SOCIOEDUCATIVAS EM MEIO ABERTO? de autoria de MARIANA MEIRA PORTO DE CASTRO. 2025. Exame de qualificação (Mestrando em Administração) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "MARIANA MEIRA PORTO DE CASTRO",
+        "membros_banca": [
+          "SANTOS, R.",
+          "LEPIKSON, M. F. P.",
+          "SANTOS, L. M. S."
+        ],
+        "titulo_trabalho": "A VULNERABILIDADE SOCIAL DE ADOLESCENTES EM SALVADOR E O PAPEL DO CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL - CREAS: UMA ANÁLISE CRÍTICA DO SERVIÇO DE EXECUÇÃO DE MEDIDAS SOCIOEDUCATIVAS EM MEIO ABERTO? de autoria de MARIANA MEIRA PORTO DE CASTRO",
+        "curso": "Exame de qualificação (Mestrando em Administração)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; SA, K. O.; MIRANDA, H. P.. Participação em banca de Cezar Auguto dos Santos. PROGRAMA MADRE SOCIAL: BENEFÍCIOS E LIMITAÇÕES. 2023. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Cezar Auguto dos Santos",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "SA, K. O.",
+          "MIRANDA, H. P."
+        ],
+        "titulo_trabalho": "PROGRAMA MADRE SOCIAL: BENEFÍCIOS E LIMITAÇÕES",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "Ravazzano. F; ARAUJO, F. R. S.; LEPIKSON, M. F. P.. Participação em banca de Carlos Clóvis Gomers Neto. ?O CRESCIMENTO DA VIOLÊNCIA DOMÉSTICA CONTRA CRIANÇA E ADOLESCENTE NO PERÍODO DA PANDEMIA DA COVID-19 (MARÇO 2020 MARÇO 2021): A DETERIORAÇÃO DA CONSTRUÇÃO DA IDENTIDADE DO SUJEITO E O PAPEL DA DELEGACIA ESPECIALIZADA DE REPRESSÃO A CRIMES CONTRA A CRIANÇA E ADOLESCENTE NA CIDADE DE SALVADOR?. 2023. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Carlos Clóvis Gomers Neto. ?O CRESCIMENTO DA VIOLÊNCIA DOMÉSTICA CONTRA CRIANÇA E ADOLESCENTE NO PERÍODO DA PANDEMIA DA COVID-19 (MARÇO 2020 MARÇO 2021): A DETERIORAÇÃO DA CONSTRUÇÃO DA IDENTIDADE DO SUJEITO E O PAPEL DA DELEGACIA ESPECIALIZADA DE REPRESSÃO A CRIMES CONTRA A CRIANÇA E ADOLESCENTE NA CIDADE DE SALVADOR?",
+        "membros_banca": [
+          "Ravazzano. F",
+          "ARAUJO, F. R. S.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; LEPIKSON, M. F. P.; SANTANA, C. E. C.. Participação em banca de DANIEL SOARES DE OLIVEIRA PESSOA SANTANA. SOBRECARGA LABORAL, MEIO AMBIENTE DE TRABALHO E SÍNDROME DE BURNOUT? REFLEXÕES ACERCA DO ESGOTAMENTO PROFISSIONAL DOS TRABALHADORES DA SAÚDE. 2023. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "DANIEL SOARES DE OLIVEIRA PESSOA SANTANA",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "LEPIKSON, M. F. P.",
+          "SANTANA, C. E. C."
+        ],
+        "titulo_trabalho": "SOBRECARGA LABORAL, MEIO AMBIENTE DE TRABALHO E SÍNDROME DE BURNOUT? REFLEXÕES ACERCA DO ESGOTAMENTO PROFISSIONAL DOS TRABALHADORES DA SAÚDE",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; MIRANDA, H. P.; LEPIKSON, M. F. P.. Participação em banca de NAMARA SANTOS NONATO DE SOUSA. PROJETO POLÍTICO PEDAGÓGICO DA EJA DA REDE MUNICIPAL DE SALVADOR - BA: ASPECTOS HISTÓRICOS, LEGAIS E INDICADORES DE ATUALIZAÇÃO E FORTALECIMENTO. 2023. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "NAMARA SANTOS NONATO DE SOUSA",
+        "membros_banca": [
+          "SA, K. O.",
+          "MIRANDA, H. P.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "PROJETO POLÍTICO PEDAGÓGICO DA EJA DA REDE MUNICIPAL DE SALVADOR - BA: ASPECTOS HISTÓRICOS, LEGAIS E INDICADORES DE ATUALIZAÇÃO E FORTALECIMENTO",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; MIRANDA, H. P.; SA, K. O.. Participação em banca de Marcos Marcelo Ferreira Barreto. EDUCAÇÃO E NEOLIBERALISMO: ANÁLISES SOBRE OS INTERESSES DO EMPRESARIADO NA EDUCAÇÃO PÚBLICA BRASILEIRA. 2023. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Marcos Marcelo Ferreira Barreto",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "MIRANDA, H. P.",
+          "SA, K. O."
+        ],
+        "titulo_trabalho": "EDUCAÇÃO E NEOLIBERALISMO: ANÁLISES SOBRE OS INTERESSES DO EMPRESARIADO NA EDUCAÇÃO PÚBLICA BRASILEIRA",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; TEIXEIRA, R. F.; SOUZA, C. A.; LEPIKSON, M. F. P.; SA, K. O.. Participação em banca de André Márcio Neves Soares. O Mito fda Democrafia Brasileira. 2023. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "André Márcio Neves Soares",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "TEIXEIRA, R. F.",
+          "SOUZA, C. A.",
+          "LEPIKSON, M. F. P.",
+          "SA, K. O."
+        ],
+        "titulo_trabalho": "O Mito fda Democrafia Brasileira",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.; PORTTO, H.. Participação em banca de CAMILA FERREIRA SANTOS. ENSINO MÉDIO: REALIDADE, DESAFIOS E CONTRADIÇÕES NA IMPLANTAÇÃO DA POLÍTICA DE REFORMA A PARTIR DO TRABALHO PEDAGÓGICO - 2023. 2023. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "CAMILA FERREIRA SANTOS",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, M. F. P.",
+          "PORTTO, H."
+        ],
+        "titulo_trabalho": "ENSINO MÉDIO: REALIDADE, DESAFIOS E CONTRADIÇÕES NA IMPLANTAÇÃO DA POLÍTICA DE REFORMA A PARTIR DO TRABALHO PEDAGÓGICO - 2023",
+        "curso": "2023. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; DELGADO, J. A.; LEPIKSON, M. F. P.. Participação em banca de MARIA TEREZA DE JESUS DAMASCENO RODRIGUES. ANÁLISE DA ATENÇÃO À SAÚDE DA PESSOA IDOSA NA ATENÇÃO PRIMÁRIA À SAÚDE NO MUNICÍPIO DE CAMAÇARI-BA. 2022. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "MARIA TEREZA DE JESUS DAMASCENO RODRIGUES",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "DELGADO, J. A.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "ANÁLISE DA ATENÇÃO À SAÚDE DA PESSOA IDOSA NA ATENÇÃO PRIMÁRIA À SAÚDE NO MUNICÍPIO DE CAMAÇARI-BA",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.; VASCONCELOS, P. S. D.. Participação em banca de IGOR GONÇALVES DA SILVA. FILOSOFIA E FORMAÇÃO CRÍTICA: PRESSUPOSTOS EM KANT PARA AUTONOMIA ENQUANTO DIREITO SOCIAL E CIDADANIA PARA O ENSINO MÉDIO. 2022. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "IGOR GONÇALVES DA SILVA",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, M. F. P.",
+          "VASCONCELOS, P. S. D."
+        ],
+        "titulo_trabalho": "FILOSOFIA E FORMAÇÃO CRÍTICA: PRESSUPOSTOS EM KANT PARA AUTONOMIA ENQUANTO DIREITO SOCIAL E CIDADANIA PARA O ENSINO MÉDIO",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; PITTA, A. M. F.; MOTA, A. M. A.. Participação em banca de ELIZETE EVELYN BONIFÁCIO SÁ. CRIANÇAS E ADOLESCENTES COM DEFICIÊNCIA INTELECTUAL: O ESTUDO SOBRE A RELAÇÃO DA SITUAÇÃO DE POBREZA E A VIOLÊNCIA INTRAFAMILIAR. 2022. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "ELIZETE EVELYN BONIFÁCIO SÁ",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "PITTA, A. M. F.",
+          "MOTA, A. M. A."
+        ],
+        "titulo_trabalho": "CRIANÇAS E ADOLESCENTES COM DEFICIÊNCIA INTELECTUAL: O ESTUDO SOBRE A RELAÇÃO DA SITUAÇÃO DE POBREZA E A VIOLÊNCIA INTRAFAMILIAR",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.; LAGO, D.. Participação em banca de MARILEIDE SANTOS BENTO BRAGA. ACERVO LITERÁRIO DO CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL EDUARDO FREITAS DA CIDADE DO SALVADOR-BA: REALIDADE, LIMITES E POSSIBILIDADES NA FORMAÇÃO IDENTITÁRIA DA CRIANÇA NEGRA MEDIANTE A LUTA DE CLASSES. 2022. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "MARILEIDE SANTOS BENTO BRAGA",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, M. F. P.",
+          "LAGO, D."
+        ],
+        "titulo_trabalho": "ACERVO LITERÁRIO DO CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL EDUARDO FREITAS DA CIDADE DO SALVADOR-BA: REALIDADE, LIMITES E POSSIBILIDADES NA FORMAÇÃO IDENTITÁRIA DA CRIANÇA NEGRA MEDIANTE A LUTA DE CLASSES",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; LEPIKSON, M. F. P.; SOUZA, M. K. B.. Participação em banca de Glaucya Chaves Barbosa da Matta. DOAÇÃO DE SANGUE NO ESTADO DA BAHIA: REFLEXÕES SOBRE PARTICIPAÇÃO SOCIAL, SOLIDARIEDADE E CIDADANIA. 2022. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Glaucya Chaves Barbosa da Matta",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "LEPIKSON, M. F. P.",
+          "SOUZA, M. K. B."
+        ],
+        "titulo_trabalho": "DOAÇÃO DE SANGUE NO ESTADO DA BAHIA: REFLEXÕES SOBRE PARTICIPAÇÃO SOCIAL, SOLIDARIEDADE E CIDADANIA",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PITTA, A. M. F.; LEPIKSON, M. F. P.; SOUZA, M. K. B.. Participação em banca de Glaucya Chaves Barbosa da Matta. ?A PARTICIPAÇÃO SOCIAL NA POLÍTICA DE SANGUE: DESAFIOS E ESTRATÉGIAS PARA A AUTOSSUFICIÊNIA HEMOTERÁPICA NO ESTADO DA BAHIA?. 2022. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Glaucya Chaves Barbosa da Matta. ?A PARTICIPAÇÃO SOCIAL NA POLÍTICA DE SANGUE: DESAFIOS E ESTRATÉGIAS PARA A AUTOSSUFICIÊNIA HEMOTERÁPICA NO ESTADO DA BAHIA?",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "LEPIKSON, M. F. P.",
+          "SOUZA, M. K. B."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.; CARVATHO, M. S.. Participação em banca de Mariza Pacheco da Costa. \"REALTDADE DA FORMÀÇÃO Oe PROFESSORES PARA EDUCAçÃO TNTEGRAL EM TEMPO INTEGRAL: LIMITES, DESAFIOS E AVANÇOS A PARTIR DA PEDAGOGIA HISTÓRICO.CRíflCA. 2022. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Mariza Pacheco da Costa. \"REALTDADE DA FORMÀÇÃO Oe PROFESSORES PARA EDUCAçÃO TNTEGRAL EM TEMPO INTEGRAL: LIMITES, DESAFIOS E AVANÇOS A PARTIR DA PEDAGOGIA HISTÓRICO",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, M. F. P.",
+          "CARVATHO, M. S."
+        ],
+        "titulo_trabalho": "CRíflCA",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "DE FREITAS, KATIA SIQUEIRA; PIMENTA, L.B; LEPIKSON, M. F. P.. Participação em banca de Luciana Teixeira Medeiros. ONDE VOCÊ MORA? A ONDE VOCÊ FOI MORAR? UMA ANÁLISE SOBRE A CONTRIBUIÇÃO DA MORADIA UNIVERSITÁRIA PARA OS DISCENTES BENEFICIADOS NOS CAMPI 1, 9, 11 DA UNIVERSIDADE DO ESTADO DA BAHIA- UNEB?. 2021. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Luciana Teixeira Medeiros",
+        "membros_banca": [
+          "DE FREITAS, KATIA SIQUEIRA",
+          "PIMENTA, L.B",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "ONDE VOCÊ MORA? A ONDE VOCÊ FOI MORAR? UMA ANÁLISE SOBRE A CONTRIBUIÇÃO DA MORADIA UNIVERSITÁRIA PARA OS DISCENTES BENEFICIADOS NOS CAMPI 1, 9, 11 DA UNIVERSIDADE DO ESTADO DA BAHIA- UNEB?",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, MARIA DE FÁTIMA PESSÔA; DELGADO, J. A.; BORGES, ÂNGELA. Participação em banca de Tâmara Galvino Leite de Almeida. Trabalho Profissional de Serviço Social no Brasil: reflexões e desafios Contemporâneos. 2021. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Tâmara Galvino Leite de Almeida",
+        "membros_banca": [
+          "LEPIKSON, MARIA DE FÁTIMA PESSÔA",
+          "DELGADO, J. A.",
+          "BORGES, ÂNGELA"
+        ],
+        "titulo_trabalho": "Trabalho Profissional de Serviço Social no Brasil: reflexões e desafios Contemporâneos",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; NEVES, L. B. C.; LEPIKSON, M. F. P.. Participação em banca de Márcia Pereira Martins Vale. FoRMAÇÃo DE pRoFESSoRES: DESAFTO§ NO ÂTENDIMENTO PEDAGOGICO DOÀtlClLlAR NO PROCESSO DE ESCOLARTZAçÃo NA ESCOLA MUNICIPÂL HOSPITALAR E DOMICILIAR IRMÂ DULCE . 2O12 A 2O2O. 2021. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Márcia Pereira Martins Vale",
+        "membros_banca": [
+          "SA, K. O.",
+          "NEVES, L. B. C.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "FoRMAÇÃo DE pRoFESSoRES: DESAFTO§ NO ÂTENDIMENTO PEDAGOGICO DOÀtlClLlAR NO PROCESSO DE ESCOLARTZAçÃo NA ESCOLA MUNICIPÂL HOSPITALAR E DOMICILIAR IRMÂ DULCE . 2O12 A 2O2O",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; BORGES, ÂNGELA; BOUS, J. A. D.. Participação em banca de Tâmara Galvino Leite de Almeida. TRABALHO PROFISSIONAL DO SERVIÇO SOCIAL NO BRASIL: REFLEXÕES E DESAFIOS CONTEMPORÂNEOS. 2021. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Tâmara Galvino Leite de Almeida",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "BORGES, ÂNGELA",
+          "BOUS, J. A. D."
+        ],
+        "titulo_trabalho": "TRABALHO PROFISSIONAL DO SERVIÇO SOCIAL NO BRASIL: REFLEXÕES E DESAFIOS CONTEMPORÂNEOS",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CAVALCANTI, V. S. R; DIAS, M. I. C.; LEPIKSON, Maria de Fátima; BOUS, J. A. D.. Participação em banca de Angela Virgínia Brito Ximenes. CONEXÕES ENTRE MULHERES IDOSAS EM TEMPO SUSPENSO: O ÁRIDO PRESENTE ATRAVESSADO PELAS TRANSITÓRIAS MEMÓRIAS FAMILIARES. 2021. Exame de qualificação (Mestrando em Família na Sociedade Contemporãnea) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Angela Virgínia Brito Ximenes",
+        "membros_banca": [
+          "CAVALCANTI, V. S. R",
+          "DIAS, M. I. C.",
+          "LEPIKSON, Maria de Fátima",
+          "BOUS, J. A. D."
+        ],
+        "titulo_trabalho": "CONEXÕES ENTRE MULHERES IDOSAS EM TEMPO SUSPENSO: O ÁRIDO PRESENTE ATRAVESSADO PELAS TRANSITÓRIAS MEMÓRIAS FAMILIARES",
+        "curso": "Exame de qualificação (Mestrando em Família na Sociedade Contemporãnea)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.. Participação em banca de Mariza Pacheco da Costa. REALIDADE DA FORMAÇÃO DE PROFESSORES PARA EDUCAÇÃO INTEGRAL EM TEMPO INTEGRAL: LIMITES, DESAFIOS E AVANÇOS A PARTIR DA PEDAGOGIA HISTÓRICO-CRÍTICA. 2021. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Mariza Pacheco da Costa",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "REALIDADE DA FORMAÇÃO DE PROFESSORES PARA EDUCAÇÃO INTEGRAL EM TEMPO INTEGRAL: LIMITES, DESAFIOS E AVANÇOS A PARTIR DA PEDAGOGIA HISTÓRICO-CRÍTICA",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, MARIA DE FÁTIMA PESSOA; DELGADO, J. A.; BORGES, A.. Participação em banca de Tâmara Leite Galvino de Almeida. TRABALHO E FORMAÇÃO PROFISSIONAL DO SERVIÇO SOCIAL NO BRASIL: REFLEXÕES E DESAFIOS CONTEMPORÂNEOS. 2020. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Tâmara Leite Galvino de Almeida",
+        "membros_banca": [
+          "LEPIKSON, MARIA DE FÁTIMA PESSOA",
+          "DELGADO, J. A.",
+          "BORGES, A."
+        ],
+        "titulo_trabalho": "TRABALHO E FORMAÇÃO PROFISSIONAL DO SERVIÇO SOCIAL NO BRASIL: REFLEXÕES E DESAFIOS CONTEMPORÂNEOS",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "AVENA, M. E.; LEPIKSON, M. F. P.. Participação em banca de CONCEIÇÃO VIDAL MASSARANDUBA MARTINS LUCIELE AMARAL DE SOUZA.O SERVIÇO SOCIAL NA EFETIVAÇÃO DA LEI BRASILEIRA DE INCLUSÃO (LBI) NAS INSTITUIÇÕES DE ENSINO SUPERIOR (IES): UMA PRÁTICA NO CENTRO DE ESCUTA E ATENDIMENTO COMUNITÁRIO (CEAC - PLENUS). 2023. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "CONCEIÇÃO VIDAL MASSARANDUBA MARTINS LUCIELE AMARAL DE SOUZA",
+        "membros_banca": [
+          "AVENA, M. E.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "O SERVIÇO SOCIAL NA EFETIVAÇÃO DA LEI BRASILEIRA DE INCLUSÃO (LBI) NAS INSTITUIÇÕES DE ENSINO SUPERIOR (IES): UMA PRÁTICA NO CENTRO DE ESCUTA E ATENDIMENTO COMUNITÁRIO (CEAC - PLENUS)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "AVENA, M. E.; CARMO, C. R.; LEPIKSON, M. F. P.. Participação em banca de EMILE NASCIMENTO FREITAS ;RAISSA BRENDA MASCARENHAS SILVA.O PAPEL DO SERVIÇO SOCIAL NO ENFRENTAMENTO DA VIOLÊNCIA DOMÉSTICA CONTRA A MULHER NA CIDADE DE SALVADOR. 2023. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "EMILE NASCIMENTO FREITAS ;RAISSA BRENDA MASCARENHAS SILVA",
+        "membros_banca": [
+          "AVENA, M. E.",
+          "CARMO, C. R.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "O PAPEL DO SERVIÇO SOCIAL NO ENFRENTAMENTO DA VIOLÊNCIA DOMÉSTICA CONTRA A MULHER NA CIDADE DE SALVADOR",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "AVENA, M. E.; LEPIKSON, Maria de Fátima; CARMO, C. R.. Participação em banca de Emile Nascimento Freitas; Raissa Brenda M. Silva.PAPEL DO SERVIÇO SOCIAL NO ENFRENTAMENTO DA VIOLÊNCIA DOMÉSTICA CONTRA A MULHER NA CIDADE DE SALVADOR. 2023. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Emile Nascimento Freitas; Raissa Brenda M",
+        "membros_banca": [
+          "AVENA, M. E.",
+          "LEPIKSON, Maria de Fátima",
+          "CARMO, C. R."
+        ],
+        "titulo_trabalho": "Silva.PAPEL DO SERVIÇO SOCIAL NO ENFRENTAMENTO DA VIOLÊNCIA DOMÉSTICA CONTRA A MULHER NA CIDADE DE SALVADOR",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "AVENA, M. E.; LEPIKSON, M. F. P.; SANTOS, D. C.. Participação em banca de MAÍSA SILVA, MARCOS CONCEIÇÃO, MARIANE RAMOS; THAÍS DAMASCE.SERVIÇO SOCIAL E POPULAÇÃO EM SITUAÇÃO DE RUA: GARANTÍAS E ACESSIBILIDADE AOS DIREITOS BÁSICOS. 2022. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "MAÍSA SILVA, MARCOS CONCEIÇÃO, MARIANE RAMOS; THAÍS DAMASCE",
+        "membros_banca": [
+          "AVENA, M. E.",
+          "LEPIKSON, M. F. P.",
+          "SANTOS, D. C."
+        ],
+        "titulo_trabalho": "SERVIÇO SOCIAL E POPULAÇÃO EM SITUAÇÃO DE RUA: GARANTÍAS E ACESSIBILIDADE AOS DIREITOS BÁSICOS",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; SANTOS, L. M.. Participação em banca de MIRIAN SILVA MOURA DE JESUS.CONTRIBUIÇÃO DO ASSISTENTE SOCIAL NA EDUCAÇÃO PÚBLICA: ACESSO E PERMANÊNCIA DO/A ALUNO EM SITUAÇÃO DE VULNERABILIDADE SOCIAL NO ENSINO FUNDAMENTAL II. 2022. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "MIRIAN SILVA MOURA DE JESUS",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "SANTOS, L. M."
+        ],
+        "titulo_trabalho": "CONTRIBUIÇÃO DO ASSISTENTE SOCIAL NA EDUCAÇÃO PÚBLICA: ACESSO E PERMANÊNCIA DO/A ALUNO EM SITUAÇÃO DE VULNERABILIDADE SOCIAL NO ENSINO FUNDAMENTAL II",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; AVENA, M. E.. Participação em banca de Maria Janete Pereira Ribeiro.O Serviço Social no Serviço de Acolhimento em Família Acolhedora de Crianças e Adolescentes Vítimas de Violência doméstica e intradomiciliar. 2022. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Maria Janete Pereira Ribeiro",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "AVENA, M. E."
+        ],
+        "titulo_trabalho": "O Serviço Social no Serviço de Acolhimento em Família Acolhedora de Crianças e Adolescentes Vítimas de Violência doméstica e intradomiciliar",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; AVENA, M. E.. Participação em banca de ELINEIDE COELHO DOS SANTOS.ADOLESCENTE AUTOR DE ATO INFRACIONAL: A IMPORTÂNCIA DA FAMÍLIA NA FORMAÇÃO E SOCIALIZAÇÃO DO/A ADOLESCENTE. 2021. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "ELINEIDE COELHO DOS SANTOS",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "AVENA, M. E."
+        ],
+        "titulo_trabalho": "ADOLESCENTE AUTOR DE ATO INFRACIONAL: A IMPORTÂNCIA DA FAMÍLIA NA FORMAÇÃO E SOCIALIZAÇÃO DO/A ADOLESCENTE",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CARMO, C.; Oliveira, I.P.F; LEPIKSON, M. F. P.. Participação em banca de MARIA LUIZA BISPO DOS SANTOS.ADOLESCENTE E ATO INFRACIONAL: determinantes sócio-históricos frente aos desdobramentos da questão social na realidade contemporânea. 2021. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "MARIA LUIZA BISPO DOS SANTOS",
+        "membros_banca": [
+          "CARMO, C.",
+          "Oliveira, I.P.F",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "ADOLESCENTE E ATO INFRACIONAL: determinantes sócio-históricos frente aos desdobramentos da questão social na realidade contemporânea",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "AVENA, M. E.; LEPIKSON, M. F. P.. Participação em banca de NAMARA DE ALMEIDA SANTOS.ESCOLA E QUESTÃO SOCIAL: O PAPEL DO SERVIÇO SOCIAL NO PROCESSO DE EDUCAÇÃO DE ADOLESCENTES E JOVENS. 2021. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "NAMARA DE ALMEIDA SANTOS",
+        "membros_banca": [
+          "AVENA, M. E.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "ESCOLA E QUESTÃO SOCIAL: O PAPEL DO SERVIÇO SOCIAL NO PROCESSO DE EDUCAÇÃO DE ADOLESCENTES E JOVENS",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.; AMARAL, L. M. Participação em banca de Leia Souza Fernandes.TRABALHO INFANTIL EM TEMPOS PANDÊMICOS: UMA ANÁLISE DO TRABALHO PRECOCE E DESPROTEGIDO NO CONTEXTO BRASILEIRO. 2021. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Leia Souza Fernandes",
+        "membros_banca": [
+          "LEPIKSON, M. F. P.",
+          "AMARAL, L. M"
+        ],
+        "titulo_trabalho": "TRABALHO INFANTIL EM TEMPOS PANDÊMICOS: UMA ANÁLISE DO TRABALHO PRECOCE E DESPROTEGIDO NO CONTEXTO BRASILEIRO",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CARMO, C. R.; LEPIKSON, M. F. P.. Participação em banca de VICKY ANDRADE DIAS.O BINARISMO DE GÊNERO NO SISTEMA PRISIONAL BRASILEIRO: EXCLUSÃO DAS IDENTIDADES TRANS E TRAVESTI. 2021. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "VICKY ANDRADE DIAS",
+        "membros_banca": [
+          "CARMO, C. R.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "O BINARISMO DE GÊNERO NO SISTEMA PRISIONAL BRASILEIRO: EXCLUSÃO DAS IDENTIDADES TRANS E TRAVESTI",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CARMO, C.; LEPIKSON, MARIA DE FÁTIMA PESSOA. Participação em banca de Katy Layane Lopes da Cunha.A diversidade da identidade de gênero no candomblé. 2020. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Katy Layane Lopes da Cunha",
+        "membros_banca": [
+          "CARMO, C.",
+          "LEPIKSON, MARIA DE FÁTIMA PESSOA"
+        ],
+        "titulo_trabalho": "A diversidade da identidade de gênero no candomblé",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CARMO, C. R.; LEPIKSON, M. F. P.; AMARAL, L. M. Participação em banca de VICKY ANDRADE DIAS.DE GÊNERO NO SISTEMA PRISIONAL BRASILEIRO: EXCLUSÃO DAS IDENTIDADES TRANS E TRAVESTI. 2020. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "VICKY ANDRADE DIAS",
+        "membros_banca": [
+          "CARMO, C. R.",
+          "LEPIKSON, M. F. P.",
+          "AMARAL, L. M"
+        ],
+        "titulo_trabalho": "DE GÊNERO NO SISTEMA PRISIONAL BRASILEIRO: EXCLUSÃO DAS IDENTIDADES TRANS E TRAVESTI",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CARMO, C. R.; LEPIKSON, M. F. P.; AMARAL, L. M. Participação em banca de VICKY ANDRADE DIAS.DE GÊNERO NO SISTEMA PRISIONAL BRASILEIRO: EXCLUSÃO DAS IDENTIDADES TRANS E TRAVESTI. 2020. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "VICKY ANDRADE DIAS",
+        "membros_banca": [
+          "CARMO, C. R.",
+          "LEPIKSON, M. F. P.",
+          "AMARAL, L. M"
+        ],
+        "titulo_trabalho": "DE GÊNERO NO SISTEMA PRISIONAL BRASILEIRO: EXCLUSÃO DAS IDENTIDADES TRANS E TRAVESTI",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "PITTA, A. M. F.; OLIVEIRA, M. A. F.; LEPIKSON, Maria de Fátima. Participação em banca de KARLA ADRIANA FERREIRA BECKMAN. AURICULOTERAPIA EM CRIANÇAS E ADOLESCENTES NO ÂMBITO DA ATENÇÃO PRIMÁRIA À SAÚDE. 2025.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "KARLA ADRIANA FERREIRA BECKMAN",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "OLIVEIRA, M. A. F.",
+          "LEPIKSON, Maria de Fátima"
+        ],
+        "titulo_trabalho": "AURICULOTERAPIA EM CRIANÇAS E ADOLESCENTES NO ÂMBITO DA ATENÇÃO PRIMÁRIA À SAÚDE",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "PITTA, A. M. F.; LEPIKSON, M. F. P.. Participação em banca de Aline CostaJunquilho. A POLÍTICA DE SAÚDE MENTAL NO MUNICÍPIO DE CAMAÇARI-BA: DILEMAS E DESAFIOS.. 2025 - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "Aline CostaJunquilho",
+        "membros_banca": [
+          "PITTA, A. M. F.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "A POLÍTICA DE SAÚDE MENTAL NO MUNICÍPIO DE CAMAÇARI-BA: DILEMAS E DESAFIOS",
+        "curso": "",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; BORGES, M. G.; SOARES, R. M. F.; CRUZ, G. D. M.; LEPIKSON, M. F. P.. Participação em banca de Isaura Pimentel Nunes. INFORMAÇÃO: TECNOLOGIA, CIDADANIA, ENVELHECIMENTO E NOVAS FORMAS DE EXCLUSÃO?. 2025.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "Isaura Pimentel Nunes",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "BORGES, M. G.",
+          "SOARES, R. M. F.",
+          "CRUZ, G. D. M.",
+          "LEPIKSON, M. F. P."
+        ],
+        "titulo_trabalho": "INFORMAÇÃO: TECNOLOGIA, CIDADANIA, ENVELHECIMENTO E NOVAS FORMAS DE EXCLUSÃO?",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.; MIRANDA, H. P.. Participação em banca de NAMARA SANTOS NONATO DE SOUZA. PROJETO POLÍTICO-PEDAGÓGICO DA EJA NA REDE MUNICIPAL DE SALVADOR-Ba: ASPECTOS HISTÓRICOS LEGAIS E INDICADORES DE ATUALIZAÇÃO E FORTALECIMENTO. 2022.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "NAMARA SANTOS NONATO DE SOUZA",
+        "membros_banca": [
+          "SA, K. O.",
+          "LEPIKSON, M. F. P.",
+          "MIRANDA, H. P."
+        ],
+        "titulo_trabalho": "PROJETO POLÍTICO-PEDAGÓGICO DA EJA NA REDE MUNICIPAL DE SALVADOR-Ba: ASPECTOS HISTÓRICOS LEGAIS E INDICADORES DE ATUALIZAÇÃO E FORTALECIMENTO",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.. Seleção docentes PPG PSC. 2022. Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SA, K. O.; TEIXEIRA, A. N.; LEPIKSON, M. F. P.. Seleção discentes PPG PSC. 2023. Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.; BORGES, ÂNGELA; Ravazzano. F; PITTA, A. M. F.; LOURAU, JULIE. Comissão de Seleção Discentes - PPG Políticas Sociais e Cidadania. 2021. Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SA, K. O.; LEPIKSON, M. F. P.; BORGES, ÂNGELA; PITTA, A. M. F.; LOURAU, JULIE; Ravazzano. F. Colegiado PPG Políticas Sociais e Cidadania. 2021. Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; Oliveira, I.P.F; LEPIKSON, M. F. P.; AMARAL, L. M. Núcleo Docente Estruturante - Serviço Social. 2021. Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "LEPIKSON, M. F. P.. Parecerista Caderno do CEAS. 2021. CEAS - UCSAL.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "CEAS",
+        "universidade": "UCSAL"
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 3,
+    "total_livros": 1,
+    "total_capitulos": 4,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 3,
+    "total_projetos_extensao": 1,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 24,
+    "total_orientacoes_andamento": 14
+  }
+}

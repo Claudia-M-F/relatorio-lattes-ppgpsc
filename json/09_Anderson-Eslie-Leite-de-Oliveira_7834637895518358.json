@@ -1,0 +1,679 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "7834637895518358",
+    "nome_completo": "Anderson Eslie Leite de Oliveira",
+    "nome_citacoes": "OLIVEIRA, Anderson Eslie Leite de.",
+    "sexo": "Masculino",
+    "rotulo": "Permanente",
+    "periodo": "2025",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Católica do Salvador, Pro Reitoria de Pesquisa e Pós Graduação, Políticas Sociais e Cidadania. Avenida Professor Pinto de Aguiar Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (71) 32067800 URL da Homepage: https://www.ucsal.br/",
+    "atualizacao_cv": "04/09/2026",
+    "url": "http://lattes.cnpq.br/7834637895518358",
+    "texto_resumo": "Professor Permanente dos Programas de Pós-Graduação em Políticas Sociais e Cidadania e Família na Sociedade Contemporânea da Universidade Católica do Salvador - UCSal, e membro do GEDIH (Grupo de Estudos em Estado, Desigualdades Interseccionais e Humanidades). Possuo Licenciatura em Ciências Sociais pela Universidade Federal da Bahia (2008), Mestrado em Ciências Sociais pela UFBA (2012), e Doutorado em Ciências Sociais pela Unicamp - Universidade Estadual de Campinas (2019). Membro do NENU (Núcleo de Estudantes Negras e Negros da UFBA) de 2003 a 2010. Fui instrutor de desenvolvimento social pela ONG Adesol (2009). Trabalhei como coordenador territorial pela ONG Avante, no projeto Vozes da Cidade (2015). Atuei como professor substituto da disciplina Sociologia no Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA, campus Santo Amaro, entre 2016 e 2017, e como professor de Sociologia do Sesi - Serviço Social da Indústria (2018). Fui editor musical na produtora Arroz de Hauçá, entre 2019 e 2020. Estive como professor do ensino médio e superior do Instituto Federal de São Paulo - IFSP câmpus de Campos do Jordão (2021). Fui professor de Sociologia da Universidade Estadual de Mato Grosso do Sul - UEMS, unidade de Paranaíba entre 2021 e 2022, e professor do Magistério Superior substituto de Sociologia na Faculdade de Filosofia e Ciências Humanas da Universidade Federal da Bahia, entre 2023 e 2025. Discuti colonização e descolonização do continente africano, as lutas por independência, e os debates contemporâneos sobre pensamento anticolonial no podcast Descoloniza Podcast. Tenho um canal no YouTube chamado ''Ciências Sociais em Pauta'' e participei de outro canal sobre temas sociais importantes entrecortados pela dinâmica das relações raciais chamado ''Canal dos Broders''.Tenho experiência na área de Ciências Sociais (Sociologia, Antropologia, Ciência Política), Educação e Música, e no Terceiro Setor. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Ciências Sociais",
+      "nome_instituicao": "Universidade Estadual de Campinas, UNICAMP, Brasil",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2019",
+      "descricao": "Título: A contrução do ídolo pop em programas de reality show musical: Sobre o The Voice Brasil, Ano de obtenção: 2019. Orientador: José Eduardo Ribeiro de Paiva. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Reality Show; Indústria Cultural; Indústria Fonográfica; Música Popular Massiva; Televisão; Rádio. Grande área: Ciências Humanas / Área: Sociologia. Grande Área: Ciências Sociais Aplicadas / Área: Comunicação. Grande Área: Ciências Humanas / Área: Antropologia. Setores de atividade: Educação."
+    },
+    {
+      "tipo": "Mestrado em Ciencias Sociais",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2013",
+      "descricao": "Título: Pichação: arte pública e resistência: Como criação artística permite a formação de uma identidade e resistência de grupos de jovens de bairros periféricos em Salvador., Ano de Obtenção: 2013. Orientador: Antônio da Silva Câmara. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Sociologia da arte; Arte; Pichação; Identidade; Arte de rua; Juventude. Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Arte. Grande Área: Ciências Humanas / Área: Sociologia. Setores de atividade: Atividades artísticas, criativas e de espetáculos."
+    },
+    {
+      "tipo": "Graduação em Ciências Sociais",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2007",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - 2025",
+      "ano_inicio": "2023",
+      "ano_fim": "2025",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2012",
+      "ano_inicio": "2010",
+      "ano_fim": "2012",
+      "vinculo": "Colaborador",
+      "enquadramento": "Mestrando",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2009",
+      "ano_inicio": "2007",
+      "ano_fim": "2009",
+      "vinculo": "Outro (especifique)",
+      "enquadramento": "BOLSISTA",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2023 - 02/2025",
+      "ano_inicio": "2023",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2010 - 12/2020",
+      "ano_inicio": "2010",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, FFCH - Faculdade de Filosofia e ciências Humanas - UFBA."
+      ]
+    },
+    {
+      "instituicao": "Instituto Adesol, IA, Brasil.",
+      "instituicao_nome": "Instituto Adesol",
+      "instituicao_sigla": "IA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2010",
+      "ano_inicio": "2009",
+      "ano_fim": "2010",
+      "vinculo": "Cadastro Geral de Autônomo",
+      "enquadramento": "Instrutor de Desenvolvimento Social",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "ONG Avante, A",
+      "instituicao_nome": "ONG Avante",
+      "instituicao_sigla": "A",
+      "instituicao_pais": null,
+      "periodo": "2015 - 2015",
+      "ano_inicio": "2015",
+      "ano_fim": "2015",
+      "vinculo": "Microempreendedor Individual",
+      "enquadramento": "Coordenador Territorial",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2016 - 2017",
+      "ano_inicio": "2016",
+      "ano_fim": "2017",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2016 - 06/2017",
+      "ano_inicio": "2016",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "SESI - Departamento Regional do Estado da Bahia, SESI/BA, Brasil.",
+      "instituicao_nome": "SESI - Departamento Regional do Estado da Bahia",
+      "instituicao_sigla": "SESI/BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "SESI - Departamento Regional do Estado da Bahia, SESI/BA, Brasil",
+      "instituicao_nome": "SESI - Departamento Regional do Estado da Bahia",
+      "instituicao_sigla": "SESI/BA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "SESI - Departamento Regional do Estado da Bahia, SESI/BA, Brasil",
+      "instituicao_nome": "SESI - Departamento Regional do Estado da Bahia",
+      "instituicao_sigla": "SESI/BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2018 - 09/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Produtora Arroz de Hauçá, PAH, Brasil.",
+      "instituicao_nome": "Produtora Arroz de Hauçá",
+      "instituicao_sigla": "PAH",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2020",
+      "ano_inicio": "2019",
+      "ano_fim": "2020",
+      "vinculo": "Microempreendedor Individual",
+      "enquadramento": "Editor Musical",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de São Paulo, IFSP, Brasil.",
+      "instituicao_nome": "Instituto Federal de São Paulo",
+      "instituicao_sigla": "IFSP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2021 - 2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Substituto - Ciências Sociais",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de São Paulo, IFSP, Brasil",
+      "instituicao_nome": "Instituto Federal de São Paulo",
+      "instituicao_sigla": "IFSP",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2021 - 11/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de São Paulo, IFSP, Brasil",
+      "instituicao_nome": "Instituto Federal de São Paulo",
+      "instituicao_sigla": "IFSP",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2021 - 11/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Mato Grosso do Sul, UEMS, Brasil.",
+      "instituicao_nome": "Universidade Estadual de Mato Grosso do Sul",
+      "instituicao_sigla": "UEMS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2021 - 2022",
+      "ano_inicio": "2021",
+      "ano_fim": "2022",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Temporário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Mato Grosso do Sul, UEMS, Brasil",
+      "instituicao_nome": "Universidade Estadual de Mato Grosso do Sul",
+      "instituicao_sigla": "UEMS",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2021 - 12/2022",
+      "ano_inicio": "2021",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor Permanente",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "GEDIH - Grupo de estudos em Estado, Desigualdades Interseccionais e Humanidades",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Grupo de pesquisa que visa analisar as relações de poder e desigualdade na sociedade,utilizando a interseccionalidade como ferramenta analítica para compreender comodiferentes marcadores sociais (como raça, gênero, classe, geração, território etc.) interageme influenciam as experiências individuais e as estruturas sociais. Estudos em teoria críticadas humanidades na perspectiva interseccional serão realizados em diversos campos comomundo do trabalho, justiça social, cultura e educação.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (4) Doutorado: (3) . Integrantes: Anderson Eslie Leite de Oliveira - Integrante / Claudia Monteiro Fernandes - Coordenador / Ana Maria Marinho Montelo Bomtempo - Integrante / Eduarda Maria Ibiapina da Rocha Coelho - Integrante / Fernando Gonçalves - Integrante / Joana Kary Santana Araújo - Integrante / Liamara Xavier Sena - Integrante / Maria Josefa Fernando Lopes - Integrante / Valdery Matias Conceição - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Anderson Eslie Leite de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Claudia Monteiro Fernandes",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ana Maria Marinho Montelo Bomtempo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eduarda Maria Ibiapina da Rocha Coelho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Fernando Gonçalves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Joana Kary Santana Araújo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Liamara Xavier Sena",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria Josefa Fernando Lopes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Valdery Matias Conceição",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Ciências Sociais",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Ciências Sociais."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Políticas Sociais e Cidadania",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Políticas Sociais e Cidadania."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Relações Raciais",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Relações Raciais."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Razoavelmente",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Imagem, ciência e ideologia",
+      "objetivo": "Articula-se nesta linha temáticas que apresentam interface com a produção imagética e a reprodução idoelógica, bem como a reprodução científica através de novas tecnologias científicas.. Grande área: Ciências Humanas Grande Área: Ciências Humanas / Área: Sociologia. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Arte. Setores de atividade: Educação. Palavras-chave: Ciência; Imagem; Novas tecnologias."
+    },
+    {
+      "nome": "Sociologia da Arte",
+      "objetivo": "Esta linha de pesquisa tem por objetivo agregar estudos que tenham por objeto a arte em seus mais diversos campos (literatura, artes plásticas, música,teatro, dança etc) na sua interface com processos sociais, bem como a realção arte sociedade.. Grande área: Ciências Humanas Grande Área: Ciências Humanas / Área: Sociologia. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Arte. Setores de atividade: Educação. Palavras-chave: Arte; Representações; Sociologia."
+    },
+    {
+      "nome": "Relações Étnico-raciais",
+      "objetivo": "Análise entre os distintos grupos sociais, e entre indivíduos destes grupos, informadas por conceitos e ideias sobre as diferenças e semelhanças relativas ao pertencimento racial destes indivíduos e dos grupos a que pertencem.. Grande área: Ciências Humanas / Área: Sociologia. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Relações Raciais. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Desigualdade Social. Palavras-chave: Ações Afirmativas; Decolonialismo; Racismo; Raça."
+    },
+    {
+      "nome": "Estado, desenvolvimento e desigualdades sociais",
+      "objetivo": "Estudos e discussões sobre a questão da integração social e das políticas voltadas para o enfrentamento da pobreza, da segregação e da exclusão, como processos inerentes ao desenvolvimento do capitalismo. Produção de conhecimentos teóricos e empíricos sobre o caráter intervencionista do Estado, o pensamento social brasileiro [desenvolvimentista] e a análise das tensões entre a modernização econômica e a dinâmica das classes na contemporaneidade.. Grande área: Ciências Humanas / Área: Sociologia. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Políticas Sociais e Cidadania. Grande Área: Ciências Humanas / Área: Ciência Política. Palavras-chave: Estado; Desigualdades Sociais; Trabalho; Estratificação Social; Políticas Sociais."
+    },
+    {
+      "nome": "Direitos sociais e novos direitos, construção de sujeitos e cidadania",
+      "objetivo": "As pesquisas e estudos inseridos nesta linha remetem a) aos direitos sociais instituídos como direitos fundamentais, a sua efetividade através das políticas sociais e o debate em torno do processo de judicialização da política; b) às identidades (gênero, orientação sexual, raça; geração e deficiência), a construção de sujeitos e projetos emancipatórios e sua relação com a conquista de novos direitos; c) aos direitos e políticas sociais focalizados em segmentos específicos da população, definidos em função da idade, do sexo, da raça/etnia, e de outros marcadores sociais; d) a conquista e efetividade das novas dimensões/gerações de direitos e, e) pesquisas e estudos que focalizem os movimentos sociais; a cidadania e o controle social da ação do Estado.. Palavras-chave: Identidades Sociais; Direitos Fundamentais; Políticas Sociais; Cidadania."
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "A lógica do jogo: reality show musical, mercado e precarização no The Voice Brasil",
+        "ano": 2026,
+        "autores": "OLIVEIRA, Anderson Eslie Leite de",
+        "evento": "XXXV Congresso Latino-Americano de Sociologia - ALAS",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Automação e Inteligência Artificial: crises do emprego e novas qualificações",
+        "ano": 2026,
+        "autores": "OLIVEIRA, Anderson Eslie Leite de.; FIGUEIREDO, I. S.",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": [
+      {
+        "titulo": "O picho e o tráfico: Grupos criminosos apropriam prática e incentivam a criminalização de manifestação cultural em Salvador",
+        "ano": 2025,
+        "autores": "OLIVEIRA, Anderson Eslie Leite de.; LIMA, A. S.",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [
+    {
+      "titulo": "Host Inc. - Combustão EP",
+      "ano": 2025,
+      "autores": "OLIVEIRA, Anderson Eslie Leite de",
+      "tipo": "Produção artística/cultural",
+      "evento": ""
+    }
+  ],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "O Estado como Lugar de Cuidado: Políticas de Saúde Mental e Reconhecimento de Sujeitos Vulnerabilizados no Enfrentamento à Violência de Gênero",
+          "ano_inicio": 2026,
+          "orientando": "Tadeu Passos Ferreira",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "EFETIVIDADE DAS RECOMENDAÇÕES DE AUDITORIA GOVERNAMENTAL NA PROMOÇÃO DA EQUIDADE E DA CIDADANIA SUBSTANTIVA: O CASO DO INSTITUTO FEDERAL DA BAHIA - IFBA",
+          "ano_inicio": 2026,
+          "orientando": "Eliene Pereira de Cerqueira",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A PARCERIA ENTRE FAMÍLIA E ESCOLA NA FORMAÇÃO INTEGRAL DOS ALUNOS DA ESCOLA PÚBLICA: DESAFIOS E POSSIBILIDADES",
+          "ano_inicio": 2026,
+          "orientando": "Ana Rosa do Carmo Iberti",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Territorialidades híbridas: mídias digitais e redes de pertencimento de migrantes internacionais em Salvador (2020?2025)",
+          "ano_inicio": 2026,
+          "orientando": "Liamara Xavier Sena",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "ENTRE ALGORITMOS E DESIGUALDADES: A VULNERABILIDADE SOCIAL E OS RISCOS BIOÉTICOS DO USO INDISCRIMINADO DA INTELIGÊNCIA ARTIFICIAL EM PESQUISA CLÍNICA",
+          "ano_inicio": 2026,
+          "orientando": "Mayara de Almeida Nascimento Santana",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "NARCOTRÁFICO E NECROPOLÍTICA NA GUINÉ-BISSAU: Uma análise sobre o poder e desigualdade social",
+          "ano_inicio": 2026,
+          "orientando": "Maria Josefa Fernando Lopes",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "PERCURSO E PERCALÇOS DA INTEGRAÇÃO: relações de sociabilidade entre estudantes internacionais da UNILAB/Malês e a comunidade de São Francisco do Conde (BA) (2014?2024)",
+          "ano_inicio": 2026,
+          "orientando": "Fernando Gonçalves",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "Agenda PED - Sobreviva à Revolução: O imperativo das diretrizes da IA",
+        "apresentacao": null,
+        "ano": 2026,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Encontro Pedagógico 2026",
+        "apresentacao": "1 PPGPSC-UCSAL",
+        "ano": 2026,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "PPGPSC Aula inaugural 2026",
+        "apresentacao": "1",
+        "ano": 2026,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXXV Congresso Latino-Americano de Sociologia - ALAS",
+        "apresentacao": null,
+        "ano": 2026,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXXV Congresso Latino-Americano de Sociologia - ALAS",
+        "apresentacao": "A lógica do jogo: reality show musical, mercado e precarização no The Voice Brasil",
+        "ano": 2026,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "28ª SEMANA DE MOBILIZAÇÃO CIENTÍFICA - SEMOC",
+        "apresentacao": null,
+        "ano": 2025,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Quadros demenciais e o papel da família no cuidado humanizado",
+        "apresentacao": null,
+        "ano": 2025,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XII ENCONTRO DE INOVAÇÃO, TECNOLOGIA E INICIAÇÃO CIENTÍFICA DO IFAL - EITIC 2025",
+        "apresentacao": "PVJ1229-2024 - A imagem pública do IFAL Penedo: um estudo sobre as representações sociais de discentes e familiares, desenvolvido no Campus Penedo",
+        "ano": 2025,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 0,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 1,
+    "total_projetos_pesquisa": 1,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 7
+  }
+}

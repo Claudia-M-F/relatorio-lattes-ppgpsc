@@ -1,0 +1,565 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>ppgpsc</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>ppgpsc</h2></div>
+    <h3>Grafo de colaborações</h3>
+    <p>
+      <a href="membros.html">
+        13 currículos Lattes
+      </a> geraram este grafo baseado em <em>Artigos completos publicados em periódicos, Livros publicados/organizados ou edições, Capítulos de livros publicados, Textos em jornais de notícias/revistas, Trabalhos completos publicados em anais de congressos, Resumos expandidos publicados em anais de congressos, Resumos publicados em anais de congressos, Artigos aceitos para publicação, Apresentações de trabalho, Demais tipos de produção bibliográfica, Programas de computador com registro, Programas de computador sem registro, Produtos tecnológicos, Processos ou técnicas, Trabalhos técnicos , Demais tipos de produção técnica, Entrevistas, mesas redondas, programas e comentários na mídia</em>.<br>
+      O tamanho do vértice é proporcional ao número de colaboradores. A espessura da aresta é proporcional ao número de colaborações.
+    </p>
+    
+    <style>
+      .viz-wrap { display:flex; gap:1rem; }
+      #info-pane {
+        flex:1; max-height: 1200px; overflow:auto;
+        border:1px solid #ddd; padding:0.75rem; background:#fafafa;
+      }
+      .toolbar {
+        display:flex; gap:0.5rem; align-items:center; margin-bottom:0.5rem; flex-wrap: wrap;
+      }
+      .toolbar input[type="text"] {
+        flex:1; min-width: 220px; padding:0.5rem; border:1px solid #ccc; border-radius:8px;
+      }
+      .toolbar button {
+        padding:0.5rem 0.75rem; border:1px solid #ccc; border-radius:8px; background:#fff; cursor:pointer;
+      }
+      .legend { display:flex; align-items:center; gap:.5rem; flex-wrap:wrap;
+        font: 14px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, sans-serif; }
+      .legend .title { margin-right:.25rem; }
+      .legend .item { display:inline-flex; align-items:center; gap:.35rem; margin-right:.75rem; }
+      .legend .swatch { width:14px; height:14px; display:inline-block; border-radius:2px; border:1px solid rgba(0,0,0,.2); }
+    
+      #viz-container { flex:3; height: 70vh; min-height: 620px; border:1px solid #ccc; position:relative; }
+      @media (min-width: 1200px) { #viz-container { height: 1200px; } }
+      @media (max-height: 600px) { #viz-container { height: 60vh; } }
+    
+      .node { cursor:grab; }
+      .node:active { cursor:grabbing; }
+      .node.selected circle { stroke:#111; stroke-width:1px; }
+      .dimmed { opacity:0.15; }
+    
+      .label { font: 5px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, sans-serif; pointer-events:none; }
+      .edge-label { font-size: 3px; line-height: 1; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, sans-serif; fill:#555; }
+      .edge { stroke:#aaa; stroke-opacity:0.85; }
+      .edge.highlight { stroke:#333; }
+      .hidden { display:none !important; }
+    
+      /* Ellipsis + tooltip nas tabelas (aplicado quando Tabulator monta) */
+      #tabela-vertices .tabulator-cell,
+      #tabela-arestas  .tabulator-cell {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+      }
+    </style>
+    
+    <div class="viz-wrap">
+      <div style="flex:3; display:flex; flex-direction:column;">
+        <div class="toolbar">
+          <div id="legend" class="legend">
+            <span class="title">As cores representam os seguintes rótulos:</span>
+          </div>
+          <button id="btnToggleLabels" title="Mostrar/ocultar rótulos (vértices e arestas)">Ocultar rótulos</button>
+          <input id="searchBox" type="text" placeholder="Buscar pesquisador (nome ou ID)..." />
+          <button id="btnSearch">Buscar</button>
+          <button id="btnClear">Limpar seleção</button>
+        </div>
+    
+        <div id="viz-container">
+          <svg id="viz" width="100%" height="100%"></svg>
+        </div>
+      </div>
+    
+      <div id="info-pane">
+        <h4>Informação do Pesquisador</h4>
+        <p>Clique em um nó (ou use a busca) para ver detalhes aqui.</p>
+      </div>
+    </div>
+    
+    <p>Você pode baixar o grafo em formato GEXF:
+      <a href="grafo_de_colaboracoes.gexf" download="grafo_de_colaboracoes.gexf">grafo_de_colaboracoes.gexf</a>
+    </p>
+    
+    <!-- D3 global (sem módulos) -->
+    <script src="js/d3.min.js"></script>
+    
+    <script>
+      // ======= dados =======
+      var graphData = {"directed": false, "multigraph": false, "graph": {}, "nodes": [{"label": "Dirley da Cunha Júnior", "url": "http://lattes.cnpq.br/2828640231760353", "publicacoesEmCoautoria": 0, "atualizacaoCV": "05/08/2026", "resumo": "É Professor Titular de Direito Constitucional da Universidade Federal da Bahia (UFBA), onde ensina nos Cursos de Graduação, Mestrado e Doutorado em Direito. Também é Professor Titular da Universidade Católica do Salvador (UCSAL), onde leciona, no Curso de Graduação em Direito, a disciplina Direito Constitucional, e nos Cursos de Mestrado e Doutorado em Políticas Sociais e Cidadania, as disciplinas Direitos Fundamentais e Efetividade dos Direitos Sociais, Judicialização da Política, Ativismo e Efetividade dos Direitos Sociais. É Professor do Mestrado Profissional em Gestão de Sistemas de Justiça e de mecanismos de Efetivação de Direitos da Faculdade Baiana de Direito. É Pós-Doutor em Direito Constitucional pela Universidade de Lisboa/Portugal (2015-2016). É Doutor em Direito Constitucional pela Pontifícia Universidade Católica de São Paulo - PUC/SP (2001-2003) e Mestre em Direito Econômico pela Universidade Federal da Bahia - UFBA (1996-1999). É Graduado em Direito pela Universidade Federal da Bahia (1987-1991). É Professor Convidado das Escolas Judiciais do TRT 5a Região (BA), TRT 24a Região (MS), TRT 12a Região (SC), da Escola Judicial do TJSE (EJUSE - Escola Judicial do Estado de Sergipe), da Universidade Corporativa do TJBA (UNICORP), da Academia Judicial do TJSC e da Escola da Magistratura Federal da 1a Região do TRF-1a Região (ESMAF/TRF1). Leciona, como conferencista, em diversos Cursos de Pós-Graduação em Direito no País. Tem experiência na área de Direito Público, com ênfase em Direito Constitucional, atuando principalmente nos seguintes temas: Jurisdição Constitucional e Controle de Constitucionalidade; Processo Constitucional e Efetividade dos Direitos Fundamentais; Reforma do Poder Judiciário; Judicialização e Direitos Sociais; Direito Administrativo; e investiga os temas ligados ao Direito, às Políticas Sociais e Cidadania. É Professor-pesquisador do CNPQ, liderando dois grupos de pesquisa. Na Universidade Federal da Bahia, lidera o Núcleo de Pesquisa em ''Jurisdição Constitucional e Controle de Constitucionalidade''. Na UCSAL, lidera o Núcleo de Pesquisa em ''Processo Constitucional e Direitos Fundamentais'', tendo como linhas de pesquisa ''Cidadania e Efetividade dos Direitos'' e ''Jurisdição Constitucional e Efetividade dos Direitos Fundamentais''; e é vice-líder na UFBA do núcleo de pesquisa ''O Discurso Jusfundamental da Dignidade da Pessoa Humana no Direito Comparado''. Atualmente, está desenvolvendo, no Programa de Mestrado e Doutorado em Políticas Sociais e Cidadania da UCSAL, o Projeto de Pesquisa sobre Cidadania e Efetividade dos Direitos Sociais; e no Programa de Mestrado e Doutorado em Direito da UFBA, o Projeto de Pesquisa sobre ''Jurisdição Constitucional e Efetividade dos Direitos Fundamentais''. Possui diversos Livros e Artigos publicados. É Autor dos Livros ''Curso de Direito Constitucional'' (Editora Juspodivm, já na 19a edição), ''Curso de Direito Administrativo'' (Editora Juspodivm, já na 22a edição), ''Controle de Constitucionalidade no Brasil e no Direito Comparado'' (Editora Juspodivm, já na 13a edição), ''Controle Judicial das Omissões do Poder Público'' (Editora Saraiva, 2a edição), ''Constituição Federal para Concursos'' (Editora Juspodivm, já na 16a edição, em coautoria com Marcelo Novelino). É Titular da Cadeira n 09 da Academia de Letras Jurídicas da Bahia. É Membro da Associação Brasileira de Constitucionalistas Democratas (ABCD). É Membro Fundador e Presidente de Honra do Instituto de Direito Constitucional da Bahia (IDCB). É Juiz Federal Titular na Seção Judiciária da Bahia (desde 1999), mas já foi Promotor de Justiça na Bahia (1992-1995) e Procurador da República (1995-1999). Foi Juiz Federal Diretor do Foro da Justiça Federal da Bahia, cargo que ocupou no biênio 2018-2020. (Texto informado pelo autor)", "rotulo": "Permanente", "periodo": "2000", "nomePrimeiraGrandeArea": "Ciências Sociais Aplicadas", "nomePrimeiraArea": "Direito", "instituicao": "Universidade Católica do Salvador, Faculdade de Direito, Departamento de Direito Publico", "enderecoProfissional": "Universidade Católica do Salvador, Faculdade de Direito, Departamento de Direito Publico. Campus da Federação Federação Salvador, BA - Brasil URL da Homepage: http://", "artigosPeriodicos": 12, "artigosEventos": 4, "capitulosDeLivros": 34, "livros": 37, "color": "#fb8072", "fontColor": "#ffffff", "viz": {"color": {"r": 251, "g": 128, "b": 114, "a": 1.0}}, "degree": 0, "x": -0.2063993357002022, "y": 0.6874259463968241, "size": 2, "id": 0}, {"label": "Julie Sarah Lourau Alves da Silva", "url": "http://lattes.cnpq.br/4556425108523824", "publicacoesEmCoautoria": 1, "atualizacaoCV": "09/09/2026", "resumo": "Antropóloga. Professora assistente no PPG de Políticas Sociais e Cidadania da Universidade Católica do Salvador. Líder do grupo de pesquisa Antropologia, Fronteiras, Espaços e Cidadania (GP AFEC). Doutora em Antropologia Social e Etnologia da École des Hautes Études en Sciences sociales (EHESS-França) sob a direção de Michel Agier e doutorado em Ciências Sociais da Universidade Federal da Bahia (UFBA) sob a direção de Maria Rosario de Carvalho (cotutela): ''Festas, turismo e identidades em Salvador da Bahia _ Os pobres do comércio de rua na mega festa carnaval (2013). Fez estágio pós-doutoral CAPES/PNPD no PPG Políticas Sociais e Cidadania da Universidade Católica do Salvador de 2013 a 2017 e foi professora visitante na Universidade de Toulouse em setembro de 2021 a convite do departamento de Geografia (Lisst-Cieu). Teve acolhimento institucional do Laboratório das Ciências Sociais do Político (LaSSP) do Instituto de Ciência Política de Toulouse Capitole 1, sendo membro da equipe de pesquisa Culture Rights, a turning point for cultural policies? A comparison of South Africa, Brazil and France (2019-2023). Membro do Grupo de trabalho Direito à cidade antirracista e equidade de gênero da Ouvidoria da defensoria pública (DP-BA). Coordenadora do Programa de Pós-Graduação Políticas Sociais e Cidadania de julho de 2020 a dezembro de 2021.Trabalha os temas relativos à Direito à cidade; Mobilidades urbanas; Políticas culturais; Juventudes; Estudos das relações étnico-raciais; Ações afirmativas; Antropologia da cidade e Epistemologias críticas e decoloniais. Sócia efetiva da Associação brasileira de antropologia (ABA) desde 2014 e da Associação Brasileira de Pesquisadores Negros (ABPN) desde 2021. (Texto informado pelo autor)", "rotulo": "Permanente", "periodo": "2013", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 8, "artigosEventos": 3, "capitulosDeLivros": 4, "livros": 2, "color": "#fb8072", "fontColor": "#ffffff", "viz": {"color": {"r": 251, "g": 128, "b": 114, "a": 1.0}}, "degree": 1, "x": 0.08210812855205436, "y": 0.008850220272283526, "size": 2, "id": 1}, {"label": "Maria de Fátima Pessôa Lepikson", "url": "http://lattes.cnpq.br/7702914755827440", "publicacoesEmCoautoria": 2, "atualizacaoCV": "28/07/2026", "resumo": "Assistente Social formada pela Escola de Serviço Social da Universidade Católica do Salvador / UCSAL (1978); possui doutorado em Educação pela Universidade Federal da Bahia (2014), mestrado em Educação pela Universidade Federal de Santa Catarina (1998) e especialização em Metodologia do Ensino Superior pela ?Faculdades Olga Mettig?. Assumiu a função de coordenadora do Programa de Mestrado e Doutorado em Políticas Sociais e Cidadania da Universidade Católica do Salvador -UCSAL de janeiro de 2018 a junho de 2020; atualmente é membro do corpo docente deste PPG. Foi membro da Comissão que elaborou Projeto de Mestrado Profissional em Educação (APCN /CAPES) / Programa de Pós-Graduação da UCSAL; foi coordenadora da Escola de Serviço Social da UCSal do qual é hoje, professora; membro do Núcleo Docente Estruturante (NDE) da UCSal; é líder do Grupo de Pesquisa Questão Social, Estado e Sociedade Civil. Presidiu o Conselho Municipal dos Direitos da Criança e do Adolescente da cidade do Salvador / Bahia (por duas gestões 2004/2006 e 2006/2008); exerceu, até o ano de 2016, funções relacionadas à educação popular, mais especificamente execução direta, coordenação e assessoria de projetos voltados para comunidades de periferia e crianças e adolescentes em situação de rua. (Texto informado pelo autor) (Texto informado pelo autor)", "rotulo": "Permanente", "periodo": "2004", "nomePrimeiraGrandeArea": "Ciências Sociais Aplicadas", "nomePrimeiraArea": "Serviço Social", "instituicao": "Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania", "enderecoProfissional": "Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania. Av. Cardeal da Silva, 205 Federação 40231305 - Salvador, BA - Brasil Telefone: (71) 32478711 URL da Homepage: http://ucsal.br", "artigosPeriodicos": 3, "artigosEventos": 0, "capitulosDeLivros": 4, "livros": 1, "color": "#fb8072", "fontColor": "#ffffff", "viz": {"color": {"r": 251, "g": 128, "b": 114, "a": 1.0}}, "degree": 2, "x": 0.05601669527187619, "y": 0.01497918690663884, "size": 3, "id": 2}, {"label": "Kátia Oliver de Sá", "url": "http://lattes.cnpq.br/4245810315007996", "publicacoesEmCoautoria": 3, "atualizacaoCV": "07/09/2026", "resumo": "Doutorado em Educação pela UFBA em 2009. Em 2013 desenvolveu e concluiu estudos, pesquisa e estágio de Pós-doutoramento no PPG da Faculdade de Educação da UNICAMP em História e Filosofia da Educação. Possui Mestrado em Educação pela UFBA (2003). Licenciatura em Educação Física pela Universidade Católica do Salvador (1988). Tem especializações em: Angiologia (1990), Educação em Saúde Pública (1992), Metodologia e Didática do Ensino Superior (1994) e Liderança Organizacional (1998) e Pedagogia Histórico- Crítica para as Escolas do Campo (2015). Tem 35 anos de experiência em docência de ensino superior: Curso de Licenciatura em Educação Física da UCSal (1991 a 2008), UNIRB (2007 a 2013) e Curso de Bacharelado em Hotelaria e Turismo da UNIFACS (2000 a 2002). Foi professora substituta na FACED/UFBA (1995 - 1997). É aposentada do serviço público da rede de ensino do estado da Bahia com 28 anos de serviços prestados à rede de ensino da educação básica (1974-2002); exerceu nesse período o cargo de Gerente do Ensino Fundamental e Educação Especial na SEC/BA (1995-1999). Foi integrante e fundadora do Instituto de Ciências da Atividade Física (ICAF) da Fundação Baiana para o Desenvolvimento da Medicina e desenvolveu serviços nas áreas de Cineantropometria e Orientação de Profilaxia da Insuficiência Venosa Crônica em Membros Inferiores (1989-1996). Exerceu a Chefia de Departamento de Ciências Humanas do curso de Lic. em Educação Física (1994 a 1996) na UCSal. É membro pesquisadora da rede do Grupo de Pesquisa: LEPEL da FACED/UFBA e é líder dos grupos de pesquisa: GEPEFEL e GEPPGE do PPGPSC/UCSal. É pesquisadora associada ao Colégio Brasileiro de Ciências do Esporte (CBCE), em que exerceu o cargo de secretária no estado da Bahia (2004-2006). É membro e foi secretária no estado da Bahia da Associação Nacional pela Formação dos Profissionais da Educação - ANFOPE (2014 a 2016). Trabalhou como pesquisadora com bolsa da FAPEX no ano de 2010, realizando trabalhos pedagógicos e de pesquisa na Licenciatura da Educação do Campo da FACED/UFBA e implantou e coordenou o Polo de Referência de novas Tecnologias para a Educação do Campo no estado da Bahia pela UFBA. Desenvolveu pela FACED/UFBA o PRONACAMPO - Ação Escola da Terra, como formadora de professores de classes multisseriadas e quilombolas no ano de 2014. Foi bolsista pesquisadora do FNDE no ano de 2015, pelo PRONACAMPO na condição de conteudista na ação Escola da Terra, voltada para a formação de professores de educação do campo nos municípios do recôncavo do estado da Bahia; no ano de 2017 foi professora supervisora desse mesmo Programa. Atuou como membro Pesquisadora/Bolsa DTI-B/CNPq do Projeto Diagnóstico Nacional do Esporte - DIESPORTE no. 10.0184/01/01.0033 no ano de 2014 no LEPEL/FACED/UFBA. Foi membro pesquisadora e coordenadora no estado da Bahia do projeto de investigação - PRODUÇÃO DO CONHECIMENTO EM EDUCAÇÃO FÍSICA: Impacto do sistema de pós-graduação das regiões sul e sudeste do Brasil na formação e produção de mestres e doutores que atuam nas instituições de ensino superior da região nordeste, sob a coordenação geral do prof. Dr. Silvio Sánchez Gamboa - UNICAMP. (Financiamento da FAPESP - Proc. 2012 /500019-7), anuência (2011-2016). Atualmente é docente e foi coordenadora do Programa de Pós-Graduação stricto sensu em Políticas Sociais e Cidadania da Universidade Católica do Salvador (UCSal), período de agosto de 2021 a julho de 2023. É membro do Centro de Escrita Científica da UCSal, desde 2018; é membro do Centro de Estudo e Extensão Avançado CEA/UCSal). É atualmente, membro do Fórum de Educação do Estado da Bahia (FEEBA).desenvolve pesquisas e publicações na área de Estudos do Lazer, Educação do Campo, Prática pedagógica do Ensino Superior. Formação de Professores, Gestão Educacional; Epistemologia, Metodologia da Pesquisa, Educação Física, Formação Humana, Pedagogia Histórico Crítica e Psicologia Histórico-cultural. (Texto informado pelo autor)", "rotulo": "Permanente", "periodo": "1991", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Filosofia", "instituicao": "Universidade Católica do Salvador, Programa de Políticas Sociais e Cidadania da UCSal", "enderecoProfissional": "Universidade Católica do Salvador, Programa de Políticas Sociais e Cidadania da UCSal. Avenida Reitor Miguel Calmon Canela 40110100 - Salvador, BA - Brasil Telefone: (71) 33687241", "artigosPeriodicos": 7, "artigosEventos": 1, "capitulosDeLivros": 3, "livros": 1, "color": "#fb8072", "fontColor": "#ffffff", "viz": {"color": {"r": 251, "g": 128, "b": 114, "a": 1.0}}, "degree": 2, "x": 0.025701097946594496, "y": 0.022150994537134632, "size": 3, "id": 3}, {"label": "Joaci de Sousa Cunha", "url": "http://lattes.cnpq.br/7245172604097622", "publicacoesEmCoautoria": 0, "atualizacaoCV": "27/08/2026", "resumo": "Doutor em História pela Universidade Federal da Bahia (UFBA, 2011), pós-doutor pelo Programa de Políticas Sociais e Cidadania da Universidade Católica do Salvador - UCSal (2020), onde desde 2022 é professor do quadro efetivo; mestre em História e Bacharel em Direito também pela UFBA. Tem experiência docente em pesquisa nas áreas de Brasil Republicano, História do Direito, Políticas e Movimentos Sociais, além de História Econômica. É assessor do Centro de Estudos e Ação Social e atual coeditor científico da revista Cadernos do CEAS. Pela Edufba publicou os livros O fazer político da Bahia na República (2017) e, em 2025, Questão agrária-ambiental e movimentos sociais: lições a partir do espaço baiano (1998-2022). (Texto informado pelo autor)", "rotulo": "Permanente", "periodo": "1999", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Ciência Política", "instituicao": "Universidade Católica do Salvador, PPGPPC-UCSAL", "enderecoProfissional": "Universidade Católica do Salvador, PPGPPC-UCSAL. Avenida Professor Pinto de Aguiar Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (071) 991476548", "artigosPeriodicos": 6, "artigosEventos": 0, "capitulosDeLivros": 0, "livros": 1, "color": "#fb8072", "fontColor": "#ffffff", "viz": {"color": {"r": 251, "g": 128, "b": 114, "a": 1.0}}, "degree": 0, "x": 0.6809271956496874, "y": 0.23550960644695387, "size": 2, "id": 4}, {"label": "Aparecida Netto Teixeira", "url": "http://lattes.cnpq.br/4602341145962830", "publicacoesEmCoautoria": 4, "atualizacaoCV": "25/03/2026", "resumo": "Doutora em Estruturas Ambientais Urbanas pela Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - FAUUSP (2004). Pós-doutorado no Programa de Pos Graduação da Universidade Federal da Bahia (PPGAU/UFBA) (2009-2010). Implantou e coordenou o Curso de Arquitetura e Urbanismo da Universidade Católica de Salvador/UCSAL (2015 a 2019), aprovado com nota máxima pelo MEC em 2019. Coordenadora de Pesquisa e Inovação/UCSAL (2020 a 2022). Atualmente é Coordenadora do Programa de Pós-Graduação de Políticas Sociais e Cidadania (UCSAL), Profa. Colaboradora do Programa de Pós-Graduação em Território, Ambiente e Sociedade (UCSAL) e Profa. do Curso de Arquitetura e Urbanismo (UCSAL). Integra o Núcleo de Salvador do Observatório das Metrópoles (INCT/CNPq) e coordena o Grupo de Pesquisa Gestão Democrática das Cidades (CNPq/UCSAL). Tem experiência na área de Arquitetura e Urbanismo, com ênfase principalmente nos seguintes temas: direito à cidade; planejamento urbano regional; habitação de interesse social; espaços públicos; conflitos territoriais e socioambientais. (Texto informado pelo autor)", "rotulo": "Permanente", "periodo": "2009", "nomePrimeiraGrandeArea": "Ciências Sociais Aplicadas", "nomePrimeiraArea": "Arquitetura e Urbanismo", "instituicao": "Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania", "enderecoProfissional": "Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania. Avenida Professor Pinto de Aguiar- 2589 Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (71) 32067895 URL da Homepage: www.ucsal.br", "artigosPeriodicos": 12, "artigosEventos": 11, "capitulosDeLivros": 6, "livros": 1, "color": "#fb8072", "fontColor": "#ffffff", "viz": {"color": {"r": 251, "g": 128, "b": 114, "a": 1.0}}, "degree": 1, "x": -0.013150626473769066, "y": 0.031398861331728034, "size": 2, "id": 5}, {"label": "Maria Gorete Borges Figueirêdo", "url": "http://lattes.cnpq.br/7910445092841679", "publicacoesEmCoautoria": 6, "atualizacaoCV": "17/08/2026", "resumo": "Professora Permanente do Programa de Pós-Graduação em Políticas Sociais e Cidadania - PPGPSC (UCSal). Coordena o PPGPSC e a Assessoria de Relações Internacionais (ARI). Professora na Pós-Graduação Lato Sensu em Gestão de Política da Assistência Social no contexto SUAS(UCSal). Professora na Graduação nos cursos de Direito, Pedagogia, História, Música, Letras e Serviço Social; Doutora em Planejamento Territorial e Desenvolvimento Social (UCSAL) - Área das Ciências Socias Aplicadas; e Mestre em Desenvolvimento Regional e Urbano (UNIFACS), MBA em Finanças Corporativas (UNIFACS), Pós-graduada em Administração de RH (UFBA), e Pós em TERAPIA DE FAMÍLIA (UCSAL/COFAM); é graduada em SERVIÇO SOCIAL (UCSal), e em PEDAGOGIA com Habilitação em Orientação Educacional (FEBA). Foi Pró-reitora de Extensão e Ação Comunitária da UCSAL (2021/2022). Coordenou o Curso de Serviço Social (2019-2024) e Pedagogia na UCSal 2020/2021. Foi Professora Substituta na Universidade Federal do Recôncavo da Bahia-UFRB no curso de Serviço Social (2017/2019); Professora Tutora: Uniasselvi 2009/2014 e na UNEF 2023/2025. Foi Pesquisadora Bolsista na Secretaria de Ciência Tecnologia e Inovação (SECTI BA) 2014/2017, onde atuou com gestão de projetos de energias alternativas, inovação e tecnologias no semiárido BA. Coordenou curso de Pós-graduação ESPECIALIZAÇÃO EM POLITICAS E ESTRATÉGIAS na parceria ADESG-UNEB; trabalhou com Planejamento Estratégico, formação de TIME, acompanhamento e monitoramento de indicadores e certificações ISO 9001 e ISO 26000(1994-2014). Foi facilitadora do CAPACITASUAS- BA pela UFRB (2017/2019) e UFBA (2019/2022). Fez trabalho voluntário no programa Mobilidade Humana com Migrantes e Refugiados (2017-2022). Coordena os grupos de pesquisa GRUPO DE ESTUDOS E PESQUISA EM EDUCAÇÃO, INCLUSÃO E SUSTENTABILIDADE- interdisciplinaridades na Gestão e nas Políticas Públicas (GEPEIS) e o NÚCLEO DE ESTUDOS INTERDISCIPLINARES SOBRE POVOS, MIGRAÇÕES , INCLUSÃO E CIDADANIA - diálogo, práticas e políticas públicas (NEIPOMIC), e é membro ativo dos grupos de pesquisa: GEPPGE Grupo de Estudos em Políticas Públicas e Gestão Educacional do PPGPSC/UCSal cujo objeto de estudo é educação, políticas públicas no cenário nacional e as relações internacionais; Gestão Democrática das Cidades (GDC) cujo objeto de estudo é discutir e investigar processos urbanos contemporâneos, relacionados às políticas públicas e gestão participativa; e Territórios em Resistência que tem como objeto de estudo Territorialidade, Desenvolvimento Social e Meio Ambiente. É membro do Conselho Gestor do Parque Metropolitano de Pituaçu (CGPMP) em Salvador/BA 2021/atual; e é membro Comitê Estadual Intersetorial de Migrações, Apatridia e Refúgio na Bahia - CEIMAR/BA 2025. (Texto informado pelo autor)", "rotulo": "Permanente", "periodo": "2018", "nomePrimeiraGrandeArea": "Ciências Sociais Aplicadas", "nomePrimeiraArea": "Planejamento Urbano e Regional", "instituicao": "Universidade Católica do Salvador, PROGRAMA DE PÓS-GRADUAÇÃO EM POLÍTICAS SOCIAIS E CIDADANIA - PPGPSC", "enderecoProfissional": "Universidade Católica do Salvador, PROGRAMA DE PÓS-GRADUAÇÃO EM POLÍTICAS SOCIAIS E CIDADANIA - PPGPSC. Avenida Professor Pinto de Aguiar n.2589 Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (71) 32067800 URL da Homepage: www.ucsal.br", "artigosPeriodicos": 8, "artigosEventos": 5, "capitulosDeLivros": 6, "livros": 3, "color": "#fb8072", "fontColor": "#ffffff", "viz": {"color": {"r": 251, "g": 128, "b": 114, "a": 1.0}}, "degree": 2, "x": 0.0025157764036236674, "y": 0.027648520648113732, "size": 3, "id": 6}, {"label": "Ilzver de Matos Oliveira", "url": "http://lattes.cnpq.br/4770751511233073", "publicacoesEmCoautoria": 0, "atualizacaoCV": "27/07/2026", "resumo": "Professor do Departamento de Direito da Universidade Federal de Sergipe (2023 - atual) do Programa de Pós-graduação em Direito e do Programa de Pós-graduação em Políticas Sociais e Cidadania da Universidade Católica do Salvador (2023 - atual). Bolsista de Pós-doutorado Sênior CNPq (2022 - 2023). Doutor em Direito pela Pontifícia Universidade Católica do Rio de Janeiro - PUC-RIO (2014) com atividades de pós-doutoramento na UFBA (2017-2018), com bolsa PPDOC/CAPES/FAPITEC. Foi bolsista PDJ/CNPq. É Mestre em Direito pela Universidade Federal da Bahia - UFBA (2008). Possui graduação em Direito pela Universidade Federal de Sergipe - UFS (2004). Foi bolsista do Programa Internacional de Bolsas de Pós-graduação da Fundação Ford - Internacional Fellowship Program - IFP. Realizou Mestrado-Sanduíche no Centro de Estudos Sociais- CES da Universidade de Coimbra, sob a co-orientação do Professor Dr. Boaventura de Sousa Santos. Advogado. Presidiu a Comissão de Igualdade Racial e a Comissão da Verdade Sobre a Escravidão Negra e a Comissão de Igualdade Racial da OAB/SE. Foi professor do Programa de Pós-graduação em Direitos Humanos da Universidade Tiradentes e do Programa de Pós-graduação em Direitos Humanos e Políticas Públicas da Pontifícia Universidade Católica do Paraná - PPGDH/PUCPR. Foi Diretor de Direitos Humanos da Prefeitura de Aracaju. Recebeu o Prêmio Direitos Humanos 2018, do Ministério dos Direitos Humanos, a Medalha de Direitos Humanos ''Dom José Vicente Távora 2019'', da Assembleia Legislativa do Estado de Sergipe e o Prêmio do Programa Ancestralidades de Valorização à Pesquisa 2022, da Fundação Tide Setúbal e Itaú Cultural. Tem experiência na área de Direito, com ênfase em Direito Público, Direito Constitucional e Direitos Humanos, com atuação nos temas ações afirmativas, desenvolvimento sustentável, povos e comunidades tradicionais, desigualdade racial, intolerância religiosa, racismo religioso e políticas públicas. (Texto informado pelo autor)", "rotulo": "Permanente", "periodo": "2023", "nomePrimeiraGrandeArea": "Ciências Sociais Aplicadas", "nomePrimeiraArea": "Direito", "instituicao": "Universidade Federal de Sergipe, Centro de Ciências Sociais Aplicadas, Departamento de Direito", "enderecoProfissional": "Universidade Federal de Sergipe, Centro de Ciências Sociais Aplicadas, Departamento de Direito. Av. Marcelo Deda Chagas Rosa Elze 49100000 - São Cristóvão, SE - Brasil - Caixa-postal: 000 Telefone: (79) 31946767 Ramal: 000 Fax: (79) 00000000 URL da Homepage: https://www.ufs.br", "artigosPeriodicos": 7, "artigosEventos": 0, "capitulosDeLivros": 11, "livros": 4, "color": "#fb8072", "fontColor": "#ffffff", "viz": {"color": {"r": 251, "g": 128, "b": 114, "a": 1.0}}, "degree": 0, "x": -0.3499270040994739, "y": -0.6106354124012527, "size": 2, "id": 7}, {"label": "Cláudia Monteiro Fernandes", "url": "http://lattes.cnpq.br/9606507679613575", "publicacoesEmCoautoria": 0, "atualizacaoCV": "16/07/2026", "resumo": "Professora do Programa de Pós-Graduação em Políticas Sociais e Cidadania da Universidade Católica do Salvador (UCSal). Doutora e Mestra em Sociologia, especialista e bacharel em Ciências Econômicas pela UFBA. Professora Licenciada em Sociologia. Líder do Grupo de pesquisa GEDIH - Grupo de Estudos em Estado, Desigualdades Interseccionais e Humanidades da UCSal. Pesquisadora do Observatório das Metrópoles (INCT), do Programa A Cor da Bahia (UFBA) e do Grupo Periféricas (UFBA). Atuou como bolsista do IPEA, professora substituta na UFRB (CCAAB - Cruz das Almas, Bahia), Diretora de Avaliação de informações educacionais e Coordenadora de Ações Afirmativas em Educação Superior da Secretaria da Educação e Diretora de Planejamento Social da Secretaria de Planejamento do Estado da Bahia. Atuou como oficial de monitoramento e avaliação do UNICEF no Brasil e como Tecnologista do IBGE, na Coordenação de Trabalho e Rendimento, no Rio de Janeiro. Trabalha principalmente com os temas: desigualdades raciais e de gênero, educação, sociologia urbana e econômica, políticas sociais, políticas de cuidados, demografia e indicadores socioeconômicos. ORCID: https://orcid.org/0000-0002-0536-2516 E-mail: claudia.monteiro@pro.ucsal.br (Texto informado pelo autor)", "rotulo": "Permanente", "periodo": "2025", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 1, "artigosEventos": 0, "capitulosDeLivros": 1, "livros": 0, "color": "#fb8072", "fontColor": "#ffffff", "viz": {"color": {"r": 251, "g": 128, "b": 114, "a": 1.0}}, "degree": 0, "x": -0.6199276360806476, "y": 0.313872051678341, "size": 2, "id": 8}, {"label": "Anderson Eslie Leite de Oliveira", "url": "http://lattes.cnpq.br/7834637895518358", "publicacoesEmCoautoria": 0, "atualizacaoCV": "04/09/2026", "resumo": "Professor Permanente dos Programas de Pós-Graduação em Políticas Sociais e Cidadania e Família na Sociedade Contemporânea da Universidade Católica do Salvador - UCSal, e membro do GEDIH (Grupo de Estudos em Estado, Desigualdades Interseccionais e Humanidades). Possuo Licenciatura em Ciências Sociais pela Universidade Federal da Bahia (2008), Mestrado em Ciências Sociais pela UFBA (2012), e Doutorado em Ciências Sociais pela Unicamp - Universidade Estadual de Campinas (2019). Membro do NENU (Núcleo de Estudantes Negras e Negros da UFBA) de 2003 a 2010. Fui instrutor de desenvolvimento social pela ONG Adesol (2009). Trabalhei como coordenador territorial pela ONG Avante, no projeto Vozes da Cidade (2015). Atuei como professor substituto da disciplina Sociologia no Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA, campus Santo Amaro, entre 2016 e 2017, e como professor de Sociologia do Sesi - Serviço Social da Indústria (2018). Fui editor musical na produtora Arroz de Hauçá, entre 2019 e 2020. Estive como professor do ensino médio e superior do Instituto Federal de São Paulo - IFSP câmpus de Campos do Jordão (2021). Fui professor de Sociologia da Universidade Estadual de Mato Grosso do Sul - UEMS, unidade de Paranaíba entre 2021 e 2022, e professor do Magistério Superior substituto de Sociologia na Faculdade de Filosofia e Ciências Humanas da Universidade Federal da Bahia, entre 2023 e 2025. Discuti colonização e descolonização do continente africano, as lutas por independência, e os debates contemporâneos sobre pensamento anticolonial no podcast Descoloniza Podcast. Tenho um canal no YouTube chamado ''Ciências Sociais em Pauta'' e participei de outro canal sobre temas sociais importantes entrecortados pela dinâmica das relações raciais chamado ''Canal dos Broders''.Tenho experiência na área de Ciências Sociais (Sociologia, Antropologia, Ciência Política), Educação e Música, e no Terceiro Setor. (Texto informado pelo autor)", "rotulo": "Permanente", "periodo": "2025", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Católica do Salvador, Pro Reitoria de Pesquisa e Pós Graduação, Políticas Sociais e Cidadania", "enderecoProfissional": "Universidade Católica do Salvador, Pro Reitoria de Pesquisa e Pós Graduação, Políticas Sociais e Cidadania. Avenida Professor Pinto de Aguiar Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (71) 32067800 URL da Homepage: https://www.ucsal.br/", "artigosPeriodicos": 0, "artigosEventos": 1, "capitulosDeLivros": 0, "livros": 0, "color": "#fb8072", "fontColor": "#ffffff", "viz": {"color": {"r": 251, "g": 128, "b": 114, "a": 1.0}}, "degree": 0, "x": 0.12282678637223639, "y": -0.7, "size": 2, "id": 9}, {"label": "Maina Pirajá Silva", "url": "http://lattes.cnpq.br/1454954636042924", "publicacoesEmCoautoria": 0, "atualizacaoCV": "27/07/2026", "resumo": "Doutora em Geografia pela Universidade Federal da Bahia - UFBA. Realizou pós-doutoramento no PPG em Planejamento Territorial e Desenvolvimento Social da Universidade Católica do Salvador - UCSAL. Mestre, bacharel e licenciada em Geografia pela Universidade Federal da Bahia. Atualmente é professora titular e pesquisadora dos PPGs Território, Ambiente e Sociedade e Políticas Sociais e Cidadania da Universidade Católica do Salvador. Coordena o grupo de pesquisa GAM - Grupo de Estudos de Áreas Metropolitanas - UCSAL. Pesquisadora associada à Rede INCT Observatório das Metrópoles - Núcleo Salvador. Desenvolve pesquisas nas áreas da Geografia Urbana e Planejamento Urbano e Regional, com ênfase em análises sobre Governança urbana/metropolitana e arranjos institucionais, Dinâmicas e Transformações socioespaciais, Metropolização turística; Política Urbana e Justiça Social e Espacial, atuando, ainda, na área de geotecnologia. (Texto informado pelo autor)", "rotulo": "Permanente", "periodo": "2019", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Geografia", "instituicao": "Universidade Católica do Salvador, Pós-Graduação", "enderecoProfissional": "Universidade Católica do Salvador, Pós-Graduação. Avenida Professor Pinto de Aguiar Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (71) 30243567", "artigosPeriodicos": 9, "artigosEventos": 0, "capitulosDeLivros": 5, "livros": 1, "color": "#fb8072", "fontColor": "#ffffff", "viz": {"color": {"r": 251, "g": 128, "b": 114, "a": 1.0}}, "degree": 0, "x": 0.5631525935091494, "y": -0.4541555066779778, "size": 2, "id": 10}, {"label": "Gustavo Rodrigues de Oliveira", "url": "http://lattes.cnpq.br/9961846863546492", "publicacoesEmCoautoria": 0, "atualizacaoCV": "03/08/2026", "resumo": "Gestor Hospitalar. Assessor da Presidência e Head do Programa Institucional de Integridade e Conformidade / LGPD. Compliance Officer da Santa Marcelina Saúde SP/SP. Ombudsman responsável pela Gestão do Canal Direto Corporativo. Responsável pela Integração e Gerenciamento Jurídico Estratégico - Contencioso, Consultivo e Contratos (Hospitais e Atenção Primária). Membro da Comissão de Privacidade e Proteção de Dados - CPDP da Ordem dos Advogados do Brasil - Seccional do Rio de Janeiro - OAB/RJ (2025-2027) e da Seccional São Paulo - OAB/SP (2025-2027). Docente do Curso CST em Gestão Hospitalar da Faculdade Racine (Racine/SP).Titular da Disciplina Gerenciamento em Saúde no Curso de Bacharelado em Medicina (Faculdade Santa Marcelina - FASM/SP). Docente no Curso de MBA de Gestão Estratégica em Ouvidoria na Área da Saúde - Centro Universitário São Camilo (CUSC/SP). Docente no Curso de Bacharelado em Direito da Faculdade Unida de São Paulo (FAUSP/SP). Docente nos Cursos de Especialização Lato Sensu em Gestão Hospitalar (Instituto Focar - SP/SP - Araraquara/SP, Ribeirão Preto/SP e Bauru/SP). Docente no MBA em Visagismo (Faculdade Monitor SP/SP e Faculdade Phorte SP/SP). Pós-Doutorado em Politicas Sociais e Cidadania pela Universidade Católica do Salvador (UCSAL/BA); Pós-Doutorando pela Universidade de Araraquara - (UNIARA/SP). Doutor em Desenvolvimento Territorial e Meio Ambiente - Linha de Pesquisa em Politicas Públicas pela Universidade de Araraquara - (UNIARA/SP). Mestre em Administração pela Universidade São Marcos (USM/SP). Especialista em Direito Administrativo e do Estado pela Universidade Gama Filho (UGF/RJ). MBA Executivo em Saúde pela Fundação Getúlio Vargas (FGV/SP), Especialista em Administração Hospitalar pela Universidade de Ribeirão Preto (UNAERP/SP). Graduado em Direito pela Universidade Gama Filho (UGF/RJ). Vivência na área de Administração Público-Privada, com ênfase em Gestão dos Serviços de Saúde. Atuou como Coordenador e Docente do Curso de Administração de Empresas da Faculdade Santa Marcelina (FASM/SP).Atuou como Docente e Coordenador Geral do Programa de Pós-Graduação, Pesquisa e Extensão da Faculdade Paulista de Pesquisa e Ensino Superior (FAPPES/SP) e do PPG de MBA em Coaching (Sociedade Brasileira de Coaching - SBC / FAPPES SP/SP). Atuou como Docente do Curso de Administração de Empresas da FAPPES/SP e da Unisantanna (Centro Universitário Santanna - SP/SP). Atuou como Coordenador da Pós Graduação em Saúde Pública com Ênfase em Saúde da Família e da Pós Graduação em Gerontologia e Interdisciplinaridade - Centro Universitário São Camilo (CUSC/SP).Assessor Jurídico Ad Hoc da Secretaria de Estado da Saúde do Rio de Janeiro (SES-RJ). Ministra palestras, Cursos Livres, dentre outras atividades educacionais. Gestor do Programa de Educação e Negócios e Coordenador do PPG-GHSS - Gestão Hospitalar e dos Serviços de Saúde (FASM SP/SP / AAGAPE Santa Marcelina (Associação para Aprimoramento da Gestão, Assistência, Pesquisa e Ensino Santa Marcelina). Co-Fundador da Liga Acadêmica de Gestão e Empreendedorismo em Saúde - LAGES (FASM/SP). Co-Fundador da Jr. Company (Empresa Jr. do Curso de Administração da Faculdade Santa Marcelina - FASM/SP). Pesquisador em Políticas Públicas, nas linhas de pesquisa: Gestão e Acesso aos Serviços de Saúde e Ciências Jurídicas, com ênfase em Judicialização da Saúde, Responsabilidade Profissional e Penal .Membro Efetivo da Comissão Institucional de Pesquisa (CIP) - Membro Efetivo da Comissão de Bioética (CBio), ambas da Santa Marcelina Saúde. ORCID iD https://orcid.org/0009-0001-5385-1795 (Texto informado pelo autor)", "rotulo": "Colaborador", "periodo": "2025", "nomePrimeiraGrandeArea": "Ciências Sociais Aplicadas", "nomePrimeiraArea": "Administração", "instituicao": "Hospital Santa Marcelina", "enderecoProfissional": "Hospital Santa Marcelina. Rua Santa Marcelina, 177 Itaquera 08270070 - São Paulo, SP - Brasil Telefone: (011) 20706000 Ramal: 6201 Fax: (011) 25247884 URL da Homepage: www.santamarcelina.org", "artigosPeriodicos": 3, "artigosEventos": 0, "capitulosDeLivros": 0, "livros": 0, "color": "#8dd3c7", "fontColor": "#ffffff", "viz": {"color": {"r": 141, "g": 211, "b": 199, "a": 1.0}}, "degree": 0, "x": -0.6626305561251612, "y": -0.22070886963569675, "size": 2, "id": 11}, {"label": "Emerson Tyrone Mattje", "url": "http://lattes.cnpq.br/5794628653554786", "publicacoesEmCoautoria": 0, "atualizacaoCV": "25/06/2026", "resumo": "Pós-Doutor em Políticas Sociais e Cidadania (Universidade Católica do Salvador - Salvador/BA). Doutor em Diversidade Cultural e Inclusão Social (Universidade Feevale - Novo Hamburgo/RS). Mestre pela Faculdade de Direito da Pontifícia Universidade Católica do Rio Grande do Sul - Porto Alegre/RS. Bacharel em Ciências Jurídicas e Sociais (Universidade do Vale do Rio dos Sinos - São Leopoldo/RS). É professor de ensino superior na Universidade FEEVALE. Também exerce o cargo de Auditor Fiscal do Trabalho do quadro permanente de pessoal do Ministério do Trabalho e Emprego. Atua nas áreas do Direito e Interdisciplinar, tendo como suas principais preocupações as seguintes temáticas: Direito do Trabalho; Direitos Humanos; Direito Previdenciário; Fiscalização do Trabalho e Políticas Públicas relacionadas à Qualificação Profissional e à Inclusão de Pessoas com Deficiência no Mercado de Trabalho. Orientou cento e seis trabalhos de conclusão de curso de graduação e cinco monografias de conclusão de curso de aperfeiçoamento/especialização. Participou de trezentas bancas de avaliação de trabalhos de conclusão de curso de graduação e de setenta e sete bancas de avaliação de monografias de conclusão de curso de especialização, de uma banca examinadora de qualificação de mestrado, de quatro bancas de mestrado, de duas bancas examinadoras de qualificação de doutorado e de duas bancas de doutorado. (Texto informado pelo autor)", "rotulo": "Colaborador", "periodo": "2025", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Ciência Política", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 4, "artigosEventos": 0, "capitulosDeLivros": 0, "livros": 0, "color": "#8dd3c7", "fontColor": "#ffffff", "viz": {"color": {"r": 141, "g": 211, "b": 199, "a": 1.0}}, "degree": 0, "x": 0.3187868847740321, "y": 0.6436644004969095, "size": 2, "id": 12}], "links": [{"weight": 1.0, "source": 1, "target": 2}, {"weight": 1.0, "source": 2, "target": 3}, {"weight": 2.0, "source": 3, "target": 6}, {"weight": 4.0, "source": 5, "target": 6}]};
+      var nodes = graphData.nodes.map(function(n,i){
+        return {
+          id: (n.id != null ? n.id : String(i)),
+          label: (n.label != null ? n.label : (n.id != null ? n.id : String(i))),
+          size: (n.size != null ? n.size : (4 + (n.degree || 0) * 0.6)),
+          color: (n.color != null ? n.color : "#1f77b4"),
+          instituicao: n.instituicao,
+          url: n.url,
+          atualizacaoCV: n.atualizacaoCV,
+          periodo: n.periodo,
+          rotulo: n.rotulo,
+          nomePrimeiraGrandeArea: n.nomePrimeiraGrandeArea,
+          nomePrimeiraArea: n.nomePrimeiraArea,
+          publicacoesEmCoautoria: n.publicacoesEmCoautoria,
+          degree: n.degree,
+          artigosPeriodicos: n.artigosPeriodicos,
+          artigosEventos: n.artigosEventos,
+          capitulosDeLivros: n.capitulosDeLivros,
+          livros: n.livros,
+          enderecoProfissional: n.enderecoProfissional
+        };
+      });
+      var links = graphData.links.map(function(e){
+        return { source:e.source, target:e.target, weight:(e.weight||1), color:(e.color||"#aaa") };
+      });
+    
+      // ======= dados para a TABELA (vértices) =======
+      window.__VERTEX_TABLE_DATA__ = nodes.map(function(n){
+        var m = (n.atualizacaoCV||"").toString().match(/(\d{2})\/(\d{2})\/(\d{4})/);
+        var ymd = m ? (parseInt(m[3])*10000 + parseInt(m[2]) * 100 + parseInt(m[1])) : 0;
+        return {
+          id: n.id,
+          nome: n.label,
+          instituicao: n.instituicao || "",
+          url: n.url || "",
+          atualizacao: n.atualizacaoCV || "",
+          atualizacao_num: ymd,
+          periodo: n.periodo || "",
+          rotulo: n.rotulo || "",
+          grande_area: n.nomePrimeiraGrandeArea || "",
+          area: n.nomePrimeiraArea || "",
+          publicacoesEmCoautoria: +n.publicacoesEmCoautoria || 0,
+          degree: +n.degree || 0,
+          artigosPeriodicos: +n.artigosPeriodicos || 0,
+          artigosEventos: +n.artigosEventos || 0,
+          capitulosDeLivros: +n.capitulosDeLivros || 0,
+          livros: +n.livros || 0,
+          enderecoProfissional: n.enderecoProfissional || ""
+        };
+      });
+    
+      // ======= TABELA (arestas) – pares de membros (únicos, peso >= 1) =======
+      (function buildEdgeTableData(){
+        var byId = new Map(nodes.map(function(n){ return [String(n.id), n]; }));
+        function normId(x){ return (typeof x === "object" && x !== null) ? String(x.id) : String(x); }
+    
+        // vizinhanças
+        var neigh = new Map();
+        nodes.forEach(function(n){ neigh.set(String(n.id), new Set()); });
+        links.forEach(function(e){
+          var s = normId(e.source), t = normId(e.target);
+          if (!neigh.has(s)) neigh.set(s, new Set());
+          if (!neigh.has(t)) neigh.set(t, new Set());
+          neigh.get(s).add(t); neigh.get(t).add(s);
+        });
+    
+        var seen = new Set();
+        var rows = [];
+        links.forEach(function(e){
+          var s = normId(e.source), t = normId(e.target);
+          var w = +e.weight || 0;
+          if (w < 1) return;
+          var a = s < t ? s : t, b = s < t ? t : s; // par único
+          var key = a + "||" + b;
+          if (seen.has(key)) return;
+          seen.add(key);
+    
+          var nA = byId.get(a), nB = byId.get(b);
+          if (!nA || !nB) return;
+    
+          // colaboradores em comum (interseção, excluindo o próprio par)
+          var neighA = new Set(neigh.get(a) || []);
+          var neighB = new Set(neigh.get(b) || []);
+          var comuns = 0;
+          neighA.forEach(function(x){
+            if (x === a || x === b) return;
+            if (neighB.has(x)) comuns += 1;
+          });
+    
+          rows.push({
+            aresta: [nA.label, nB.label].sort(function(x,y){ return String(x).localeCompare(String(y)); }).join(", "),
+            colabs:  w,
+            comuns:  comuns
+          });
+        });
+    
+        // ordena: colabs desc, comuns desc, aresta asc
+        rows.sort(function(r1, r2){
+          if (r2.colabs !== r1.colabs) return r2.colabs - r1.colabs;
+          if (r2.comuns !== r1.comuns) return r2.comuns - r1.comuns;
+          return r1.aresta.localeCompare(r2.aresta);
+        });
+    
+        window.__EDGE_TABLE_DATA__ = rows;
+      })();
+    
+      // ======= D3: simulação/zoom/legenda =======
+      var svg = d3.select("#viz"),
+          g = svg.append("g"),
+          zoom = d3.zoom().scaleExtent([0.2, 5]).on("zoom", function(ev){ g.attr("transform", ev.transform); });
+      svg.call(zoom);
+    
+      function getBox() { return document.getElementById("viz-container").getBoundingClientRect(); }
+      var box = getBox();
+      var width = box.width, height = box.height;
+    
+      var weights = links.map(function(d){ return +d.weight || 0; });
+      var minW = d3.min(weights), maxW = d3.max(weights);
+      var edgeWidth = d3.scaleLinear().domain([minW, maxW]).range([1.2, 10]).clamp(true);
+      var edgeOpacity = d3.scaleLinear().domain([minW, maxW]).range([0.56,0.79]).clamp(true);
+    
+      var degrees = nodes.map(function(d){ return +d.degree || 0; });
+      var minD = d3.min(degrees) || 0;
+      var maxD = d3.max(degrees) || 1;
+      var nodeRadius = d3.scaleSqrt().domain([minD, maxD]).range([6, 11]).clamp(true);
+      function R(d){ return nodeRadius(+d.degree || 0); }
+    
+      var edgeLayer = g.append("g").attr("class","edges");
+      var nodeLayer = g.append("g").attr("class","nodes");
+      var labelLayer = g.append("g").attr("class","labels");
+      var edgeLabelLayer = g.append("g").attr("class","edge-labels");
+    
+      var edge = edgeLayer.selectAll("path")
+        .data(links).join("path")
+        .attr("class","edge")
+        .attr("id", function(_,i){ return "e"+i; })
+        .attr("stroke", function(d){ return d.color; })
+        .attr("stroke-width", function(d){ return edgeWidth(+d.weight || 0); })
+        .attr("fill","none")
+        .attr("stroke-opacity", function(d){ return edgeOpacity(+d.weight || 0); });
+    
+      var edgeLabels = edgeLabelLayer.selectAll("text")
+        .data(links).join("text")
+        .attr("class","edge-label")
+        .append("textPath")
+        .attr("href", function(_,i){ return "#e"+i; })
+        .attr("startOffset","50%")
+        .attr("text-anchor","middle")
+        .text(function(d){ return d.weight ? String(d.weight) : ""; });
+    
+      var node = nodeLayer.selectAll("g.node")
+        .data(nodes, function(d){ return d.id; })
+        .join(function(enter){
+          var g = enter.append("g").attr("class","node");
+          g.append("circle")
+            .attr("r", function(d){ return R(d); })
+            .attr("fill", function(d){ return d.color; })
+            .attr("stroke", "#333")
+            .attr("stroke-width", 0.17);
+          return g;
+        });
+    
+      var labels = labelLayer.selectAll("text")
+        .data(nodes, function(d){ return d.id; })
+        .join("text")
+        .attr("class","label")
+        .attr("text-anchor","middle")
+        .attr("dy","-0.05em")
+        .text(function(d){ return d.label; });
+    
+      var centerForce = d3.forceCenter(width/2, height/2);
+      var sim = d3.forceSimulation(nodes)
+        .force("link", d3.forceLink(links).id(function(d){return d.id;}).distance(40).strength(0.6))
+        .force("charge", d3.forceManyBody().strength(-60))
+        .force("collide", d3.forceCollide().radius(function(d){ return R(d)+6; }).iterations(2))
+        .force("center", centerForce)
+        .on("tick", ticked)
+        .on("end", maybeFit);
+    
+      var fitted = false, fitTimeout = setTimeout(function(){ maybeFit(); }, 1000);
+    
+      function ticked(){
+        edge.attr("d", function(d){ return "M"+d.source.x+","+d.source.y+" L"+d.target.x+","+d.target.y; });
+        node.attr("transform", function(d){ return "translate("+d.x+", "+d.y+")"; });
+        labels.attr("x", function(d){ return d.x; }).attr("y", function(d){ return d.y; });
+      }
+    
+      function maybeFit(){
+        if (fitted) return;
+        fitted = true; clearTimeout(fitTimeout);
+        var xs = nodes.map(function(d){ return d.x; }), ys = nodes.map(function(d){ return d.y; });
+        var minX = Math.min.apply(null, xs), maxX = Math.max.apply(null, xs);
+        var minY = Math.min.apply(null, ys), maxY = Math.max.apply(null, ys);
+        var w = Math.max(1, maxX - minX), h = Math.max(1, maxY - minY);
+        var margin = 40;
+        var kx = (width  - margin*2) / w;
+        var ky = (height - margin*2) / h;
+        var scale = Math.max(0.2, Math.min(3, Math.min(kx, ky)));
+        var tx = (width  - scale*(minX + maxX)) / 2;
+        var ty = (height - scale*(minY + maxY)) / 2;
+        svg.transition().duration(600)
+          .call(zoom.transform, d3.zoomIdentity.translate(tx, ty).scale(scale));
+      }
+    
+      node.call(d3.drag()
+        .on("start", function(ev, d){ if (!ev.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+        .on("drag",  function(ev, d){ d.fx = ev.x; d.fy = ev.y; })
+        .on("end",   function(ev, d){ if (!ev.active) sim.alphaTarget(0); d.fx = null; d.fy = null; })
+      );
+    
+      var selectedId = null;
+      function neighborSet(id){
+        var nei = new Set([id]);
+        links.forEach(function(e){
+          var s = (typeof e.source === 'object') ? e.source.id : e.source;
+          var t = (typeof e.target === 'object') ? e.target.id : e.target;
+          if (s === id) nei.add(t);
+          if (t === id) nei.add(s);
+        });
+        return nei;
+      }
+    
+      function renderSelection(){
+        if (!selectedId){
+          node.classed("selected", false);
+          node.classed("dimmed", false);
+          labels.classed("dimmed", false);
+          edge.classed("highlight", false).classed("dimmed", false);
+          edgeLabels.classed("dimmed", false);
+          return;
+        }
+        var keep = neighborSet(selectedId);
+        node.classed("selected", function(d){ return d.id === selectedId; })
+            .classed("dimmed", function(d){ return !keep.has(d.id); });
+        labels.classed("dimmed", function(d){ return !keep.has(d.id); });
+        edge.classed("highlight", function(d){
+              var s = (typeof d.source === 'object') ? d.source.id : d.source;
+              var t = (typeof d.target === 'object') ? d.target.id : d.target;
+              return s === selectedId || t === selectedId;
+            })
+            .classed("dimmed", function(d){
+              var s = (typeof d.source === 'object') ? d.source.id : d.source;
+              var t = (typeof d.target === 'object') ? d.target.id : d.target;
+              return !(s === selectedId || t === selectedId);
+            });
+        edgeLabels.classed("dimmed", function(d){
+          var s = (typeof d.source === 'object') ? d.source.id : d.source;
+          var t = (typeof d.target === 'object') ? d.target.id : d.target;
+          return !(s === selectedId || t === selectedId);
+        });
+      }
+    
+      function fillInfo(d){
+        var pane = document.getElementById("info-pane");
+        var campos = {
+          "Nome": d.label,
+          "Instituição": d.instituicao,
+          "CV": d.url,
+          "Atualização do CV": d.atualizacaoCV,
+          "Período": d.periodo,
+          "Rótulo": d.rotulo,
+          "Primeira Grande Área": d.nomePrimeiraGrandeArea,
+          "Primeira Área": d.nomePrimeiraArea,
+          "Publicações em coautoria": d.publicacoesEmCoautoria,
+          "Número de colaboradores": d.degree,
+          "Artigos em periódicos": d.artigosPeriodicos,
+          "Artigos em eventos": d.artigosEventos,
+          "Capítulos de livro": d.capitulosDeLivros,
+          "Livros": d.livros,
+          "Endereço": d.enderecoProfissional
+        };
+        var html = "<h4>"+(d.label || d.id)+"</h4><ul>";
+        Object.keys(campos).forEach(function(k){
+          var v = campos[k];
+          if (v === undefined || v === null || v === "") return;
+          if (k === "CV"){
+            html += "<li><strong>"+k+":</strong> <a href=\""+v+"\" target=\"_blank\" rel=\"noopener\">"+v+"</a></li>";
+          } else {
+            html += "<li><strong>"+k+":</strong> "+v+"</li>";
+          }
+        });
+        html += "</ul>";
+        pane.innerHTML = html;
+      }
+    
+      function selectNodeById(id){
+        var d = nodes.find(function(n){ return n.id === id; });
+        if (!d) return;
+        selectedId = d.id; fillInfo(d); renderSelection();
+        var t = d3.zoomTransform(svg.node());
+        var scale = Math.max(1.2, t.k);
+        var x = width/2 - d.x * scale;
+        var y = height/2 - d.y * scale;
+        svg.transition().duration(600).call(zoom.transform, d3.zoomIdentity.translate(x, y).scale(scale));
+      }
+      node.on("click", function(_, d){ selectNodeById(d.id); });
+    
+      function norm(s){ return (s||"").toString().normalize("NFD").replace(/\p{Diacritic}/gu,"").toLowerCase().trim(); }
+      function searchAndSelect(q){
+        var nq = norm(q); if (!nq) return;
+        var hit = nodes.find(function(n){ return norm(n.label) === nq || norm(n.id) === nq; });
+        if (!hit) hit = nodes.find(function(n){ return norm(n.label).indexOf(nq) >= 0; });
+        if (hit) selectNodeById(hit.id);
+      }
+      document.getElementById("btnSearch").addEventListener("click", function(){
+        searchAndSelect(document.getElementById("searchBox").value);
+      });
+      document.getElementById("searchBox").addEventListener("keydown", function(ev){
+        if (ev.key === "Enter") searchAndSelect(ev.target.value);
+      });
+      document.getElementById("btnClear").addEventListener("click", function(){
+        selectedId = null; renderSelection();
+        document.getElementById("info-pane").innerHTML =
+          "<h4>Informação do Pesquisador</h4><p>Clique em um nó (ou use a busca) para ver detalhes aqui.</p>";
+      });
+    
+      var labelsVisible = true;
+      var btnToggle = document.getElementById("btnToggleLabels");
+      function applyLabelsVisibility(){
+        labelLayer.classed("hidden", !labelsVisible);
+        d3.select(".edge-labels").classed("hidden", !labelsVisible);
+      }
+      btnToggle.addEventListener("click", function(){
+        labelsVisible = !labelsVisible;
+        btnToggle.textContent = labelsVisible ? "Ocultar rótulos" : "Mostrar rótulos";
+        applyLabelsVisibility();
+      });
+      applyLabelsVisibility();
+    
+      // legenda (cores por rótulo)
+      var byRotulo = d3.rollup(nodes, function(v){ return v[0].color; }, function(d){ return d.rotulo || "Sem rótulo"; });
+      var legendData = Array.from(byRotulo, function(entry){ return {rotulo: entry[0], color: entry[1]}; });
+      var legend = d3.select("#legend");
+      legend.selectAll("span.item")
+        .data(legendData)
+        .join("span")
+        .attr("class","item")
+        .html(function(d){ return '<span class="swatch" style="background:'+d.color+'"></span>'+d.rotulo; });
+    
+      // refit ao redimensionar
+      var ro = new ResizeObserver(function(){
+        var b = getBox();
+        width = b.width; height = b.height;
+        centerForce = d3.forceCenter(width/2, height/2);
+        sim.force("center", centerForce).alpha(0.05).restart();
+        fitted = false; maybeFit();
+      });
+      ro.observe(document.getElementById("viz-container"));
+    </script>
+    
+    <hr style="margin:1.25rem 0">
+    
+    <h3>Vértices</h3>
+    <p>Esta tabela lista todos os atributos usados para compor os vértices do grafo acima.</p>
+    <div class="sl-controls">
+      <button id="vert-csv">⬇️ CSV</button>
+      <button id="vert-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-vertices" class="sl-tabela"></div>
+    
+    <h3 style="margin-top:1.5rem;">Arestas (pares de membros)</h3>
+    <p>Veja quais pares de membros mais colaboram e quantos colaboradores em comum possuem.</p>
+    <div class="sl-controls">
+      <button id="edge-csv">⬇️ CSV</button>
+      <button id="edge-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-arestas" class="sl-tabela"></div>
+    
+    <!-- Tabulator -->
+    <link href="css/tabulator_site.min.css" rel="stylesheet" />
+    <link href="css/tabulator-scriplattes.css" rel="stylesheet" />
+    <script src="js/tabulator.min.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+    
+    <script>
+      // Dados vindos dos blocos anteriores
+      var DATA_VERT  = (window.__VERTEX_TABLE_DATA__ || []);
+      var DATA_EDGES = (window.__EDGE_TABLE_DATA__  || []);
+    
+      // Heurística de altura (evita rolagem infinita)
+      function heightFor(n){
+        if (n <= 12) return "auto";
+        if (n <= 60) return "40vh";
+        return "60vh";
+      }
+      var HEIGHT_VERT = heightFor(DATA_VERT.length);
+      var HEIGHT_EDG  = heightFor(DATA_EDGES.length);
+    
+      const LANG_PT = {
+        "pt-br": {
+          "pagination": {
+            "first":"«","first_title":"Primeira",
+            "last":"»","last_title":"Última",
+            "prev":"‹","prev_title":"Anterior",
+            "next":"›","next_title":"Próxima"
+          },
+          "headerFilters": { "default":"⎯ Filtrar ⎯" }
+        }
+      };
+    
+      // Ordenação por data BR via campo auxiliar yyyymmdd
+      function sortDateBR(a, b, aRow, bRow) {
+        var av = (aRow && aRow.getData && aRow.getData().atualizacao_num) || 0;
+        var bv = (bRow && bRow.getData && bRow.getData().atualizacao_num) || 0;
+        return av - bv;
+      }
+    
+      // Formatter de link com title (tooltip no <a>) — usado na coluna "Nome" dos vértices
+      function linkWithTitle(cell) {
+        const data = cell.getData();
+        const url = String(data.url || "#");
+        const label = String(cell.getValue() ?? "");
+        const a = document.createElement("a");
+        a.href = url; a.textContent = label; a.target = "_blank"; a.rel = "noopener"; a.title = label;
+        return a;
+      }
+    
+      // Helper para criar Tabulator com tooltips + ellipsis
+      function createTable(el, data, columns, initialSort, height){
+        const base = {
+          data,
+          layout: "fitColumns",
+          responsiveLayout: "collapse",
+          pagination: "local",
+          paginationSize: 50,
+          paginationSizeSelector: [10, 25, 50, 100, 200, 500],
+          movableColumns: true,
+          initialSort,
+          headerFilterLiveFilter: true,
+          columns,
+          locale: true, langs: LANG_PT, locale: "pt-br",
+          tooltips: true
+        };
+        if (height !== "auto") base.height = height;
+        return new Tabulator(el, base);
+      }
+    
+      // === VÉRTICES ===
+      (function(){
+        const columns = [
+          { title:"ID", field:"id", headerFilter:"input", tooltip:true },
+          { title:"Nome", field:"nome", formatter: linkWithTitle,
+            headerFilter:"input", widthGrow:2, tooltip:true },
+          { title:"Instituição", field:"instituicao", headerFilter:"input", tooltip:true },
+          { title:"Atualização CV", field:"atualizacao", headerFilter:"input", sorter: sortDateBR, tooltip:true },
+          { title:"Período", field:"periodo", headerFilter:"input", tooltip:true },
+          { title:"Rótulo", field:"rotulo", headerFilter:"input", tooltip:true },
+          { title:"Grande área", field:"grande_area", headerFilter:"input", tooltip:true },
+          { title:"Área", field:"area", headerFilter:"input", tooltip:true },
+          { title:"Publicações em coautoria", field:"publicacoesEmCoautoria", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Nº colaboradores (grau)", field:"degree", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Artigos em periódicos", field:"artigosPeriodicos", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Artigos em eventos", field:"artigosEventos", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Capítulos de livro", field:"capitulosDeLivros", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Livros", field:"livros", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Endereço", field:"enderecoProfissional", headerFilter:"input", widthGrow:2, tooltip:true }
+        ];
+        const sort = [{ column:"degree", dir:"desc" }];
+        const t = createTable("#tabela-vertices", DATA_VERT, columns, sort, HEIGHT_VERT);
+        document.getElementById("vert-csv").onclick  = () => t.download("csv",  "vertices_campos.csv", { bom:true });
+        document.getElementById("vert-xlsx").onclick = () => t.download("xlsx", "vertices_campos.xlsx", { sheetName:"Vértices" });
+      })();
+    
+      // === ARESTAS (coluna única "Aresta") ===
+      (function(){
+        const columns = [
+          { title:"Aresta", field:"aresta", headerFilter:"input", widthGrow:3, tooltip:true },
+          { title:"Número de colaborações", field:"colabs", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Nº de colaboradores em comum", field:"comuns", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true }
+        ];
+        const sort = [{ column:"colabs", dir:"desc" }, { column:"comuns", dir:"desc" }];
+        const t = createTable("#tabela-arestas", DATA_EDGES, columns, sort, HEIGHT_EDG);
+        document.getElementById("edge-csv").onclick  = () => t.download("csv",  "arestas_colaboracoes.csv", { bom:true });
+        document.getElementById("edge-xlsx").onclick = () => t.download("xlsx", "arestas_colaboracoes.xlsx", { sheetName:"Arestas" });
+      })();
+    </script>
+    <br><p><br>(*) Relatório criado com produções desde 2020 até 2026
+<br>Data de processamento: 28/10/2026 14:05:01<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V.2025.09</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:claudia.monteiro@pro.ucsal.br">claudia.monteiro@pro.ucsal.br</a>         </div> </body></html>

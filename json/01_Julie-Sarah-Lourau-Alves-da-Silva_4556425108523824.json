@@ -1,0 +1,2316 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "4556425108523824",
+    "nome_completo": "Julie Sarah Lourau Alves da Silva",
+    "nome_citacoes": "SILVA, J. S. L. A.;LOURAU J. S.;LOURAU-SILVA J.S.;LOURAU, JULIE",
+    "sexo": "Masculino",
+    "rotulo": "Permanente",
+    "periodo": "2013",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "09/09/2026",
+    "url": "http://lattes.cnpq.br/4556425108523824",
+    "texto_resumo": "Antropóloga. Professora assistente no PPG de Políticas Sociais e Cidadania da Universidade Católica do Salvador. Líder do grupo de pesquisa Antropologia, Fronteiras, Espaços e Cidadania (GP AFEC). Doutora em Antropologia Social e Etnologia da École des Hautes Études en Sciences sociales (EHESS-França) sob a direção de Michel Agier e doutorado em Ciências Sociais da Universidade Federal da Bahia (UFBA) sob a direção de Maria Rosario de Carvalho (cotutela): ''Festas, turismo e identidades em Salvador da Bahia _ Os pobres do comércio de rua na mega festa carnaval (2013). Fez estágio pós-doutoral CAPES/PNPD no PPG Políticas Sociais e Cidadania da Universidade Católica do Salvador de 2013 a 2017 e foi professora visitante na Universidade de Toulouse em setembro de 2021 a convite do departamento de Geografia (Lisst-Cieu). Teve acolhimento institucional do Laboratório das Ciências Sociais do Político (LaSSP) do Instituto de Ciência Política de Toulouse Capitole 1, sendo membro da equipe de pesquisa Culture Rights, a turning point for cultural policies? A comparison of South Africa, Brazil and France (2019-2023). Membro do Grupo de trabalho Direito à cidade antirracista e equidade de gênero da Ouvidoria da defensoria pública (DP-BA). Coordenadora do Programa de Pós-Graduação Políticas Sociais e Cidadania de julho de 2020 a dezembro de 2021.Trabalha os temas relativos à Direito à cidade; Mobilidades urbanas; Políticas culturais; Juventudes; Estudos das relações étnico-raciais; Ações afirmativas; Antropologia da cidade e Epistemologias críticas e decoloniais. Sócia efetiva da Associação brasileira de antropologia (ABA) desde 2014 e da Associação Brasileira de Pesquisadores Negros (ABPN) desde 2021. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Antropologia social e etnologia",
+      "nome_instituicao": "Ecole des Hautes Etudes en Sciences Sociales, EHESS, França",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2013",
+      "descricao": "com período co-tutela em Ecole des Hautes Etudes en Sciences Sociales (Orientador: Michel Agier). Título: Festa, turismo e identidade em Salvador da Bahia. Os \"pobres\" do comercio de rua na \"mega festa\" carnaval: populaçao negra e informalidade, Ano de obtenção: 2013. Orientador: Michel Agier. Coorientador: Maria Rosario de Carvalho. Palavras-chave: antropologia do espaço; carnaval; turismo; informalidade. Grande área: Ciências Humanas / Área: Antropologia. Setores de atividade: Outras atividades profissionais, científicas e técnicas."
+    },
+    {
+      "tipo": "Mestrado em Estudos comparativos sob o desenvolvimento",
+      "nome_instituicao": "Ecole des Hautes Etudes en Sciences Sociales, EHESS, França",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2005",
+      "descricao": "Título: Carnaval, espaço e trabalho em Salvador de Bahia, Ano de Obtenção: 2005. Orientador: Michel Agier. Palavras-chave: carnaval; comerço informal; desenvolvimento turitico; espaço urbano. Grande área: Ciências Humanas / Área: Antropologia. Setores de atividade: Atividades profissionais, científicas e técnicas."
+    },
+    {
+      "tipo": "Graduação em Artes do espetaculo",
+      "nome_instituicao": "Université ParisVIII, UPVIII, França",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2001",
+      "descricao": "Título: A encarnaçao do imaginario : As festas da Sao Joao em Salvador da Bahia. Orientador: Jean-Marie Pradier / Armindo Biao."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Defensoria Publica do Estado da Bahia, DEFENSORIA-BA, Brasil.",
+      "instituicao_nome": "Defensoria Publica do Estado da Bahia",
+      "instituicao_sigla": "DEFENSORIA-BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2021 - Atual",
+      "ano_inicio": "2021",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2022 - Atual",
+      "ano_inicio": "2022",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor Assistente",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2021",
+      "ano_inicio": "2020",
+      "ano_fim": "2021",
+      "vinculo": "Nomeação",
+      "enquadramento": "Coordenadora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2021",
+      "ano_inicio": "2017",
+      "ano_fim": "2021",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor Assistente",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2017",
+      "ano_inicio": "2013",
+      "ano_fim": "2017",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professora auxiliar do quadro especial",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2017",
+      "ano_inicio": "2013",
+      "ano_fim": "2017",
+      "vinculo": "Bolsista",
+      "enquadramento": "Posdoc CAPES/PNDB",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2014 - Atual",
+      "ano_inicio": "2014",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Mestrado em politicas sociais e cidadania."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - 12/2021",
+      "ano_inicio": "2019",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2013 - 01/2017",
+      "ano_inicio": "2013",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2013",
+      "ano_inicio": "2010",
+      "ano_fim": "2013",
+      "vinculo": "Colaborador",
+      "enquadramento": "Pesquisadora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2013 - 05/2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, PINEB."
+      ]
+    },
+    {
+      "instituicao": "Ecole des Hautes Etudes en Sciences Sociales, EHESS, França.",
+      "instituicao_nome": "Ecole des Hautes Etudes en Sciences Sociales",
+      "instituicao_sigla": "EHESS",
+      "instituicao_pais": "França",
+      "periodo": "2008 - 2013",
+      "ano_inicio": "2008",
+      "ano_fim": "2013",
+      "vinculo": "Colaborador",
+      "enquadramento": "Doutorando",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ecole des Hautes Etudes en Sciences Sociales, EHESS, França",
+      "instituicao_nome": "Ecole des Hautes Etudes en Sciences Sociales",
+      "instituicao_sigla": "EHESS",
+      "instituicao_pais": "França",
+      "periodo": "09/2005 - 01/2013",
+      "ano_inicio": "2005",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, co tutela com Universidade Federal da Bahia."
+      ]
+    },
+    {
+      "instituicao": "Université Paris 1 Pantheon-Sorbonne, PARIS 1, França.",
+      "instituicao_nome": "Université Paris 1 Pantheon-Sorbonne",
+      "instituicao_sigla": "PARIS 1",
+      "instituicao_pais": "França",
+      "periodo": "2013 - 2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Paris 1 Pantheon-Sorbonne, PARIS 1, França",
+      "instituicao_nome": "Université Paris 1 Pantheon-Sorbonne",
+      "instituicao_sigla": "PARIS 1",
+      "instituicao_pais": "França",
+      "periodo": "01/2013 - 02/2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ministère des Affaires Étrangères, MAE, França.",
+      "instituicao_nome": "Ministère des Affaires Étrangères",
+      "instituicao_sigla": "MAE",
+      "instituicao_pais": "França",
+      "periodo": "2004 - 2005",
+      "ano_inicio": "2004",
+      "ano_fim": "2005",
+      "vinculo": "Bolsista",
+      "enquadramento": "Apoio institucional UFBA",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ministère des Affaires Étrangères, MAE, França",
+      "instituicao_nome": "Ministère des Affaires Étrangères",
+      "instituicao_sigla": "MAE",
+      "instituicao_pais": "França",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ministère de la Culture et Communication, MCC, França.",
+      "instituicao_nome": "Ministère de la Culture et Communication",
+      "instituicao_sigla": "MCC",
+      "instituicao_pais": "França",
+      "periodo": "2001 - 2004",
+      "ano_inicio": "2001",
+      "ano_fim": "2004",
+      "vinculo": "Funcionario",
+      "enquadramento": "Encaregada dos \"Programas Courants\"",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Ministère de la Culture et Communication, MCC, França",
+      "instituicao_nome": "Ministère de la Culture et Communication",
+      "instituicao_sigla": "MCC",
+      "instituicao_pais": "França",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse Jean Jaurès, UT2J, França.",
+      "instituicao_nome": "Université Toulouse Jean Jaurès",
+      "instituicao_sigla": "UT2J",
+      "instituicao_pais": "França",
+      "periodo": "2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": "Agent vacataire",
+      "enquadramento": "Departamento de sociologia",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse Jean Jaurès, UT2J, França",
+      "instituicao_nome": "Université Toulouse Jean Jaurès",
+      "instituicao_sigla": "UT2J",
+      "instituicao_pais": "França",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse Jean Jaurès, UT2J, França.",
+      "instituicao_nome": "Université Toulouse Jean Jaurès",
+      "instituicao_sigla": "UT2J",
+      "instituicao_pais": "França",
+      "periodo": "2023 - 2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": "Agent vacataire",
+      "enquadramento": "Departamento de sociologia",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse Jean Jaurès, UT2J, França",
+      "instituicao_nome": "Université Toulouse Jean Jaurès",
+      "instituicao_sigla": "UT2J",
+      "instituicao_pais": "França",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse Jean Jaurès, UT2J, França.",
+      "instituicao_nome": "Université Toulouse Jean Jaurès",
+      "instituicao_sigla": "UT2J",
+      "instituicao_pais": "França",
+      "periodo": "2022 - 2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": "Agent vacataire",
+      "enquadramento": "Departamento de sociologia",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse Jean Jaurès, UT2J, França",
+      "instituicao_nome": "Université Toulouse Jean Jaurès",
+      "instituicao_sigla": "UT2J",
+      "instituicao_pais": "França",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse Jean Jaurès, UT2J, França.",
+      "instituicao_nome": "Université Toulouse Jean Jaurès",
+      "instituicao_sigla": "UT2J",
+      "instituicao_pais": "França",
+      "periodo": "2021 - 2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": "Professor Visitante",
+      "enquadramento": "Mestrado em Geografia",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse Jean Jaurès, UT2J, França",
+      "instituicao_nome": "Université Toulouse Jean Jaurès",
+      "instituicao_sigla": "UT2J",
+      "instituicao_pais": "França",
+      "periodo": "09/2022 - Atual",
+      "ano_inicio": "2022",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse Jean Jaurès, UT2J, França",
+      "instituicao_nome": "Université Toulouse Jean Jaurès",
+      "instituicao_sigla": "UT2J",
+      "instituicao_pais": "França",
+      "periodo": "09/2021 - 10/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Laboratoire interdisciplinaire solidarités, sociétés, territoires (LISST)."
+      ]
+    },
+    {
+      "instituicao": "Université Toulouse Jean Jaurès, UT2J, França",
+      "instituicao_nome": "Université Toulouse Jean Jaurès",
+      "instituicao_sigla": "UT2J",
+      "instituicao_pais": "França",
+      "periodo": "09/2021 - 10/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse 1 Capitole, TOULOUSE 1, França.",
+      "instituicao_nome": "Université Toulouse 1 Capitole",
+      "instituicao_sigla": "TOULOUSE 1",
+      "instituicao_pais": "França",
+      "periodo": "2022 - 2023",
+      "ano_inicio": "2022",
+      "ano_fim": "2023",
+      "vinculo": "Convention d'accueil",
+      "enquadramento": "Institut d'Etudes Politiques de Toulouse",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse 1 Capitole, TOULOUSE 1, França",
+      "instituicao_nome": "Université Toulouse 1 Capitole",
+      "instituicao_sigla": "TOULOUSE 1",
+      "instituicao_pais": "França",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Université Toulouse 1 Capitole, TOULOUSE 1, França",
+      "instituicao_nome": "Université Toulouse 1 Capitole",
+      "instituicao_sigla": "TOULOUSE 1",
+      "instituicao_pais": "França",
+      "periodo": "01/2022 - 12/2023",
+      "ano_inicio": "2022",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Laboratoire des Sciences sociales du Politique (LaSSP)."
+      ]
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Politicas publicas, artes e decolonialidade",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Esse projeto tem como escopo o estudo das politicas culturais e das suas relações com uma justiça racial e uma decolonialidade. São tratados os temas da reparação, do reggae na Bahia, do teatro e da musica popular e erudita. Ela é fruto de pesquisas do grupo de pesquisa \"Antropologia, fronteiras, espaços e cidadania\".. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Julie Sarah Lourau Alves da Silva - Coordenador / Stela Gleide Oliveira Santana - Integrante / IVANILDO ANTONIO DA SILVA - Integrante / LAURO DOS SANTOS - Integrante. Número de produções C, T & A: 3 / Número de orientações: 2"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Julie Sarah Lourau Alves da Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Stela Gleide Oliveira Santana",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "IVANILDO ANTONIO DA SILVA",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "LAURO DOS SANTOS",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Acompanhamento das políticas públicas e sociais: analises e observações sobre efetividade e eficácia",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O trabalho emprendido se aparenta a um observatorio das politicas sociais, principalmente nos temas da igualdade racial, equidade de gênero e direito à cidade. A pesquisa finda analisar as politicas na sua efetividade no Brasil e afora. Essa pesquisa acolhe os trabalhos dos estudantes do PPG de politicas sociais e cidadania que eu oriento assim como de integrantes do grupo de pesquisa AFEC e se inscreve na Linha 3 do PPGPSC.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Julie Sarah Lourau Alves da Silva - Coordenador / Paulo Cézar Pinto - Integrante / Sheila Rolemberg - Integrante / Milton Vasconcelos - Integrante / Claudia Santos de Jesus - Integrante / HABINA NHANQUE - Integrante / ILIASSA TURE - Integrante / Eurizando Gomes Caomique - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Julie Sarah Lourau Alves da Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Paulo Cézar Pinto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sheila Rolemberg",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Milton Vasconcelos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Claudia Santos de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "HABINA NHANQUE",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "ILIASSA TURE",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eurizando Gomes Caomique",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Projeto Resistências decolonialistas africanas e histórias de vida.",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2025",
+      "descricao": [
+        "Descrição: A pesquisa Resistências decolonialistas africanas e histórias de vida está iniciando e articula pesquisadores de instituições, áreas e países distintos, dando um caráter internacional e interdisciplinar a investigação. Entre os envolvidos, podemos citar, a ASHIVIF Associação Internacional sobre Histórias de Vida em Formação na França, o LIPIS PUC- RJ (Laboratório Interdisciplinar de Pesquisa e Intervenção Social); o REDRIEF (Rede internacional de pesquisadores em estudos sobre festa, nação e cultura) da Colômbia; a UNILAB Universidade Luso-Brasileira de Integração Internacional da Lusofonia, Brasil; a Universidade Federal do Ceara, Brasil; a UGB Universidade Gaston Berger (UGB), Saint-Louis, Senegal e a UCSAL. As áreas de formação dos pesquisadores são as ciências da educação, a psicologia, a antropologia, a sociologia e a linguística. O objetivo principal dessa pesquisa é articular pesquisadores e atores que vêm se implicando com a problemática dos estudos decoloniais e das africanidades. A pesquisa desenvolvida pela professora Julie Lourau trata mais especificamente da musica reggae na Bahia, sua historia e seu potencial de emancipação para as pessoas que a praticam ou que seguem os preceitos Rastafari. Uma atenção é dada as políticas públicas, avaliando a capacidade que estas têm de alcançar a referida comunidade musical.Os objetivos específicos da pesquisa são:- Implementar a biografização, notadamente estimular a utilização da história orais de vida em comum aqui chamados de papo de roda como dispositivo da pesquisa-Dar visibilidade à uma historicidade epistemológica decolonial- Provocar uma política de produção de novas subjetividades engendradas em novos modos de Ser, estar, agir no mundo. - Escrever uma outra história, que tem a história oral como fonte inspiradora e como crítica da historiografia do poder. Materiais e métodos:A Mãe África, no seu aspecto continental e diaspórico tem uma história de resistência e esta história lhe dá um estatuto especial na produção de conhecimento. Suas lutas antirracistas, anticoloniais/decoloniais, anti-eurocentristas, sua produção de subjetividades, insurgentes, anti-autoritárias, a riqueza do seu pensamento diaspórico que vem se engendrando no mundo lhe dá uma condição de legitimidade neste protagonismo. Para termos acesso a estas linhas de enunciação recorremos à pesquisa biográfica. Particularmente utilizamos o dispositivo história oral de vida em comum, considerando que a narração da vida, no seu devir, em comum, se realiza como arte formadora da existência / do conhecimento (OZORIO, 2005 ; 2007 ; 2007a ; 2014 ; 2015 ; 2016 ; 2018 ; 2019 ; DELORY-MOMBERGER, 2003 ; 2009 ; DELORY-MOMBERGER et NIEWIADOMSKY, 2009 ; PINEAU, 2002 ; PINEAU et MARIE-MICHÈLE, 2011; PINEAU et LE GRAND, 2013 ).Os resultados esperados:São esperadas produções de historias de vida orais das pessoas africanas e afrodiasporicas, organizadas em grupo informal ou associação, que possuem histórias que dão visibilidade às lutas da Mãe África no cotidiano das periferias de vários países do mundo. Desse modo, pretendemos participar a uma (re)escritura da historia da população negra no Brasil e no mundo, a partir das narrativas do quotidiano ou de projetos específicos. Além disso, a pesquisa sobre o reggae na Bahia pretende oferecer um suporte pedagógico e programático as escolas que desenvolvem a Lei 11.645 de 2008, História e Cultura Afro-Brasileira e Indígena e trazer mais reconhecimento para essa música que é pouco alcançada pelas políticas culturais. Os trabalhos desenvolvidos se inscrevem na linha 3 do PPGPSC.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Doutorado: (1) . Integrantes: Julie Sarah Lourau Alves da Silva - Integrante / Stela Gleide Oliveira Santana - Integrante / Lucia Ozorio - Coordenador / sandra petit - Integrante / Assane Diakhate - Integrante / Bas´Ilele Malomalo - Integrante / Christian Leray - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Julie Sarah Lourau Alves da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Stela Gleide Oliveira Santana",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lucia Ozorio",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "sandra petit",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Assane Diakhate",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bas´Ilele Malomalo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Christian Leray",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "POLÍTICAS CULTURAIS EM QUESTÃO: LEVANTAMENTO DE EQUIPAMENTOS CULTURAIS EM SALVADOR",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: Esse curso articulado com o Programa de Políticas Sociais e Cidadania (PPGPSC) envolve atividades que consistemem desenvolver noções teóricas e aproximação empírica de pesquisa em políticas culturais de Salvador-Ba, a partirde um levantamento de equipamentos culturais dessa cidade.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (20) . Integrantes: Julie Sarah Lourau Alves da Silva - Coordenador / Katia Oliver de SA - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Julie Sarah Lourau Alves da Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Katia Oliver de SA",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "interdisciplinar",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: interdisciplinar."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Antropologia",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Antropologia."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Ciências Sociais",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Ciências Sociais."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Francês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Inglês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Razoavelmente",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Razoavelmente, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Razoavelmente",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Antropologia das Relações Étnicas e Raciais",
+      "objetivo": "O foco desta linha de pesquisa incide sobre os contingentes afro-brasileiros no meio rural, no que diz respeito à sua situação territorial, identitária e ambiental, buscando uma perspectiva relacional de análise que privilegie não os grupo em si, mas as relações por estes engendradas com a população envolvente, baseando-se em análises teóricas e trabalhos etnográficos que abarquem as discussões em torno das pertinentes categorias jurídicas, históricas e sócio-antropológicas.. Grande área: Ciências Humanas / Área: Antropologia / Subárea: Antropologia social e etnologia. Palavras-chave: identidades; Politicas Publicas; Territorios."
+    },
+    {
+      "nome": "Direitos Culturais e Institucionalização da Cultura",
+      "objetivo": "A presente linha se interessa tanto as práticas culturais como às políticas culturais, visando principalmente as culturas periféricas. Nome do grupo: Antropologia, Fronteiras, Espaços e Cidadania Palavras-chave arte e cultura Políticas Públicas afro-descendência. Grande área: Ciências Humanas Grande Área: Ciências Humanas / Área: Antropologia. Setores de atividade: Pesquisa e desenvolvimento científico. Palavras-chave: Diáspora negra; Colonialidade; Artes; Políticas culturais."
+    },
+    {
+      "nome": "Cidadania insurgente",
+      "objetivo": "Esta linha tem como conceitos-chaves o de FRONTEIRA e o de CIDADANIA. A fronteira deve ser entendida em termo social dentro de uma pluralidade de estados: fronteiras materiais e/ou simbólicas, raciais e/ou de gênero, epistemologicas etc. Esse conceito deve ser pensado em termo processual e a partir dos atores sociais. Ele traz a tona as temáticas ligadas a identidades, migração, segregação espacial e segurança pública. O de cidadania é pensado a partir da rua, de suas informalidades e práticas. Nome do grupo: Antropologia, Fronteiras, Espaços e Cidadania Palavras-chave Gênero, Sexualidade e Educação Relações étnico-raciais Identidades. Grande área: Ciências Humanas / Área: Sociologia / Subárea: Ciências Sociais. Palavras-chave: Gênero; Relaçoes étnico-raciais; identidades."
+    },
+    {
+      "nome": "Antropologia da cidade",
+      "objetivo": "O espaço é pensado na trilogia de Lefebvre do espaço concebido, percebido e vivido. A antropologia da cidade (Agier) oferece uma perspectiva epistemológica e metodológica para o analisar, privilegiando a análise de situações locais e dando atenção a situações de entre-dois, de liminaridade. A partir de uma análise situacional e das redes, uma leitura da cidade (como processo) se torna possível. Nome do grupo: Antropologia, Fronteiras, Espaços e Cidadania Palavras-chave cidade Liminaridade Etnografia. Palavras-chave: Cidade; Liminaridade; etnografia."
+    },
+    {
+      "nome": "Acompanhamento das políticas públicas e sociais",
+      "objetivo": "o AFEC estuda e acompanha políticas públicas e sociais de diversas áreas temáticas (politicas identitárias, políticas culturais, políticas de migrações, de segurança pública), a partir de uma leitura dialética dos conceitos de Instituinte (a proposta dos movimentos sociais pensada em termos de reinvenção do campo social), de Instituido (o acompanhamento das políticas públicas e sociais) e de Instituição (o conjunto das instituições que formam o quadro democrático). Nome do grupo: Antropologia, Fronteiras, Espaços e Cidadania Palavras-chave Análise Institucional Políticas Públicas Políticas sociais. Palavras-chave: Políticas sociais; Politicas Publicas; Análise Institucional."
+    },
+    {
+      "nome": "Africa, Diásporas e Epistemologias",
+      "objetivo": "Essa linha refere-se ao conceito de diaspora para se pensar epistemologias alternativas; propor ações afirmativas para afro-brasileiros, afroamericanos e africanos em situação de migração recente ou passada; valorizar as historias e culturas africanas; e revelar as dificuldades de acesso aos diversos campos do social (escola, saude, trabalho, justiça) devido ao preconceito racial (racismo) e/ou de gênero (feminismo negro). Nome do grupo: Antropologia, Fronteiras, Espaços e Cidadania Palavras-chave Diáspora Africana racismo Feminismo negro Epistemologias do sul. Grande área: Ciências Humanas / Área: Sociologia / Subárea: Ciências Sociais. Palavras-chave: diáspora africana; racismo; Feminismo negro; Epistemologias do sul."
+    },
+    {
+      "nome": "Epistemologias críticas e decoloniais",
+      "objetivo": "Refletir sobre suas práticas enquanto pesquisador a partir do estudo de epistemologias críticas e decoloniais e sua aplicação nas pesquisas do grupo. Nome do grupo: Antropologia, Fronteiras, Espaços e Cidadania Palavras-chave Epistemologias do Sul Implicação. Grande área: Ciências Humanas / Área: Antropologia. Setores de atividade: Pesquisa e desenvolvimento científico. Palavras-chave: Epistemologia crítica e decolonial; Implicação; Pesquisa situada."
+    },
+    {
+      "nome": "Comércio informal, festas e turismo",
+      "objetivo": ""
+    },
+    {
+      "nome": "Pobreza e segregação espacial",
+      "objetivo": ""
+    },
+    {
+      "nome": "Políticas de segurança pública",
+      "objetivo": ""
+    },
+    {
+      "nome": "Direito à cidade e antropologia",
+      "objetivo": ""
+    },
+    {
+      "nome": "Periferia, projetos e políticas culturais",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Les mouvements culturels en faveur des droits culturels» des habitants des quartiers ségrégués du Cap, de Salvador de Bahia et de Toulouse: de l?«insurrection culturelle» à l?action épistémique",
+        "ano": 2023,
+        "autores": "ARNAUD, L. ; FORTAILLIER, L. ; LOURAU, JULIE",
+        "revista": "Biens Symboliques / Symbolic Goods",
+        "volume": "",
+        "numero": "",
+        "paginas": "1-30",
+        "issn": "2490-9424",
+        "doi": "http://dx.doi.org/10.4000/bssg.2643",
+        "qualis": ""
+      },
+      {
+        "titulo": "Uma análise da Irmandade do Rosário dos Pretos em Salvador da Bahia a partir de uma visão quilombista afrocentrada",
+        "ano": 2023,
+        "autores": "SANTANA, S. G. O. ; LOURAU J. S.",
+        "revista": "TRIVIUM",
+        "volume": "1",
+        "numero": "",
+        "paginas": "28-38",
+        "issn": "2176-4891",
+        "doi": "http://dx.doi.org/10.18379/2176-4891.2023v15nesp.p.28",
+        "qualis": ""
+      },
+      {
+        "titulo": "CAPACITISMO ESTRUTURAL INTERSECCIONAL: UMA ANÁLISE CRÍTICA DA MOBILIDADE PARA PESSOAS COM DEFICIÊNCIA FÍSICA EM SALVADOR",
+        "ano": 2022,
+        "autores": "LOURAU J. S.; VASCONCELOS, M.",
+        "revista": "Revista Diálogos Possíveis",
+        "volume": "21",
+        "numero": "",
+        "paginas": "34-54",
+        "issn": "2447-9047",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "DO ?PROBLEMA DO NEGRO? ÀS DIFICULDADES DE ?SER E VIVER NEGRO? NO BRASIL: ALGUMAS REFLEXÕES AFROCENTRADAS E ANTIRRACISTAS",
+        "ano": 2021,
+        "autores": "LOURAU, JULIE; CAVALCANTE, A. ; SANTANA, S. G. O.",
+        "revista": "Revista ABPN",
+        "volume": "13",
+        "numero": "",
+        "paginas": "189-217",
+        "issn": "2177-2770",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Carnaval, périphérie et colonialité au BrésilCarnival, Periphery and Coloniality in Brazil : An Analysis of Cultural Practices and Politics, From the Margins",
+        "ano": 2020,
+        "autores": "LOURAU J. S",
+        "revista": "Journal des Anthropologues (Montrouge)",
+        "volume": "",
+        "numero": "",
+        "paginas": "119-136",
+        "issn": "1156-0428",
+        "doi": "http://dx.doi.org/10.4000/jda.9577",
+        "qualis": ""
+      },
+      {
+        "titulo": "Ségrégations et mobilisations culturelles en Afrique du Sud, au Brésil et en France",
+        "ano": 2020,
+        "autores": "ARNAUD, LIONEL ; FORTAILLIER, LÉO ; LOURAU, JULIE",
+        "revista": "L'Observatoire",
+        "volume": "N°56",
+        "numero": "",
+        "paginas": "108",
+        "issn": "1165-2675",
+        "doi": "http://dx.doi.org/10.3917/lobs.056.0108",
+        "qualis": ""
+      },
+      {
+        "titulo": "APONTAMENTOS SOBRE JUVENTUDES UNIVERSITÁRIAS: O CASO DA UNIVERSIDADE CATÓLICA DO SALVADOR, BAHIA, BRASIL",
+        "ano": 2020,
+        "autores": "DE FREITAS, KATIA SIQUEIRA ; BORGES, ÂNGELA ; LEPIKSON, MARIA DE FÁTIMA PESSÔA ; LOURAU, JULIE",
+        "revista": "PRÁXIS EDUCACIONAL (ONLINE)",
+        "volume": "16",
+        "numero": "",
+        "paginas": "135-157",
+        "issn": "2178-2679",
+        "doi": "http://dx.doi.org/10.22481/praxisedu.v16i42.7346",
+        "qualis": ""
+      },
+      {
+        "titulo": "UM BREVE PENSAR SOBRE O RACISMO NO BRASIL",
+        "ano": 2020,
+        "autores": "PINTO, JEREMIAS PEREIRA ; LOURAU, JULIE",
+        "revista": "CADERNOS DO CEAS",
+        "volume": "45",
+        "numero": "",
+        "paginas": "619",
+        "issn": "2447-861X",
+        "doi": "http://dx.doi.org/10.25247/2447-861X.2020.n251.p619-638",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Penser avec les études décoloniales",
+        "ano": 2026,
+        "autores": "BOIDIN, C. ; FALQUET, J. ; BESSONE, M. ; LOURAU, JULIE",
+        "editora": "Paris: IHEAL Institut des hautes Etudes sur l'Amérique Latine",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "304"
+      },
+      {
+        "titulo": "Branco, branquitude, branquidade",
+        "ano": 2025,
+        "autores": "CARDOSO, L. C. ; LOURAU, JULIE ; CARDOSO, C. ; GARCES‑ ; SCHUCMAN, L. V. ; GRAHAM, L. V. ; ROSA, M. V. F. ; ORRICO, M. I. D. ; BOLLETTIN, P. ; MELO, W. C.",
+        "editora": "SAO PAULO: SELO NEGRO",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "176"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "Racismo xenofóbico em contextos contemporâneos de migração e refúgio",
+        "ano": 2023,
+        "autores": "LOURAU J. S.; SOUZA, O. R.",
+        "titulo_livro": "",
+        "editora": "Selo Negro",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "153-175"
+      },
+      {
+        "titulo": "DROIT A LA VIE ET A LA VILLE, POUR LES JEUNES BAHIANAIS,",
+        "ano": 2021,
+        "autores": "LOURAU, JULIE",
+        "titulo_livro": "",
+        "editora": "L'Harmattan",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1-15"
+      },
+      {
+        "titulo": "The dissemination and implementation of cultural rights worldwide: from ?insurrectional actors? to ?programmatic actors?? A comparison of Brazilian, French and South African cases",
+        "ano": 2021,
+        "autores": "ARNAUD, LIONEL ; LOURAU J. S. ; FORTAILLIER, L. ; SIINO, C. ; BANK, L. ; HAINES, R. ; HUSHI, R. ; MKUZO, N.",
+        "titulo_livro": "",
+        "editora": "Balão Editorial",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "55-71"
+      },
+      {
+        "titulo": "Um estudo da incapacidade civil no Brasil: do código civil de 1966 ao Estatuto da pessoa com deficiência",
+        "ano": 2020,
+        "autores": "SANTOS, J. J. ; SILVA, J. S. L. A.",
+        "titulo_livro": "",
+        "editora": "Nova Praxis Editora",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "117-137"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "DIREITOS CULTURAIS EM PERSPECTIVA COMPARADA: África do Sul, Brasil e França",
+        "ano": 2021,
+        "autores": "LOURAU J. S.; ARNAUD, L. ; SIINO, C.",
+        "evento": "I CONGRESSO VIRTUAL DE DIREITO INTERNACIONAL E RELAÇÕES INTERNACIONAIS",
+        "cidade": "",
+        "paginas": "129-147",
+        "isbn": ""
+      },
+      {
+        "titulo": "O APAGAMENTO CULTURAL E DESRESPEITO DOS DIREITOS CULTURAIS DAS MANIFESTAÇÕES CULTURAIS AFRO NO CARNAVAL DE SALVADOR",
+        "ano": 2021,
+        "autores": "FELIX, L. A. ; LOURAU, JULIE",
+        "evento": "XVII ENECULT",
+        "cidade": "",
+        "paginas": "1-10",
+        "isbn": ""
+      },
+      {
+        "titulo": "Envelhecimento em tempos de pandemias: vida e dignidade para alem das vulnerabilidades",
+        "ano": 2020,
+        "autores": "SANTANA, S. G. O. ; LOURAU J. S.",
+        "evento": "23 SEMOC",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "DIREITOS CULTURAIS COMO VIÉS DE CIDADANIA EM TEMPO DE PANDEMIA",
+        "ano": 2020,
+        "autores": "SANTANA, S. G. O. ; LOURAU, JULIE",
+        "evento": "IX ENCONTRO INTERNACIONAL DE DIREITOS CULTURAIS, 2020, Salvador. IX ENCONTRO INTERNACIONAL DE DIREITOS CULTURAIS. Fortaleza: GEPDC",
+        "cidade": "",
+        "paginas": "178-184"
+      },
+      {
+        "titulo": "A EFETIVAÇÃO DOS DIREITOS CULTURAIS AOS BLOCOS AFRO NO CARNAVAL DE SALVADOR",
+        "ano": 2020,
+        "autores": "FELIX, L. A. ; LOURAU, JULIE",
+        "evento": "IX ENCONTRO INTERNACIONAL DE DIREITOS CULTURAIS ? EIDC, 2020, Fortaleza. IX ENCONTRO INTERNACIONAL DE DIREITOS CULTURAIS ? EIDC. Fortaleza: GEPDC",
+        "cidade": "",
+        "paginas": "13-18"
+      }
+    ],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "'Enfrentar a Babilônia é mais difícil do que eu podia imaginar'",
+        "ano": 2024,
+        "autores": "LOURAU J. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Referências africanas nas musicalidades afro-diaspóricas: o reggae na Bahia",
+        "ano": 2024,
+        "autores": "LOURAU J. S.; SOUSA, A. C. G. ; FONSECA, D. ; BRASIL, E. ; FARIAS, J.",
+        "evento": ""
+      },
+      {
+        "titulo": "Pratiques, politiques et droits culturels au/depuis le Brésil",
+        "ano": 2023,
+        "autores": "LOURAU J. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Uma breve comparação das políticas de ações afirmativas no Brasil e na França",
+        "ano": 2023,
+        "autores": "LOURAU J. S.; FELIX, G. A. ; SIMOES, P.",
+        "evento": ""
+      },
+      {
+        "titulo": "Peut-on modéliser la 'vie culturelle' ? Essai de cartographie comparée du Cap, Salvador de Bahia et Toulouse",
+        "ano": 2023,
+        "autores": "LOURAU J. S.; SIINO, C. ; SIBERTIN-BLANC, M. ; BUOSI, J. ; BALTI, S. ; FORTAILLIER, L. ; ARNAUD, L.",
+        "evento": ""
+      },
+      {
+        "titulo": "Cultural rights : a turning point for cultural policies ? An international comparison Présentation générale de l?enquête",
+        "ano": 2023,
+        "autores": "LOURAU J. S.; FORTAILLIER, L. ; ARNAUD, L.",
+        "evento": ""
+      },
+      {
+        "titulo": "Descolonizar as ciências sociais: o desafio dos direitos culturais: uma ciência situada como projeto de descolonização das ciências sociais no Brasil?",
+        "ano": 2022,
+        "autores": "LOURAU J. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Échos et mobilisations autour de la notion de droits culturels au Brésil",
+        "ano": 2022,
+        "autores": "LOURAU J. S",
+        "evento": ""
+      },
+      {
+        "titulo": "R. S. ; TINOCO, M. ; MARTINS, C. ; MULLER, A. . Aula inaugural",
+        "ano": 2021,
+        "autores": "LOURAU, JULIE; CAVALCANTI, V",
+        "evento": ""
+      },
+      {
+        "titulo": "Entre politique d'attractivité territoriale et revendications sociales. La culture comme révélateur des tensions urbaines à Salvador de Bahia et Toulouse",
+        "ano": 2021,
+        "autores": "LOURAU J. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Os desafios do direito internacional e das relações internacionais em um mundo pos pandemia",
+        "ano": 2021,
+        "autores": "LOURAU J. S.; ROLEMBERG, S. ; FELIX, G. A. ; LONGA, F.",
+        "evento": ""
+      },
+      {
+        "titulo": "Apresentação da pesquisa Direitos Culturais",
+        "ano": 2021,
+        "autores": "LOURAU J. S.; ARNAUD, L. ; GOURISSE, B.",
+        "evento": ""
+      },
+      {
+        "titulo": "Direito à cidade e mobilidade: O sistema de transporte de Salvador em questão",
+        "ano": 2021,
+        "autores": "LOURAU J. S.; ROLEMBERG, S. ; ASSIS, S. ; VELAME, F.",
+        "evento": ""
+      },
+      {
+        "titulo": "Juventude em tempos de pandemia: desafios e perspectiva",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE",
+        "evento": ""
+      },
+      {
+        "titulo": "Um breve pensamento sobre o racismo no Brasil",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE; PINTO, J. P.",
+        "evento": ""
+      },
+      {
+        "titulo": "Envelhecimento em tempos de pandemias: vida e dignidade para alem das vulnerabilidades",
+        "ano": 2020,
+        "autores": "SANTANA, S. G. O. ; LOURAU, JULIE",
+        "evento": ""
+      },
+      {
+        "titulo": "Lançamento de livro: A Função Social da Propriedade Pública e o Direitos à Moradia da autoria de Sheila Rolemberg",
+        "ano": 2020,
+        "autores": "ROLEMBERG, S. ; CARVALHO, I. ; LOURAU, JULIE ; LIMA, A. N. V.",
+        "evento": ""
+      },
+      {
+        "titulo": "Os direitos culturais em perspectiva comparada",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE",
+        "evento": ""
+      },
+      {
+        "titulo": "Grupo de Trabalho: Políticas públicas sociais, cidadania e questão racial",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE; FELIX, L. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "A EFETIVAÇÃO DOS DIREITOS CULTURAIS AOS BLOCOS AFRO NO CARNAVAL DE SALVADOR",
+        "ano": 2020,
+        "autores": "FELIX, L. A. ; LOURAU, JULIE",
+        "evento": ""
+      },
+      {
+        "titulo": "DIREITOS CULTURAIS COMO VIÉS DE CIDADANIA EM TEMPO DE PANDEMIA",
+        "ano": 2020,
+        "autores": "SANTANA, S. G. O. ; LOURAU, JULIE",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": [
+      {
+        "titulo": "A política da cidade: uma política pública para os bairros pobres na França",
+        "ano": 2024,
+        "autores": "LOURAU J. S.; SIINO, C.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Direito à emancipação sustentavel ou obsolencia humana?. Salvador, 2020. (Prefácio",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "S.. Parecer Revista TEOROS",
+        "ano": 2023,
+        "autores": "LOURAU J",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Caderno CEAS",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Revue Source (Fr)",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Percursos",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Comissão sucupira 2017-2020",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE; LEPIKSON, F. ; BORGES, A. ; FREITAS, K. S. ; SA, K. O. ; PURIDADE, L. ; VASCONCELOS, M. ; FREITAS, A. ; SANTOS, C. Q. ; CARVALHO, I.",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": [
+      {
+        "titulo": "Politicas publicas e cidadania: foco na Guiné Bissau e na Bahia",
+        "ano": 2025,
+        "autores": "LOURAU, JULIE; SANTANA, S. G. O. ; TURE, I. ; NHANQUE, H. ; CAOMIQUE, E. G.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Artes, cultura e politica na Bahia",
+        "ano": 2025,
+        "autores": "LOURAU, JULIE; SILVA, I. A. ; SANTOS, L. ; SANTANA, S. G. O.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "A política da cidade: uma política pública para os bairros pobres na França",
+        "ano": 2024,
+        "autores": "LOURAU J. S.; SIINO, C.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Referências africanas nas musicalidades afro-diásporicas",
+        "ano": 2024,
+        "autores": "LOURAU J. S.; FARIAS, J. ; BRASIL, E. ; FONSECA, D. ; SOUSA, A. C. G.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Roda de conversa O reggae na Bahia: trajetórias",
+        "ano": 2024,
+        "autores": "LOURAU J. S.; KALLADO, J. ; PEU, D. R. ; TAWA, K.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Focus - L?identité afro : une identité culturelle née au sein du carnaval de Bahia",
+        "ano": 2024,
+        "autores": "LOURAU J. S.; GACON, J. ; ANAIS, F. ; ANTOINETTE, K.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "IV DIREITO E RELACOES RACIAIS NA UCSAL",
+        "ano": 2024,
+        "autores": "LOURAU, JULIE; ROLEMBERG, S. ; FELIX, G. A. ; PINTO, P. C. ; LEITE, L.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "As politicas de permanência na experiência brasileira",
+        "ano": 2024,
+        "autores": "LOURAU, JULIE; SOUSA, A. C. G. ; FONSECA, D.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Resistências africanas e histórias de vida",
+        "ano": 2023,
+        "autores": "LOURAU J. S.; SANTANA, S. G. O. ; OZORIO, L. ; ZAMORA, M. H.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Amostra do grupo de pesquisa AFEC",
+        "ano": 2023,
+        "autores": "LOURAU J. S.; FELIX, G. A. ; ROLEMBERG, S. ; PINTO, J. P.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Atingidos por grandes projetos na relação rural-urbana nas perspectivas de desenvolvimento",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Direito à cidade e cidadania intergeracional: espaços naturais e virtuais",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Coordenadora da Sessão de comunicação SC-06",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Pesquisa epistemologias criticas e decoloniais",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE; MALOMALO, B. ; REA, C. ; SANTOS, C. A. C.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Lançamento de dossiê: 'Epistemologias criticas e descoloniais'",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE; MALOMALO, B.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Reggae: História, cultura e emancipação",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE; PINTO, J. P.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Seminário ?Diálogos entre Direito e Relações Raciais na UCSAL: temas transversais?",
+        "ano": 2020,
+        "autores": "LOURAU, JULIE; MALOMALO, B. ; BERNARDO, S. A. S. ; SANTOS, M. C. R. C. F.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Abdias Nascimento. Um gênio na militância politica e na arte: de Franca para mundo. 2020; Tema: Abdias Nascimento. Um gênio na militância politica e na arte: de Franca para",
+        "ano": 2020,
+        "autores": "SANTANA, S. G. O. ; LOURAU, JULIE",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "Realidade, desafios e contradições na Guiné Bissau: um estudo sobre o impacto do acesso, permanência e resultados alcançados no ensino basico",
+          "ano_inicio": 2026,
+          "orientando": "Iliassa Turé",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Teatro da solidao solidaria: um campo étnico de culturasna trilha da construçao de sujeitos e cidadania",
+          "ano_inicio": 2025,
+          "orientando": "IVANILDO ANTONIO DA SILVA",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O PAPEL DAS GARANTIAS CONSTITUCIONAIS E OS IMPACTOS DAS POLÍTICAS PÚBLICAS EDUCACIONAIS NA GUINÉ-BISSAU: ACESSO E PERMANÊNCIA EXITOSA NO ENSINO PRIMÁRIO PÚBLICO NA REGIÃO DE CACHEU (2005-2020)",
+          "ano_inicio": 2024,
+          "orientando": "Eurizando Gomes Caomique",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "CONTRIBUIÇÃO DE ZULMIRA SILVANY NA EDUCAÇÃO E FOMENTO MUSICAL NA PRIMEIRA METADE DO SÉCULO XX",
+          "ano_inicio": 2025,
+          "orientando": "LAURO DOS SANTOS",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [
+        {
+          "titulo": "",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Ailana Freitas Rocha",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "doutorado": [
+        {
+          "titulo": "A ATUAÇÃO DAS MULHERES DO ROSÁRIO NUMA IRMANDADE DE HOMENS PRETOS NA CONTRAMÃO DAS RELAÇÕES DE PODER",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "STELA GLEIDE OLIVEIRA SANTANA",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "?CORPOS NEGROS, VIDAS MATÁVEIS: SELETIVIDADE PENAL, RACISMO INSTITUCIONAL E ESTADO DE EXCEÇÃO, NAS PRÁTICAS DE AUTO DE RESISTÊNCIA NA CIDADE DE SALVADOR?",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Paulo Cezar Martins Pinto",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "?DESAFIOS PARA ESTIMULAR JOVENS DA PERIFERIA Á LEITURA LITERÁRIA: ESTUDO DE UMA UNIDADE ESTADUAL DE ENSINO DE SALVADOR (2015-2023)?",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Cláudia Santos de Jesus",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O ACESSO DAS PESSOAS COM DEFICIÊNCIA FÍSICA AO LAZER NA SALVADOR CONTEMPORÂNEA",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Milton Silva de Vasconcellos. IR. ESTAR E VOLTAR",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "POLÍTICAS EDUCACIONAIS, DIREITOS HUMANOS E INTERCULTURALIDADE: O CASO DAS ESCOLAS CORÂNICAS NA GUINÉ-BISSAU",
+          "ano_inicio": 2026,
+          "ano_conclusao": 2026,
+          "orientando": "Iliassa Turé",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "NOVAS POLÍTICAS DE SEGURANÇA PÚBLICA: NO CONTEXTO DA GUINÉ-BISSAU (2012-2023)",
+          "ano_inicio": 2026,
+          "ano_conclusao": 2026,
+          "orientando": "HABINA LUÍS NHANQUE",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "AGENCIAMENTO POLÌTICO AFROFEMINISTA E A PRODUÇÃO DE SABERES EMANCIPATÓRIOS PARA MULHERES NEGRAS NO INSTAGRAM",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "CAMILLA SOUSA LIMA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "POLÍTICAS SOCIAIS URBANAS E O ACESSO A MORADIA DIGNA: um estudo sobre o assistencialismo e a efetividade das políticas sociais de inclusão no Estado da Bahia.",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Danyelle carvalho do Nascimento",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Sociedade civil organizada e jurisdição constitucional na tutela de direitos fundamentais de jovens do município de Lauro de Freitas",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Ana Thaís Kerner Drummond",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Instabilidade institucional e cultural de matriz africana no Brasil: uma análise dos impactos da (des)organização das instituições culturais entre 2016-2022",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Lis de Almeida Felix",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "BIO-NECROPODER E A TOPOGRAFIA DA MORTE: A PRODUÇÃO DA VIOLÊNCIA NOS ESPAÇOS URBANOS EM SALVADOR/BA",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "LUANNA DOS SANTOS FERREIRA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "ENCARCERAMENTO EM MASSA DA POPULAÇÃO NEGRA BRASILEIRA: uma análise a luz do racismo estrutural",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Jéssica Silva Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "UMA HISTÓRIA DA MÚSICA REGGAE NA BAHIA",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "DOUGLAS VINICIUS DA SILVA MERCÊS",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Direitos culturais: um estudo interdisciplinar do contexto legal nacional e internacional",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Bruno Santana do Espirito Santo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Direitos culturais e a institucionalização da cultura no Brasil",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Lis de Almeida Felix",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "Ecole doctorale Estudos decoloniais",
+        "apresentacao": "Agenda épistémologique et politique décoloniale. La dimension du collectif dans ma pratique d'enseignante chercheuse",
+        "ano": 2023,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Le paradigme du biographique à l?heure de l?anthroposcène",
+        "apresentacao": "« Histoires reggae, biographies et résistances africaines »",
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Journées Corpus Africana",
+        "apresentacao": "Echos et mobilisations de/autour de la notion de droits culturels au Brésil",
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminario Descolonizar as artes e as ciências sociais? Direitos culturais e perspectiva critica",
+        "apresentacao": "Uma comparação Africa do Sul, Brasil e Françaiva.Descolonizar as artes e as ciências sociais?",
+        "ano": 2022,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congrès des Amériques",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Journée d'études Politiques et pratiques culturelles dans les villes",
+        "apresentacao": "Entre politique d'attractivité territoriale et revendications sociales. La culture comme révélateur des tensions urbaines à Salvador de Bahia et Toulouse",
+        "ano": 2021,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "The dissemination and implementation of cultural rights worldwide: from \"insurrectional actors\" to \"programmatic actors\"? A comparison of Brazilian, French and South African cases",
+        "apresentacao": "The dissemination and implementation of cultural rights worldwide: from \"insurrectional actors\" to \"programmatic actors\"? A comparison of Brazilian, French and South African cases",
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V Forum de Coordenadores de Programas de Pos-Graduações Interdisciplinares do Brasil",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVII ENECULT",
+        "apresentacao": "O APAGAMENTO CULTURAL E DESRESPEITO DOS DIREITOS CULTURAIS DAS MANIFESTAÇÕES CULTURAIS AFRO NO CARNAVAL DE SALVADOR",
+        "ano": 2021,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Encontro Internacional de Direitos Culturais",
+        "apresentacao": "A EFETIVAÇÃO DOS DIREITOS CULTURAIS AOS BLOCOS AFRO NO CARNAVAL DE SALVADOR",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Semana da África e V Seminário de Novos Estudos Africanos",
+        "apresentacao": "Coordenação da mesa: Epistemologias críticas e decoloniais",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Novembro Negro OAB",
+        "apresentacao": "Os direitos culturais em perspectiva comparada",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Novembro Negro UCSAL",
+        "apresentacao": "Lançamento de livro: A Função Social da Propriedade Pública e o Direitos à Moradia da autoria de Sheila Rolemberg",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Pesquisa Culturights",
+        "apresentacao": "Direitos culturais em Salvador-Ba Brasil",
+        "ano": 2020,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário de Iniciação Cientifica UCSAL",
+        "apresentacao": "Juventude em tempos de pandemia: desafios e perspectiva",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "SINARUB",
+        "apresentacao": "Um breve pensamento sobre o racismo no Brasil",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXIII SEMOC",
+        "apresentacao": "Envelhecimento em tempos de pandemia",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "LOURAU J. S.; SOUSA, A. C. G. ; FONSECA, D.",
+        "evento": "Seminário confluências, musicalidades africanas e afro-diásporicas no Brasil, nos Caribes e na África",
+        "ano": 2024,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "LOURAU-SILVA J.S.; FELIX, G. A.",
+        "evento": "Comissão cientifica do Novembro Negro da Ucsal: Diálogos entre Direito e Relações Raciais na UCSAL: temas transversais",
+        "ano": 2024,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "LOURAU J. S.; ARNAUD, LIONEL",
+        "evento": "GT Pratiques culturelles engagées et périphéries urbaines: circulation, réseaux et insurgences",
+        "ano": 2022,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "LOURAU J. S.; FONSECA, D. ; ARNAUD, L. ; MALOMALO, B. I.",
+        "evento": "Descolonizar as artes e as ciências sociais? Direitos culturais e perspectivas criticas. Uma comparação Africa do Sul, Brasil e França",
+        "ano": 2022,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ARNAUD, L. ; LOURAU J. S. ; AURELIE, G.",
+        "evento": "GT L?institutionnalisation des pratiques festives dans les Amériques/ Congrès de l'Institut des Amériques",
+        "ano": 2021,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "LOURAU, JULIE; FELIX, G. A.",
+        "evento": "Comissão cientifica do Novembro Negro da Ucsal: Diálogos entre Direito e Relações Raciais na UCSAL: temas transversais",
+        "ano": 2020,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "LOURAU J. S.; MALOMALO, B. I. ; SOUSA, A. C. G.",
+        "evento": "IV Semana da África e V Seminário de Novos Estudos Africanos",
+        "ano": 2020,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "LOURAU, JULIE; BENEDICTO, R.; SANTANA, S. G. O.; LEPIKSON, F.. Participação em banca de Iliassa Turé. POLÍTICAS EDUCACIONAIS, DIREITOS HUMANOS E INTERCULTURALIDADE: O CASO DAS ESCOLAS CORÂNICAS NA GUINÉ-BISSAU. 2026. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "Iliassa Turé",
+        "membros_banca": [
+          "LOURAU, JULIE",
+          "BENEDICTO, R.",
+          "SANTANA, S. G. O.",
+          "LEPIKSON, F."
+        ],
+        "titulo_trabalho": "POLÍTICAS EDUCACIONAIS, DIREITOS HUMANOS E INTERCULTURALIDADE: O CASO DAS ESCOLAS CORÂNICAS NA GUINÉ-BISSAU",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; SOUSA, A. C. G.; MALOMALO, B. I.. Participação em banca de Camilla Sousa Lima. AGENCIAMENTO POLÌTTICO AFROFEMININO E A PRODUÇÃO DE SABERES EMANCIPATÓRIOS PARA MULHERES NEGRAS NO INSTAGRAM. 2023. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "Camilla Sousa Lima",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "SOUSA, A. C. G.",
+          "MALOMALO, B. I."
+        ],
+        "titulo_trabalho": "AGENCIAMENTO POLÌTTICO AFROFEMININO E A PRODUÇÃO DE SABERES EMANCIPATÓRIOS PARA MULHERES NEGRAS NO INSTAGRAM",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BAQUEIRO, F. R. L.; LOURAU, JULIE; FERREIRA, C.. Participação em banca de Lenon Silva Ribeiro. ?A (NECRO) POLÍTICA DE DROGAS DO BRASIL: UMA ANÁLISE À LUZ DAS ALTERNATIVAS AO MODELO PROIBICIONISTA?. 2021. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Lenon Silva Ribeiro. ?A (NECRO) POLÍTICA DE DROGAS DO BRASIL: UMA ANÁLISE À LUZ DAS ALTERNATIVAS AO MODELO PROIBICIONISTA?",
+        "membros_banca": [
+          "BAQUEIRO, F. R. L.",
+          "LOURAU, JULIE",
+          "FERREIRA, C."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BAQUEIRO, F. R. L.; LOURAU, JULIE; FERREIRA, C.. Participação em banca de Flávia Grazielle da Silva Araújo. A MORTES DE MULHERES NEGRAS E A NECROPOLÍTICA DE GÊNERO E RAÇA: UMA ANÁLISE DOS PROCESSOS DA 1a VARA DO JÚRI DA COMARCA DE SALVADOR. 2021. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Flávia Grazielle da Silva Araújo",
+        "membros_banca": [
+          "BAQUEIRO, F. R. L.",
+          "LOURAU, JULIE",
+          "FERREIRA, C."
+        ],
+        "titulo_trabalho": "A MORTES DE MULHERES NEGRAS E A NECROPOLÍTICA DE GÊNERO E RAÇA: UMA ANÁLISE DOS PROCESSOS DA 1a VARA DO JÚRI DA COMARCA DE SALVADOR",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BAQUEIRO, F. R. L.; LOURAU, JULIE; FERREIRA, C.. Participação em banca de Catiane Qellem Oliveira dos Santos,. FEMINIZAÇÃO DA POBREZA NO SISTEMA PENAL: UMA ABORDAGEM DO ENCARCERAMENTOFEMININO PELO TRÁFICO DE DROGAS NO CONJUNTO PENAL FEMININO DE SALVADOR?. 2021. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Catiane Qellem Oliveira dos Santos,",
+        "membros_banca": [
+          "BAQUEIRO, F. R. L.",
+          "LOURAU, JULIE",
+          "FERREIRA, C."
+        ],
+        "titulo_trabalho": "FEMINIZAÇÃO DA POBREZA NO SISTEMA PENAL: UMA ABORDAGEM DO ENCARCERAMENTOFEMININO PELO TRÁFICO DE DROGAS NO CONJUNTO PENAL FEMININO DE SALVADOR?",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; GOES, E. F.; PITTA, A. M. F.. Participação em banca de Gilmara Bittencourt Santos Silva. Políticas públicas de saúde: Qual o lugar ocupado pelas mulheres negras?. 2020. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Gilmara Bittencourt Santos Silva",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "GOES, E. F.",
+          "PITTA, A. M. F."
+        ],
+        "titulo_trabalho": "Políticas públicas de saúde: Qual o lugar ocupado pelas mulheres negras?",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, C. Z.; LOURAU J. S.; GUIMARAES, F. R.. Participação em banca de Laize lantyer Luz. Emancipação sustentável ou obsolescência das catadoras no programa Lixo Zero?. 2020. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Laize lantyer Luz",
+        "membros_banca": [
+          "SILVA, C. Z.",
+          "LOURAU J. S.",
+          "GUIMARAES, F. R."
+        ],
+        "titulo_trabalho": "Emancipação sustentável ou obsolescência das catadoras no programa Lixo Zero?",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BAQUEIRO, F. R. L.; LOURAU J. S.; PRADO, A. R. M.. Participação em banca de Pollyanna Melo Lins de Albuquerque.. ?SOBRE(VIVER) NO CÁRCERE: UM ESTUDO A PARTIR DA ÓTICA DAS MULHERES EM SITUAÇÃO DE PRISÃO NO CONJUNTO PENAL FEMININO DE SALVADOR?. 2020. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Pollyanna Melo Lins de Albuquerque.. ?SOBRE(VIVER) NO CÁRCERE: UM ESTUDO A PARTIR DA ÓTICA DAS MULHERES EM SITUAÇÃO DE PRISÃO NO CONJUNTO PENAL FEMININO DE SALVADOR?",
+        "membros_banca": [
+          "BAQUEIRO, F. R. L.",
+          "LOURAU J. S.",
+          "PRADO, A. R. M."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "ARNAUD, L.; LOURAU J. S.. Participação em banca de Anaïs Bodino. Croyances et pratiques émancipatrices à Dell'Arte. 2020. Dissertação (Mestrado em LaSSP) - Université Toulouse III Paul Sabatier.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Anaïs Bodino",
+        "membros_banca": [
+          "ARNAUD, L.",
+          "LOURAU J. S."
+        ],
+        "titulo_trabalho": "Croyances et pratiques émancipatrices à Dell'Arte",
+        "curso": "Dissertação (Mestrado em LaSSP)",
+        "universidade": "Université Toulouse III Paul Sabatier"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "LOURAU, JULIE; SOUSA, A. C. G.; FONSECA, D.. Participação em banca de STELA GLEIDE OLIVEIRA SANTANA. A ATUAÇÃO DAS MULHERES DO ROSÁRIO NUMA IRMANDADE DE HOMENS PRETOS NA CONTRAMÃO DAS RELAÇÕES DE PODER. 2025. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "STELA GLEIDE OLIVEIRA SANTANA",
+        "membros_banca": [
+          "LOURAU, JULIE",
+          "SOUSA, A. C. G.",
+          "FONSECA, D."
+        ],
+        "titulo_trabalho": "A ATUAÇÃO DAS MULHERES DO ROSÁRIO NUMA IRMANDADE DE HOMENS PRETOS NA CONTRAMÃO DAS RELAÇÕES DE PODER",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; CARVALHO, I.; PEREIRA, S. O.; CUNHA JUNIOR, D.; SA, K. O.. Participação em banca de Milton SIlva de Vasconcellos. IR. ESTAR E VOLTAR. O ACESSO DAS PESSOAS COM DEFICIÊNCIA FÍSICA AO LAZER NA SALVADOR CONTEMPORÂNEA. 2024. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Milton SIlva de Vasconcellos",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "CARVALHO, I.",
+          "PEREIRA, S. O.",
+          "CUNHA JUNIOR, D.",
+          "SA, K. O."
+        ],
+        "titulo_trabalho": "IR. ESTAR E VOLTAR. O ACESSO DAS PESSOAS COM DEFICIÊNCIA FÍSICA AO LAZER NA SALVADOR CONTEMPORÂNEA",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; TELES, H. R. R. S.; FONSECA, D.; BAQUEIRO, F. R. L.; MALOMALO, B. I.; CUNHA, J. S.. Participação em banca de Paulo Cézar Martins Pinto. ?CORPOS NEGROS, VIDAS MATÁVEIS: SELETIVIDADE PENAL, RACISMO INSTITUCIONAL E ESTADO DE EXCEÇÃO, NAS PRÁTICAS DE AUTO DE RESISTÊNCIA NA CIDADE DE SALVADOR?. 2024. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Paulo Cézar Martins Pinto. ?CORPOS NEGROS, VIDAS MATÁVEIS: SELETIVIDADE PENAL, RACISMO INSTITUCIONAL E ESTADO DE EXCEÇÃO, NAS PRÁTICAS DE AUTO DE RESISTÊNCIA NA CIDADE DE SALVADOR?",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "TELES, H. R. R. S.",
+          "FONSECA, D.",
+          "BAQUEIRO, F. R. L.",
+          "MALOMALO, B. I.",
+          "CUNHA, J. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; TEIXEIRA, A. N.; LIMA, A. N. V.; ARAUJO, F. R.; SA, G. B.. Participação em banca de Sheila Santos Rolemberg. DIREITO, RACISMO E A PRODUÇÃO CONFLITIVA DO ESPAÇO URBANO NA CIDADE DE SALVADOR: A ATUAÇÃO DO MINISTÉRIO PÚBLICO E DA DEFENSORIA PÚBLICA ESTADUAIS NA DEFESA DO DIREITO À MORADIA?. 2023. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Sheila Santos Rolemberg",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "TEIXEIRA, A. N.",
+          "LIMA, A. N. V.",
+          "ARAUJO, F. R.",
+          "SA, G. B."
+        ],
+        "titulo_trabalho": "DIREITO, RACISMO E A PRODUÇÃO CONFLITIVA DO ESPAÇO URBANO NA CIDADE DE SALVADOR: A ATUAÇÃO DO MINISTÉRIO PÚBLICO E DA DEFENSORIA PÚBLICA ESTADUAIS NA DEFESA DO DIREITO À MORADIA?",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; Dias, C.; SOUSA, A. C. G.; SA, K. O.; TEIXEIRA, A. N.. Participação em banca de Jeremias Pereira Pinto. ?O DESENVOLVIMENTO DAS POLÍTICAS CULTURAIS DO SUBÚRBIO FERROVIÁRIO DA CIDADE DO SALVADOR ? BA: Um Olhar Para o Centro Cultural de Plataforma. 2023. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Jeremias Pereira Pinto. ?O DESENVOLVIMENTO DAS POLÍTICAS CULTURAIS DO SUBÚRBIO FERROVIÁRIO DA CIDADE DO SALVADOR ? BA: Um Olhar Para o Centro Cultural de Plataforma",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "Dias, C.",
+          "SOUSA, A. C. G.",
+          "SA, K. O.",
+          "TEIXEIRA, A. N."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; LOURAU J. S.; LEPIKSON, M. F.; BAHIA, S. C.; SOARES, R. M. F.. Participação em banca de TAÍS DÓREA DE CARVALHO SANTOS.. A INCOMPATIBILIDADE DOS PRINCÍPIOS CONSTITUCIONAIS ADMINISTRATIVOS COM AS NORMAS DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA NO TRIBUNAL DE JUSTIÇA DA BAHIA COMO OBSTÁCULO AO ACESSO À JUSTIÇA E A CIDADANIA.. 2022. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Tese de Doutorado",
+        "aluno": "TAÍS DÓREA DE CARVALHO SANTOS",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "LOURAU J. S.",
+          "LEPIKSON, M. F.",
+          "BAHIA, S. C.",
+          "SOARES, R. M. F."
+        ],
+        "titulo_trabalho": "A INCOMPATIBILIDADE DOS PRINCÍPIOS CONSTITUCIONAIS ADMINISTRATIVOS COM AS NORMAS DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA NO TRIBUNAL DE JUSTIÇA DA BAHIA COMO OBSTÁCULO AO ACESSO À JUSTIÇA E A CIDADANIA",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU, JULIE; BAHIA, S. C.; SOARES, R. M. F.; FREITAS, K. S.. Participação em banca de Wdileston Gomes Batista. O ASSÉDIO IDEOLÓGICO NO ÂMBITO ACADÊMICO SOB O PRISMA DA NORMATIZAÇÃO. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Wdileston Gomes Batista",
+        "membros_banca": [
+          "LOURAU, JULIE",
+          "BAHIA, S. C.",
+          "SOARES, R. M. F.",
+          "FREITAS, K. S."
+        ],
+        "titulo_trabalho": "O ASSÉDIO IDEOLÓGICO NO ÂMBITO ACADÊMICO SOB O PRISMA DA NORMATIZAÇÃO",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CAMPOS, P. R.; CAVALCANTI, V. R. S.; LOURAU J. S.; SILVA, A. C.. Participação em banca de Pollyanna Rezende Campos. ?(SOBRE)VIVÊNCIAS JUVENIS: REPRESENTAÇÕES, NARRATIVAS E MAPAS CORPORAIS DAS DIFERENÇAS SEXUAIS EM UM (CIS)TEMA HEGEMÔNICO.?. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Pollyanna Rezende Campos. ?(SOBRE)VIVÊNCIAS JUVENIS: REPRESENTAÇÕES, NARRATIVAS E MAPAS CORPORAIS DAS DIFERENÇAS SEXUAIS EM UM (CIS)TEMA HEGEMÔNICO.?",
+        "membros_banca": [
+          "CAMPOS, P. R.",
+          "CAVALCANTI, V. R. S.",
+          "LOURAU J. S.",
+          "SILVA, A. C."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "AMADO, M. A. N.; CUNHA JUNIOR, D.; LOURAU J. S.; LEPIKSON, F.; ROCHA, J. C. S.; SOARES, R. M. F.. Participação em banca de MARCO AURÉLIO NASCIMENTO AMADO. ?PARTITOCRACIA X JURISTOCRACIA: EM BUSCA DE UMA TEORIA DO EQUILÍBRIO PARA O PROBLEMA DA REPRESENTATIVIDADE DA SOCIEDADE CIVIL NO BRASIL?. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "MARCO AURÉLIO NASCIMENTO AMADO. ?PARTITOCRACIA X JURISTOCRACIA: EM BUSCA DE UMA TEORIA DO EQUILÍBRIO PARA O PROBLEMA DA REPRESENTATIVIDADE DA SOCIEDADE CIVIL NO BRASIL?",
+        "membros_banca": [
+          "AMADO, M. A. N.",
+          "CUNHA JUNIOR, D.",
+          "LOURAU J. S.",
+          "LEPIKSON, F.",
+          "ROCHA, J. C. S.",
+          "SOARES, R. M. F."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; LOURAU, JULIE; PORTELLA, A. A.; BARREIROS NETO, J.; SOARES, R. M. F.. Participação em banca de Josafá da Silva Coelho. ?PARTIDOS POLÍTICOS NO BRASIL: OS DILEMAS ENTRE A CLÁUSULA DE BARREIRA E O HIPERPARTIDARISMO?. 2021. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Josafá da Silva Coelho. ?PARTIDOS POLÍTICOS NO BRASIL: OS DILEMAS ENTRE A CLÁUSULA DE BARREIRA E O HIPERPARTIDARISMO?",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "LOURAU, JULIE",
+          "PORTELLA, A. A.",
+          "BARREIROS NETO, J.",
+          "SOARES, R. M. F."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "URIARTE, U. M.; LOURAU J. S.; MAGNANI, G. C.; ARANTES, R.; MULLER, C. B.. Participação em banca de SARAH NASCIMENTO DOS REIS. DA BAÍA À ORLA. TRAJETÓRIAS HABITACIONAIS EM PRETO E BRANCO. 2021. Tese (Doutorado em Antropologia) - Universidade Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "SARAH NASCIMENTO DOS REIS",
+        "membros_banca": [
+          "URIARTE, U. M.",
+          "LOURAU J. S.",
+          "MAGNANI, G. C.",
+          "ARANTES, R.",
+          "MULLER, C. B."
+        ],
+        "titulo_trabalho": "DA BAÍA À ORLA. TRAJETÓRIAS HABITACIONAIS EM PRETO E BRANCO",
+        "curso": "Tese (Doutorado em Antropologia)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "MAIA, S.; LOURAU J. S.; SOVIK, L.; CARDOSO, L. C.; CESAR, A. L. S.. Participação em banca de JORGE HILTON DE ASSIS MIRANDA. RAPPERS BRANCOS ESTADUNIDEN$E$ - APROPRIAÇÃO CULTURAL, AUTENTICIDADE E BRANQUITUDE. 2021. Tese (Doutorado em Antropologia) - Universidade Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "JORGE HILTON DE ASSIS MIRANDA",
+        "membros_banca": [
+          "MAIA, S.",
+          "LOURAU J. S.",
+          "SOVIK, L.",
+          "CARDOSO, L. C.",
+          "CESAR, A. L. S."
+        ],
+        "titulo_trabalho": "RAPPERS BRANCOS ESTADUNIDEN$E$ - APROPRIAÇÃO CULTURAL, AUTENTICIDADE E BRANQUITUDE",
+        "curso": "Tese (Doutorado em Antropologia)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SILVA, A. C.; LOURAU J. S.; SOUSA, A. C. G.; BARROS, O. M.; RIBEIRO, T. C.. Participação em banca de Antonio Pedro Ferreira da Silva. Etnodesenvolvimento: impactos nas comunidades indígenas no nordeste da Bahia. 2020. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Antonio Pedro Ferreira da Silva",
+        "membros_banca": [
+          "SILVA, A. C.",
+          "LOURAU J. S.",
+          "SOUSA, A. C. G.",
+          "BARROS, O. M.",
+          "RIBEIRO, T. C."
+        ],
+        "titulo_trabalho": "Etnodesenvolvimento: impactos nas comunidades indígenas no nordeste da Bahia",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "LOURAU J. S.; TELES, H. R. R. S.; FONSECA, D.; BAQUEIRO, F. R. L.; MALOMALO, B. I.; CUNHA, J. S.. Participação em banca de Paulo Cézar Martins Pinto. ?CORPOS NEGROS, VIDAS MATÁVEIS: SELETIVIDADE PENAL, RACISMO INSTITUCIONAL E ESTADO DE EXCEÇÃO, NAS PRÁTICAS DE AUTO DE RESISTÊNCIA NA CIDADE DE SALVADOR. 2024. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Paulo Cézar Martins Pinto. ?CORPOS NEGROS, VIDAS MATÁVEIS: SELETIVIDADE PENAL, RACISMO INSTITUCIONAL E ESTADO DE EXCEÇÃO, NAS PRÁTICAS DE AUTO DE RESISTÊNCIA NA CIDADE DE SALVADOR",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "TELES, H. R. R. S.",
+          "FONSECA, D.",
+          "BAQUEIRO, F. R. L.",
+          "MALOMALO, B. I.",
+          "CUNHA, J. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; FONSECA, D.; SOUSA, A. C. G.. Participação em banca de Stela Gleide Oliveira Dilago. A atuação de mulheres numa irmandade de homens pretos. 2024. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Stela Gleide Oliveira Dilago",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "FONSECA, D.",
+          "SOUSA, A. C. G."
+        ],
+        "titulo_trabalho": "A atuação de mulheres numa irmandade de homens pretos",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; SOUSA, A. C. G.; SA, K. O.; TEIXEIRA, A. N.; Dias, C.. Participação em banca de Jeremias Pereira Pinto. ?AS POLÍTICAS CULTURAIS E SUAS INSERÇÕES NAS PERIFERIAS DA CIDADE DO SALVADOR, BAHIA: um novo olhar para o Centro Cultural de Plataforma?.. 2023. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Jeremias Pereira Pinto. ?AS POLÍTICAS CULTURAIS E SUAS INSERÇÕES NAS PERIFERIAS DA CIDADE DO SALVADOR, BAHIA: um novo olhar para o Centro Cultural de Plataforma?",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "SOUSA, A. C. G.",
+          "SA, K. O.",
+          "TEIXEIRA, A. N.",
+          "Dias, C."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; LIMA, A. N. V.; TEIXEIRA, A. N.; SA, G. B.; ARAUJO, F. R.. Participação em banca de Sheila Santos Rolemberg. ?O DIREITO INSURGENTE À MORADIA E À CIDADE: A PRODUÇÃO CONFLITIVA DO ESPAÇO URBANO?. 2023. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Sheila Santos Rolemberg. ?O DIREITO INSURGENTE À MORADIA E À CIDADE: A PRODUÇÃO CONFLITIVA DO ESPAÇO URBANO?",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "LIMA, A. N. V.",
+          "TEIXEIRA, A. N.",
+          "SA, G. B.",
+          "ARAUJO, F. R."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; SA, K. O.; CARVALHO, I.; CUNHA JUNIOR, D.; PEREIRA, S. O.. Participação em banca de Milton Silva de Vasconcellos. IR. ESTAR E VOLTAR. O ACESSO DAS PESSOAS COM DEFICIÊNCIA FÍSICA AO LAZER EM SALVADOR NO SÉCULO XXI. 2022. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Milton Silva de Vasconcellos",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "SA, K. O.",
+          "CARVALHO, I.",
+          "CUNHA JUNIOR, D.",
+          "PEREIRA, S. O."
+        ],
+        "titulo_trabalho": "IR. ESTAR E VOLTAR. O ACESSO DAS PESSOAS COM DEFICIÊNCIA FÍSICA AO LAZER EM SALVADOR NO SÉCULO XXI",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU, JULIE; BARREIROS NETO, J.; CUNHA JUNIOR, D.; SOARES, R. M. F.; PORTELLA, A. A.. Participação em banca de Josafá da Silva Coelho. OS DESAFIOS DA DEMOCRACIA PARTIDÁRIA BRASILEIRA: ENTRE O ?HIPERPARTIDARISMO? E A CLÁUSULA DE BARREIRA?. 2021. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Josafá da Silva Coelho",
+        "membros_banca": [
+          "LOURAU, JULIE",
+          "BARREIROS NETO, J.",
+          "CUNHA JUNIOR, D.",
+          "SOARES, R. M. F.",
+          "PORTELLA, A. A."
+        ],
+        "titulo_trabalho": "OS DESAFIOS DA DEMOCRACIA PARTIDÁRIA BRASILEIRA: ENTRE O ?HIPERPARTIDARISMO? E A CLÁUSULA DE BARREIRA?",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "AMADO, M. A. N.; CUNHA JUNIOR, D.; LOURAU J. S.; ROCHA, J. C. S.; LEPIKSON, F.; SOARES, R. M. F.. Participação em banca de MARCO AURÉLIO NASCIMENTO AMADO. ?PARTITOCRACIA X JURISTOCRACIA: EM BUSCA DE UMA TEORIA DO EQUILÍBRIO PARA O PROBLEMA DA REPRESENTATIVIDADE DA SOCIEDADE CIVIL NO BRASIL?. 2021. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "MARCO AURÉLIO NASCIMENTO AMADO. ?PARTITOCRACIA X JURISTOCRACIA: EM BUSCA DE UMA TEORIA DO EQUILÍBRIO PARA O PROBLEMA DA REPRESENTATIVIDADE DA SOCIEDADE CIVIL NO BRASIL?",
+        "membros_banca": [
+          "AMADO, M. A. N.",
+          "CUNHA JUNIOR, D.",
+          "LOURAU J. S.",
+          "ROCHA, J. C. S.",
+          "LEPIKSON, F.",
+          "SOARES, R. M. F."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; LOURAU J. S.; LEPIKSON, M. F.; BAHIA, S. C.; SOARES, R. M. F.. Participação em banca de TAÍS DÓREA DE CARVALHO SANTOS.. A INCOMPATIBILIDADE DOS PRINCÍPIOS CONSTITUCIONAIS ADMINISTRATIVOS COM AS NORMAS DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA NO TRIBUNAL DE JUSTIÇA DA BAHIA COMO OBSTÁCULO AO ACESSO À JUSTIÇA E A CIDADANIA.. 2021. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "TAÍS DÓREA DE CARVALHO SANTOS",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "LOURAU J. S.",
+          "LEPIKSON, M. F.",
+          "BAHIA, S. C.",
+          "SOARES, R. M. F."
+        ],
+        "titulo_trabalho": "A INCOMPATIBILIDADE DOS PRINCÍPIOS CONSTITUCIONAIS ADMINISTRATIVOS COM AS NORMAS DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA NO TRIBUNAL DE JUSTIÇA DA BAHIA COMO OBSTÁCULO AO ACESSO À JUSTIÇA E A CIDADANIA",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BAQUEIRO, F. R. L.; LOURAU J. S.; FERREIRA, C.. Participação em banca de CATIANE QELLEM OLIVEIRA DOS SANTOS. FEMINIZAÇÃO DA POBREZA NO SISTEMA PENAL: UMA ABORDAGEM DO ENCARCERAMENTO FEMININO PELO TRÁFICO DE DROGAS NO CONJUNTO PENAL DE SALVADOR. 2020. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "CATIANE QELLEM OLIVEIRA DOS SANTOS",
+        "membros_banca": [
+          "BAQUEIRO, F. R. L.",
+          "LOURAU J. S.",
+          "FERREIRA, C."
+        ],
+        "titulo_trabalho": "FEMINIZAÇÃO DA POBREZA NO SISTEMA PENAL: UMA ABORDAGEM DO ENCARCERAMENTO FEMININO PELO TRÁFICO DE DROGAS NO CONJUNTO PENAL DE SALVADOR",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BAQUEIRO, F. R. L.; LOURAU J. S.; FERREIRA, C.. Participação em banca de LENON SILVA RIBEIRO. A (NECRO)POLÍTICA DE DROGAS NO BRASIL Uma Análise a Luz das Alternativas ao Modelo Proibicionista.. 2020. Exame de qualificação (Doutorando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "LENON SILVA RIBEIRO",
+        "membros_banca": [
+          "BAQUEIRO, F. R. L.",
+          "LOURAU J. S.",
+          "FERREIRA, C."
+        ],
+        "titulo_trabalho": "A (NECRO)POLÍTICA DE DROGAS NO BRASIL Uma Análise a Luz das Alternativas ao Modelo Proibicionista",
+        "curso": "Exame de qualificação (Doutorando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU, JULIE; LEPIKSON, F.; SANTANA, S. G. O.; BENEDICTO, R.. Participação em banca de Iliassa Turé. POLÍTICAS EDUCACIONAIS, DIREITOS HUMANOS E INTERCULTURALIDADE: O CASO DAS ESCOLAS CORÂNICAS NA GUINÉ-BISSAU. 2025. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Iliassa Turé",
+        "membros_banca": [
+          "LOURAU, JULIE",
+          "LEPIKSON, F.",
+          "SANTANA, S. G. O.",
+          "BENEDICTO, R."
+        ],
+        "titulo_trabalho": "POLÍTICAS EDUCACIONAIS, DIREITOS HUMANOS E INTERCULTURALIDADE: O CASO DAS ESCOLAS CORÂNICAS NA GUINÉ-BISSAU",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; SOUSA, A. C. G.; MALOMALO, B. I.. Participação em banca de Camilla Sousa Lima. ??EU SOU POR QUE NÓS SOMOS?: REDES SOCIAIS E A PRODUÇÃO DE SABERES EMANCIPATÓRIOS PARA MULHERES NEGRAS?. 2023. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Camilla Sousa Lima. ??EU SOU POR QUE NÓS SOMOS?: REDES SOCIAIS E A PRODUÇÃO DE SABERES EMANCIPATÓRIOS PARA MULHERES NEGRAS?",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "SOUSA, A. C. G.",
+          "MALOMALO, B. I."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LOURAU J. S.; CORREIA, S. S.; CUNHA JUNIOR, D.. Participação em banca de Danyelle Carvalho do Nascimento. A ANÁLISE DAS POLÍTICAS SOCIAIS DE MORADIA: UM ESTUDO SOBRE A (IN) SATISFAÇÃO NO RECEBIMENTO DE UNIDADES HABITACIONAIS DO PROGRAMA MINHA CASA MINHA VIDA ? RESIDENCIAL MIRANTE DO BOMFIM ? SALVADOR/BAHIA?. 2022. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Danyelle Carvalho do Nascimento",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "CORREIA, S. S.",
+          "CUNHA JUNIOR, D."
+        ],
+        "titulo_trabalho": "A ANÁLISE DAS POLÍTICAS SOCIAIS DE MORADIA: UM ESTUDO SOBRE A (IN) SATISFAÇÃO NO RECEBIMENTO DE UNIDADES HABITACIONAIS DO PROGRAMA MINHA CASA MINHA VIDA ? RESIDENCIAL MIRANTE DO BOMFIM ? SALVADOR/BAHIA?",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BAQUEIRO, F. R. L.; LOURAU J. S.; FERREIRA, C.. Participação em banca de CAROLINE DA SILVA ARGOLO. O RACISMO ESTRUTURAL REFLETIDO NA POLÍTICA CRIMINAL DE DROGAS: A NECROPOLÍTICA COMO CRITÉRIO DIFERENCIADOR ENTRE USUÁRIO E TRAFICANTE NA LEI 11.343/06 NOS AUTOS DE PRISÃO EM FLAGRANTE NA COMARCA DO SALVADOR/BA. 2020. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "CAROLINE DA SILVA ARGOLO",
+        "membros_banca": [
+          "BAQUEIRO, F. R. L.",
+          "LOURAU J. S.",
+          "FERREIRA, C."
+        ],
+        "titulo_trabalho": "O RACISMO ESTRUTURAL REFLETIDO NA POLÍTICA CRIMINAL DE DROGAS: A NECROPOLÍTICA COMO CRITÉRIO DIFERENCIADOR ENTRE USUÁRIO E TRAFICANTE NA LEI 11.343/06 NOS AUTOS DE PRISÃO EM FLAGRANTE NA COMARCA DO SALVADOR/BA",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BAQUEIRO, F. R. L.; LOURAU J. S.; FERREIRA, C.. Participação em banca de FLÁVIA GRAZIELLE DA SILVA ARAÚJO. DA VIOLÊNCIA DOMÉSTICA AO FEMINICÍDIO DE MULHERES NEGRAS: A necropolítica de gênero e raça na cidade do Salvador. 2020. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "FLÁVIA GRAZIELLE DA SILVA ARAÚJO",
+        "membros_banca": [
+          "BAQUEIRO, F. R. L.",
+          "LOURAU J. S.",
+          "FERREIRA, C."
+        ],
+        "titulo_trabalho": "DA VIOLÊNCIA DOMÉSTICA AO FEMINICÍDIO DE MULHERES NEGRAS: A necropolítica de gênero e raça na cidade do Salvador",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "LOURAU J. S.; BAQUEIRO, F. R. L.. Participação em banca de Luanna dos Santos Ferreira.NECROPODER E A TOPOGRAFIA DA MORTE: A PRODUÇÃO DA VIOLÊNCIA NOS ESPAÇOS URBANOS EM SALVADOR/BA. 2021. Trabalho de Conclusão de Curso (Graduação em Direito) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Luanna dos Santos Ferreira",
+        "membros_banca": [
+          "LOURAU J. S.",
+          "BAQUEIRO, F. R. L."
+        ],
+        "titulo_trabalho": "NECROPODER E A TOPOGRAFIA DA MORTE: A PRODUÇÃO DA VIOLÊNCIA NOS ESPAÇOS URBANOS EM SALVADOR/BA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Direito)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "LOURAU J. S.; OLIVEIRA, A. S. S.; LIMA, D. F.. PORTARIA PROPAE/UNILAB Nº29, DE 30 DE MAIO DE 2023. 2023. Universidade da Integração Internacional da Lusofonia Afro-Brasileira.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "2023. Universidade da Integração Internacional da Lusofonia Afro-Brasileira.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SA, K. O.; LOURAU J. S.; LEPIKSON, F.; Pitta, A.; BORGES, ÂNGELA; BAQUEIRO, F. R. L.. Seleção de alunos para o PPGPSC. 2021. Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 8,
+    "total_livros": 2,
+    "total_capitulos": 4,
+    "total_trabalhos_congressos": 3,
+    "total_projetos_pesquisa": 3,
+    "total_projetos_extensao": 1,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 13,
+    "total_orientacoes_andamento": 4
+  }
+}

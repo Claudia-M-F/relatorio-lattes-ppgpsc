@@ -1,0 +1,3715 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "7910445092841679",
+    "nome_completo": "Maria Gorete Borges Figueirêdo",
+    "nome_citacoes": "FIGUEIREDO, M. G. B.;Lattes ID: https://lattes.cnpq.br/7910445092841679;GORETE BORGES FIGUEIREDO, MARIA",
+    "sexo": "Masculino",
+    "rotulo": "Permanente",
+    "periodo": "2018",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Católica do Salvador, PROGRAMA DE PÓS-GRADUAÇÃO EM POLÍTICAS SOCIAIS E CIDADANIA - PPGPSC. Avenida Professor Pinto de Aguiar n.2589 Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (71) 32067800 URL da Homepage: www.ucsal.br",
+    "atualizacao_cv": "17/08/2026",
+    "url": "http://lattes.cnpq.br/7910445092841679",
+    "texto_resumo": "Professora Permanente do Programa de Pós-Graduação em Políticas Sociais e Cidadania - PPGPSC (UCSal). Coordena o PPGPSC e a Assessoria de Relações Internacionais (ARI). Professora na Pós-Graduação Lato Sensu em Gestão de Política da Assistência Social no contexto SUAS(UCSal). Professora na Graduação nos cursos de Direito, Pedagogia, História, Música, Letras e Serviço Social; Doutora em Planejamento Territorial e Desenvolvimento Social (UCSAL) - Área das Ciências Socias Aplicadas; e Mestre em Desenvolvimento Regional e Urbano (UNIFACS), MBA em Finanças Corporativas (UNIFACS), Pós-graduada em Administração de RH (UFBA), e Pós em TERAPIA DE FAMÍLIA (UCSAL/COFAM); é graduada em SERVIÇO SOCIAL (UCSal), e em PEDAGOGIA com Habilitação em Orientação Educacional (FEBA). Foi Pró-reitora de Extensão e Ação Comunitária da UCSAL (2021/2022). Coordenou o Curso de Serviço Social (2019-2024) e Pedagogia na UCSal 2020/2021. Foi Professora Substituta na Universidade Federal do Recôncavo da Bahia-UFRB no curso de Serviço Social (2017/2019); Professora Tutora: Uniasselvi 2009/2014 e na UNEF 2023/2025. Foi Pesquisadora Bolsista na Secretaria de Ciência Tecnologia e Inovação (SECTI BA) 2014/2017, onde atuou com gestão de projetos de energias alternativas, inovação e tecnologias no semiárido BA. Coordenou curso de Pós-graduação ESPECIALIZAÇÃO EM POLITICAS E ESTRATÉGIAS na parceria ADESG-UNEB; trabalhou com Planejamento Estratégico, formação de TIME, acompanhamento e monitoramento de indicadores e certificações ISO 9001 e ISO 26000(1994-2014). Foi facilitadora do CAPACITASUAS- BA pela UFRB (2017/2019) e UFBA (2019/2022). Fez trabalho voluntário no programa Mobilidade Humana com Migrantes e Refugiados (2017-2022). Coordena os grupos de pesquisa GRUPO DE ESTUDOS E PESQUISA EM EDUCAÇÃO, INCLUSÃO E SUSTENTABILIDADE- interdisciplinaridades na Gestão e nas Políticas Públicas (GEPEIS) e o NÚCLEO DE ESTUDOS INTERDISCIPLINARES SOBRE POVOS, MIGRAÇÕES , INCLUSÃO E CIDADANIA - diálogo, práticas e políticas públicas (NEIPOMIC), e é membro ativo dos grupos de pesquisa: GEPPGE Grupo de Estudos em Políticas Públicas e Gestão Educacional do PPGPSC/UCSal cujo objeto de estudo é educação, políticas públicas no cenário nacional e as relações internacionais; Gestão Democrática das Cidades (GDC) cujo objeto de estudo é discutir e investigar processos urbanos contemporâneos, relacionados às políticas públicas e gestão participativa; e Territórios em Resistência que tem como objeto de estudo Territorialidade, Desenvolvimento Social e Meio Ambiente. É membro do Conselho Gestor do Parque Metropolitano de Pituaçu (CGPMP) em Salvador/BA 2021/atual; e é membro Comitê Estadual Intersetorial de Migrações, Apatridia e Refúgio na Bahia - CEIMAR/BA 2025. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Planejamento Territorial e Desenvolvimento Social",
+      "nome_instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2021",
+      "descricao": "Título: A UTOPIA DO RECONHECIMENTO DO AGRICULTOR FAMILIAR Existência e Invisibilidade do cidadão rural no Semiárido Baiano., Ano de obtenção: 2021. Orientador: CRISTINA MARIA MACEDO DE ALENCAR. Bolsista do(a): Fundação de Amparo à Pesquisa do Estado da Bahia, FAPESB, Brasil. Palavras-chave: BIOMASSA; AGRICULTURA FAMILIAR; Semiárido baiano. Grande área: Ciências Sociais Aplicadas / Área: Planejamento Urbano e Regional / Subárea: Ciências Sociais Aplicada."
+    },
+    {
+      "tipo": "Mestrado profissional em Desenvolvimento Regional e Urbano",
+      "nome_instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2016",
+      "descricao": "Título: SISAL: sistema produtivo, fundamentos sociais e técnicos das políticas na Bahia., Ano de Obtenção: 2016. Orientador: FERNANDO CARDOSO PEDRÃO. Coorientador: AAAA Definir. Palavras-chave: Sisal; Semiárido baiano; sistema produtivo; Reestruturação."
+    },
+    {
+      "tipo": "Especialização em MBA FINANÇAS CORPORATIVAS",
+      "nome_instituicao": "(Carga Horária: 444h)",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2003",
+      "descricao": "Universidade Salvador, UNIFACS, Brasil. Título: A CONTROLADORIA ESTRATÉGICA E A CADEIA DE VALOR- Um Estudo de Caso do Sisal. Orientador: Prof. Dr. Adriano Bruni."
+    },
+    {
+      "tipo": "Especialização em TERAPIA FAMILIAR",
+      "nome_instituicao": "(Carga Horária: 1287h)",
+      "ano_inicio": "1993",
+      "ano_conclusao": "1996",
+      "descricao": "Universidade Católica do Salvador, UCSAL, Brasil. Título: Filhos Meus, Filhos Teus , Filhos Nossos. Orientador: Dra. Celia Bastos."
+    },
+    {
+      "tipo": "Especialização em Administração e Desenvolvimento em Recursos Humano",
+      "nome_instituicao": "(Carga Horária: 1584h)",
+      "ano_inicio": "1992",
+      "ano_conclusao": "1993",
+      "descricao": "Universidade Federal da Bahia, UFBA, Brasil. Título: Plano de Programação para Aposentadoria = PPA no SENAI BA."
+    },
+    {
+      "tipo": "Graduação em Serviço Social",
+      "nome_instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "ano_inicio": "1986",
+      "ano_conclusao": "1991",
+      "descricao": ""
+    },
+    {
+      "tipo": "Graduação em Pedagogia",
+      "nome_instituicao": "Faculdade de Educação da Bahia, FEBA, Brasil",
+      "ano_inicio": "1986",
+      "ano_conclusao": "1989",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "CONSELHO NACIONAL DE DESEN",
+      "instituicao_nome": "CONSELHO NACIONAL DE DESEN",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Coordenadora PPGPolíticas Sociais e Cidadania",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Coord ASSESSORIA DE RELAÇÕES INTERNACIONAIS",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Prof.Permanente POLíTICAS SOCIAIS E CIDADANIA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "COORD. DE CURSO DE ESPECIALIZAÇÃO LATO SENSU",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - 2024",
+      "ano_inicio": "2023",
+      "ano_fim": "2024",
+      "vinculo": "Colaborador",
+      "enquadramento": "Prof ColaboradorPOLíTICAS SOCIAIS E CIDADANIA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2024",
+      "ano_inicio": "2019",
+      "ano_fim": "2024",
+      "vinculo": "Colaborador",
+      "enquadramento": "PROFESSOR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2024",
+      "ano_inicio": "2019",
+      "ano_fim": "2024",
+      "vinculo": "Celetista",
+      "enquadramento": "COORDENADOR ACADÊMICO CURSO DE SERVIÇO SOCIAL",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2024",
+      "ano_inicio": "2019",
+      "ano_fim": "2024",
+      "vinculo": "Celetista",
+      "enquadramento": "MEMBRO NUCLEO DOCENTE ESTRUTURANTE - NDE",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2022",
+      "ano_inicio": "2020",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2021 - 2022",
+      "ano_inicio": "2021",
+      "ano_fim": "2022",
+      "vinculo": "Celetista",
+      "enquadramento": "PRÓ-REITORA DE EXTENSÃO E AÇÃO COMUNITÁRIA",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2021",
+      "ano_inicio": "2020",
+      "ano_fim": "2021",
+      "vinculo": "Celetista",
+      "enquadramento": "COORDENADOR CURSO de PEDAGOGIA",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2021",
+      "ano_inicio": "2020",
+      "ano_fim": "2021",
+      "vinculo": "Celetista",
+      "enquadramento": "MEMBRO NUCLEO DOCENTE ESTRUTURANTE - NDE",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Escola de Serviço Social."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Pro Reitoria de Pesquisa e Pós Graduação."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2025 - 03/2025",
+      "ano_inicio": "2025",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, PROGRAMA DE PÓS-GRADUAÇÃO EM POLÍTICAS SOCIAIS E CIDADANIA - PPGPSC."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2024 - 12/2024",
+      "ano_inicio": "2024",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, PROGRAMA DE PÓS-GRADUAÇÃO EM POLÍTICAS SOCIAIS E CIDADANIA - PPGPSC."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2024 - 12/2024",
+      "ano_inicio": "2024",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2024 - 12/2024",
+      "ano_inicio": "2024",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2024 - 10/2024",
+      "ano_inicio": "2024",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2023 - 07/2024",
+      "ano_inicio": "2023",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2023 - 12/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2023 - 12/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2023 - 06/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2023 - 05/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2022 - 07/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2022 - 07/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2022 - 06/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2022 - 06/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2021 - 12/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2021 - 12/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2021 - 12/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2019 - 12/2021",
+      "ano_inicio": "2019",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2021 - 07/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2021 - 06/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2020 - 12/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2020 - 12/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2020 - 12/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 07/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 07/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2019 - 12/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2019 - 07/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2019 - 07/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2019 - 07/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2018 - 12/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2018 - 07/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Unef, UNEF, Brasil.",
+      "instituicao_nome": "Unef",
+      "instituicao_sigla": "UNEF",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - 2024",
+      "ano_inicio": "2023",
+      "ano_fim": "2024",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor Tutor EAD",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Unef, UNEF, Brasil",
+      "instituicao_nome": "Unef",
+      "instituicao_sigla": "UNEF",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2023 - 12/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CapacitaSUAS BAHIA - UFBA /SJDHDS-BA - Brasil., CAPACITASUAS BA, Brasil.",
+      "instituicao_nome": "CapacitaSUAS BAHIA - UFBA /SJDHDS-BA - Brasil.",
+      "instituicao_sigla": "CAPACITASUAS BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2022",
+      "ano_inicio": "2019",
+      "ano_fim": "2022",
+      "vinculo": "Bolsista",
+      "enquadramento": "Docente",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CapacitaSUAS BAHIA - UFBA /SJDHDS-BA - Brasil",
+      "instituicao_nome": "CapacitaSUAS BAHIA - UFBA /SJDHDS-BA - Brasil",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CapacitaSUAS BAHIA - UFBA /SJDHDS-BA - Brasil",
+      "instituicao_nome": "CapacitaSUAS BAHIA - UFBA /SJDHDS-BA - Brasil",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "02/2019 - 12/2022",
+      "ano_inicio": "2019",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil.",
+      "instituicao_nome": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+      "instituicao_sigla": "FAPESP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2021",
+      "ano_inicio": "2017",
+      "ano_fim": "2021",
+      "vinculo": "Colaborador",
+      "enquadramento": "Pesquisadora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Recôncavo da Bahia, UFRB, Brasil.",
+      "instituicao_nome": "Universidade Federal do Recôncavo da Bahia",
+      "instituicao_sigla": "UFRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2019",
+      "ano_inicio": "2017",
+      "ano_fim": "2019",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Recôncavo da Bahia, UFRB, Brasil",
+      "instituicao_nome": "Universidade Federal do Recôncavo da Bahia",
+      "instituicao_sigla": "UFRB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Recôncavo da Bahia, UFRB, Brasil.",
+      "instituicao_nome": "Universidade Federal do Recôncavo da Bahia",
+      "instituicao_sigla": "UFRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2019",
+      "ano_inicio": "2017",
+      "ano_fim": "2019",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista CAPACITASUAS",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Recôncavo da Bahia, UFRB, Brasil",
+      "instituicao_nome": "Universidade Federal do Recôncavo da Bahia",
+      "instituicao_sigla": "UFRB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Recôncavo da Bahia, UFRB, Brasil",
+      "instituicao_nome": "Universidade Federal do Recôncavo da Bahia",
+      "instituicao_sigla": "UFRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CAPACITASUAS UFRB/MDS/SJDHDS, CAPACITASUAS, Brasil., CAPACITASUAS, Brasil.",
+      "instituicao_nome": "CAPACITASUAS UFRB/MDS/SJDHDS",
+      "instituicao_sigla": "CAPACITASUAS",
+      "instituicao_pais": "Brasil.",
+      "periodo": "2017 - 2019",
+      "ano_inicio": "2017",
+      "ano_fim": "2019",
+      "vinculo": "FACILITADOR EVENTUAL",
+      "enquadramento": "Docente",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "CAPACITASUAS UFRB/MDS/SJDHDS, CAPACITASUAS, Brasil",
+      "instituicao_nome": "CAPACITASUAS UFRB/MDS/SJDHDS",
+      "instituicao_sigla": "CAPACITASUAS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria de Ciência Tecnologia e Inovação da Bahia, SECTI - BA, Brasil.",
+      "instituicao_nome": "Secretaria de Ciência Tecnologia e Inovação da Bahia",
+      "instituicao_sigla": "SECTI - BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2017",
+      "ano_inicio": "2015",
+      "ano_fim": "2017",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsa de Pesquisa",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria de Ciência Tecnologia e Inovação da Bahia, SECTI - BA, Brasil",
+      "instituicao_nome": "Secretaria de Ciência Tecnologia e Inovação da Bahia",
+      "instituicao_sigla": "SECTI - BA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil.",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - 2016",
+      "ano_inicio": "2014",
+      "ano_fim": "2016",
+      "vinculo": "Aluna Pesquisadora",
+      "enquadramento": "Aluna do PPDRU",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Leonardo Da",
+      "instituicao_nome": "Centro Universitário Leonardo Da",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2009 - 2014",
+      "ano_inicio": "2009",
+      "ano_fim": "2014",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Professor Tutor Externo",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário Leonardo Da Vinci, UNIASSELVI, Brasil",
+      "instituicao_nome": "Centro Universitário Leonardo Da Vinci",
+      "instituicao_sigla": "UNIASSELVI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "UCI DO BRASIL IND E COM LTDA, UCI, Brasil.",
+      "instituicao_nome": "UCI DO BRASIL IND E COM LTDA",
+      "instituicao_sigla": "UCI",
+      "instituicao_pais": "Brasil",
+      "periodo": "1994 - 2014",
+      "ano_inicio": "1994",
+      "ano_fim": "2014",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Chefe de Desenvolvimento",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "UCI DO BRASIL IND E COM LTDA, UCI, Brasil",
+      "instituicao_nome": "UCI DO BRASIL IND E COM LTDA",
+      "instituicao_sigla": "UCI",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2014",
+      "ano_inicio": "2010",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Associação dos Delegados da Escola Superior de Guerra, ADESG, Brasil.",
+      "instituicao_nome": "Associação dos Delegados da Escola Superior de Guerra",
+      "instituicao_sigla": "ADESG",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 2000",
+      "ano_inicio": "1999",
+      "ano_fim": "2000",
+      "vinculo": "Colaborador",
+      "enquadramento": "Coordenador Pedagógico",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Associação dos Delegados da Escola Superior de Guerra, ADESG, Brasil",
+      "instituicao_nome": "Associação dos Delegados da Escola Superior de Guerra",
+      "instituicao_sigla": "ADESG",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "SENAI - Departamento Regional da Bahia, SENAI/DR/BA, Brasil.",
+      "instituicao_nome": "SENAI - Departamento Regional da Bahia",
+      "instituicao_sigla": "SENAI/DR/BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1991 - 1994",
+      "ano_inicio": "1991",
+      "ano_fim": "1994",
+      "vinculo": "Celetista formal",
+      "enquadramento": "Assistente Social",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "SENAI - Departamento Regional da Bahia, SENAI/DR/BA, Brasil",
+      "instituicao_nome": "SENAI - Departamento Regional da Bahia",
+      "instituicao_sigla": "SENAI/DR/BA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "ORÇAMENTOS SENSÍVEIS A RAÇA E ETNIA Experiências subnacionais de financiamento de políticas públicas para a população negra e para povos e comunidades tradicionais",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: ORÇAMENTOS SENSÍVEIS A RAÇA E ETNIA Experiências subnacionais de financiamento de políticas públicas para a população negra e para povos e comunidades tradicionais submetido para Chamada Pública CNPq/FNDCT N 6/2026 - Faixa Ccoordenado por Ilzver de Matos Oliveira ilzver@pq.cnpq.br.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Maria Gorete Borges Figueirêdo - Coordenador / Ilzver de Matos Oliveira - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ilzver de Matos Oliveira",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "POLÍTICAS PÚBLICAS, DIREITOS SOCIAIS E CONSTRUÇÃO DA CIDADANIA: AVANÇOS E CONTRASSENSOS NA EDUCAÇÃO E NA SEGURIDADE SOCIAL NA BAHIA.",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: I Políticas sociais universais, institucionalização e controleOBJ GERAL - Analisar as formas de operacionalização das Políticas Públicas de Educação eda Seguridade Social e o modo de garantir os direitos sociais essenciais epropiciar a construção da cidadania da pessoa na Bahia.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (3) . Integrantes: Maria Gorete Borges Figueirêdo - Coordenador / MARIA DE FATIMA PESSOA LEPIKSON - Integrante / RODOLFO CARDOSO PEREIRA - Integrante / José Oliveira Araújo Neto - Integrante / Tiago Ferreira da Silva - Integrante / BEATRIZ LIMA DE OLIVEIRA - Integrante / ESTEFANE SANTANA SILVA - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "MARIA DE FATIMA PESSOA LEPIKSON",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "RODOLFO CARDOSO PEREIRA",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "José Oliveira Araújo Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tiago Ferreira da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BEATRIZ LIMA DE OLIVEIRA",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "ESTEFANE SANTANA SILVA",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "UCSAL no Parque de Pituaçu - Direitos Humanos; Cidadania; Educação e Meio Ambiente.",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Atividade de Extensão baseada na construção de fortalecimento de vínculo comunitário com a comunidade do entorno do Parque de Pituaçu e da UCSal identificando demandas sociais, vinculando redes e construindo conhecimento e aproximação com as politicas públicas sociais e ambientais, local, com área temática de extensão ligada a Direitos Humanos e Justiça; Educação; Meio Ambiente. UCSal no Parque de Pituaçu é um Projeto de Extensão do PPGPSC com intuído de devolver à Comunidade sua expertise acadêmica. Tendo como Objetivo Geral: Contribuir na formação cidadã dos sujeitos sociais residentes no entorno do Parque de Pituaçu favorecendo troca de conhecimento, experiências e aprendizados no território. Os objetivos Especificos são: Ampliar conhecimento e acesso às políticas sociais pela comunidade e lideranças do entorno do Pq. Pituaçu; Favorecer fortalecimento do vinculo com o território; Estimular a cidadania saudável e consciente da comunidade e lideranças. Público-Alvo: Comunidade e lideranças do entorno do Parque de Pituaçu envolvendo bairros de Pituaçu, Boca do Rio, Patamares, Piat#259; e Paralela. Estão sendo realizada através de TARDES FORMATIVAS com Vivências, faseada em três etapas: Fase 1 Tardes de Formação e Informação acerca Políticas Sociais e a estruturação da Rede do Território do Parque de Pituaçu em Salvador Ba; Fase 2 - Tardes de Abordagem social com pesquisa de campo compreendendo as mudanças e a dinâmica do bairro de Pituaçu após intervenção municipal na Orla de Salvador. Rodas de conversas e escuta ativa com os munícipes do bairro de Pituaçu e articulação com o Conselho Gestor do PARQUE METROPOLITANO DE PITUAÇU (PMP); Fase 3 Tardes de Abordagem social com Oficina Vivência de MAPA FALADO para construção do Diagnóstico Socioterritorial do Parque de Pituaçu e da Comunidade no seu entorno - Pituaçu, Boca do Rio, Patamares, Piat#259; e Paralela.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . Integrantes: Maria Gorete Borges Figueirêdo - Coordenador / aparecida netto - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "aparecida netto",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Valorando as Unidades de Acolhimento no Município de Salvador formando para servir.",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Projeto Valorando as Unidades de Acompanhamento de Acolhimento em Salvador - oferta de formação continuada ao corpo técnico das Unidades de Acolhimento de SalvadorContribuir na formação da equipe técnica da FUNDAÇÃOCIDADE MÃE favorecendo a troca de conhecimentos, experiênciase aprendizados acerca das demandas e usuários atendidos.Específicos#9827; Ampliar conhecimento e acesso às políticas sociais revisitando aregulações (CF 88 , LOAS e NOB SUAS) pelo corpo técnicos daFCM;#9827; Favorecer fortalecimento da relação do corpo técnico edemandantes dos serviços sob condições concretascontemporâneas;#9827; Estimular atuação profissional. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (3) . Integrantes: Maria Gorete Borges Figueirêdo - Coordenador / MARIA DE FATIMA PESSOA LEPIKSON - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "MARIA DE FATIMA PESSOA LEPIKSON",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Valorando as Unidades de Acolhimento no Município de Salvador-formando para servir",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Dentro do Programa UCSal Formativa, este projeto caracteriza-se pela oferta de formação continuada ao corpo técnico das Unidades de Acolhimento de Salvador que será ofertado em fases, sendo a Fundação Cidade Mãe (FCM) como Unidade atendida na FASE 1. Enquanto equipamento público para efetivação de políticas sociais, a Fundação Cidade Mãe (FCM) foi criada e implementada através da Lei 5.045/1995, pelo poder público municipal, estando vinculada à Secretaria Municipal de Políticas para Mulheres, Infância e Juventude (SMPJ). O trabalho da FCM está voltado para a superação do quadro de desigualdades sociais por meio da formulação e execução de políticas públicas de atendimento a crianças, adolescentes e jovens em situação de risco pessoal, social ou de violação de direitos, na perspectiva da sua promoção, defesa e proteção. Desse modo, a UCSal através da sua Pós-Graduação oferta toda expertise do PPGPSC e do PPGFSC com vistas a fortalecer o vinculo comunitário técnico com a comunidade soteropolitana, buscando identificar demandas sociais, vinculando redes e construindo conhecimento e aproximação com as políticas públicas sociais e ambientais locais. São as unidades que executam os serviços especializados que oferecem acolhimento e proteção a individuos e familias afastados temporariamente do seu núcleo familiar e/ou comunitários e se encontram em situação de abandono, ameaça ou violação de direitos. Tendo como áreas temáticas de extensão Direitos Humanos e Justiça; e Trabalho o Módulo será efetivado o módulo I: UCSal Formativa - PROTEÇÃO BÁSICA e ESPECIAL Unidades de Acolhimento é um Projeto de Extensão do PPGPSC- Programa de Pós-Graduação em Politicas Sociais e Cidadania em parceria com o PPGFSC Programa de Pós- Graduação em Familia na Sociedade Contemporânea, e tem como intuito de desenvolver habilidades técnicas e competências junto à equipe técnica da FUNDAÇÃO CIDADE MÃE, a partir da sua expertise académica nos programas da pós-stricto sensu. Será realizado um ciclo formativo, durante um dia, na UCSal-Campus de Pituaçu, com enfoque na LOAS destacando práticas do SUAS através de apresentação, discussões teóricas e vivências. Tendo como Objetivo Geral: Contribuir na formação da equipe técnica da FUNDAÇÃO CIDADE MÃE favorecendo a troca de conhecimentos, experiências e aprendizados acerca das demandas e usuários atendidos. Os Objetivos Específicos são: Ampliar conhecimento e acesso às políticas sociais revisitando a regulações (CF 88, LOAS e NOB SUAS) pelo corpo técnico da FCM; Favorecer fortalecimento da relação do corpo técnico e demandantes dos serviços sob condições concretas contemporâneas; Estimular atuação profissional consciente, dialógica, compreensiva e ativa na FCM. Estão sendo trabalhados os seguintes conteúdos: Compreendendo o contexto contemporâneo do trabalho da FCM; O SUAS e a Proteção Social: básica e especial; Estratégias de superação do quadro de desigualdades sociais; Politicas públicas e modos de viver de crianças, adolescentes e jovens em situação de risco pessoal, social ou de violação de direitos - \"cases\" e roda de conversa; O Trabalho técnico, a demanda social e o sofrimento ético-politico; Caminhos para promoção, defesa e proteção. Oficina e vivência a partir de uma abordagem psicossocial acerca da ruptura e fortalecimento do vinculo, busca ativa para construção de politicas de atendimento em Salvador Ba.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) . Integrantes: Maria Gorete Borges Figueirêdo - Coordenador / MARIA DE FATIMA PESSOA LEPIKSON - Integrante / Isael de Jesus Sena - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "MARIA DE FATIMA PESSOA LEPIKSON",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Isael de Jesus Sena",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Coletivo de Estudos e Extensão Avançados da UCSAL - CEA UCSAL",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Coletivo de Estudos e Extensão Avançados da UCSAL - CEA UCSAL compreende os estudos avançados é uma síntese de Universidade que discute interdisciplinarmente problemas concretos da sociedade, integrando estudos e extensão de ciência avançada. Os quatro Programas de Pós-graduação da UCSAL se entrecruzam nas expectativas teóricas, conceituais e práticas - de promoverem integração com a sociedade pela participação social, buscando melhor qualidade de vida para uma sociedade em constante transformação. Seus PPG em Território, Ambiente e Sociedade; Politicas Sociais e Cidadania; Familia na Sociedade Contemporânea e Direito dialogam, nesse espaço institucional, mediante pesquisa e extensão que tematizam politicas públicas, sociais e ambientais, relação sociedade - natureza, cidadania, qualidade de vida, comunidades tradicionais, educação básica e ensino, e relações étnico - raciais.. Situação: Em andamento; Natureza: Extensão. Integrantes: Maria Gorete Borges Figueirêdo - Integrante / MARIA DE FATIMA PESSOA LEPIKSON - Integrante / Cristina Maria Macêdo de Alencar - Integrante / aparecida netto - Integrante / katia oliver - Integrante / Isael de Jesus Sena - Integrante / SILVANA CARVALHO DE SÁ - Coordenador. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "MARIA DE FATIMA PESSOA LEPIKSON",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristina Maria Macêdo de Alencar",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "aparecida netto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "katia oliver",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Isael de Jesus Sena",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "SILVANA CARVALHO DE SÁ",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "GESTÃO EDUCACIONAL E PRÁTICAS PEDAGÓGICAS",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Contribuir com a atualização de 400 profissionais de educação e 120 alunos(as) de cursos das licenciaturas da UCSal para atuar com demandas de democratização administrativa educacional e práticas pedagógicas das escolas da rede municipal e estadual do estado da Bahia, considerando a apropriação de teorias pedagógicas avançadas, em vistas ao fortalecimento da prática de ensino e aprendizagem, partindo da valorização de experiências profissionais coletivas bem sucedidas e sistematizadas pela pesquisa participante.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Mestrado acadêmico: (20) Doutorado: (2) . Integrantes: Maria Gorete Borges Figueirêdo - Integrante / MARIA DE FATIMA PESSOA LEPIKSON - Integrante / katia oliver - Coordenador. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "MARIA DE FATIMA PESSOA LEPIKSON",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "katia oliver",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "UCSal no Parque Metropolitano de Pituaçu- TARDES FORMATIVAS",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Construção de fortalecimento do vínculo comunitário com a comunidade do entorno do Parque de Pituaçu, identificando demandas sociais, vinculando redes, construindo conhecimento e favorecendo a aproximação com as políticas públicas sociais e ambientais locais.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (10) / Mestrado acadêmico: (20) / Doutorado: (4) . Integrantes: Maria Gorete Borges Figueirêdo - Coordenador / aparecida netto - Integrante / katia oliver - Integrante / Isael de Jesus Sena - Integrante. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio financeiro.",
+        "Descrição: Construção de fortalecimento de vínculo comunitário com a comunidade do entorno do Parque de Pituaçu, identificando demandas sociais, vinculando redes e construindo conhecimento e aproximação com as políticas públicas sociais e ambientais locais.. Situação: Concluído; Natureza: Extensão. Integrantes: Aparecida Netto Teixeira - Coordenador / Maria Gorete Borges Figueireso - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "aparecida netto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "katia oliver",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Isael de Jesus Sena",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Aparecida Netto Teixeira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Maria Gorete Borges Figueireso",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "CURSO DE ATUALIZAÇÃO EM GESTÃO EDUCACIONAL E PRÁTICAS PEDAGÓGICAS",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Curso de formação continuada de profissionais de educação na linha extensionista, tratada por experientes docentes pesquisadores de cursos de pós-graduação stricto sensu da UCSal, articulados com docentes experientes de escolas públicas que podem contribuir para fortalecer a ação pedagógica de professores em suas práticas de ensino e de gestão educacional e assim proporcionar a ampliação de conhecimentos que atualizam a formação de gestores educacionais, que estão em serviço na rede pública de ensino. A proposta desse curso, portando, visa oferecer um momento de formação continuada, a partir da atualização de estudos, que partem de temáticas que relacionam a teoria com a prática, considerando a possibilidade de potencializar relações extensionista da universidade com a sociedade, via a construção de comunidades de professores voltados para conceber o desenvolvimento profissional, ao tempo em que articula esse processo com estudantes de curso de pedagogia e licenciaturas da UCSal. Composta por Professores Municipais da Rede da Educação Básica de Salvador-Ba, Gestores de Unidades Escolares - 22 unidades. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (3) / Especialização: (2) / Mestrado acadêmico: (7) / Doutorado: (5) . Integrantes: Maria Gorete Borges Figueirêdo - Integrante / MARIA DE FATIMA PESSOA LEPIKSON - Integrante / katia oliver - Coordenador / LILIANE VASCONCELOS - Integrante.",
+        "Descrição: Curso de formação continuada de profissionais de educação na linha extensionista, tratada por experientes docentes pesquisadores de cursos de pós-graduação stricto sensu da UCSal, articulados com docentes experientes de escolas públicas que podem contribuir para fortalecer a ação pedagógica de professores em suas práticas de ensino e de gestão educacional e assim proporcionar a ampliação de conhecimentos que atualizam a formação de gestores educacionais, que estão em serviço na rede pública de ensino. A proposta desse curso, portando, visa oferecer um momento de formação continuada, a partir da atualização de estudos, que partem de temáticas que relacionam a teoria com a prática, considerando a possibilidade de potencializar relações extensionista da universidade com a sociedade, via a construção de comunidades de professores voltados para conceber o desenvolvimento profissional, ao tempo em que articula esse processo com estudantes de curso de pedagogia e licenciaturas da UCSal.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (3) / Especialização: (2) / Mestrado acadêmico: (7) / Doutorado: (5) . Integrantes: Kátia Oliver de Sá - Coordenador / Liliane Vasconcelos - Integrante / Marcia de Medeiros Assad - Integrante / Maria de Fátima Lepikson - Integrante / Jaildo Vilas Boas Júnior - Integrante / Marcia Vale - Integrante / Mariza Pacheco - Integrante / Thais Coutinho - Integrante / Adenildes Teles - Integrante / Maria Gorete Borges Figuerêdo - Integrante / Patrícia Nogueira Peixoto - Integrante / Carla Souza Viana dos Santos Martins - Integrante / Namara Santos Nonato de Sousa - Integrante / Elisângela Barbosa Freitas - Integrante. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio financeiro. Número de produções C, T & A: 2",
+        "Descrição: Descrição: Curso de formação continuada de profissionais de educação na linha extensionista, tratada por experientes docentes pesquisadores de cursos de pós-graduação stricto sensu da UCSal, articulados com docentes experientes de escolas públicas que podem contribuir para fortalecer a ação pedagógica de professores em suas práticas de ensino e de gestão educacional e assim proporcionar a ampliação de conhecimentos que atualizam a formação de gestores educacionais, que estão em serviço na rede pública de ensino. A proposta desse curso, portando, visa oferecer um momento de formação continuada, a partir da atualização de estudos, que partem de temáticas que relacionam a teoria com a prática, considerando a possibilidade de potencializar relações extensionista da universidade com a sociedade, via a construção de comunidades de professores voltados para conceber o desenvolvimento profissional, ao tempo em que articula esse processo com estudantes de curso de pedagogia e licenciaturas da UCSal.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (3) / Especialização: (2) / Mestrado acadêmico: (7) / Doutorado: (5) . Integrantes: Maria de Fátima Pessôa Lepikson - Integrante / kátia Oliver de Sá - Coordenador / Maria Gorete Borges - Integrante / Liliane Vasconcelos de Jesus - Integrante / Maina Pirajá Silva - Integrante / Marcia Pereira Martins Vale - Integrante / Mariza Pacheco da Costa - Integrante / Adenildes Teles de Lima - Integrante / Patrícia Nogueira Peixoto - Integrante / Moisés Henrique Zeferino Alves - Integrante / Jaildo Calda dos Santos Vilas Bôas Junio - Integrante / Carla Souza Viana dos Santos Martins - Integrante / Marcia de Medeiros Assad - Integrante / Namara Santos Nonato de Sousa - Integrante / Elisângela Barbosa Freitas - Integrante / Thaís Cosmo Coutinho - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "MARIA DE FATIMA PESSOA LEPIKSON",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "katia oliver",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "LILIANE VASCONCELOS",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Kátia Oliver de Sá",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Liliane Vasconcelos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcia de Medeiros Assad",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria de Fátima Lepikson",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jaildo Vilas Boas Júnior",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcia Vale",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Mariza Pacheco",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Thais Coutinho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Adenildes Teles",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria Gorete Borges Figuerêdo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Patrícia Nogueira Peixoto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Carla Souza Viana dos Santos Martins",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Namara Santos Nonato de Sousa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Elisângela Barbosa Freitas",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria de Fátima Pessôa Lepikson",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "kátia Oliver de Sá",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Maria Gorete Borges",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Liliane Vasconcelos de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maina Pirajá Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcia Pereira Martins Vale",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Mariza Pacheco da Costa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Adenildes Teles de Lima",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Moisés Henrique Zeferino Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jaildo Calda dos Santos Vilas Bôas Junio",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Thaís Cosmo Coutinho",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "COLETIVO DE ESTUDOS E EXTENSÃO AVANÇADOS DA UCSAL",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Um espaço de estudos avançados é uma sintese de Universidade que discute interdisciplinarmente problemas concretos da sociedade, integrando estudos e extensão de ciência avançada. Este é o cerne da proposta aqui delineada, a de fomento ao Coletivo de Estudos e Extensão Avançados da UCSAL - CEAUCSAL --- Projeto efetivado - UCSAL NO PARQUE DE PITUAÇU (Mara Gorete Borges Figueiredo e Aparecida Netto Teixeira ). Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (3) . Integrantes: Maria Gorete Borges Figueirêdo - Integrante / aparecida netto - Integrante / SILVANA CARVALHO DE SÁ - Coordenador.",
+        "Descrição: Espaço acadêmico de discussão interdisciplinar de problemas concretos da sociedade, integrando estudos e extensão de ciência avançada. A extensão, pautada por demandas da sociedade, é laboratório para construção de conhecimento científico, integrando saberes acadêmicos e não acadêmicos, portanto, socialmente relevantes. A metodologia deste trabalho parte de uma abordagem qualitativa, objetivando avaliar os fundamentos epistemológicos criados e difundidos interna e externamente a uma comunidade, com compartilhamento interdiciplinar em Rede de Estudos Avançados. A Criação de Protocolo de Metodologia Social para Avaliação de Projetos Participativos é resultado esperado. O potencial de estudos avançados da UCSAL está amparado na massa crítica produzida nos seus Programas de pós-graduação, cujas áreas de concentração contemplam uma diversidade temática importante: a conservação da natureza (desenvolvimento sustentável), a cidadania, a justiça em suas várias dimensões e aspectos (étnico-racial, ambiental, social, política), as questões desafiadoras para a convivência plural e diversa dos indivíduos na sociedade contemporânea (família, escola, bairro, templos religiosos e outros espaços de socialização). Reúne grupos de pesquisa através de metodologias participantes e com abordagens interdisciplinares, as metodologias de pesquisa-ação e pesquisa participante como parâmetro de relevância social dos projetos de pesquisa. Além disso, propõe-se a promoção de intercâmbio entre pesquisadores extensionistas de outras Instituições de Ensino Superior e ativistas em Movimentos Sociais organizados. Integram o CEAUCSAL, para o período 2024 a 2026, os projetos de extensão: Formação extensionista Obinrin Mulheres de Axé; Complexo Florestal e das Águas do São Bartolomeu (APA Bacia do Cobre), composto pelos projetos Capoeira como tecnologia social para conservação da natureza da APA Bacia do Cobre/São Bartolomeu, Salvador-BA, Projeto Ojú Odé de Implantação de Cerca Viva para auxiliar na conservação da floresta do Bioma Mata Atlântica, do Parque Pirajá, na APA bacia do Cobre/São Bartolomeu, Salvador-BA e Sinalização da unidade de conservação de usos sustentável APA Bacia do Cobre/São Bartolomeu, Ssa Ba; Processos de titulação de terra em quilombos no estado da Bahia: análise dos instrumentos políticos e econômicos de titulação; Posto Avançado da Reserva da Biosfera da Mata Atlântica da UNESCO; Resíduos Sólidos Urbanos: Interfaces com o Desenvolvimento Sustentável, e o Vozes da Associação de Moradores do Mutá - AMMU: Aproximação Avaliação Capacitação e Difusão; Diálogos Familiares : sobre desafios, vulnerabilidades e projetos de vida, Acompanhamento/aconselhamento conjugal/familiar e intervenção junto às famílias imersas em situações de pobreza e Família na Praça; Direito à cidade e moradia digna: remoção forçada e reparação plena e integral; Iniciação Científica Júnior; o projeto UCSal no Parque de Pituaçu; Valorando as Unidades de Acolhimento no Município de Salvador formando para servir; e o Curso de Extensão - Atualização em Gestão Educacional e Práticas Pedagógicas. Situação: Em andamento; Natureza: Extensão. Integrantes: Aparecida Netto Teixeira - Integrante / Alencar, - Integrante / Silvana Sá de Carvalho - Coordenador / PORCIUNCULA, Debora - Integrante / Laila Nazem Mourad - Integrante / Ian Mendes Galvão - Integrante / André Augusto Araújo Oliveira - Integrante / Maria Gorete Borges Figueireso - Integrante / MALLMANN, J. K. W. - Integrante / ALOISIO GONÇALVES PEREIRA NETO - Integrante / KATIA OLIVER SA - Integrante / Cristina Maria Dacach Fernandez Marchi - Integrante / José Luis Sepúlveda - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "aparecida netto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "SILVANA CARVALHO DE SÁ",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Aparecida Netto Teixeira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Alencar,",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Silvana Sá de Carvalho",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "PORCIUNCULA, Debora",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Laila Nazem Mourad",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ian Mendes Galvão",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "André Augusto Araújo Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria Gorete Borges Figueireso",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "MALLMANN, J",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "UCSAL FORMATIVA - Proteção Básica e Especial - Unidades de Acolhimento da FCM",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Formar e desenvolver habilidades técnicas e competência junto à equipe técnica da FUNDAÇÃO CIDADE MÃE a partir da expertise acadêmica dos Programas de Pós Graduação do Stricto Sensu : PPGPSC - Programa de Pós-Graduação em Politicas Sociais e Cidadania e PPGPFS - Programa de Pós-graduação em Família na Sociedade Contemporânea. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Mestrado acadêmico: (20) Doutorado: (2) . Integrantes: Maria Gorete Borges Figueirêdo - Coordenador / Isael de Jesus Sena - Integrante. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Isael de Jesus Sena",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Planejamento Urbano e Regional",
+      "subarea": "Políticas Públicas",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Planejamento Urbano e Regional / Subárea: Políticas Públicas."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Planejamento Urbano e Regional",
+      "subarea": "Migrantes e Refugiados",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Planejamento Urbano e Regional / Subárea: Migrantes e Refugiados."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Educação",
+      "subarea": "Educação",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Educação / Subárea: Educação."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Psicologia",
+      "subarea": "Neurodivergência",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Psicologia / Subárea: Neurodivergência."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Psicologia",
+      "subarea": "SEGURIDADE SOCIAL - Assisstência Social",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Psicologia / Subárea: SEGURIDADE SOCIAL - Assisstência Social."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Psicologia",
+      "subarea": "Tecnologia e Inovação",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Psicologia / Subárea: Tecnologia e Inovação."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Bem",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Bem, Escreve Pouco."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Razoavelmente",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "POLÍTICAS PÚBLICAS SUSTENTABILIDADE GOVERNANÇA E CIDADANIA",
+      "objetivo": "Discutir e acompanhar as politicas publicas ,a forma de governança, ações e projeto sustentáveis e a cidadania. Palavras-chave: Cidadania; Sustentabilidade; Políticas Públicas."
+    },
+    {
+      "nome": "POLITICAS SOCIAIS,GESTÃO ORÇAMENTO E CIDADANIA",
+      "objetivo": ""
+    },
+    {
+      "nome": "POLITICAS PUBLICAS EDUCAÇÃO E CIDADANIA",
+      "objetivo": "Conhecer, acompanhar efetividade e discutir a eficácia das políticas públicas de Assistência Social e Educação compreendendo como /se dá o empoderamento do sujeito social enquanto cidadão.. Grande área: Ciências Sociais Aplicadas / Área: Serviço Social. Grande Área: Ciências Humanas / Área: Educação. Grande Área: Ciências Humanas / Área: Ciência Política. Palavras-chave: Políticas Públicas; Cidadania; Educação; Proteção Social."
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "",
+        "ano": 2026,
+        "autores": "SILVA COSTA, ALBERSON ; DOS SANTOS ROCHA, ANDERSON ; OLIVEIRA ARAÚJO NETTO, JOSÉ ; GORETE BORGES FIGUEIREDO, MARIA ; FERREIRA DA SILVA, TIAGO",
+        "revista": "Revista Gênero e Interdisciplinaridade",
+        "volume": "7",
+        "numero": "",
+        "paginas": "253-270",
+        "issn": "2675-7451",
+        "doi": "http://dx.doi.org/10.51249/gei.v7i03.3020",
+        "qualis": ""
+      },
+      {
+        "titulo": "A EXTENSÃO COMO TRANSFORMAÇÃO CIDADÃ: ESTUDO DE CASO DO ?MISTUR@Ê? COMO EXPRESSÃO DA FORMAÇÃO PROFISSIONAL EM GESTÃO NA UNIVERSIDADE",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; MEDEIROS, L. M. B. A. ; GALVAO, V. L. ; MASCARENHAS, E. L. ; MENEZES, G. C. R. G. ; LIMA, M. V. G. S. ; MENEZES, M. C. R. G.",
+        "revista": "FOCO (FACULDADE NOVO MILÊNIO)",
+        "volume": "18",
+        "numero": "",
+        "paginas": "1-14",
+        "issn": "1981-223X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "EXTENSÃO UNIVERSITÁRIA E POLÍTICAS PÚBLICAS COMPETÊNCIAS EM GESTÃO, CARREIRAS E NEGÓCIOS PARA O DESENVOLVIMENTO INTEGRAL",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; MEDEIROS, L. M. B. A. ; SANTOS, V. F. O.",
+        "revista": "https://doi.org/10.56579/rei.v7i6.2985",
+        "volume": "7",
+        "numero": "",
+        "paginas": "1-11-11",
+        "issn": "2674-8703",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "DINÂMICAS FAMILIARES DE IMIGRANTES VENEZUELANOS EM SALVADOR/BA MUDANÇAS E (RE)CONSTRUÇÕES",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B. ; MONACO, M. F. S.",
+        "revista": "ANAIS DA XXVII SEMOC Semana de Mobilização Científica",
+        "volume": "1",
+        "numero": "",
+        "paginas": "326-340",
+        "issn": "2448-1858",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "EDUCAÇÃO A DISTÂNCIA ? PROPOSTAS, DESAFIOS E INCONSISTÊNCIAS NA FORMAÇÃO DO SUJEITO",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "revista": "ANAIS DA XXVII SEMOC Semana de Mobilização Científica",
+        "volume": "1",
+        "numero": "",
+        "paginas": "688-699",
+        "issn": "2448-1858",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Educação a Distância: propostas, desafios e  inconsistências na formação do sujeito",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "revista": "VERITATI (UCSAL)",
+        "volume": "3",
+        "numero": "",
+        "paginas": "1-12",
+        "issn": "1676-3459",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "DINÂMICAS FAMILIARES DE IMIGRANTES VENEZUELANOS EM SALVADOR/BA mudanças e (re)construções",
+        "ano": 2024,
+        "autores": "MONACO, M. F. S. ; FIGUEIREDO, M. G. B.",
+        "revista": "VERITATI (UCSAL)",
+        "volume": "3",
+        "numero": "",
+        "paginas": "1-16",
+        "issn": "1676-3459",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A Governança Política no Comitê de Bacia do Rio Paraguaçu",
+        "ano": 2020,
+        "autores": "AVILA, H. D. D. ; SAMPAIO, J. B. ; NASCIMENTO , J F ; FIGUEIREDO, M. G. B.",
+        "revista": "REDES (SANTA CRUZ DO SUL. ONLINE)",
+        "volume": "25",
+        "numero": "",
+        "paginas": "1164-1184-1184",
+        "issn": "1982-6745",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Governança de territórios em desenvolvimentos desiguais uma análise crítica",
+        "ano": 2022,
+        "autores": "PIRES, E. L. S. (Org.) ; AVILA, H. D. D. (Org.) ; NASCIMENTO , J F (Org.) ; FIGUEIREDO, M. G. B. (Org.) ; SAMPAIO, J. B. (Org.)",
+        "editora": "SÃO PAULO: CULTURA ACADEMICA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "673"
+      },
+      {
+        "titulo": "Governança Territorial e Desenvolvimento Regional: Tipologias, Processos e Repercussões nos territórios",
+        "ano": 2020,
+        "autores": "AVILA, H. D. D. (Org.) ; NASCIMENTO , J F (Org.) ; FIGUEIREDO, M. G. B. (Org.) ; SAMPAIO, J. B. (Org.)",
+        "editora": "SANTA CAT: REDES",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1164-1184"
+      },
+      {
+        "titulo": "SOCIEDADE EM MOVIMENTO -AMÉRICA LATINA EM MOVIMENTO: LUTAS SOCIAIS E RESISTÊNCIA",
+        "ano": 2020,
+        "autores": "L.RAMOS, V. M. (Org.) ; FIGUEIREDO, M. G. B. (Org.) ; ALENCAR, C. M. M. (Org.)",
+        "editora": "SÃO PAULO: PROLAM",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "380"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "UCSAL NO PARQUE DE PITUAÇU, CONSTRUINDO FALAS, FORTALECENDO VÍNCULOS COMUNITÁRIOS E FORMANDO CIDADÃOS. EXTENSÃO UNIVERSITARIA E PRODUÇÃO DO CONHECIMENTO NA PÓS-GRADUAÇÃO: Fundamentos teóricos-metodológicos e práticas interdisciplinares no CEA /UCSAL. 1ed.SALVADOR",
+        "ano": 2026,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "titulo_livro": "",
+        "editora": "UCSalPRESS",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "129-140"
+      },
+      {
+        "titulo": "DESAFIOS METODOLOGICOS NA CONSTRUÇÃO DE PONTES PELA EXTENSÃO UNIVERSITÁRIA DE PROGRAMAS DE PÓS-GRADUAÇÃO: diálogo da Universidade Católica do Salvador com Escolas Públicas. EXTENSÃO UNIVERSITARIA E PRODUÇÃO DO CONHECIMENTO NA PÓS-GRADUAÇÃO: Fundamentos teóricos-metodológicos e práticas interdisciplinares no CEA /UCSAL. 1ed.SALVADOR",
+        "ano": 2026,
+        "autores": "OLIVER, K. ; FIGUEIREDO, M. G. B. ; FERNANDES, C. M. ; TELES, A. ; SANTOS, L.",
+        "titulo_livro": "",
+        "editora": "UCSalPRESS",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "47-79"
+      },
+      {
+        "titulo": "EDUCAÇÃO INTEGRAL E O DESAFIO DAS POLÍTICAS PÚBLICAS: Êxito e Permanência Discente no Ensino Público Brasileiro",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B. ; PRADO, N. C. ; OLIVEIRA, M. M. ; CARDOSO, M. O.",
+        "titulo_livro": "",
+        "editora": "Mente Aberta",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "125-148"
+      },
+      {
+        "titulo": "A GOVERNANÇA TERRITORIAL NO COMITÊ DE BACIA DO RIO PARAGUAÇU",
+        "ano": 2022,
+        "autores": "AVILA, H. D. D. ; NASCIMENTO , J F ; FIGUEIREDO, M. G. B. ; SAMPAIO, J. B.",
+        "titulo_livro": "",
+        "editora": "CULTURA ACADEMICA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "163-177"
+      },
+      {
+        "titulo": "A GOVERNANÇA TERRITORIAL NO CIRCUITO TURÍSTICO DA CHAPADA DIAMANTINA",
+        "ano": 2022,
+        "autores": "AVILA, H. D. D. ; NASCIMENTO , J F ; FIGUEIREDO, M. G. B. ; SAMPAIO, J. B.",
+        "titulo_livro": "",
+        "editora": "CULTURA ACADEMICA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "617-632"
+      },
+      {
+        "titulo": "Planos de assistência social e a política pública do SUAS: desafios e garantias da elaboração à gestão",
+        "ano": 2021,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "titulo_livro": "",
+        "editora": "EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "191-214"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "CIDADANIA, EXTENSÃO E PERMANÊNCIA: Desafios e políticas no ensino superior. In: IV Seminário de Políticas Públicas e Interseccionalidades",
+        "ano": 2025,
+        "autores": "CARVALHO, A. P. E. ; LIMA, E. C. ; MEDEIROS, L. M. B. A. ; FIGUEIREDO, M. G. B.",
+        "evento": "SEMINÁRIO DE POLÍTICAS PÚBLICAS E INTERSECCIONALIDADES",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "ENTRE POTENCIALIDADES E DESAFIOS: A INTELIGÊNCIA ARTIFICIAL E O PROTAGONISMO DISCENTE NA EXTENSÃO UNIVERSITÁRIA",
+        "ano": 2025,
+        "autores": "MEDEIROS, L. M. B. A. ; GALVAO, V. L. ; SANTOS, V. F. O. ; FIGUEIREDO, M. G. B. ; VILLAS BOAS, E. C. C.",
+        "evento": "RECONCITEC",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "RELAÇÕES INTERPESSOAIS E INTELIGÊNCIA COLETIVA NA FORMAÇÃO E EXTENSÃO UNIVERSITÁRIA",
+        "ano": 2025,
+        "autores": "MEDEIROS, L. M. B. A. ; GALVAO, V. L. ; SANTOS, V. F. O. ; VILLAS BOAS, E. C. C. ; FIGUEIREDO, M. G. B.",
+        "evento": "XI Reunião Anual de Ciência",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "DINAMICAS FAMILIARES DE IMIGRANTES VENEZUELANOS EM SALVADOR -BA MUDANÇAS E RECONSTRUÇÕES",
+        "ano": 2024,
+        "autores": "MONACO, M. F. S. ; FIGUEIREDO, M. G. B.",
+        "evento": "XXVII SEMANA DE MOBILIZAÇÃO CIENTÍFICA - UCSAL",
+        "cidade": "",
+        "paginas": "325",
+        "isbn": ""
+      },
+      {
+        "titulo": "EDUCAÇAO A DISTANCIA ? PROPOSTAS, DESAFIOS E INCONSISTENCIAS NA FORMAÇAO DO SUJEITO",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "evento": "XXVII SEMANA DE MOBILIZAÇÃO CIENTÍFICA - UCSAL",
+        "cidade": "",
+        "paginas": "448",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "PROTAGONISMO ESTUDANTIL NA EXTENSÃO UNIVERSITÁRIA: Experiência do projeto Mistur@ê",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; MEDEIROS, L. M. B. A. ; GALVAO, V. L. ; MASCARENHAS, E. L.",
+        "evento": ""
+      },
+      {
+        "titulo": "O PAPEL DO PROFESSOR NA CONSTRUÇÃO DO PROTAGONISMO ESTUDANTILNA EXTENSÃO UNIVERSITÁRIA",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; MEDEIROS., L. M. B. A. ; GALVAO, V. L. ; VILLAS BOAS, E. C. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "A PRÁTICA HUMANIZADA NA SAÚDE E AS PESSOAS DA TERCEIRA IDADE: desafios e (des)compassos nas redes familiares e na proteção social",
+        "ano": 2025,
+        "autores": "PIMENTEL, S. B. A. ; FIGUEIREDO, M. G. B.",
+        "evento": ""
+      },
+      {
+        "titulo": "MIGRANTES APÁTRIDAS E REFUGIADOS do acolhimento à prática humanizada na Bahia",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "evento": ""
+      },
+      {
+        "titulo": "INTELIGÊNCIA ARTIFICIAL E EXTENSÃO UNIVERSITÁRIA: desafios éticos para o humanismo",
+        "ano": 2025,
+        "autores": "MEDEIROS., L. M. B. A. ; FIGUEIREDO, M. G. B.",
+        "evento": ""
+      },
+      {
+        "titulo": "A CIDADANIA NA CONTEMPORANEIDADE E OS DESAFIOS NA EVASÃO DO ENSINO SUPERIOR PRIVADO EM SALVADOR-BA",
+        "ano": 2025,
+        "autores": "CARVALHO, A. P. E. ; LIMA, E. C. ; FIGUEIREDO, M. G. B.",
+        "evento": ""
+      },
+      {
+        "titulo": "ENTRE POTENCIALIDADES E DESAFIOS: A INTELIGÊNCIA ARTIFICIAL E O PROTAGONISMO DISCENTE NA EXTENSÃO UNIVERSITÁRIA",
+        "ano": 2025,
+        "autores": "CARVALHO, A. P. E. ; LIMA, E. C. ; MEDEIROS, L. M. B. A. ; FIGUEIREDO, M. G. B.",
+        "evento": ""
+      },
+      {
+        "titulo": "EXTENSÃO UNIVERSITÁRIA, CIDADANIA E PERMANÊNCIA ESTUDANTIL: DESAFIOS E PERSPECTIVAS NO ENSINO SUPERIOR BRASILEIRO",
+        "ano": 2025,
+        "autores": "MEDEIROS, L. M. B. A. ; FIGUEIREDO, M. G. B. ; TEIXEIRA, A. N. ; SANTOS, V. F. O.",
+        "evento": ""
+      },
+      {
+        "titulo": "O POVO XAVANTE E OS DESAFIOS PARA A EFETIVIDADE DA CIDADANIA",
+        "ano": 2025,
+        "autores": "FAVERI, M. M. ; FIGUEIREDO, M. G. B.",
+        "evento": ""
+      },
+      {
+        "titulo": "PROEXT PG - Coletivo de Estudos e Extensão Avançados - CEA UCSAL",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; SA, S. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "EDUCAÇÃO A DISTÂNCIA- propostas desafios e inconsistências na formação do sujeito",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "evento": ""
+      },
+      {
+        "titulo": "DINAMICAS FAMILIARFES DOS VENEZUELANOS EM SALVADOR-BA - MUDANÁS E RECONSTRUÇOES",
+        "ano": 2024,
+        "autores": "MONACO, M. F. S. ; FIGUEIREDO, M. G. B.",
+        "evento": ""
+      },
+      {
+        "titulo": "PALESTRA - Serviço Social: o caminho profissional na contemporaneidade",
+        "ano": 2023,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "evento": ""
+      },
+      {
+        "titulo": "EDUCAÇÃO INCLUSÃO E SERVIÇO SOCIAL",
+        "ano": 2022,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "evento": ""
+      },
+      {
+        "titulo": "?Direitos Humanos no Brasil: Uma necessidade urgente?",
+        "ano": 2021,
+        "autores": "COSTA, A. C. C. V. ; FIGUEIREDO, M. G. B.",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": [
+      {
+        "titulo": "PARTE I - COMITÊS DE BACIAS HIDROGRÁFICAS.. RIO CLARO: CULTURA ACADEMICA",
+        "ano": 2022,
+        "autores": "PIRES, E. L. S. ; AVILA, H. D. D. ; NASCIMENTO , J F ; FIGUEIREDO, M. G. B. ; SAMPAIO, J. B.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "RECONHECIMENTO DIPLOMA ESTRANGEIRO - Mestrado - Maria Sebastiana Ferreira Rauch",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; SILVA, M. P. ; SA, S. M. P.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "RECONHECIMENTO DIPLOMA ESTRANGEIRO - Mestrado - Maira Janete Correa Borges",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; OLIVER, K. ; TEIXEIRA, A. N.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer AD ROC Edital FAPESB n° 019-2024 N. Pedido: 142/2025",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "RECONHECIMENTO DIPLOMA ESTRANGEIRO Doutorado - Maria Fulgência Silva Bomfim",
+        "ano": 2025,
+        "autores": "OLIVER, K. ; FIGUEIREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Editoração dos Anais da XXVIII SEMOC - SEMANA DE MOBILIZAÇÃO CIENTÍFICA: EDUCAR É UM ATO DE ESPERANÇA",
+        "ano": 2025,
+        "autores": "SÁ, K. O.; CARVALHO, S. S. ; ALMEIDA, M. P. ; OLIVEIRA, M. M. ; FIGUEIREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer AD ROC Edital FAPESB n° 019-2024 N. Pedido: 144/2025",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "RECONHECIMENTO DIPLOMA ESTRANGEIRO - Mestrado - Norma Suely Negrão Santos",
+        "ano": 2024,
+        "autores": "NETTO, A. ; FIGUEIREDO, M. G. B. ; OLIVER, K.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer COMITÊ DE ÉTICA EM PESQUISA - CAE 77713524.2.0000.5628",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer COMITÊ DE ÉTICA EM PESQUISA - CAE 78308524.0.0000.5628",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer COMITÊ DE ÉTICA EM PESQUISA - CAE 78289924.1.0000.5628",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "RECONHECIMENTO DIPLOMA ESTRANGEIRO - Mestrado - Lara Macêdo de Alencar",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B. ; SILVA, M. P. ; NETTO, A.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "RECONHECIMENTO DIPLOMA ESTRANGEIRO - Mestrado - Lilian Maria Santos da Silva",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B. ; OLIVER, K.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "PARECERISTA 27 SEMANA DE MOBILIZAÇÃO CIENTÍFICA",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer Técnico Daniel do Nascimento Oliveira - Reconhecimento de diploma de Mestrado obtido no exterior",
+        "ano": 2023,
+        "autores": "TEIXEIRA, Aparecida Netto; FIGUEIRESO, M. G. B. ; GORDILHO , P. D. H. J. S.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer Técnico Marcelo Antonio de Brito Batista - Reconhecimento de diploma de Mestrado obtido no exterior",
+        "ano": 2023,
+        "autores": "TEIXEIRA, Aparecida Netto; SA, K. O. ; FIGUEIRESO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer Técnico João Batista Duarte - Reconhecimento de diploma de Mestrado obtido no exterior",
+        "ano": 2023,
+        "autores": "TEIXEIRA, Aparecida Netto; SA, K. O. ; FIGUEIRESO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer Técnico Magali Suzana Santos - Reconhecimento de diploma de Doutorado obtido no exterior",
+        "ano": 2023,
+        "autores": "TEIXEIRA, Aparecida Netto; SA, K. O. ; FIGUEIRESO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer Tecnico Marluce Alves de Almeida Salgueiro - Reconhecimento de diploma de Doutorado obtido no exterior",
+        "ano": 2023,
+        "autores": "SILVA, M. P. ; FIGUEIREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer Técnico Juliana Lins Machado Coelho - Reconhecimento de diploma de Mestrado obtido no exterior",
+        "ano": 2023,
+        "autores": "OLIVER, K. ; FIGUEIREDO, M. G. B. ; SILVA, M. P.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer Técnico Luiz Fernando Teodoro - Reconhecimento de diploma de Mestrado obtido no exterior",
+        "ano": 2023,
+        "autores": "OLIVER, K. ; FIGUEIREDO, M. G. B. ; FERRIZ, J. L. S.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "26 SEMANA DE MOBILIZAÇÃO CIENTÍFICA - SEMOC",
+        "ano": 2023,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "PARECETISTA 23 SEMANA DE MOBILIZAÇÃO CIENTIFICA",
+        "ano": 2020,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "COMISSÃO DE SELEÇÃO DE BOLSAS CAPES/PROSUC e FAPESB 2026",
+        "ano": 2026,
+        "autores": "FIGUEIREDO, M. G. B. ; OLIVER, K. ; FERNANDES, C. M. ; OLIVEIRA, M. M.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Gestão Educacional e Práticas Pedagógicas - GESTÃO EDUCACIONAL PARTICIPATIVA: comunidade interna e externa",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; PACHECO, M. ; MARTINS, C.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "EDUCAÇÃO E DIVERSIDADE",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "ANAIS DA XXVIII SEMOC - SEMANA DE MOBILIZAÇÃO CIENTÍFICA: EDUCAR É UM ATO DE ESPERANÇA",
+        "ano": 2025,
+        "autores": "SÁ, K. O.; CARVALHO, S. S. ; ALMEIDA, M. P. ; CONCEICAO, M. A. ; FIGUEIREDO, M. G. B.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "SELEÇÃO EXTERNA DE PROFESSOR(A) DOUTOR(A) PARA STRICTO SENSU",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; TEIXEIRA, A. N. ; OLIVER, K. ; LEPIKSON M.F.P.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "COMISSÃO DE SELEÇÃO ALUNO REGULAR DO PPGPSC 2026",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; OLIVER, K. ; FERNANDES, C. M. ; OLIVEIRA, A. E. ; TEIXEIRA, A. N.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Atualização para Elaboração de Planos de Assistência Social. 2022",
+        "ano": 2022,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "INCLUSÃO DA PESSOA COM DEFICIÊNCIA",
+        "ano": 2022,
+        "autores": "FIGUEIREDO, M. G. B. ; CARNEIRO, C. E.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Atualização para Elaboração de Planos de Assistência Social. 2021",
+        "ano": 2021,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Introdução ao Provimento dos Serviços e Benefícios Socioassistenciais do SUAS. 2021",
+        "ano": 2021,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Introdução ao Provimento dos Serviços e Benefícios Socioassistenciais do SUAS. 2020",
+        "ano": 2020,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Atualização para Elaboração de Planos de Assistência Social. 2020",
+        "ano": 2020,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Assistência Técnica e Direito à Cidade em Instituições de Ensino Superior",
+        "ano": 2020,
+        "autores": "DANTAS, C. M. V. ; FIGUEIREDO, M. G. B. ; SOUZA, B. F. ; ROCHA, H. F. M. ; EMILIANO, E.",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "MIGRANTES APÁTRIDAS E REFUGIADOS: políticas públicas emergentes e necessárias",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; SOUZA, H. E. N. ; LIMA, M. F. A. ; SILVA, N. J.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "POLÍTICAS PARA A EDUCAÇÃO SUPERIOR: Extensão , Cidadania e Inclusão em debate",
+        "ano": 2025,
+        "autores": "CARVALHO, A. P. E. ; LIMA, E. C. ; MEDEIROS, L. M. B. A. ; FIGUEIREDO, M. G. B.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "EXPERIÊNCIAS AVALIATIVAS DE EXTENSÃO NA GRADUAÇÃO E PÓS-GRADUAÇÃO",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; AVRUJ, L. ; FIRMINO, R. J. ; IWANCZUK, L.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "INTERNACIONALIZAÇÃO DO ENSINO SUPERIOR E A IMPORTÂNCIA DAS REDES DE PESQUISA",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; MARCHI, C. M. D. F. ; JESUS, G.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "DESAFIOS E ESTRATÉGIAS DOS DOCENTES PARA IMPLEMENTAR AS DIRETRIZES DO TRABALHO COM AS COMPETÊNCIAS SOCIOEMOCIONAIS PROPOSTAS PELA BNCC",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; TRINDADE, F. M. L. G. ; CONCEICAO, M. O. ; SANTOS, M. L. M.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "IMIGRAÇÃO DO IR AO VIR: DEMANDAS E DESAFIOS EMERGENTES NA CONTEMPORANEIDADE",
+        "ano": 2025,
+        "autores": "FIGUEIREDO, M. G. B. ; DJASSI, I. ; COUTO, F. C. D. ; ALENCAR, L. M.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "DESAFIOS E ESTRATEGIAS PARA IMPLEMENTAR AS DIRETRIZES DA BNCC",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "APRIMORAMENTO DA GESTÃO PÚBLICA MUNICIPAL À LUZ DA AUDITORIA INTERNA: UMA ANÁLISE DA POLÍTICA DE ASSISTÊNCIA SOCIAL DE CAMAÇARI",
+        "ano": 2024,
+        "autores": "FIGUEIREDO, M. G. B. ; CUNHA, C. M. O. G. ; NETTO, J. O. A. ; PAIXAO, V. S. ; COSTA, A. S.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "EDUCAÇÃO INCLUSÃO E SERVIÇO SOCIAL",
+        "ano": 2022,
+        "autores": "FIGUEIREDO, M. G. B.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "CONEXÕES SOCIOAMBIENTAIS PARA A LONGEVIDADE",
+        "ano": 2020,
+        "autores": "FIGUEIREDO, M. G. B. ; GERSEN, D. ; BAHIANO, F. ; CARVALHO, T.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "ENTRE CONCEITOS E PRÁTICAS: DIREITO À CIDADE, HABITAÇÃO E TRABALHO SOCIAL",
+        "ano": 2020,
+        "autores": "FIGUEIREDO, M. G. B. ; ALMEIDA, V. ; METTIG, H. ; EMILIANO, E.",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "O Estado como Lugar de Cuidado: Políticas de Saúde Mental e Reconhecimento de Sujeitos Vulnerabilizados no Enfrentamento à Violência de Gênero.",
+          "ano_inicio": 2026,
+          "orientando": "TADEU FERREIRA PASSOS",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "EDUCAÇÃO DE JOVENS E ADULTOS: a percepção do professor como agente de letramento do aluno trabalhador.",
+          "ano_inicio": 2026,
+          "orientando": "NAMARA SANTOS NONATO DE SOUSA",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A FORMAÇÃO DOS EDUCADORES DA EJA COMO ELEMENTO ESTRUTURANTE DA POLÍTICA EDUCACIONAL: ANÁLISE DA PRÁXIS DOCENTE NA GERÊNCIA REGIONAL LIBERDADE/CIDADE BAIXA DA REDE MUNICIPAL DE SALVADOR.",
+          "ano_inicio": 2026,
+          "orientando": "ROSE ASSIS",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Proteção social e os direitos das pessoas com deficiência no Brasil: a Assistência social como norteadora da habilitação e reabilitação de PCD",
+          "ano_inicio": 2025,
+          "orientando": "JAQUELINE DE LIMA BRAZ SANTOS",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A EXTENSÃO DA EDUCAÇÃO SUPERIOR BRASILEIRA COMO ESTRATÉGIA DE GESTÃO PARA A CURRICULARIZAÇÃO UNIVERSITÁRIA",
+          "ano_inicio": 2025,
+          "orientando": "LEA MARIA BOMFIM ANDRADE MEDEIROS",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A MULHER INDÍGENA E O ACESSO AO ENSINO SUPERIOR BRASILEIRO - POLÍTICAS PÚBLICAS EXISTENTES, DESAFIOS E ENTRAVES VIVIDOS PELA ETNIA XAVANTE EM BARRA DO GARÇAS-MT",
+          "ano_inicio": 2024,
+          "orientando": "RONNY CESAR CAMILO MOTA",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "TRANSPARÊNCIA PÚBLICA: EFETIVAÇÃO, FISCALIZAÇÃO DAS INFORMAÇÕES E CONTROLE SOCIAL DAS VERBAS DESTINADAS AS UNIDADES DE ENSINO DA REDE PÚBLICA DO ESTADO DA BAHIA.",
+          "ano_inicio": 2026,
+          "orientando": "CID ALCÂNTARA SANTOS",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "AS GARANTIAS DE DIREITOS DE UMA COMUNIDADE QUILOMBOLA: UM ESTUDO DE CASO NO SANTIAGO DO IGUAPE EM CACHOEIRA/BA.",
+          "ano_inicio": 2026,
+          "orientando": "CRISTIANE LIMA DOS SANTOS",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O PAPEL DA FAMÍLIA NA VIDA E NA CIDADANIA DA PESSOA COM DEFICIÊNCIA",
+          "ano_inicio": 2025,
+          "orientando": "LEONARDO ASSIS DE ALMEIDA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "GESTÃO ACADÊMICA NO ENSINO SUPERIOR ? O IMPACTO DA SECRETARIA ACADÊMICA NA IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS DE EDUCAÇÃO EM UMA UNIVERSIDADE PARTICULAR DE SSA-BA",
+          "ano_inicio": 2025,
+          "orientando": "ANA PAULA ESTEVES DE CARVALHO",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A PUBLICIDADE E A TRANSPARÊNCIA DIGITAL NO PODER LEGISLATIVO COMO MECANISMO DE ESTÍMULO AO EXERCÍCIO DA CIDADANIA E AO CONTROLE SOCIAL DA AÇÃO DO ESTADO",
+          "ano_inicio": 2025,
+          "orientando": "JOAQUIM AUGUSTO VIEIRA DE MIRANDA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "DESAFIOS DA RETENÇÃO E PERMANÊNCIA DE DISCENTES EM INSTITUIÇÃO DE ENSINO SUPERIOR: um estudo de caso do Centro de Escuta e Atendimento Comunitário (CEAC) PLENUS",
+          "ano_inicio": 2025,
+          "orientando": "EVANILSON CAETANO LIMA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "POLÍTICA INDIGENISTA, RACISMO INSTITUCIONAL E CIDADANIA INDÍGENA: IMPACTOS SOBRE OS POVOS INDÍGENAS E A FUNAI A PARTIR DA COORDENAÇÃO REGIONAL XAVANTE EM BARRA DO GARÇAS ?MT",
+          "ano_inicio": 2026,
+          "ano_conclusao": 2026,
+          "orientando": "MARIANA MIYKE DE FAVERI",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "MULHERES VÍTIMAS DE VIOLÊNCIAS E AS POLÍTICAS IMPLEMENTADAS PELA SECRETARIA DE POLÍTICAS PARA MULHERES, INFÂNCIA E JUVENTUDE (SPMJ): AVANÇOS E CONTRASSENSOS NO MUNICÍPIO DE SALVADOR ? BA",
+          "ano_inicio": 2026,
+          "ano_conclusao": 2026,
+          "orientando": "JOELMA FERREIRA SILVA PRIMO PACHECO",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "CONTROLE SOCIAL E PARTICIPAÇÃO CIDADÃ NO SUS: A ATUAÇÃO DO CONSELHO MUNICIPAL DE SAÚDE DE CAMAÇARI-BA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "RODOLFO CARDOSO PEREIRA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "AUDITORIA INTERNA COMO INSTRUMENTO DE AVALIAÇÃO DA GOVERNANÇA DOS RECURSOS DA POLÍTICA PÚBLICA DE EDUCAÇÃO NO PROGRAMA DINHEIRO DIRETO NA ESCOLA - PDDE, NO MUNICÍPIO DE CAMAÇARI /BA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "JOSE OLIVEIRA DE ARAÚJO NETTO",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A AUDITORIA INTERNA ENQUANTO INSTRUMENTO DE AVALIAÇÃO DA GOVERNANÇA DO REGIME PRÓPRIO DE PREVIDÊNCIA DE CAMAÇARI / BA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "TIAGO FERREIRA DA SILVA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O CRIME DE FEMINICÍDIO, POLÍTICAS PÚBLICAS E LEGISLAÇÕES REPRESSIVAS : A REALIDADE NO MUNICÍPIO DO SALVADOR/ BA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "ANTONIO CORREIA DOS SANTOS FILHO",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "HOMOAFETIVIDADE,HOMOTRANSFOBIA E A VIOLÊNCIA COTIDIANA: Uma análise à luz da Ação Direta de Inconstitucionalidade por Omissão e da equiparação ao crime de racismo.",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "MARCOS PAULO PARANHOS DOS SANTOS",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "DESAFIOS DOS ESTUDANTES PARA O ACESSO E PERMANÊNCIA NA EDUCAÇÃO DE JOVENS E ADULTOS- EJA: UM ESTUDO DE CASO EM UMA ESCOLA MUNICIPAL DE SALVADOR",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "PATRICIA RODRIGUES DA CONCEIÇÃO",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A REALIDADE DO FINANCIAMENTO DA SAÚDE NO MUNICÍPIO DE AMARGOSA (BAHIA) SOB O FENÔMENO DA JUDICIALIZAÇÃO: UMA ANÁLISE DOS PERÍODO DE 2019 A 2022",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "CLÁUDIO DOS SANTOS QUEIROZ",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "EDUCAÇÃO INFANTIL E AUTISMO: CONTRIBUIÇÕES DAS JANELAS DE OPORTUNIDADES PARA O APRENDIZADO NA EDUCAÇÃO INCLUSIVA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Misael Morais Sales",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "PEDAGOGIA HUMANIZADA NA EDUCAÇÃO INCLUSIVA DE ALUNOS NA EDUCAÇÃO INFANTIL COM TRANSTORNO DO ESPECTRO AUTISTA (TEA) EM ESCOLA DE REDE PÚBLICA",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Laressa Dias dos Santos -Maria Eduarda Ferreira- Danilo Garr",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O AGENTE DA EDUCAÇÃO EM ESCOLAS MUNICIPAIS DE SALVADOR-BA: RESTRIÇÕES TECNOLÓGICAS NO AMBIENTE ESCOLAR PRÉ E PÓS PANDEMIA.",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "David Gutemberg; Débora L Oliveira; Jackson S Santana; Roque",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "EDUCAÇÃO DE JOVENS E ADULTOS propostas positivas e práticas negativas encontradas no Município de Salvador.",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Iris Velame/Juliana Nicácio/Maria do Socorro/Viviane Santana",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O Serviço Social na educação: Implementação da Lei 13.945/2019 e os desafios profissionais",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Alane Freire/Ana Costa /Jeane Santos do Carmo / Winde Gabrie",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A RELAÇÃO ESCOLA, FAMÍLIA E ALUNO NA EDUCAÇÃO INFANTIL: expectativas e desafios no período pandêmico",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Ana Paula Silva de Andrade Caroline dos Santos Mota Luciana",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "O PROCESSO DE ENSINO APRENDIZAGEM DO FUNDAMENTAL I: suas construções e obstáculos utilizando a ludicidade",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Ana Raquel Oliveira da Cruz1 Gislene Santos Cardoso2 Hosana",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "EDUCAÇÃO, INCLUSÃO E DIVERSIDADE: A dinâmica da educação escolar e a sua relação com a cultura afrodescendente",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Jaqueline Paim da Silva Luciana Ventura Melo Sadovsky Daniel",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "DINÂMICAS FAMILIARES DE IMIGRANTES VENEZUELANOS EM SALVADOR/BA: mudanças e (re)construções",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "MARIA DE FÁTIMA SANTOS MÔNACO",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "ENCONTRO PEDAGÓGICO 2026",
+        "apresentacao": "1",
+        "ano": 2026,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III SEMINÁRIO INTERNACIONAL e XIII SEMINÁRIO NACIONAL HISTEDBR Em defesa da Educação Pública",
+        "apresentacao": "ENTRE O DIREITO E A REALIDADE: DESAFIOS DO ESTADO NA GARANTIA DO FINANCIAMENTO E DA GESTÃO DEMOCRÁTICA DA EDUCAÇÃO PÚBLICA NO BRASIL",
+        "ano": 2026,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III SEMINÁRIO INTERNACIONAL e XIII SEMINÁRIO NACIONAL HISTEDBR Em defesa da Educação Pública",
+        "apresentacao": "FORMAÇÃO E TRABALHO EM GESTÃO EDUCACIONAL COM BASE NA FUNDAMENTAÇÃO DA PEDAGOGIA HISTÓRICO-CRÍTICA",
+        "ano": 2026,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "PDI Plano Desenvolvimento Institucional da UCSAL",
+        "apresentacao": null,
+        "ano": 2026,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário Internacional do PPG em Familia na Sociedade Contemporânea",
+        "apresentacao": null,
+        "ano": 2026,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário Nacional MORADIA POPULAR URGÊNCIAS E INSURGÊNCIAS NOS CENTROS",
+        "apresentacao": null,
+        "ano": 2026,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "COLETIVO DE ESTUDOS AVANÇADOS E EXTENSÃO AVANÇADOS DA UCSAL",
+        "apresentacao": "PROJETOS DE ESTENSÃO DO PROGRAMA DE PROJETOS DE EXTENSÃO DOS PPG's",
+        "ano": 2025,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Fórum Nacional de Extensão e Ação Comunitária das ICES - Instituições Comunitárias de Educação Superior",
+        "apresentacao": "PROTAGONISMO ESTUDANTIL NA EXTENSÃO UNIVERSITÁRIA: Experiência do projeto Mistur@ê",
+        "ano": 2025,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IA como Ferramenta Facilitadora do Processo Docente",
+        "apresentacao": null,
+        "ano": 2025,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Fórum de Extensão do Coletivo de estudos e Extensão Avançados da UCSal",
+        "apresentacao": null,
+        "ano": 2025,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Fórum de Extensão do Coletivo de Estudos e Extensão Avançados da UCSal",
+        "apresentacao": "ATUALIZAÇÃO EM GESTÃO EDUCACIONAL E PRÁTICAS PEDAGÓGICAS",
+        "ano": 2025,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV CONGRESSO BRASILEIRO DE HUMANISMO SOLIDÁRIO NA NA CIÊNCIA",
+        "apresentacao": "A PRÁTICA HUMANIZADA NA SAÚDE E AS PESSOAS DA TERCEIRA IDADE: desafios e (des)compassos nas redes familiares e na proteção social",
+        "ano": 2025,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV SEMINÁRIO DE POLÍTICAS PÚBLICAS EINTERSECCIONALIDADES",
+        "apresentacao": "DESAFIOS DA CURRICULARIZAÇÃO DA EXTENSÃO UNIVERSITÁRIA E AFORMAÇÃO PROFISSIONAL",
+        "ano": 2025,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV SEMINÁRIO DE POLÍTICAS PÚBLICAS E INTERSECCIONALIDADES",
+        "apresentacao": "CIDADANIA, EXTENSÃO E PERMANÊNCIA: DESAFIOS EPOLÍTICAS NO ENSINO SUPERIOR",
+        "ano": 2025,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Jornada Pedagógica UCSal",
+        "apresentacao": null,
+        "ano": 2025,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "PROEXT PG - CAPES",
+        "apresentacao": "COLETIVOS DE ESTUDOS AVANÇADOS DA UCSAL",
+        "ano": 2025,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "SEMINÁRIO INTERNACIONAL DE PESQUISA E EXTENSÃO",
+        "apresentacao": "EXENSÃO UNIVERSITÁRIA COMO CATALISADORA DE COMPETÊNCIAS CIDADÃS E DE GESTÃO: Relato de Experiências",
+        "ano": 2025,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXI Encontro Nacional de Controle Interno - CONACI",
+        "apresentacao": "O Orçamento Público, Gestão da Política Pública e os desafios contemporâneos",
+        "ano": 2025,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXXII ENCONTRO NACIONAL FOREXT",
+        "apresentacao": "O PAPEL DO PROFESSOR NA CONSTRUÇÃO DO PROTAGONISMO ESTUDANTIL NA EXTENSÃO UNIVERSITÁRIA",
+        "ano": 2025,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "27 SEMOC - JORNADA DE EXTENSÃO DA PÓS-GRADUAÇÃO",
+        "apresentacao": "EDUCAÇÃO A DISTÂNCIA propostas desafios e inconsistências na formação do sujeito",
+        "ano": 2024,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "27 SEMOC Semana de Mobilização Científica",
+        "apresentacao": "DINAMICAS FAMILIARES DE IMIGRANTES VENEZUELANOS EM SALVADOR-BA MUDANÇAS E RECONSTRUÇÕES",
+        "ano": 2024,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "COLETIVO DE ESTUDOS AVANÇADOS E EXTENSÃO AVANÇADOS DA UCSAL",
+        "apresentacao": "PROJETOS DE ESTENSÃO DO PROGRAMA DE PROJETOS DE EXTENSÃO DOS PPG.",
+        "ano": 2024,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "FRATERNIDADE E AMIZADE SOCIAL: UNIVERSIDADES CATÓLICAS À LUZ D PERSPECTIVA DO PAPA FRANCISCO",
+        "apresentacao": null,
+        "ano": 2024,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Jornada Pedagógica UCSal",
+        "apresentacao": null,
+        "ano": 2024,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "MESA REDONDA DESAFIOS E ESTRATEGIAS PARA IMPLEMENTAR AS DIRETRIZES DA BNCC",
+        "apresentacao": "DESAFIOS E ESTRATEGIAS DOCENTES PARA IMPLEMENTAR AS DIRETRIZES DO TRABALHO COM AS COMPETÊNCIAS SOCIOEMOCIONAIS PROPOSTAS PELA BNCC",
+        "ano": 2024,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "13º Seminário de Gestão em Saúde da Rede Mater Dei - Sustentabilidade do Setor de Saúde: é possível fazer diferente nte",
+        "apresentacao": null,
+        "ano": 2023,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "1º Congresso Brasileiro de Envelhecimento Humano em perspectiva multidiciplinar",
+        "apresentacao": null,
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "DreamShaper - Formação Docente Continuada",
+        "apresentacao": null,
+        "ano": 2023,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "PALESTRA SERVIÇO SOCIAL o caminho profissional na contemporaneidade",
+        "apresentacao": "SERVIÇO SOCIAL: o caminho profissional na contemporaneidade",
+        "ano": 2023,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Projeto de Extensão Formação da Unidades de Acolhimento em Salvador -BA",
+        "apresentacao": "IMPORTANCIA DAS UNIDADES DE ACOLHIMENTO DE SALVADOR - BA",
+        "ano": 2023,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VI COLOQUIO INTERNACIONAL SABERES E PRÁTICAS -CISP",
+        "apresentacao": null,
+        "ano": 2023,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ELABORAÇÃO DE PROJETOS",
+        "apresentacao": "PROJETOS SOCIAIS o caminho para transformação social",
+        "ano": 2022,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Formação Docente AMBIENTE VIRTUAL DE APRENDIZAGEM - AVA",
+        "apresentacao": "AMBIENTE VIRTUAL DE APRENDIZAGEM - AVA",
+        "ano": 2022,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "FORMAÇÃO DOCENTE CONTINUADA - DREAMSHAPER",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Formação Docente Continuada - LABORATÓRIOS VIRTUAIS",
+        "apresentacao": "LABORATÓRIOS VIRTUAIS",
+        "ano": 2022,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II FORUM DE PLANEJAMENTO INSTITUCIONAL",
+        "apresentacao": "II FORUM DE PLANEJAMENTO INSTITUCIONAL DA UCSAL",
+        "ano": 2022,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I SIMPOSIO DE SERVIÇO SOCIAL Formação Visibilidade e Prática Interventiva",
+        "apresentacao": "SERVIÇO SOCIAL E OS DESAFIOS DA PRÁTICA INTERVENTIVA",
+        "ano": 2022,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VII ENCONTRO VIRTUAL ALTERIDADE E DIREITOS FUNDAMENTAIS",
+        "apresentacao": "ALTERIDADE E DIREITOS FUNDAMENTAIS",
+        "ano": 2022,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVII Congresso Brasileiro de Assistentes Sociais",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVII CONGRESSO BRASILEIRO DE ASSSITENTES SOCIAIS",
+        "apresentacao": "XVII CONGRESSO BRASILEIRO DE ASSSITENTES SOCIAIS",
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV FORUM Trabalho e Sociabilidade",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "PLENUS FZ RODA DE CONVERSA",
+        "apresentacao": "DESAFIOS E POSSIBILIDADES DO ASSISTENTE SOCIAL EM TEMPOS DE PANDEMIA",
+        "ano": 2021,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Projeto Interdisciplinar DIREITOS HUMANOS",
+        "apresentacao": "PALESTRA DIREITOS HUMANOS NO BRASIL uma necessidade urgente",
+        "ano": 2021,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "DIALOGOS SOBRE DIREITO E RELAÇÕES RACIAIS NA UCSAL",
+        "apresentacao": "DIREITO E RELAÇÕES RACIAIS",
+        "ano": 2020,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I SEMINÁRIO LATO-SENSU Conexões Sociosmbientais para Longevidade",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "PIBID E RESIDÊNCIA PEDAGÓGICA",
+        "apresentacao": "EDUCAÇÃO PLANETÁRIA : desafios e pespectivas no século XXI",
+        "ano": 2020,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VI Simpósio Nacional o Rural e o Urbano no Brasil (VI SINARUB) / V Seminário Nacional de Planejamento e Desenvolvimento (V SNPD) / V Encontro Nacional dos Mestrados Profissionais da Área Planejamento Urbano e Regional e Demografia - PURD/CAPES (V EMPURD),",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "FIGUEIREDO, M. G. B.; JESUS, G.",
+        "evento": "DESAFIOS E OFERTAS NA NORMATIZAÇÃO E DA GESTÃO DE RESÍDUOS SÓLIDOS BRASIL E ITÁLIA",
+        "ano": 2025,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "DEBASA, F. ; TEIXEIRA, A. N. ; FIGUEIREDO, M. G. B. ; OLIVER, K. ; LEPIKSON M.F.P. ; ALMEIDA, M. P.",
+        "evento": "PPGPSC Aula Magna 2025-1 Prof. Dr. Felipe Debasa - Universidad Rey Juan Carlos ? Espanã itario em Uniõn Europea y China) Tema OS DESAFIOS ETICOS , JURÍDICOS E SOCIAIS DOS ALGORITIMOS E DA INTELIGENCIA ARTIFICIAL NA PÓS-GRADUAÇÃO",
+        "ano": 2025,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SA, S. C. ; FIGUEIREDO, M. G. B. ; MEDEIROS., L. M. B. A. ; SA, S. M. P.",
+        "evento": "27 SEMANA DE MOBILIZAÇÃO CIENTÍFICA - SEMOC",
+        "ano": 2024,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "FIGUEIREDO, M. G. B.; COUTO, F. C. D. A. ; SENA, I. J. ; FERRIZ, J. L. S.",
+        "evento": "IMIGRAÇÃO DO IR AO VIR demandas e desafios na contemporaneidade",
+        "ano": 2024,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "FIGUEIREDO, M. G. B.; SENA, I. J. ; SA, S. M. P. ; COUTO, F. C. D. A.",
+        "evento": "COORD SEÇÃO CIENTIFICA - FAMILIA E CUIDADO",
+        "ano": 2024,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "FIGUEIREDO, M. G. B.; COELHO, R. A. M.",
+        "evento": "SEMINÁRIO DE EGRESSOS da Pós Graduação de Políticas Social e Cidadania -PPGPSC",
+        "ano": 2024,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "FIGUEIREDO, M. G. B.; NETTO, A. ; OLIVER, K. ; LEPIKSON M.F.P.",
+        "evento": "I SEMINÁRIO INTERDISCIPLINAR DE PÓS - DUOTORADO : Diálogos Avançados em Políticas Sociais e Cidadania",
+        "ano": 2023,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "TINOCO, M. ; COSTA, A. C. C. V. ; SUZUKI, J. C. ; FIGUEIREDO, M. G. B.",
+        "evento": "VI Simpósio Nacional o Rural e o Urbano no Brasil (VI SINARUB) / V Seminário Nacional de Planejamento e Desenvolvimento (V SNPD) / V Encontro Nacional dos Mestrados Profissionais da Área Planejamento Urbano e Regional e Demografia - PURD/CAPES (V EMPURD)",
+        "ano": 2020,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "FIGUEIREDO, M. G. B.. XI SARU - A INTERNET DAS COISAS reflexos e possibilidades para Bahia. 2014. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "LEPIKSON M.F.P.; FIGUEIREDO, M. G. B.; AVENA, M. L. E.. Participação em banca de ADALGIZA DIANA BARBOSA BÁFICA. MULHERES EM MOVIMENTO Múltiplas identidades na articulação entre inserção profissional, formação acadêmica e responsabilidades de cuidado: da expectativa social à realidade possível na contemporaneidade. 2026. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "ADALGIZA DIANA BARBOSA BÁFICA",
+        "membros_banca": [
+          "LEPIKSON M.F.P.",
+          "FIGUEIREDO, M. G. B.",
+          "AVENA, M. L. E."
+        ],
+        "titulo_trabalho": "MULHERES EM MOVIMENTO Múltiplas identidades na articulação entre inserção profissional, formação acadêmica e responsabilidades de cuidado: da expectativa social à realidade possível na contemporaneidade",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "?, I. M. O.; FIGUEIREDO, M. G. B.; SANTOS, T. D. C.. Participação em banca de SARA VIEIRA LIMA SARACENO. GÊNERO, DESIGUALDADES ESTRUTURAIS E DIREITOS SOCIAIS NO BRASIL: DESAFIOS CONTEMPORÂNEOS E ESTRATÉGIAS DE EFETIVAÇÃO. 2026. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "SARA VIEIRA LIMA SARACENO",
+        "membros_banca": [
+          "?, I. M. O.",
+          "FIGUEIREDO, M. G. B.",
+          "SANTOS, T. D. C."
+        ],
+        "titulo_trabalho": "GÊNERO, DESIGUALDADES ESTRUTURAIS E DIREITOS SOCIAIS NO BRASIL: DESAFIOS CONTEMPORÂNEOS E ESTRATÉGIAS DE EFETIVAÇÃO",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; FIGUEIREDO, M. G. B.; SOARES, R. M. F.. Participação em banca de Bárbara Laís Sampaio Ribeiro Veríssimo. O PAPEL DA INVESTIGAÇÃO DEFENSIVA NA CONFIGURAÇÃO DO PROCESSO PENAL BRASILEIRO: UM COMPLEMENTO À EVOLUÇÃO. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Bárbara Laís Sampaio Ribeiro Veríssimo",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "FIGUEIREDO, M. G. B.",
+          "SOARES, R. M. F."
+        ],
+        "titulo_trabalho": "O PAPEL DA INVESTIGAÇÃO DEFENSIVA NA CONFIGURAÇÃO DO PROCESSO PENAL BRASILEIRO: UM COMPLEMENTO À EVOLUÇÃO",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON M.F.P.; FIGUEIREDO, M. G. B.; PINTO, M. F. S.. Participação em banca de Raphael da Silva Santana. AS POLÍTICAS PÚBLICAS DE SAÚDE NO BRASIL E AS CAMPANHAS VACINAIS: A REVOLTA DA VACINA, QUEDAS NAS COBERTURAS E IMPLICAÇÕES NA ADESÃO VACINAL NO BRASIL. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Raphael da Silva Santana",
+        "membros_banca": [
+          "LEPIKSON M.F.P.",
+          "FIGUEIREDO, M. G. B.",
+          "PINTO, M. F. S."
+        ],
+        "titulo_trabalho": "AS POLÍTICAS PÚBLICAS DE SAÚDE NO BRASIL E AS CAMPANHAS VACINAIS: A REVOLTA DA VACINA, QUEDAS NAS COBERTURAS E IMPLICAÇÕES NA ADESÃO VACINAL NO BRASIL",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON M.F.P.; OLIVER, K.; FIGUEIREDO, M. G. B.; RAVAZZANO, F. R. L.B.. Participação em banca de TIAGO EMANUEL REBOUÇAS MARTINS DA SILVA. O PODER TRANSFORMADOR DA EDUCAÇÃO CRÍTICA E A SUA INAPLICABILIDADE NO SISTEMA PENITENCIÁRIO: Um estudo sobre a educação na Penitenciária Lemos Brito - Salvador/BA. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "TIAGO EMANUEL REBOUÇAS MARTINS DA SILVA",
+        "membros_banca": [
+          "LEPIKSON M.F.P.",
+          "OLIVER, K.",
+          "FIGUEIREDO, M. G. B.",
+          "RAVAZZANO, F. R. L.B."
+        ],
+        "titulo_trabalho": "O PODER TRANSFORMADOR DA EDUCAÇÃO CRÍTICA E A SUA INAPLICABILIDADE NO SISTEMA PENITENCIÁRIO: Um estudo sobre a educação na Penitenciária Lemos Brito - Salvador/BA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON M.F.P.; FIGUEIREDO, M. G. B.; FORNASIER, R. C.. Participação em banca de JEFERSON LACERDA GÓES. OS EFEITOS DO PROGRAMA CREDIAMIGO NA CIDADE DE ANTÔNIO CARDOSO-BA NO PERÍODO DA PANDEMIA COVID-19: contribuições à inclusão produtiva e econômica como estratégia de proteção social.. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "JEFERSON LACERDA GÓES",
+        "membros_banca": [
+          "LEPIKSON M.F.P.",
+          "FIGUEIREDO, M. G. B.",
+          "FORNASIER, R. C."
+        ],
+        "titulo_trabalho": "OS EFEITOS DO PROGRAMA CREDIAMIGO NA CIDADE DE ANTÔNIO CARDOSO-BA NO PERÍODO DA PANDEMIA COVID-19: contribuições à inclusão produtiva e econômica como estratégia de proteção social",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON M.F.P.; FIGUEIREDO, M. G. B.; CORREA, A. A. S.. Participação em banca de HENRIQUE ANTÔNIO DE ARRUDA MARTINS. DIFICULDADES E DESAFIOS NA ATUAÇÃO DA POLÍCIA PENAL NO CONTROLE DISCIPLINAR DOS SENTENCIADOS NA PENITENCIÁRIA LEMOS DE BRITO SALVADOR/BA. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "HENRIQUE ANTÔNIO DE ARRUDA MARTINS",
+        "membros_banca": [
+          "LEPIKSON M.F.P.",
+          "FIGUEIREDO, M. G. B.",
+          "CORREA, A. A. S."
+        ],
+        "titulo_trabalho": "DIFICULDADES E DESAFIOS NA ATUAÇÃO DA POLÍCIA PENAL NO CONTROLE DISCIPLINAR DOS SENTENCIADOS NA PENITENCIÁRIA LEMOS DE BRITO SALVADOR/BA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; FERNANDES, C. M.; AVILA, H. D. D.. Participação em banca de Rodolfo Cardoso Pereira. CONTROLE SOCIAL E PARTICIPAÇÃO CIDADÃ NO SUS: a atuação do Conselho Municipal de Saúde de Camaçari-Ba. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Rodolfo Cardoso Pereira",
+        "membros_banca": [
+          "FIGUEIREDO, M. G. B.",
+          "FERNANDES, C. M.",
+          "AVILA, H. D. D."
+        ],
+        "titulo_trabalho": "CONTROLE SOCIAL E PARTICIPAÇÃO CIDADÃ NO SUS: a atuação do Conselho Municipal de Saúde de Camaçari-Ba",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; RAVAZZANO, F. R. L.B.; OLIVEIRA, I. M.. Participação em banca de Marcos Paulo Paranhos dos Santos. Homoafetividade, homotransfobia e a violência cotidiana: uma análise à luz da ação direta de inconstitucionalidade por omissão e da equiparação ao crime de racismo. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Marcos Paulo Paranhos dos Santos",
+        "membros_banca": [
+          "FIGUEIREDO, M. G. B.",
+          "RAVAZZANO, F. R. L.B.",
+          "OLIVEIRA, I. M."
+        ],
+        "titulo_trabalho": "Homoafetividade, homotransfobia e a violência cotidiana: uma análise à luz da ação direta de inconstitucionalidade por omissão e da equiparação ao crime de racismo",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; FERNANDES, C. M.; NASCIMENTO , J F. Participação em banca de Tiago Ferreira da Silva. A auditoria interna enquanto instrumento de avaliação da governança do Regime Próprio de Previdência de Camaçari / Ba. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Tiago Ferreira da Silva",
+        "membros_banca": [
+          "FIGUEIREDO, M. G. B.",
+          "FERNANDES, C. M.",
+          "NASCIMENTO , J F"
+        ],
+        "titulo_trabalho": "A auditoria interna enquanto instrumento de avaliação da governança do Regime Próprio de Previdência de Camaçari / Ba",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; LEPIKSON M.F.P.; VIEIRA, R. C.. Participação em banca de José Oliveira Araújo Netto. Auditoria interna como instrumento de avaliação da governança dos recursos da política pública de educação no Programa Dinheiro Direto na Escola - PDDE, no Município de Camaçari /Ba. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "José Oliveira Araújo Netto",
+        "membros_banca": [
+          "FIGUEIREDO, M. G. B.",
+          "LEPIKSON M.F.P.",
+          "VIEIRA, R. C."
+        ],
+        "titulo_trabalho": "Auditoria interna como instrumento de avaliação da governança dos recursos da política pública de educação no Programa Dinheiro Direto na Escola - PDDE, no Município de Camaçari /Ba",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "NETTO, A.; FIGUEIREDO, M. G. B.; MOURAD, L. N.. Participação em banca de Cristianne Maria Oliveira Gomes Cunha. A auditoria como instrumento de governança do Programa Minha Casa, Minha Vida, no Município de Camaçari - Bahia. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Cristianne Maria Oliveira Gomes Cunha",
+        "membros_banca": [
+          "NETTO, A.",
+          "FIGUEIREDO, M. G. B.",
+          "MOURAD, L. N."
+        ],
+        "titulo_trabalho": "A auditoria como instrumento de governança do Programa Minha Casa, Minha Vida, no Município de Camaçari - Bahia",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON M.F.P.; FIGUEIREDO, M. G. B.; FORNASIER, R. C.. Participação em banca de Jeferson Lacerda Góes. S EFEITOS DO PROGRAMA CREDIAMIGO NA CIDADE DE ANTÔNIO CARDOSO-BA NO PERÍODO DA PANDEMIA COVID-19: CONTRIBUIÇÕES À INCLUSÃO PRODUTIVA E ECONÔMICA COMO ESTRATÉGIA DE PROTEÇÃO SOCIAL?. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Jeferson Lacerda Góes",
+        "membros_banca": [
+          "LEPIKSON M.F.P.",
+          "FIGUEIREDO, M. G. B.",
+          "FORNASIER, R. C."
+        ],
+        "titulo_trabalho": "S EFEITOS DO PROGRAMA CREDIAMIGO NA CIDADE DE ANTÔNIO CARDOSO-BA NO PERÍODO DA PANDEMIA COVID-19: CONTRIBUIÇÕES À INCLUSÃO PRODUTIVA E ECONÔMICA COMO ESTRATÉGIA DE PROTEÇÃO SOCIAL?",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; FIGUEIREDO, M. G. B.; SOARES, R. M. F.. Participação em banca de VANESSA GOMES AMBROSI. JUDICIALIZAÇÃO DA SAÚDE E A ATUAÇÃO JUDICIAL NA IMPLEMENTAÇÃO DAS POLÍTICAS SOCIAIS PELA JURISDIÇÃO CONSTITUCIONAL: Uma análise à luz do direito ao mínimo existencial. 2024. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "VANESSA GOMES AMBROSI",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "FIGUEIREDO, M. G. B.",
+          "SOARES, R. M. F."
+        ],
+        "titulo_trabalho": "JUDICIALIZAÇÃO DA SAÚDE E A ATUAÇÃO JUDICIAL NA IMPLEMENTAÇÃO DAS POLÍTICAS SOCIAIS PELA JURISDIÇÃO CONSTITUCIONAL: Uma análise à luz do direito ao mínimo existencial",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "CUNHA JUNIOR, D.; PINTO, E. V.; FIGUEIREDO, M. G. B.; OLIVER, K.; MONTEIRO, M. C.. Participação em banca de MARCELLA PINTO DE ALMEIDA. CONSTITUCIONALISMO DIALÓGICO, EDUCAÇÃO JURÍDICA E ARTE: A DIGNIDADE HUMANA COMO FUNDAMENTO PARA A CONSTRUÇÃO DA CIDADANIA SOB UMA PERSPECTIVA LUSO-BRASILEIRA. 2026. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Tese de Doutorado",
+        "aluno": "MARCELLA PINTO DE ALMEIDA",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "PINTO, E. V.",
+          "FIGUEIREDO, M. G. B.",
+          "OLIVER, K.",
+          "MONTEIRO, M. C."
+        ],
+        "titulo_trabalho": "CONSTITUCIONALISMO DIALÓGICO, EDUCAÇÃO JURÍDICA E ARTE: A DIGNIDADE HUMANA COMO FUNDAMENTO PARA A CONSTRUÇÃO DA CIDADANIA SOB UMA PERSPECTIVA LUSO-BRASILEIRA",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; FIGUEIREDO, M. G. B.; LEPIKSON M.F.P.; PORTELLA, A. A.; SOARES, R. M. F.. Participação em banca de Carolina Oliveira Serra da Silveira. ENTIDADES BENEFICENTES DE ENSINO SUPERIOR E OS CRITÉRIOS EXIGIDOS PARA FRUIÇÃO DA IMUNIDADE TRIBUTÁRIA: UMA ABORDAGEM SOCIOCONSTITUCIONAL. 2026. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Carolina Oliveira Serra da Silveira",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "FIGUEIREDO, M. G. B.",
+          "LEPIKSON M.F.P.",
+          "PORTELLA, A. A.",
+          "SOARES, R. M. F."
+        ],
+        "titulo_trabalho": "ENTIDADES BENEFICENTES DE ENSINO SUPERIOR E OS CRITÉRIOS EXIGIDOS PARA FRUIÇÃO DA IMUNIDADE TRIBUTÁRIA: UMA ABORDAGEM SOCIOCONSTITUCIONAL",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; FIGUEIREDO, M. G. B.; LEPIKSON M.F.P.; SOARES, R. M. F.; PORTELLA, A. A.. Participação em banca de Carolina Oliveira Serra da Silveira. icas Sociais e Cidadania, do(a) aluno(a) Carolina Oliveira Serra da Silveira, com a tese sob o título ?ENTIDADES BENEFICENTES DE ENSINO SUPERIOR E OS CRITÉRIOS EXIGIDOS PARA FRUIÇÃO DA IMUNIDADE TRIBUTÁRIA: UMA ABORDAGEM SOCIOCONSTITUCIONAL.. 2025. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Carolina Oliveira Serra da Silveira",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "FIGUEIREDO, M. G. B.",
+          "LEPIKSON M.F.P.",
+          "SOARES, R. M. F.",
+          "PORTELLA, A. A."
+        ],
+        "titulo_trabalho": "icas Sociais e Cidadania, do(a) aluno(a) Carolina Oliveira Serra da Silveira, com a tese sob o título ?ENTIDADES BENEFICENTES DE ENSINO SUPERIOR E OS CRITÉRIOS EXIGIDOS PARA FRUIÇÃO DA IMUNIDADE TRIBUTÁRIA: UMA ABORDAGEM SOCIOCONSTITUCIONAL",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; FIGUEIREDO, M. G. B.; LEPIKSON M.F.P.; SOARES, R. M. F.; CRUZ, G. D. M.. Participação em banca de Isaura Manuela Pimentel Nunes,. INCLUSÃO DIGITAL COMO DIREITO FUNDAMENTAL NA SOCIEDADE DA INFORMAÇÃO: TECNOLOGIA, CIDADANIA, ENVELHECIMENTO E NOVAS FORMAS DE EXCLUSÃO?. 2025. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Isaura Manuela Pimentel Nunes,",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "FIGUEIREDO, M. G. B.",
+          "LEPIKSON M.F.P.",
+          "SOARES, R. M. F.",
+          "CRUZ, G. D. M."
+        ],
+        "titulo_trabalho": "INCLUSÃO DIGITAL COMO DIREITO FUNDAMENTAL NA SOCIEDADE DA INFORMAÇÃO: TECNOLOGIA, CIDADANIA, ENVELHECIMENTO E NOVAS FORMAS DE EXCLUSÃO?",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CUNHA JUNIOR, D.; FIGUEIREDO, M. G. B.; SOARES, R. M. F.; CARREIRO, L. D. M.; PIMENTA, P. R. L.. Participação em banca de DIEGO GABRIEL OLIVEIRA BUDEL. LIMITES DA DISPENSA EM MASSA À LUZ DA PRINCIPIOLOGIA E DA JURISPRUDÊNCIA: A NECESSIDADE DE NEGOCIAÇÃO SINDICAL EM BUSCA DE ALTERNATIVAS EFETIVADORAS DO DIREITO AO TRABALHO. 2024. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "DIEGO GABRIEL OLIVEIRA BUDEL",
+        "membros_banca": [
+          "CUNHA JUNIOR, D.",
+          "FIGUEIREDO, M. G. B.",
+          "SOARES, R. M. F.",
+          "CARREIRO, L. D. M.",
+          "PIMENTA, P. R. L."
+        ],
+        "titulo_trabalho": "LIMITES DA DISPENSA EM MASSA À LUZ DA PRINCIPIOLOGIA E DA JURISPRUDÊNCIA: A NECESSIDADE DE NEGOCIAÇÃO SINDICAL EM BUSCA DE ALTERNATIVAS EFETIVADORAS DO DIREITO AO TRABALHO",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "LEPIKSON M.F.P.; FIGUEIREDO, M. G. B.; NASCIMENTO , J F; AVILA, H. D. D.; AVENA M.L.E.. Participação em banca de NADJANE CRISÓSTOMO PRADO. PROGRAMA BOLSA FAMÍLIA: a voz das famílias beneficiárias sobre o programa. 2023. Tese (Doutorado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "NADJANE CRISÓSTOMO PRADO",
+        "membros_banca": [
+          "LEPIKSON M.F.P.",
+          "FIGUEIREDO, M. G. B.",
+          "NASCIMENTO , J F",
+          "AVILA, H. D. D.",
+          "AVENA M.L.E."
+        ],
+        "titulo_trabalho": "PROGRAMA BOLSA FAMÍLIA: a voz das famílias beneficiárias sobre o programa",
+        "curso": "Tese (Doutorado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "OLIVER, K.; FIGUEIREDO, M. G. B.; BRANDAO, L. S.. Participação em banca de OSÉ MARIA PEREIRA SIMÕES FILHO / PEDRO SALVADOR BARBOSA REIS.INDICADORES DE IMPACTO DE INTERVENÇÃO INTERDISCIPLINAR ENTRE FATORES DA NUTRIÇÃO E DA EDUCAÇÃO FÍSICA NO COMBATE A OBESIDADE INFANTIL. 2024. Trabalho de Conclusão de Curso (Graduação em Educação Física) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "OSÉ MARIA PEREIRA SIMÕES FILHO / PEDRO SALVADOR BARBOSA REIS",
+        "membros_banca": [
+          "OLIVER, K.",
+          "FIGUEIREDO, M. G. B.",
+          "BRANDAO, L. S."
+        ],
+        "titulo_trabalho": "INDICADORES DE IMPACTO DE INTERVENÇÃO INTERDISCIPLINAR ENTRE FATORES DA NUTRIÇÃO E DA EDUCAÇÃO FÍSICA NO COMBATE A OBESIDADE INFANTIL",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Educação Física)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "HIDE, E. S. S.; SANTOS, E. S.; FIGUEIREDO, M. G. B.. Participação em banca de DANILO GARRIDO - LARESSA SANTOS- MARIA EDUARDA ALMEIDA.APRENDIZAGEM E DESENVOLVIMENTO DOS ALUNOS COM TRANSTORNO DO ESPECTRO AUTISTA NÍVEL I NA EDUCAÇÃO INFANTIL: REFLEXÕES E DESAFIOS NO PERÍODO PANDÊMICO EM SALVADOR ? BAHIA .. 2024. Trabalho de Conclusão de Curso (Graduação em Pedagogia) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "DANILO GARRIDO - LARESSA SANTOS- MARIA EDUARDA ALMEIDA",
+        "membros_banca": [
+          "HIDE, E. S. S.",
+          "SANTOS, E. S.",
+          "FIGUEIREDO, M. G. B."
+        ],
+        "titulo_trabalho": "APRENDIZAGEM E DESENVOLVIMENTO DOS ALUNOS COM TRANSTORNO DO ESPECTRO AUTISTA NÍVEL I NA EDUCAÇÃO INFANTIL: REFLEXÕES E DESAFIOS NO PERÍODO PANDÊMICO EM SALVADOR ? BAHIA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Pedagogia)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "AVENA M.L.E.; FIGUEIREDO, M. G. B.; OLIVEIRA, A. A.. Participação em banca de EMILY MUNIZ DOS SANTOS FERREIRA -PRISCILA TIANO GONÇALV ES.SERVIÇO SOCIAL NA EDUCAÇÃO: o acompanhamento psicossocial de discentes para permanência e conclusão do ensino superior. 2024. Trabalho de Conclusão de Curso (Graduação em SERVIÇO SOCIAL) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "EMILY MUNIZ DOS SANTOS FERREIRA -PRISCILA TIANO GONÇALV ES",
+        "membros_banca": [
+          "AVENA M.L.E.",
+          "FIGUEIREDO, M. G. B.",
+          "OLIVEIRA, A. A."
+        ],
+        "titulo_trabalho": "SERVIÇO SOCIAL NA EDUCAÇÃO: o acompanhamento psicossocial de discentes para permanência e conclusão do ensino superior",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em SERVIÇO SOCIAL)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; HIDE, E. S. S.; FONSECA, L.. Participação em banca de Alice Pacheco do Rosário,Elane Queiros Santos Sampaio,Gabrie.O MÉTODO FÔNICO COMO FERRAMENTA PEDAGÓGICA NA ALFABETIZAÇÃO EM ESCOLAS PARTICULARES NO MUNICÍPIO DE SALVADOR- BA. 2023. Trabalho de Conclusão de Curso (Graduação em Pedagogia) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Alice Pacheco do Rosário,Elane Queiros Santos Sampaio,Gabrie",
+        "membros_banca": [
+          "FIGUEIREDO, M. G. B.",
+          "HIDE, E. S. S.",
+          "FONSECA, L."
+        ],
+        "titulo_trabalho": "O MÉTODO FÔNICO COMO FERRAMENTA PEDAGÓGICA NA ALFABETIZAÇÃO EM ESCOLAS PARTICULARES NO MUNICÍPIO DE SALVADOR- BA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Pedagogia)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "HIDE, E. S. S.; FIGUEIREDO, M. G. B.; FONSECA, L.. Participação em banca de Iasmim de Santana Ribeiro-Jucimaura Carmo de Araújo- Mariana.INCLUSÃO NA EDUCAÇÃO INFANTIL: AUTISMO E ESTRATÉGIAS PARA AS PROPOSTAS PEDAGÓGICAS. 2023. Trabalho de Conclusão de Curso (Graduação em Pedagogia) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Iasmim de Santana Ribeiro-Jucimaura Carmo de Araújo- Mariana",
+        "membros_banca": [
+          "HIDE, E. S. S.",
+          "FIGUEIREDO, M. G. B.",
+          "FONSECA, L."
+        ],
+        "titulo_trabalho": "INCLUSÃO NA EDUCAÇÃO INFANTIL: AUTISMO E ESTRATÉGIAS PARA AS PROPOSTAS PEDAGÓGICAS",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Pedagogia)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "MEDEIROS., L. M. B. A.; FIGUEIREDO, M. G. B.; SEIXAS, P. C. R. C.. Participação em banca de Ana Carolina D.P.Barreiros-Bernardo Jorge G Vieira-Guilherme.ANÁLISE DA METODOLOGIA DO CENSO DEMOGRÁFICO DE 2022: UMA REALIDADE VIVIDA EM SALVADOR BAHIA. 2023. Trabalho de Conclusão de Curso (Graduação em Administração) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Ana Carolina D.P",
+        "membros_banca": [
+          "MEDEIROS., L. M. B. A.",
+          "FIGUEIREDO, M. G. B.",
+          "SEIXAS, P. C. R. C."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "MISSI, A. P. C.; FIGUEIREDO, M. G. B.; JESUS, M. F.. Participação em banca de Carolina Cerqueira-Edelson Lima-Juliane Caputo-Luisa Oliveir.PROTAGONISMO DO ESTUDANTE: O PROCESSO DE ENSINO E APRENDIZAGEM CONTEMPORÂNEO. 2023. Trabalho de Conclusão de Curso (Graduação em Letras - Inglês) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Carolina Cerqueira-Edelson Lima-Juliane Caputo-Luisa Oliveir",
+        "membros_banca": [
+          "MISSI, A. P. C.",
+          "FIGUEIREDO, M. G. B.",
+          "JESUS, M. F."
+        ],
+        "titulo_trabalho": "PROTAGONISMO DO ESTUDANTE: O PROCESSO DE ENSINO E APRENDIZAGEM CONTEMPORÂNEO",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Letras",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; SANTOS, E. S.. Participação em banca de REINALDA AUREA DA SILVA NETA/ VIVIAN CRUZ DOS SANTOS. DIAGNÓSTICO SOCIOECONOMICO, TERRITORIAL E CULTURAL DO BAIRRO BARRA PITUBA. 2022. Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "REINALDA AUREA DA SILVA NETA/ VIVIAN CRUZ DOS SANTOS",
+        "membros_banca": [
+          "FIGUEIREDO, M. G. B.",
+          "SANTOS, E. S."
+        ],
+        "titulo_trabalho": "DIAGNÓSTICO SOCIOECONOMICO, TERRITORIAL E CULTURAL DO BAIRRO BARRA PITUBA",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; SANTOS, E. S.. Participação em banca de BRUNA SOUTO FERREIRA. DIAGNÓSTICO SOCIOECONOMICO, TERRITORIAL E CULTURAL DO BAIRRO DO CABULA VI. 2021. Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "BRUNA SOUTO FERREIRA",
+        "membros_banca": [
+          "FIGUEIREDO, M. G. B.",
+          "SANTOS, E. S."
+        ],
+        "titulo_trabalho": "DIAGNÓSTICO SOCIOECONOMICO, TERRITORIAL E CULTURAL DO BAIRRO DO CABULA VI",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; SANTOS, E. S.. Participação em banca de ANA CRISTINA SOUZA DE CARVALHO/ BÁRBARA SOUZA SANTOS. DIAGNÓSTICO SOCIOECONOMICO, TERRITORIAL E CULTURAL DO MUNICÍPIO DE SALVADOR. 2021. Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "ANA CRISTINA SOUZA DE CARVALHO/ BÁRBARA SOUZA SANTOS",
+        "membros_banca": [
+          "FIGUEIREDO, M. G. B.",
+          "SANTOS, E. S."
+        ],
+        "titulo_trabalho": "DIAGNÓSTICO SOCIOECONOMICO, TERRITORIAL E CULTURAL DO MUNICÍPIO DE SALVADOR",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; SANTOS, E. S.. Participação em banca de PRISCILA SANTOS FREITAS/ TÁSSIA DE JESUS SANTOS. DIAGNÓSTICO SOCIOECONOMICO, TERRITORIAL E CULTURAL DO MUNICÍPIO DE WENCESLAU GUIMARÃES. 2021. Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "PRISCILA SANTOS FREITAS/ TÁSSIA DE JESUS SANTOS",
+        "membros_banca": [
+          "FIGUEIREDO, M. G. B.",
+          "SANTOS, E. S."
+        ],
+        "titulo_trabalho": "DIAGNÓSTICO SOCIOECONOMICO, TERRITORIAL E CULTURAL DO MUNICÍPIO DE WENCESLAU GUIMARÃES",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; MONTEIRO, L.. Participação em banca de DÉBORA MARQUES BARROSO /SANDRA PINHEIRO DOS SANTOS CAMPOS. DIAGNÓSTICO SOCIOECONÔMICO, TERRITORIAL E CULTURAL DO MUNICIPIO DE SALINAS DA MARGARIDA ? BA. 2020. Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Participação em banca",
+        "aluno": "DÉBORA MARQUES BARROSO /SANDRA PINHEIRO DOS SANTOS CAMPOS",
+        "membros_banca": [
+          "FIGUEIREDO, M. G. B.",
+          "MONTEIRO, L."
+        ],
+        "titulo_trabalho": "DIAGNÓSTICO SOCIOECONÔMICO, TERRITORIAL E CULTURAL DO MUNICIPIO DE SALINAS DA MARGARIDA ? BA",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FIGUEIREDO, M. G. B.; SANTOS, E. S.. Participação em banca de MARA MIRTA SANTOS DA CONCEIÇÃO ANDRADE/ MARILÚCIA DA SILVA D. DIAGNÓSTICO SOCIOECONÔMICO, TERRITORIAL E CULTURAL DO MUNICIPIO DE JAGUAQUARA/BAHIA. 2020. Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Participação em banca",
+        "aluno": "MARA MIRTA SANTOS DA CONCEIÇÃO ANDRADE/ MARILÚCIA DA SILVA D",
+        "membros_banca": [
+          "FIGUEIREDO, M. G. B.",
+          "SANTOS, E. S."
+        ],
+        "titulo_trabalho": "DIAGNÓSTICO SOCIOECONÔMICO, TERRITORIAL E CULTURAL DO MUNICIPIO DE JAGUAQUARA/BAHIA",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em GESTÃO EM POLÍTICAS DE ASSISTÊNCIA SOCIAL)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 8,
+    "total_livros": 3,
+    "total_capitulos": 6,
+    "total_trabalhos_congressos": 5,
+    "total_projetos_pesquisa": 2,
+    "total_projetos_extensao": 9,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 9,
+    "total_orientacoes_andamento": 12
+  }
+}

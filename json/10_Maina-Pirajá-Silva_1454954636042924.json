@@ -1,0 +1,3271 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "1454954636042924",
+    "nome_completo": "Maina Pirajá Silva",
+    "nome_citacoes": "SILVA, Maina Pirajá;SILVA, M. P.;M. P. S.;MAINA PIRAJÁ SILVA",
+    "sexo": "Masculino",
+    "rotulo": "Permanente",
+    "periodo": "2019",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Católica do Salvador, Pós-Graduação. Avenida Professor Pinto de Aguiar Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (71) 30243567",
+    "atualizacao_cv": "27/07/2026",
+    "url": "http://lattes.cnpq.br/1454954636042924",
+    "texto_resumo": "Doutora em Geografia pela Universidade Federal da Bahia - UFBA. Realizou pós-doutoramento no PPG em Planejamento Territorial e Desenvolvimento Social da Universidade Católica do Salvador - UCSAL. Mestre, bacharel e licenciada em Geografia pela Universidade Federal da Bahia. Atualmente é professora titular e pesquisadora dos PPGs Território, Ambiente e Sociedade e Políticas Sociais e Cidadania da Universidade Católica do Salvador. Coordena o grupo de pesquisa GAM - Grupo de Estudos de Áreas Metropolitanas - UCSAL. Pesquisadora associada à Rede INCT Observatório das Metrópoles - Núcleo Salvador. Desenvolve pesquisas nas áreas da Geografia Urbana e Planejamento Urbano e Regional, com ênfase em análises sobre Governança urbana/metropolitana e arranjos institucionais, Dinâmicas e Transformações socioespaciais, Metropolização turística; Política Urbana e Justiça Social e Espacial, atuando, ainda, na área de geotecnologia. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Geografia",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2017",
+      "descricao": "Título: O papel dirigente nas regiões metropolitanas de Salvador, Recife e Fortaleza: dinâmicas e limitações O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2017. Orientador: Barbara-Christine Nentwig Silva. Bolsista do(a): Fundação de Amparo à Pesquisa do Estado da Bahia, FAPESB, Brasil."
+    },
+    {
+      "tipo": "Mestrado em Geografia",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2012",
+      "descricao": "Título: Regiões metropolitanas/Ride brasileiras: um estudo comparativo a partir dos setores de serviços de educação e saúde O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2012. Orientador: Barbara-Christine Nentwig Silva. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil."
+    },
+    {
+      "tipo": "Especialização em andamento em Geotecnologias ? Soluções de Inteligência Geográfica",
+      "nome_instituicao": "(Carga Horária: 405h)",
+      "ano_inicio": "2025",
+      "ano_conclusao": "",
+      "descricao": "Instituto de Qualificação Profissional, IQUALI, Brasil."
+    },
+    {
+      "tipo": "Graduação em Bacharelado em Geografia",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2009",
+      "descricao": "Título: Diferenciações regionais no nordeste brasileiro: um estudo comparativo das regiões metropolitanas de Salvador, Recife e Fortaleza. Orientador: Dária Maria Cardoso Nascimento. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil."
+    },
+    {
+      "tipo": "Graduação em Licenciatura em Geografia",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2008",
+      "descricao": "Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Observatório das Metrópoles, OM, Brasil.",
+      "instituicao_nome": "Observatório das Metrópoles",
+      "instituicao_sigla": "OM",
+      "instituicao_pais": "Brasil",
+      "periodo": "2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": "Coordenadora do Programa Insti",
+      "enquadramento": "Coordenadora do PIBIC",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": "Comissão PIBIC",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": "Editora",
+      "enquadramento": "Professor titular",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": "Pesquisadora",
+      "enquadramento": "Coordenadora do grupo de pesquisa GAM",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": "Pesquisadora",
+      "enquadramento": "Pesquisadora do grupo GEOPLAN",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2021 - 2022",
+      "ano_inicio": "2021",
+      "ano_fim": "2022",
+      "vinculo": "Coordenadora do PPGTAS",
+      "enquadramento": "Professor titular",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2019",
+      "ano_inicio": "2017",
+      "ano_fim": "2019",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor colaborador",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2019",
+      "ano_inicio": "2017",
+      "ano_fim": "2019",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista - Pós-doc",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - 2017",
+      "ano_inicio": "2006",
+      "ano_fim": "2017",
+      "vinculo": "Pesquisadora associada",
+      "enquadramento": "Pesquisadora do grupo Socioterritorial",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2015",
+      "ano_inicio": "2012",
+      "ano_fim": "2015",
+      "vinculo": "Pesquisadora/Colaboradora",
+      "enquadramento": "Atividades técnicas-científicas",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - Atual",
+      "ano_inicio": "2022",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - Atual",
+      "ano_inicio": "2022",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2022 - Atual",
+      "ano_inicio": "2022",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2021 - Atual",
+      "ano_inicio": "2021",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2020 - Atual",
+      "ano_inicio": "2020",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2020 - Atual",
+      "ano_inicio": "2020",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Curso de Geografia."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2020 - Atual",
+      "ano_inicio": "2020",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Pro Reitoria de Pesquisa e Pós Graduação, Planejamento Territorial e Desenvolvimento Social."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2020 - Atual",
+      "ano_inicio": "2020",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Pro Reitoria de Pesquisa e Pós Graduação, Planejamento Territorial e Desenvolvimento Social."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Curso de Geografia."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "11/2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Pro Reitoria de Pesquisa e Pós Graduação."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2021 - 07/2022",
+      "ano_inicio": "2021",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Pós-Graduação."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2006 - 03/2017",
+      "ano_inicio": "2006",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2006 - 03/2017",
+      "ano_inicio": "2006",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Pro Reitoria de Pesquisa e Pós Graduação."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - 2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - 2017",
+      "ano_inicio": "2014",
+      "ano_fim": "2017",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista FAPESB - Doutorado em Geografia",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - 2017",
+      "ano_inicio": "2006",
+      "ano_fim": "2017",
+      "vinculo": "Pesquisadora",
+      "enquadramento": "Pesquisadora do grupo de pesquisa Glocal",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2012",
+      "ano_inicio": "2011",
+      "ano_fim": "2012",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista CAPES - Mestrado em Geografia",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2009",
+      "ano_inicio": "2007",
+      "ano_fim": "2009",
+      "vinculo": "Bolsista CNPq (balcão)",
+      "enquadramento": "Iniciação científica",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - 2007",
+      "ano_inicio": "2006",
+      "ano_fim": "2007",
+      "vinculo": "Bolsista CNPq (balcão)",
+      "enquadramento": "Iniciação científica",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - 2006",
+      "ano_inicio": "2006",
+      "ano_fim": "2006",
+      "vinculo": "Pesquisador",
+      "enquadramento": "Laboratório de Cartografia - LACAR",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2006 - 03/2017",
+      "ano_inicio": "2006",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto de Geociências."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2006 - 03/2017",
+      "ano_inicio": "2006",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2007 - 02/2009",
+      "ano_inicio": "2007",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2006 - 07/2007",
+      "ano_inicio": "2006",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Expansão do imobiliário-turístico no litoral brasileiro: dinâmicas sociais, econômicas e ambientais",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Projeto ligado ao Observatório das Metrópoles que visa analisar a articulação entre o setor imobiliário e o setor turístico tem produzido, há décadas, novas formações territoriais no litoral brasileiro, com impactos urbanísticos, ambientais e econômicos. A urbanização litorânea é expandida pela implantação de condomínios fechados, resorts, campos de golfe, loteamentos, complexos turísticos, entre outros, impulsionados pela turistificação dos espaços urbanos e rurais, alterando às relações socioespaciais, socioeconômicas e socioambientais locais, a partir de uma integração entre os interesses do segmento de valorização fundiária e imobiliária e a promoção turística. Recentemente, os setores financeiros, de multipropriededade e as plataformas digitais têm agravado ainda mais essa situação, trazendo novos desafios aos municípios litorâneos, reconfigurando o território e gerando conflitos socioterritoriais, a redefinição do uso e ocupação do solo, e a influência sobre as políticas públicas neste processo de produção desigual do espaço. Como estão ocorrendo tais impactos? É possível estabelecer estudos comparativos nacionais? O presente projeto investiga tais questões por meio de métodos de análise quali-quantitativos, bibliometria, levantamentos, mapeamento e uso de geotecnologias. A relevância dos estudos reside em compreender as transformações da urbanização litorânea brasileira e subsidiar a construção de um Sistema Nacional de Desenvolvimento Urbano que promova um desenvolvimento igualitário, justo e sustentável.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Maina Pirajá Silva - Integrante / ALEXANDRE QUEIROZ PEREIRA - Coordenador / Alexsandro Cardoso - Integrante / Eustógio Dantas - Integrante / Sarah França - Integrante / Bruno Rodrigues - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Maina Pirajá Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "ALEXANDRE QUEIROZ PEREIRA",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Alexsandro Cardoso",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eustógio Dantas",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sarah França",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bruno Rodrigues",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "SALVADOR COMO MERCADORIA: ANÁLISE DAS ESTRUTURAS E PROCESSOS DE GENTRIFICAÇÃO E SEGREGAÇÃO SÓCIO-ESPACIAL",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2025",
+      "descricao": [
+        "Descrição: A pesquisa se propõe a estudar o perfil da expansão, a espacialização, os impactos sociais, urbanísticos e ambientais, e as estratégias do setor imobiliário na implantação de condomínios fechados horizontais e, sobretudo, verticais, em Salvador, no Estado da Bahia, que é um fenômeno que leva a um processo de segregação sócio-espacial e, consequentemente, de fragmentação e homogeneização do espaço urbano. Por outro lado, o projeto ainda visa analisar determinados processos de reestruturação urbana que vêm ocorrendo em Salvador, sobretudo na área do subúrbio e centro, ponderando sobre as ações do capital público e privado sustentadas na lógica da gentrificação e da privatização do espaço urbano da cidade.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Maina Pirajá Silva - Coordenador / André Lucas Palma Barbosa - Integrante / Cíntia Silva de Jesus - Integrante / Luan dos Santos Silva - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa. Número de produções C, T & A: 3"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Maina Pirajá Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "André Lucas Palma Barbosa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cíntia Silva de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luan dos Santos Silva",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "PANDEMIA DA COVID-19 E AS DESIGUALDADES SOCIAIS EM SALVADOR/BA",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: O projeto objetiva analisar as desigualdades sociais em Salvador e relacionar com as estratégias de combate e as consequências da pandemia da Covid-19 no município.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Maina Pirajá Silva - Coordenador / Ayana Gomes Marçal - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa. Número de produções C, T & A: 3"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Maina Pirajá Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ayana Gomes Marçal",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "Educação inclusiva de alunos com deficiência nas escolas públicas de Salvador/BA",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: Analisar e discutir questões que envolvem a educação inclusiva de alunos com deficiência nas escolas públicas de Salvador. Elegeram-se, para tanto, o estudo sobre as políticas públicas de apoio à inclusão, a trajetória e o ambiente social desses alunos, bem como entender suas necessidades pedagógicas, focalizando nas implicações no desenvolvimento pessoal e social.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Doutorado: (1) . Integrantes: Maina Pirajá Silva - Coordenador / Joelma Cerqueira de Oliveira - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Maina Pirajá Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Joelma Cerqueira de Oliveira",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Geografia",
+      "subarea": "Geografia Urbana",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Geografia / Subárea: Geografia Urbana."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Planejamento Urbano e Regional",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Planejamento Urbano e Regional."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Geografia",
+      "subarea": "Cartografia",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Geografia / Subárea: Cartografia."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Planejamento Urbano e Regional",
+      "subarea": "Fundamentos do Planejamento Urbano e Regional",
+      "especialidade": "Política Urbana",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Planejamento Urbano e Regional / Subárea: Fundamentos do Planejamento Urbano e Regional/Especialidade: Política Urbana."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Planejamento Urbano e Regional",
+      "subarea": "Serviços Urbanos e Regionais",
+      "especialidade": "Aspectos Sociais do Planejamento Urbano e Regional",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Planejamento Urbano e Regional / Subárea: Serviços Urbanos e Regionais/Especialidade: Aspectos Sociais do Planejamento Urbano e Regional."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Geografia",
+      "subarea": "Geografia Regional",
+      "especialidade": "Análise Regional",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Geografia / Subárea: Geografia Regional/Especialidade: Análise Regional."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Desenvolvimento urbano e regional",
+      "objetivo": ""
+    },
+    {
+      "nome": "População brasileira: características e dinâmica recente",
+      "objetivo": ""
+    },
+    {
+      "nome": "Geografia, globalização e dinâmica territorial",
+      "objetivo": ""
+    },
+    {
+      "nome": "Dinâmicas e transformações urbanas",
+      "objetivo": ""
+    },
+    {
+      "nome": "Governança e gestão urbana/metropolitana",
+      "objetivo": ""
+    },
+    {
+      "nome": "Dinâmica socioterritorial",
+      "objetivo": ""
+    },
+    {
+      "nome": "Justiça Social e Espacial",
+      "objetivo": ""
+    },
+    {
+      "nome": "Política Urbana",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Regiões metropolitanas brasileiras: da fragilidade da institucionalização aos desafios da governança",
+        "ano": 2024,
+        "autores": "SILVA, Maina Pirajá; SILVA, Barbara-Christine Nentwig ; DE CARVALHO, SILVANA SÁ",
+        "revista": "ACTA GEOGRAFICA",
+        "volume": "18",
+        "numero": "",
+        "paginas": "1-20",
+        "issn": "2177-4307",
+        "doi": "http://dx.doi.org/10.18227/2177-4307.acta.v18i48.5028",
+        "qualis": ""
+      },
+      {
+        "titulo": "VERTICALIZAÇÃO E IMPACTOS AMBIENTAIS NA ORLA ATLÂNTICA DE SALVADOR/BAHIA: OS CASOS DOS EMPREENDIMENTOS BEACH CLASS SALVADOR E UNDAE OCEAN",
+        "ano": 2023,
+        "autores": "JESUS, Silviane Ferreira de ; SILVA, Maina Pirajá",
+        "revista": "RJLB - REVISTA JURÍDICA LUSO-BRASILEIRA",
+        "volume": "9",
+        "numero": "",
+        "paginas": "1773-1798",
+        "issn": "2183-539X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Hegemonia do capital imobiliário na (re)produção do espaço da Orla Atlântica de Salvador, Bahia, Brasil, entre 2006 e 2018",
+        "ano": 2023,
+        "autores": "MARIANA DE OLIVEIRA SANTANA ; MAINA PIRAJÁ SILVA",
+        "revista": "GEOGRAFARES: REVISTA DO MESTRADO E DO DEPARTAMENTO DE GEOGRAFIA, CENTRO DE CIÊNCIAS HUMANAS E NATURAIS (UFES)",
+        "volume": "3",
+        "numero": "",
+        "paginas": "307-333",
+        "issn": "1518-2002",
+        "doi": "http://dx.doi.org/10.47456/geo.v3i37.41031",
+        "qualis": ""
+      },
+      {
+        "titulo": "Hegemony of real estate capital in the(re)production of space in the Atlantic coastal area of Salvador, Bahia, Brazil, between 2006 and 2018",
+        "ano": 2023,
+        "autores": "MARIANA DE OLIVEIRA SANTANA ; SILVA, Maina Pirajá",
+        "revista": "REVISTA GEOGRAFARES",
+        "volume": "3",
+        "numero": "",
+        "paginas": "307-333-333",
+        "issn": "2175-3709",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "O papel do turismo nas transformações espaciais no litoral da região metropolitana de salvador",
+        "ano": 2020,
+        "autores": "SANTANA, Mariana de Oliveira ; SILVA, Maina Pirajá ; GIUDICE, Dante Severo",
+        "revista": "Revista brasileira de pesquisa em turismo",
+        "volume": "14",
+        "numero": "",
+        "paginas": "68-88",
+        "issn": "1982-6125",
+        "doi": "http://dx.doi.org/10.7784/rbtur.v14i3.1900",
+        "qualis": ""
+      },
+      {
+        "titulo": "Public-private health and urban mobility partnerships in the State of Bahia: current situation, projects and main agents involved",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá; CARVALHO, Silvana Sá de ; SANTANA, Mariana de Oliveira",
+        "revista": "CADERNOS EBAPE.BR (FGV)",
+        "volume": "18",
+        "numero": "",
+        "paginas": "974-999",
+        "issn": "1679-3951",
+        "doi": "http://dx.doi.org/10.1590/1679-395120190153x",
+        "qualis": ""
+      },
+      {
+        "titulo": "Os novos arranjos institucionais na Região Metropolitana de Salvador: os casos das parcerias público-privadas",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá; CARVALHO, Silvana Sá de ; OLIVEIRA, Marcos José dos Santos de",
+        "revista": "BOLETIM DE GEOGRAFIA (ONLINE)",
+        "volume": "38",
+        "numero": "",
+        "paginas": "19-33",
+        "issn": "2176-4786",
+        "doi": "http://dx.doi.org/10.4025/bolgeogr.v38i3.44169",
+        "qualis": ""
+      },
+      {
+        "titulo": "O RURAL E O URBANO EM INTERAÇÃO",
+        "ano": 2020,
+        "autores": "ALENCAR, Cristina Maria Macêdo ; SILVA, Maina Pirajá",
+        "revista": "CADERNOS DO CEAS",
+        "volume": "45",
+        "numero": "",
+        "paginas": "538-545",
+        "issn": "2447-861X",
+        "doi": "http://dx.doi.org/10.25247/2447-861X.2020.n251.p538-545",
+        "qualis": ""
+      },
+      {
+        "titulo": "The role of tourism in space transformations in the coast of the metropolitan region of Salvador: the case of Mata de São João",
+        "ano": 2020,
+        "autores": "MARIANA DE OLIVEIRA SANTANA ; SILVA, Maina Pirajá ; GIUDICE, Dante Severo",
+        "revista": "Revista brasileira de pesquisa em turismo",
+        "volume": "14",
+        "numero": "",
+        "paginas": "67-88",
+        "issn": "1982-6125",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "O rural e o urbano em pauta",
+        "ano": 2021,
+        "autores": "ALENCAR, C. M. M. (Org.) ; SILVA, Maina Pirajá (Org.) ; PAIXAO, L. H. C. (Org.)",
+        "editora": "Salvador: UCSALPress",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "452"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "Boca do Rio: um exemplo de segregação socioambiental na orla atlântica de Salvador/BA",
+        "ano": 2025,
+        "autores": "JESUS, Silviane Ferreira de ; SILVA, Maina Pirajá ; TRAJANO, Tagore",
+        "titulo_livro": "",
+        "editora": "Mente Aberta",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "136-156"
+      },
+      {
+        "titulo": "Como e para quem se governa?",
+        "ano": 2023,
+        "autores": "PEREIRA, Carla Galvão ; SILVA, Maina Pirajá ; ARANTES, Rafael de Aguiar ; SANTOS, José Lázaro de Carvalho",
+        "titulo_livro": "",
+        "editora": "Letra Capital",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "133-207"
+      },
+      {
+        "titulo": "Influência do turismo nas recentes dinâmicas espaciais da Região Metropolitana de Salvador: a notoriedade de Mata de São João",
+        "ano": 2021,
+        "autores": "SANTANA, Mariana de Oliveira ; SILVA, Maina Pirajá ; GIUDICE, Dante Severo ; CARVALHO, S. S.",
+        "titulo_livro": "",
+        "editora": "UCSALPress",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "139-161"
+      },
+      {
+        "titulo": "REGIÃO METROPOLITANA DE SALVADOR (BA)",
+        "ano": 2021,
+        "autores": "PERERIRA, Carla Galvão ; FERNANDES, Claudia Monteiro ; PEREIRA, Gilberto Corso ; MOURAD, Laila Nazem ; SILVA, Maina Pirajá ; ARANTES, Rafael de Aguiar",
+        "titulo_livro": "",
+        "editora": "Observatório das Metrópoles",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "277-296"
+      },
+      {
+        "titulo": "A pandemia da Covid-19 em uma cidade pobre e periférica: desigualdades e vulnerabilidades socioespaciais, governança e políticas de enfrentamento em Salvador e Região Metropolitana",
+        "ano": 2020,
+        "autores": "PEREIRA, Gilberto Corso ; CARVALHO, Inaiá Maria Moreira de ; ARANTES, Rafael de Aguiar ; PEREIRA, Carla Galvão ; FERNANDES, Claudia Monteiro ; SANTOS, José Lázaro de Carvalho ; DELGADO, Juan Pedro Moreno ; PEREIRA, Maria das Graças Borja Gondim dos Santos ; TEIXEIRA, Aparecida Netto ; MOURAD, Laila Nazem ; SILVA, Maina Pirajá ; OLIVEIRA, André Augusto Araújo ; FLORENTINO, Pablo Vieira ; BORGES, Luis Alberto de Assis",
+        "titulo_livro": "",
+        "editora": "Observatório das Metrópoles",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "440-476"
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [
+      {
+        "titulo": "COALIZÕES DE PODER E IMPACTOS NA GOVERNANÇA EM SALVADOR/BAHIA: O CASO DOS ARRANJOS INSTITUCIONAIS DE MOBILIDADE URBANA",
+        "ano": 2023,
+        "autores": "SILVA, Maina Pirajá; SANTANA, Mariana de Oliveira ; BARBOSA, André Lucas Palma",
+        "evento": "V Congresso Brasileiro de Geografia Política, Geopolítica e Gestão do Território (CONGEO), 2023, São Paulo. Anais do Congresso Brasileiro de Geografia Política, Geopolítica e Gestão do Território - CONGEO",
+        "cidade": "",
+        "paginas": ""
+      },
+      {
+        "titulo": "A emancipação do município de Lauro de Freitas, no estado da Bahia: Uma abordagem territorial",
+        "ano": 2023,
+        "autores": "BARBOSA, André Lucas Palma ; SILVA, Maina Pirajá ; FONSECA, Antonio Angelo Martins da",
+        "evento": "V Congresso Brasileiro de Geografia Política, Geopolítica e Gestão do Território (CONGEO), 2023, São Paulo. Anais do Congresso Brasileiro de Geografia Política, Geopolítica e Gestão do Território - CONGEO",
+        "cidade": "",
+        "paginas": ""
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "VULNERABILIDADE SOCIAL DOS IDOSOS E A PANDEMIA DA COVID-19 EM SALVADOR/BA",
+        "ano": 2022,
+        "autores": "BARBOSA, André Lucas Palma ; SILVA, Maina Pirajá",
+        "evento": "XVIII SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, 2022, Salvador. XVIII SEMINÁRIO DE INICIAÇÃO CIENTÍFICA",
+        "cidade": ""
+      },
+      {
+        "titulo": "As coalizões de poder e seus impactos na governança em Salvador: o caso dos arranjos institucionais de mobilidade",
+        "ano": 2020,
+        "autores": "MARÇAL, Ayana Gomes ; SILVA, Maina Pirajá",
+        "evento": "XVI Seminário de Iniciação Científica, 2020, Salvador. Juventude em Tempos de Pandemia: desafios e perspectivas",
+        "cidade": ""
+      },
+      {
+        "titulo": "Influência do turismo nas recentes dinâmicas espaciais da Região Metropolitana de Salvador: a notoriedade de Mata de São João",
+        "ano": 2020,
+        "autores": "SANTANA, Mariana de Oliveira ; SILVA, Maina Pirajá ; GIUDICE, Dante Severo ; CARVALHO, Silvana Sá de",
+        "evento": "VI SINARUB / V SNPD / V EMPURD, 2020, Salvador. VI SINARUB / V SNPD / V EMPURD: Por uma pauta de visibilidade do rural e do urbano: planejamento e desenvolvimento. Salvador: Universidade Católica do Salvador",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Governança e cidade como negócio",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá",
+        "evento": ""
+      },
+      {
+        "titulo": "A emancipação do município de Lauro de Freitas, no estado da Bahia: Uma abordagem territorial",
+        "ano": 2023,
+        "autores": "BARBOSA, André Lucas Palma ; SILVA, Maina Pirajá",
+        "evento": ""
+      },
+      {
+        "titulo": "COALIZÕES DE PODER E IMPACTOS NA GOVERNANÇA EM SALVADOR/BAHIA: O CASO DOS ARRANJOS INSTITUCIONAIS DE MOBILIDADE URBANA",
+        "ano": 2023,
+        "autores": "SILVA, Maina Pirajá; SANTANA, Mariana de Oliveira ; BARBOSA, André Lucas Palma",
+        "evento": ""
+      },
+      {
+        "titulo": "Aula inaugural PPGTAS - Enfrentamento à Covid-19 em Salvador: avanços, desafios e conflitos",
+        "ano": 2022,
+        "autores": "SILVA, Maina Pirajá; ARANTES, Rafael de Aguiar ; PERERIRA, Carla Galvão ; PINHEIRO, W.",
+        "evento": ""
+      },
+      {
+        "titulo": "Geotecnologias e Análise Espacial",
+        "ano": 2022,
+        "autores": "SILVA, Maina Pirajá",
+        "evento": ""
+      },
+      {
+        "titulo": "Influência do turismo nas recentes dinâmicas espaciais na Região Metropolitana de Salvador: a notoriedade de Mata de São João",
+        "ano": 2020,
+        "autores": "SANTANA, Mariana de Oliveira ; SILVA, Maina Pirajá ; GIUDICE, Dante Severo ; CARVALHO, Silvana Sá de",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": [
+      {
+        "titulo": "Revista Brasileira de Planejamento e Desenvolvimento. Curitiba, 2020. (Prefácio",
+        "ano": 2020,
+        "autores": "ALENCAR, Cristina Maria Macêdo ; SILVA, Maina Pirajá ; CATAPAN, Anderson ; OLIVEIRA, Antonio Gonçalves de",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "Parecerista da Revista Territorialidades",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecerista da Revista Territorialidades",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer de reconhecimento de diploma de doutorado obtido no exterior",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá; TEIXEIRA, Aparecida Netto ; SA, Katia Oliver",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer de reconhecimento de diploma de doutorado obtido no exterior",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá; CARVALHO, Silvana Sá de ; MARCHI, Cristina Maria Dacach Fernandez",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer de artigo - Revista Terceiro Milênio",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer de reconhecimento de diploma de mestrado obtido no exterior",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá; SA, S. M. P.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Pareceres projetos PIBIC/FAPESB",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecer Ad hoc para análise de 10 propostas encaminhadas à FAPESB em resposta ao Edital 019/2024 ? Eventos de Pop Ciências",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliação de artigo - X Encontro Baiano de Geografia e XI Semana de Geografia de Caetité",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliação de artigo - X Encontro Baiano de Geografia e XI Semana de Geografia de Caetité",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Comitê científico do X Encontro Baiano de Geografia e XI Semana de Geografia de Caetité",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Pareceres projetos PIBIC/UCSAL",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecerista dos artigos - Comissão Científica da 23ª Semana de Mobilização Científica - SEMOC",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecerista do Prêmio Melhor Artigo de TCC / UCSAL 2019",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Comitê Interno de Seleção e Avaliação do PIBIC/UCSAL",
+        "ano": 2020,
+        "autores": "FREITAS, Kátia Siqueira de ; REGO, Filipe Ferreira de Almeida ; MOURAD, Laila Nazem ; SILVA, Maina Pirajá ; MARTINS, Maisa Mônica Flores ; PERES, Marcelo Cesar Lima ; VILASBOAS, José Marcílio L. ; GOIS, Luana Leandro",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Parecerista de artigos - VI SINARUB / V SNPD / V EMPURD",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Minicurso sobre Normas da ABNT voltado a produção de artigo. 2020",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Anais do VI Simpósio Nacional o Rural e o Urbano no Brasil - VI SINARUB",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Anais do V Seminário Nacional de Planejamento e Desenvolvimento - SNPD",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Revista Territorialidades",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Caderno de Resumos VI SINARUB / V SNPD / V EMPURD",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "VI SINARUB / V SNPD / V EMPURD",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "XXIII Semana de Mobilização Científica - SEMOC",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "VI SINARUB / V SNPD / V EMPURD",
+        "ano": 2020,
+        "autores": "SILVA, Maina Pirajá",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "Direito à cidade, mercado imobiliário e remoção forçada",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá; MOURAD, Laila Nazem ; SANTANA, Mariana de Oliveira ; OLIVEIRA, André Augusto Araújo ; SILVA, I. A.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Temas transversais do currículo, abertura para o diálogo na escola e universidade",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá; FIGUEREDO, M. G. B. ; FREITAS, E. ; OLIVEIRA, I. ; SOUSA, N.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Governança e arranjos institucionais",
+        "ano": 2025,
+        "autores": "SILVA, Maina Pirajá; TEIXEIRA, Aparecida Netto ; FERNANDES, Claudia Monteiro ; MOURAD, Laila Nazem",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Salvador, visões do futuro: cenários pós Covid 19 - Governança urbana e metropolitana",
+        "ano": 2020,
+        "autores": "ARANTES, Rafael de Aguiar ; SILVA, Maina Pirajá ; PERERIRA, Carla Galvão",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "TERRITÓRIO EM CHAMAS E A INVISIBILIDADE SÓCIO-HISTÓRICA: (COM)FORMAÇÃO DA NARRATIVA DE CATÁSTROFE QUE ENVOLVEU A FÁBRICA DE FOGOS DE ARTIFÍCIO EM SANTO ANTÔNIO DE JESUS-BAHIA",
+          "ano_inicio": 2026,
+          "orientando": "Maurício Santana de Sousa",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "ANÁLISE COMPLEXA E FENOMÊNICA DA ABAETÉ ? APOIADA EM FERRAMENTAS TECNOLÓGICAS DE GEOINFORMAÇÃO",
+          "ano_inicio": 2024,
+          "orientando": "Nubson Jorge Lago Lyrio",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "A (RE) PRODUÇÃO DO ESPAÇO E AS COALIZÕES DE PODER EM BARRA DOS COQUEIROS (SE) A PARTIR DA IMPLANTAÇÃO DA PONTE CONSTRUTOR JOÃO ALVES",
+          "ano_inicio": 2024,
+          "orientando": "Mariana de Oliveira Santana",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "TERRITÓRIOS AFETIVOS E CONFLITIVOS NOS TRÊS NÚCLEOS DE REASSENTAMENTO DE CABACEIRAS DO PARAGUAÇU, RECONCAVO BAIANO: REMEMORAÇÕES DOS DIFERENTES SUJEITOS SOCIAIS",
+          "ano_inicio": 2023,
+          "orientando": "SILVIA CELESTE FERREIRA DA CONCEIÇÃO",
+          "tipo_trabalho": "",
+          "instituicao": "Tese (Doutorado em Território",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "O COMPROMISSO SOCIAL DA EDUCAÇÃO AMBIENTAL NO ÂMBITO DA ESCASSEZ HÍDRICA",
+          "ano_inicio": 2026,
+          "orientando": "GLAUCIO ALA VASCONCELOS MOREIRA",
+          "tipo_trabalho": "",
+          "instituicao": "Dissertação (Mestrado em Território",
+          "curso": ""
+        },
+        {
+          "titulo": "A FUNÇÃO SOCIAL DA ESCOLA, O PAPEL DA GESTÃO ESCOLAR E A RELAÇÃO ESCOLA, COMUNIDADE E UNIVERSIDADE NOS DIAS ATUAIS: LIMITES E POSSIBILIDADES A PARTIR DA PEDAGOGIA HISTÓRICO-CRÍTICA",
+          "ano_inicio": 2026,
+          "orientando": "Alexa Pereira Prado",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "COSMOVISÃO DO POVO NALU, GUINÉ BISSAU: UMA LEITURA FILOSÓFICA SOBRE NTEMP (MATA)",
+          "ano_inicio": 2025,
+          "orientando": "JESSICA NUNES CORREIA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "TERRITORIALIDADE E ESPÍRITO ANCESTRAL NA CULTURA PEPEL, GUINÉ-BISSAU: ANÁLISE DAS MANIFESTAÇÕES FILOSÓFICAS, POLÍTICAS E SOCIAIS",
+          "ano_inicio": 2025,
+          "orientando": "Pariel da Silva",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "QUILOMBO BREJÃO DOS NEGROS: PROCESSO DE LUTA PELA TERRA E DE SEU RECONHECIMENTO ENQUANTO TERRITÓRIO TRADICIONAL EM SERGIPE",
+          "ano_inicio": 2025,
+          "orientando": "SILVIANE FERREIRA DE JESUS",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Coculpabilidade estatal na origem da criminalidade e no encarceramento de grupos vulneráveis: análise crítica da jurisprudência do Tribunal de Justiça-Tocantins",
+          "ano_inicio": 2025,
+          "orientando": "João Fernando Nogueira Alves",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [
+        {
+          "titulo": "",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "JOELMA CERQUEIRA DE OLIVEIRA",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Rafael de Lima Erazo",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "doutorado": [
+        {
+          "titulo": "NÃO ATA, NEM DESATA: A CONSTRUÇÃO DA IDENTIDADE LOCAL EM SANTO AMARO DA PURIFICAÇÃO-BAHIA, A PARTIR DOS PRONUNCIAMENTOS SOBRE A ATA DA VEREAÇÃO DE 14 DE JUNHO DE 1822",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Márcio Augusto Santos Dórea",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "TERRITORIALIDADES DESCOLONIAIS DAS MULHERES NEGRAS EM SALVADOR/BAHIA",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "MARIA EDNA DOS SANTOS COROA DOS ANJOS",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "ILÊ AXÉ ODÔ OBÁ OBITIKÔ: MEMÓRIA E IDENTIDADE EM UM TERRITÓRIO RELIGIOSO EM SALVADOR-BA",
+          "ano_inicio": 2026,
+          "ano_conclusao": 2026,
+          "orientando": "EVELINE AUXILIADORA CRUZ SOWZER DOS SANTOS",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "GOVERNANÇA E COALIZÕES DE PODER: ANÁLISE DAS PARCERIAS PÚBLICO-PRIVADAS DE SAÚDE NA BAHIA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "ANDRÉ LUCAS PALMA BARBOSA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "(Re)produção do espaço e dinâmicas imobiliárias no bairro da Boca do Rio e seu entorno em Salvador/BA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "VINÍCIUS CERQUEIRA DA SILVA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "(RE)PRODUÇÃO DO ESPAÇO URBANO E VERTICALIZAÇÃO NA ORLA ATLÂNTICA DE SALVADOR/BAHIA: IMPACTOS SOCIOAMBIENTAIS NO BAIRRO BOCA DO RIO",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "SILVIANE FERREIRA DE JESUS",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "TRANSFORMAÇÕES SÓCIO-HISTÓRICAS E CONFLITOS QUE ENVOLVEM O PARQUE DO ABAETÉ, SALVADOR/BAHIA",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Nubson Jorge Lago Lyrio",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "DESTERRITORIALIZAÇÃO E INCERTEZAS: A RETERRITORIALIZAÇÃO NO ASSENTAMENTO DA AGROVILA DO SOBRADO NA ZONA RURAL DE CABACEIRAS DO PARAGUAÇU/BAHIA",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "SILVIA CELESTE FERREIRA DA CONCEIÇÃO",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Caminhos e desafios da educação ambiental: o caso da Escola Municipal Parque Verde, Camaçari - Bahia",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Carlos Martins Cardoso Lima",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Poder, cidade e sociedade: transformações sócio-territoriais, articulações e conflitos em Barra dos Coqueiros/SE a partir da edificação da ponte Construtor João Alves",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Ivis Danielle Dutra de Oliveira",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Governança na Região Metropolitana de Salvador: desafios e perspectivas",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Ubiratan Félix Pereira dos Santos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Produção do espaço urbano: crescimento imobiliário no entorno da Avenida Aliomar Baleeiro, Salvador/BA",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Marcos José dos Santos de Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": ": VULNERABILIDADE SOCIAL DOS IDOSOS E A PANDEMIA DA COVID-19: O CASO DO BAIRRO DA PAZ, EM SALVADOR/BA",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "ANDRÉ LUCAS PALMA BARBOSA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "As coalizões de poder e seus impactos na governança em Salvador: o caso dos arranjos institucionais de mobilidade",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Ayana Gomes Marçal",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Enclaves residenciais urbanos em Salvador/BA: fragmentação e segregação sócioespacial",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Cíntia Silva de Jesus",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Pandemia da Covid-19 e a vulnerabilidade social dos idosos em Salvador/BA",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Ayana Gomes Marçal",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "outros": [
+        {
+          "titulo": "A economia da cultura e os ambulantes no Carnaval de Salvador: excluídos e invisibilizados",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Luan dos Santos Silva",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise urbana e social do enclave segregado do bairro do Calabar",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "André Lucas Palma Barbosa",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ]
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "27a SEMOC - Semana de Mobilização Científica",
+        "apresentacao": "Transformações territoriais e identidade do grupo Grupo de Estudos de Áreas Metropolitanas",
+        "ano": 2024,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IX Encontro Baiano de Geografia",
+        "apresentacao": "A EMANCIPAÇÃO DE LAURO DE FREITAS, BAHIA: PERSPECTIVAS URBANAS E TERRITORIAIS",
+        "ano": 2024,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "26 Semana de Mobilização Científica - SEMOC",
+        "apresentacao": "Democracia e Cidadania no Século XXI - Semoc Jovem",
+        "ano": 2023,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Congresso Brasileiro de Geografia Política, Geopolítica e Gestão do Território (CONGEO)",
+        "apresentacao": "A EMANCIPAÇÃO DE LAURO DE FREITAS, BAHIA: PERSPECTIVAS URBANAS E TERRITORIAIS",
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Aula inaugural PPGTAS - Enfrentamento à Covid-19 em Salvador: avanços, desafios e conflitos",
+        "apresentacao": "Aula inaugural PPGTAS - Enfrentamento à Covid-19 em Salvador: avanços, desafios e conflitos",
+        "ano": 2022,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Fórum de Geotecnologias e Planejamento Territorial",
+        "apresentacao": "Geotecnologias e Análise Espacial",
+        "ano": 2022,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVII SEMINÁRIO DE INICIAÇÃO CIENTÍFICA DA UCSAL",
+        "apresentacao": "Sessão 1",
+        "ano": 2022,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Virtual UFBA 2020: Universidade em Movimento",
+        "apresentacao": "Salvador, visões do futuro: cenários pós Covid 19 - Governança urbana e metropolitana",
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VI Seminário de Iniciação Científica",
+        "apresentacao": "As coalizões de poder e seus impactos na governança em Salvador: arranjos institucionais de mobilidade",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VI SINARUB / V SNPD / V EMPURD",
+        "apresentacao": "Influência do turismo nas recentes dinâmicas espaciais na Região Metropolitana de Salvador: a notoriedade de Mata de São João",
+        "ano": 2020,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXIII Semana de Mobilização Científica",
+        "apresentacao": "Pandemia da Covid-19 e a vulnerabbilidade Social dos Idosos",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "SILVA, Maina Pirajá; MOURAD, Laila Nazem ; JESUS, L. V. ; ALENCAR, Cristina Maria Macêdo",
+        "evento": "I Diálogo Interdisciplinar de Egressos PPGTAS",
+        "ano": 2026,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SILVA, Maina Pirajá; CARVALHO, S. S. ; LAZARO, M.",
+        "evento": "Workshop de projetos de pesquisa para o PIBIC/FAPESB",
+        "ano": 2025,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SILVA, Maina Pirajá; JESUS, L. V. ; MOURAD, Laila Nazem ; ALENCAR, Cristina Maria Macêdo",
+        "evento": "3º Webinar PPGTAS",
+        "ano": 2025,
+        "natureza": "Exposição",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SILVA, Maina Pirajá; CARVALHO, Silvana Sá de ; LAZARO, M.",
+        "evento": "XXI Seminário de Iniciação Científica - Educar é um ato de esperança",
+        "ano": 2025,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SILVA, Maina Pirajá. Aula inaugural PPGTAS - Enfrentamento à Covid-19 em Salvador: avanços, desafios e conflitos. 2022. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SILVA, Maina Pirajá. 24a Semana de Mobilização Científica - SEMOC. 2022. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALENCAR, C. M. M. ; TINOCO, M. ; SUZUKI, J. C. ; PAIXAO, L. H. C. ; PEREIRA, M. P. ; SILVA, Maina Pirajá ; NASCIMENTO, M. P. S. ; SOUZA, S. A. ; SALES, A. D. ; RAMOS, V. M. L. ; FIGUEREDO, M. G. B. ; PORCIUNCULA, D. C. L. ; CONCEICAO, V. S. S.",
+        "evento": "VI SINARUB / V SNPD / V EMPURD",
+        "ano": 2020,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SILVA, Maina Pirajá. 23 Semana de Mobilização Científica - SEMOC. 2020. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SILVA, Maina Pirajá. Ciclo de Palestras de Geografia. 2019. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SILVA, Maina Pirajá. lll Seminário Nacional sobre Urbanização de Favelas (UCSAL) (Comitê organizador local). 2018. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "SILVA, Maina Pirajá; TEIXEIRA, Aparecida Netto; DRUCIAKI, V. P.. Participação em banca de Ian Mendes Galvão. DIREITO À CIDADE NA PRIMEIRA INFÂNCIA: mobilidade ativa e espaços de brincar como estratégias de inclusão social em Salvador/BA. 2026. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "Ian Mendes Galvão",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "TEIXEIRA, Aparecida Netto",
+          "DRUCIAKI, V. P."
+        ],
+        "titulo_trabalho": "DIREITO À CIDADE NA PRIMEIRA INFÂNCIA: mobilidade ativa e espaços de brincar como estratégias de inclusão social em Salvador/BA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; ACOSTA-LEYVA, Pedro. Participação em banca de EVELINE AUXILIADORA CRUZ SOWZER DOS SANTOS. Ilê Axé Odô Obá Obitikô: Memória e Identidade em um Território Religioso Em Salvador-Bahia. 2026. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "EVELINE AUXILIADORA CRUZ SOWZER DOS SANTOS",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MOURAD, Laila Nazem",
+          "ACOSTA-LEYVA, Pedro"
+        ],
+        "titulo_trabalho": "Ilê Axé Odô Obá Obitikô: Memória e Identidade em um Território Religioso Em Salvador-Bahia",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "MOURAD, Laila Nazem; SILVA, Maina Pirajá; ACOSTA-LEYVA, Pedro; PIRES, I. A.. Participação em banca de NICANDRO OQUETE INDI. MEDIAÇÕES CULTURAIS A PARTIR DE INSTRUMENTOS INTERNACIONAIS DE DIREITOS HUMANOS: CASO DE CONFLITOS DA POSSE DE TERRA DO POVO PEPEL NA REGIÃO DE BIOMBO/GUINÉ-BISSAU. 2025. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "NICANDRO OQUETE INDI",
+        "membros_banca": [
+          "MOURAD, Laila Nazem",
+          "SILVA, Maina Pirajá",
+          "ACOSTA-LEYVA, Pedro",
+          "PIRES, I. A."
+        ],
+        "titulo_trabalho": "MEDIAÇÕES CULTURAIS A PARTIR DE INSTRUMENTOS INTERNACIONAIS DE DIREITOS HUMANOS: CASO DE CONFLITOS DA POSSE DE TERRA DO POVO PEPEL NA REGIÃO DE BIOMBO/GUINÉ-BISSAU",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; JESUS, L. V.; VIEIRA, N. R. F.; GALVAO, V. L.. Participação em banca de MARIA STHEFANNI RIBEIRO DOS SANTOS. O CANTO DO RUBI NEGRO: MARINEZ E A ASCENSÃO DA AXÉ MUSIC EM SALVADOR. 2025. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "MARIA STHEFANNI RIBEIRO DOS SANTOS",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "JESUS, L. V.",
+          "VIEIRA, N. R. F.",
+          "GALVAO, V. L."
+        ],
+        "titulo_trabalho": "O CANTO DO RUBI NEGRO: MARINEZ E A ASCENSÃO DA AXÉ MUSIC EM SALVADOR",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; ACOSTA-LEYVA, Pedro; PIRES, I. A.. Participação em banca de NICANDRO OQUETE INDI. Mediações culturais a partir de instrumentos internacionais de direitos humanos: caso de conflitos da posse de terra do povo Pepel na região de Biombo/Guiné-Bissau. 2025. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "NICANDRO OQUETE INDI",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MOURAD, Laila Nazem",
+          "ACOSTA-LEYVA, Pedro",
+          "PIRES, I. A."
+        ],
+        "titulo_trabalho": "Mediações culturais a partir de instrumentos internacionais de direitos humanos: caso de conflitos da posse de terra do povo Pepel na região de Biombo/Guiné-Bissau",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; JESUS, L. V.; TEIXEIRA, Aparecida Netto. Participação em banca de VINÍCIUS CERQUEIRA DA SILVA. BOCA DO RIO E SEU ENTORNO: ENTRE VENTOS DO TEMPO E MARÉS DE CONCRETO ? TRANSFORMAÇÕES SOCIOESPACIAIS E A TRAMA DOS INTERESSES PÚBLICOS E IMOBILIÁRIOS, SALVADOR/BA. 2025. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "VINÍCIUS CERQUEIRA DA SILVA",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MOURAD, Laila Nazem",
+          "JESUS, L. V.",
+          "TEIXEIRA, Aparecida Netto"
+        ],
+        "titulo_trabalho": "BOCA DO RIO E SEU ENTORNO: ENTRE VENTOS DO TEMPO E MARÉS DE CONCRETO ? TRANSFORMAÇÕES SOCIOESPACIAIS E A TRAMA DOS INTERESSES PÚBLICOS E IMOBILIÁRIOS, SALVADOR/BA",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; ALENCAR, Cristina Maria Macêdo; CASTRO, J. R. B.; PAIXAO, L. H. C.; PINHEIRO, J. P. S.. Participação em banca de REGINALDO PEREIRA DOS SANTOS. CURRÍCULO EM EDUCAÇÃO DO CAMPO NO TERRITÓRIO DE IDENTIDADE RECÔNCAVO: O CASO DE VARZEDO - BA. 2025. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "REGINALDO PEREIRA DOS SANTOS",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "ALENCAR, Cristina Maria Macêdo",
+          "CASTRO, J. R. B.",
+          "PAIXAO, L. H. C.",
+          "PINHEIRO, J. P. S."
+        ],
+        "titulo_trabalho": "CURRÍCULO EM EDUCAÇÃO DO CAMPO NO TERRITÓRIO DE IDENTIDADE RECÔNCAVO: O CASO DE VARZEDO - BA",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MARCHI, Cristina Maria Dacach Fernandez; PIMENTEL, P. C. B.; RAMOS, V. M. L.. Participação em banca de JOSÉ JORGE DA CRUZ SANTOS. COMPOSTAGEM URBANA E MERENDA ESCOLAR: SUSTENTABILIDADE E EDUCAÇÃO AMBIENTAL NA GESTÃO DE RESÍDUOS ORGÂNICOS. 2025. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "JOSÉ JORGE DA CRUZ SANTOS",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MARCHI, Cristina Maria Dacach Fernandez",
+          "PIMENTEL, P. C. B.",
+          "RAMOS, V. M. L."
+        ],
+        "titulo_trabalho": "COMPOSTAGEM URBANA E MERENDA ESCOLAR: SUSTENTABILIDADE E EDUCAÇÃO AMBIENTAL NA GESTÃO DE RESÍDUOS ORGÂNICOS",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; CARVALHO, S. S.; LOPES, Kaíc Fernando Ferreira. Participação em banca de PAULO ROBERTO SENTO SÉ DO NASCIMENTO. REPRODUÇÃO DO ESPAÇO URBANO DA PRAIA DE ITACIMIRIM EM CAMAÇARI- BAHIA. 2025. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "PAULO ROBERTO SENTO SÉ DO NASCIMENTO",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "CARVALHO, S. S.",
+          "LOPES, Kaíc Fernando Ferreira"
+        ],
+        "titulo_trabalho": "REPRODUÇÃO DO ESPAÇO URBANO DA PRAIA DE ITACIMIRIM EM CAMAÇARI- BAHIA",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, L. P. B.; SILVA, Maina Pirajá; FONSECA, Antonio Angelo Martins da. Participação em banca de Carlos Eduardo Conceição Silva. A TERRITORIALIDADE POLÍTICO-ESTATAL E OS CONFLITOS DE LIMITES INTERMUNICIPAIS NA REGIÃO METROPOLITANA DE SALVADOR. 2024. Dissertação (Mestrado em Geografia) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Carlos Eduardo Conceição Silva",
+        "membros_banca": [
+          "SILVA, L. P. B.",
+          "SILVA, Maina Pirajá",
+          "FONSECA, Antonio Angelo Martins da"
+        ],
+        "titulo_trabalho": "A TERRITORIALIDADE POLÍTICO-ESTATAL E OS CONFLITOS DE LIMITES INTERMUNICIPAIS NA REGIÃO METROPOLITANA DE SALVADOR",
+        "curso": "Dissertação (Mestrado em Geografia)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; FERNADES, Rosali Braga. Participação em banca de SILVIANE FERREIRA DE JESUS. (RE)PRODUÇÃO DO ESPAÇO URBANO E VERTICALIZAÇÃO NA ORLA ATLÂNTICA DE SALVADOR/BAHIA: IMPACTOS SOCIOAMBIENTAIS NO BAIRRO BOCA DO RIO. 2024. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "SILVIANE FERREIRA DE JESUS. (RE)PRODUÇÃO DO ESPAÇO URBANO E VERTICALIZAÇÃO NA ORLA ATLÂNTICA DE SALVADOR/BAHIA: IMPACTOS SOCIOAMBIENTAIS NO BAIRRO BOCA DO RIO",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MOURAD, Laila Nazem",
+          "FERNADES, Rosali Braga"
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; CARVALHO, Silvana Sá de; GONCALVES, M. V. P.; TOMASONI, M. A.. Participação em banca de NUBSON JORGE LAGO LYRIO. TRANSFORMAÇÕES HISTÓRICO-SOCIAIS E CONFLITOS QUE ENVOLVEM O PARQUE DO ABAETÉ, SALVADOR/BAHIA. 2024. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "NUBSON JORGE LAGO LYRIO",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "CARVALHO, Silvana Sá de",
+          "GONCALVES, M. V. P.",
+          "TOMASONI, M. A."
+        ],
+        "titulo_trabalho": "TRANSFORMAÇÕES HISTÓRICO-SOCIAIS E CONFLITOS QUE ENVOLVEM O PARQUE DO ABAETÉ, SALVADOR/BAHIA",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "JESUS, L. V.; SILVA, Maina Pirajá; SA, Katia Oliver. Participação em banca de LILIAN MAGALHÃES SANTOS LIMA. EDUCAÇÃO EM TEMPOS DE PANDEMIA: DESAFIOS E POSSIBILIDADES EM TRÊS COLÉGIOS PÚBLICOS DE SALVADOR/BA. 2024. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "LILIAN MAGALHÃES SANTOS LIMA",
+        "membros_banca": [
+          "JESUS, L. V.",
+          "SILVA, Maina Pirajá",
+          "SA, Katia Oliver"
+        ],
+        "titulo_trabalho": "EDUCAÇÃO EM TEMPOS DE PANDEMIA: DESAFIOS E POSSIBILIDADES EM TRÊS COLÉGIOS PÚBLICOS DE SALVADOR/BA",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MARCHI, Cristina Maria Dacach Fernandez; CASTRO, J. R. B.. Participação em banca de SILVIA CELESTE FERREIRA DA CONCEIÇÃO. DESPOSSESSÃO, REASSENTAMENTO E CONFLITOS AMBIENTAIS NA AGROVILA DO SOBRADO EM CABACEIRAS DO PARAGUAÇU, BAHIA: ABORDAGENS TERRITORIAIS.. 2023. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "SILVIA CELESTE FERREIRA DA CONCEIÇÃO",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MARCHI, Cristina Maria Dacach Fernandez",
+          "CASTRO, J. R. B."
+        ],
+        "titulo_trabalho": "DESPOSSESSÃO, REASSENTAMENTO E CONFLITOS AMBIENTAIS NA AGROVILA DO SOBRADO EM CABACEIRAS DO PARAGUAÇU, BAHIA: ABORDAGENS TERRITORIAIS",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; QUADROS, C.. Participação em banca de SARA SANTOS MORAES SANTIAGO. DO CORPO- TERRITÓRIO AO DIREITO À PROTEÇÃO DA MULHER VÍTIMA DE VIOLÊNCIA DOMÉSTICA NA BAHIA EM 2021: UMA ANÁLISE CRÍTICA DE ELEMENTOS DESENCORAJADORES Á DENÚNCIA. 2023. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "SARA SANTOS MORAES SANTIAGO",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MOURAD, Laila Nazem",
+          "QUADROS, C."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CARVALHO, Silvana Sá de; SILVA, Maina Pirajá; JESUS, Arnaldo Bispo de; AMORIM, A. L.. Participação em banca de THALITA EMANUELE TEIXEIRA SANTIAGO. CIDADES INTELIGENTES, GESTÃO URBANA E GEOTECNOLOGIAS: PROPOSTA DE CITY INFORMATION MODELING ? CIM APLICADO AO MUNICÍPIO DE MADRE DE DEUS - BA. 2023. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "THALITA EMANUELE TEIXEIRA SANTIAGO",
+        "membros_banca": [
+          "CARVALHO, Silvana Sá de",
+          "SILVA, Maina Pirajá",
+          "JESUS, Arnaldo Bispo de",
+          "AMORIM, A. L."
+        ],
+        "titulo_trabalho": "CIDADES INTELIGENTES, GESTÃO URBANA E GEOTECNOLOGIAS: PROPOSTA DE CITY INFORMATION MODELING ? CIM APLICADO AO MUNICÍPIO DE MADRE DE DEUS - BA",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "TINOCO, M.; CARVALHO, Silvana Sá de; SILVA, Maina Pirajá; CHAVES, M. F.. Participação em banca de MARINA NÓBREGA GONÇALVES. UTILIZAÇÃO DO GEOPROCESSAMENTO E DA MATRIZ DE LEOPOLD NA AVALIAÇÃO DE IMPACTOS AMBIENTAIS: FERROVIA INTEGRATIVA OESTE-LESTE (FIOL) E A APA LAGOA ENCANTADA E RIO ALMADA. 2023. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "MARINA NÓBREGA GONÇALVES",
+        "membros_banca": [
+          "TINOCO, M.",
+          "CARVALHO, Silvana Sá de",
+          "SILVA, Maina Pirajá",
+          "CHAVES, M. F."
+        ],
+        "titulo_trabalho": "UTILIZAÇÃO DO GEOPROCESSAMENTO E DA MATRIZ DE LEOPOLD NA AVALIAÇÃO DE IMPACTOS AMBIENTAIS: FERROVIA INTEGRATIVA OESTE-LESTE (FIOL) E A APA LAGOA ENCANTADA E RIO ALMADA",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; GIUDICE, Dante Severo; MOURAD, Laila Nazem. Participação em banca de IVIS DANIELLE DUTRA DE OLIVEIRA. A (RE)PRODUÇÃO DO ESPAÇO EM BARRA DOS COQUEIROS-SE A PARTIR DA CONSTRUÇÃO DA PONTE CONSTRUTOR JOÃO ALVES: A HEGEMONIA DO CAPITAL IMOBILIÁRIO. 2022. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "IVIS DANIELLE DUTRA DE OLIVEIRA",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "GIUDICE, Dante Severo",
+          "MOURAD, Laila Nazem"
+        ],
+        "titulo_trabalho": "A (RE)PRODUÇÃO DO ESPAÇO EM BARRA DOS COQUEIROS-SE A PARTIR DA CONSTRUÇÃO DA PONTE CONSTRUTOR JOÃO ALVES: A HEGEMONIA DO CAPITAL IMOBILIÁRIO",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; PEREIRA, Aliger dos Santos. Participação em banca de UBIRATAN FÉLIX PEREIRA DOS SANTOS. ANÁLISE DO SISTEMA DE GOVERNANÇA NA REGIÃO METROPOLITANA DE SALVADOR (RMS). 2022. Dissertação (Mestrado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "UBIRATAN FÉLIX PEREIRA DOS SANTOS",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MOURAD, Laila Nazem",
+          "PEREIRA, Aliger dos Santos"
+        ],
+        "titulo_trabalho": "ANÁLISE DO SISTEMA DE GOVERNANÇA NA REGIÃO METROPOLITANA DE SALVADOR (RMS)",
+        "curso": "Dissertação (Mestrado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; VASCONCELOS, Pedro de Almeida; CARVALHO, Silvana Sá de; FERNADES, Rosali Braga. Participação em banca de Mariana de Oliveira Santana. A (re)produção do espaço urbano na Orla Atlântica de Salvador/BA a partir da ótica do capital imobiliário: coalizões e impactos na governança. 2021. Dissertação (Mestrado em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Mariana de Oliveira Santana",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "VASCONCELOS, Pedro de Almeida",
+          "CARVALHO, Silvana Sá de",
+          "FERNADES, Rosali Braga"
+        ],
+        "titulo_trabalho": "A (re)produção do espaço urbano na Orla Atlântica de Salvador/BA a partir da ótica do capital imobiliário: coalizões e impactos na governança",
+        "curso": "Dissertação (Mestrado em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BENATI, Katia Regina; SILVA, Maina Pirajá; PERES, Marcelo Cesar Lima. Participação em banca de Rosinei Teixeira de Araújo Pereira. Educação ambiental e sustentabilidade: práticas pedagógicas no ensino fundamental. 2021. Dissertação (Mestrado em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Rosinei Teixeira de Araújo Pereira",
+        "membros_banca": [
+          "BENATI, Katia Regina",
+          "SILVA, Maina Pirajá",
+          "PERES, Marcelo Cesar Lima"
+        ],
+        "titulo_trabalho": "Educação ambiental e sustentabilidade: práticas pedagógicas no ensino fundamental",
+        "curso": "Dissertação (Mestrado em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CARVALHO, Silvana Sá de; SILVA, Maina Pirajá; DELGADO, Juan Pedro Moreno. Participação em banca de Fernando Trioschi Fernandes Guerra. Mobilidade Urbana em Salvador: Integração Intermodal e Avaliação do Serviço na Linha 2 do Metrô. 2020. Dissertação (Mestrado em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "Fernando Trioschi Fernandes Guerra",
+        "membros_banca": [
+          "CARVALHO, Silvana Sá de",
+          "SILVA, Maina Pirajá",
+          "DELGADO, Juan Pedro Moreno"
+        ],
+        "titulo_trabalho": "Mobilidade Urbana em Salvador: Integração Intermodal e Avaliação do Serviço na Linha 2 do Metrô",
+        "curso": "Dissertação (Mestrado em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; BENATI, Katia Regina; MARCHI, Cristina Maria Dacach Fernandez. Comissão de seleção mestrado PPGTAS. 2026. Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; BENATI, Katia Regina; MARCHI, Cristina Maria Dacach Fernandez. Comissão de seleção mestrado PPGTAS. 2025. Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; SOUZA FILHO, José Rodrigues. Comissão de Seleção - Banca de Mestrado em Território, Ambiente e Sociedade. 2021. Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "MOURAD, Laila Nazem; SILVA, Maina Pirajá; MARCHI, Cristina Maria Dacach Fernandez. Comissão de seleção - banca de Mestrado em Planejamento Territorial e Desenvolvimento Social 2020. 2019. Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "2019. Universidade Católica do Salvador.",
+        "universidade": ""
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "ALENCAR, Cristina Maria Macêdo; SILVA, Maina Pirajá; SA, Katia Oliver; REBOUCAS, F.; SILVA, E. M.. Participação em banca de TIAGO PEREIRA MUNIZ. CONDICIONANTES SOCIAIS NA LOGÍSTICA DE DISTRIBUIÇÃO PARA AQUISIÇÃO DE PRODUTOS DA AGRICULTURA FAMILIAR PELO PLANO NACIONAL DE ALIMENTAÇÃO ESCOLAR. 2024. Tese (Doutorado em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "TIAGO PEREIRA MUNIZ",
+        "membros_banca": [
+          "ALENCAR, Cristina Maria Macêdo",
+          "SILVA, Maina Pirajá",
+          "SA, Katia Oliver",
+          "REBOUCAS, F.",
+          "SILVA, E. M."
+        ],
+        "titulo_trabalho": "CONDICIONANTES SOCIAIS NA LOGÍSTICA DE DISTRIBUIÇÃO PARA AQUISIÇÃO DE PRODUTOS DA AGRICULTURA FAMILIAR PELO PLANO NACIONAL DE ALIMENTAÇÃO ESCOLAR",
+        "curso": "Tese (Doutorado em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; TEIXEIRA, Aparecida Netto; MOURAD, Laila Nazem; CARVALHO, S. S.; CASTRO, J. R.. Participação em banca de Maria Edna dos Santos Coroa dos Anjos. TERRITORIALIDADES DESCOLONIAIS DAS MULHERES NEGRAS EM SALVADOR/BAHIA. 2024. Tese (Doutorado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Maria Edna dos Santos Coroa dos Anjos",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "TEIXEIRA, Aparecida Netto",
+          "MOURAD, Laila Nazem",
+          "CARVALHO, S. S.",
+          "CASTRO, J. R."
+        ],
+        "titulo_trabalho": "TERRITORIALIDADES DESCOLONIAIS DAS MULHERES NEGRAS EM SALVADOR/BAHIA",
+        "curso": "Tese (Doutorado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "MAINA PIRAJÁ SILVA; JESUS, L. V.; TEIXEIRA, Aparecida Netto; CASTRO, R. A.; SILVA, A. J. M.. Participação em banca de MARCIO AUGUSTO SANTOS DÓREA. NÃO ATA, NEM DESATA: A CONSTRUÇÃO DA IDENTIDADE LOCAL EM SANTO AMARO DA PURIFICAÇÃO-BAHIA. 2024. Tese (Doutorado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "MARCIO AUGUSTO SANTOS DÓREA",
+        "membros_banca": [
+          "MAINA PIRAJÁ SILVA",
+          "JESUS, L. V.",
+          "TEIXEIRA, Aparecida Netto",
+          "CASTRO, R. A.",
+          "SILVA, A. J. M."
+        ],
+        "titulo_trabalho": "NÃO ATA, NEM DESATA: A CONSTRUÇÃO DA IDENTIDADE LOCAL EM SANTO AMARO DA PURIFICAÇÃO-BAHIA",
+        "curso": "Tese (Doutorado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; TEIXEIRA, Aparecida Netto; CARVALHO, Silvana Sá de; OLIVEIRA, J. D. B.; MATTA, A. E. R.. Participação em banca de Joelma Cerqueira de Oliveira. EDUCAÇÃO INCLUSIVA DOS ALUNOS COM DEFICIÊNCIA NA REDE PÚBLICA ESTADUAL DE SALVADOR-BA: COMPLEXIDADES E EXPECTATIVAS. 2023. Tese (Doutorado em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Joelma Cerqueira de Oliveira",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "TEIXEIRA, Aparecida Netto",
+          "CARVALHO, Silvana Sá de",
+          "OLIVEIRA, J. D. B.",
+          "MATTA, A. E. R."
+        ],
+        "titulo_trabalho": "EDUCAÇÃO INCLUSIVA DOS ALUNOS COM DEFICIÊNCIA NA REDE PÚBLICA ESTADUAL DE SALVADOR-BA: COMPLEXIDADES E EXPECTATIVAS",
+        "curso": "Tese (Doutorado em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PEREIRA, A. Q.; SILVA, Maina Pirajá; ARREORTUA, L. A. S.; PAIVA, R. A.; AMORIN, W. V.. Participação em banca de NAYRISSON DE JESUS PRADO DA SILVA. DINÂMICA ESPACIAL DO IMOBILIÁRIO TURÍSTICO E A MORFOLOGIA URBANA COSTEIRA NAS METRÓPOLES DO NORDESTE BRASILEIRO. 2023. Tese (Doutorado em Geografia) - Universidade Federal do Ceará.",
+        "ano": 2023,
+        "tipo": "Tese de Doutorado",
+        "aluno": "NAYRISSON DE JESUS PRADO DA SILVA",
+        "membros_banca": [
+          "PEREIRA, A. Q.",
+          "SILVA, Maina Pirajá",
+          "ARREORTUA, L. A. S.",
+          "PAIVA, R. A.",
+          "AMORIN, W. V."
+        ],
+        "titulo_trabalho": "DINÂMICA ESPACIAL DO IMOBILIÁRIO TURÍSTICO E A MORFOLOGIA URBANA COSTEIRA NAS METRÓPOLES DO NORDESTE BRASILEIRO",
+        "curso": "Tese (Doutorado em Geografia)",
+        "universidade": "Universidade Federal do Ceará"
+      },
+      {
+        "descricao": "FONSECA, Antonio Angelo Martins da; SILVA, Maina Pirajá; FERNADES, Rosali Braga; PEREIRA, Gilberto Corso; FREITAS, N. B.. Participação em banca de Cleonice Moreira da Silva. Funcionalidade e a formação da macrorregião de Salvador-Feira de Santana. 2022. Tese (Doutorado em Geografia) - Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Cleonice Moreira da Silva",
+        "membros_banca": [
+          "FONSECA, Antonio Angelo Martins da",
+          "SILVA, Maina Pirajá",
+          "FERNADES, Rosali Braga",
+          "PEREIRA, Gilberto Corso",
+          "FREITAS, N. B."
+        ],
+        "titulo_trabalho": "Funcionalidade e a formação da macrorregião de Salvador-Feira de Santana",
+        "curso": "Tese (Doutorado em Geografia)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, M. R. N.; PEREIRA, Aliger dos Santos; SILVA, Maina Pirajá; SOUSA, L. S.; PEREIRA, M.; KARAM FILHO, J.. Participação em banca de Wéltima Teixeira Cunha. Difusão do saber fazer dos biscoitos tradicionais, de polvilho azedo, comercializados na Feira Livre de Vitória da Conquista - BA. 2022. Tese (Doutorado em Programa de Pós-Graduação Multi-Institucional em Difusão do Conhecimento PP) - INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI.",
+        "ano": 2022,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Wéltima Teixeira Cunha",
+        "membros_banca": [
+          "BARRETO, M. R. N.",
+          "PEREIRA, Aliger dos Santos",
+          "SILVA, Maina Pirajá",
+          "SOUSA, L. S.",
+          "PEREIRA, M.",
+          "KARAM FILHO, J."
+        ],
+        "titulo_trabalho": "Difusão do saber fazer dos biscoitos tradicionais, de polvilho azedo, comercializados na Feira Livre de Vitória da Conquista - BA",
+        "curso": "Tese (Doutorado em Programa de Pós-Graduação Multi-Institucional em Difusão do Conhecimento PP)",
+        "universidade": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI"
+      },
+      {
+        "descricao": "CARVALHO, Silvana Sá de; SILVA, Maina Pirajá; PORCIUNCULA, Débora Carol Luz da; CORDEIRO, Márcia; MONTEIRO, Emanuel. Participação em banca de Iracema dos Santos Lemos. Os programas de extensão da UCSAL, UNEB e UFBAe a promoção do desenvolvimento social. 2020. Tese (Doutorado em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Iracema dos Santos Lemos",
+        "membros_banca": [
+          "CARVALHO, Silvana Sá de",
+          "SILVA, Maina Pirajá",
+          "PORCIUNCULA, Débora Carol Luz da",
+          "CORDEIRO, Márcia",
+          "MONTEIRO, Emanuel"
+        ],
+        "titulo_trabalho": "Os programas de extensão da UCSAL, UNEB e UFBAe a promoção do desenvolvimento social",
+        "curso": "Tese (Doutorado em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "VASCONCELOS, Pedro de Almeida; SILVA, Maina Pirajá; CARVALHO, Silvana Sá de; FERNADES, Rosali Braga; NERY, Maria Goreth e Silva Nery. Participação em banca de Valter Luiz dos Santos Marcelo. Jequié: dinâmicas e retrações urbanas. 2020. Tese (Doutorado em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Valter Luiz dos Santos Marcelo",
+        "membros_banca": [
+          "VASCONCELOS, Pedro de Almeida",
+          "SILVA, Maina Pirajá",
+          "CARVALHO, Silvana Sá de",
+          "FERNADES, Rosali Braga",
+          "NERY, Maria Goreth e Silva Nery"
+        ],
+        "titulo_trabalho": "Jequié: dinâmicas e retrações urbanas",
+        "curso": "Tese (Doutorado em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; FIGUEREDO, M. G. B.; TEIXEIRA, Aparecida Netto. Participação nas entrevistas de seleção de mestrado e doutorado do PPGPSC. 2026. Universidade Católica do Salvador.",
+        "ano": 2026,
+        "tipo": "Tese de Doutorado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; OLIVEIRA, Liana Silvia de Viveiros e. Banca de avaliação de Indicação de tese de doutorado do PPTDS/UCSAL como candidata ao Prêmio Capes de Tese ? Edição 2020 (EDITAL CAPES No 10/2020). 2020. Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Tese de Doutorado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "SILVA, Maina Pirajá; ALENCAR, C. M. M.; PINHEIRO, J. P. S.; PAIXAO, L. H. C.; CASTRO, J. R. B.. Participação em banca de REGINALDO PEREIRA DOS SANTOS. O CURRÍCULO EM EDUCAÇÃO DO/NO CAMPO NO TERRITÓRIO DO RECÔNCAVO DA BAHIA: A POLÍTICA PÚBLICA NO CASO DE VARZEDO - BA. 2025. Exame de qualificação (Doutorando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "REGINALDO PEREIRA DOS SANTOS",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "ALENCAR, C. M. M.",
+          "PINHEIRO, J. P. S.",
+          "PAIXAO, L. H. C.",
+          "CASTRO, J. R. B."
+        ],
+        "titulo_trabalho": "O CURRÍCULO EM EDUCAÇÃO DO/NO CAMPO NO TERRITÓRIO DO RECÔNCAVO DA BAHIA: A POLÍTICA PÚBLICA NO CASO DE VARZEDO - BA",
+        "curso": "Exame de qualificação (Doutorando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "ALENCAR, Cristina Maria Macêdo; SILVA, Maina Pirajá; JESUS, L. V.; GODINHO, L. F. R.; SA, Katia Oliver. Participação em banca de Tereza Joelma Barbosa Almeida. O sentido do rural e do urbano no ser social: estudantes de escola pública em Ribeira do Pombal - BA 2021 a 2024. 2024. Exame de qualificação (Doutorando em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Tereza Joelma Barbosa Almeida",
+        "membros_banca": [
+          "ALENCAR, Cristina Maria Macêdo",
+          "SILVA, Maina Pirajá",
+          "JESUS, L. V.",
+          "GODINHO, L. F. R.",
+          "SA, Katia Oliver"
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; TEIXEIRA, Aparecida Netto; MOURAD, Laila Nazem; LEONELLI, G.; REBOUCAS, T.. Participação em banca de IVANILTON AMPARO DA SILVA. POR UMA RAZÃO ?COMUM? FORÇAS SOCIAIS NA LUTA PELO DIREITO À CIDADE. 2023. Exame de qualificação (Doutorando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "IVANILTON AMPARO DA SILVA",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "TEIXEIRA, Aparecida Netto",
+          "MOURAD, Laila Nazem",
+          "LEONELLI, G.",
+          "REBOUCAS, T."
+        ],
+        "titulo_trabalho": "POR UMA RAZÃO ?COMUM? FORÇAS SOCIAIS NA LUTA PELO DIREITO À CIDADE",
+        "curso": "Exame de qualificação (Doutorando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "ALENCAR, Cristina Maria Macêdo; SILVA, Maina Pirajá; SA, Katia Oliver; SILVA, E. M.; REBOUCAS, F.. Participação em banca de Tiago Pereira Muniz. CONDICIONANTES SOCIAIS NA LOGÍSTICA DE DISTRIBUIÇÃO PARA AQUISIÇÃO DE PRODUTOS DA AGRICULTURA FAMILIAR PELO PNAE. 2023. Exame de qualificação (Doutorando em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Tiago Pereira Muniz",
+        "membros_banca": [
+          "ALENCAR, Cristina Maria Macêdo",
+          "SILVA, Maina Pirajá",
+          "SA, Katia Oliver",
+          "SILVA, E. M.",
+          "REBOUCAS, F."
+        ],
+        "titulo_trabalho": "CONDICIONANTES SOCIAIS NA LOGÍSTICA DE DISTRIBUIÇÃO PARA AQUISIÇÃO DE PRODUTOS DA AGRICULTURA FAMILIAR PELO PNAE",
+        "curso": "Exame de qualificação (Doutorando em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; VASCONCELOS, Pedro de Almeida; QUADROS, C.; CASTRO, J. R.; MOURAD, Laila Nazem. Participação em banca de Maria Edna dos Santos Coroa dos Anjos. As territorialidades decoloniais das Mulheres Negras em Salvador/Bahia. 2023. Exame de qualificação (Doutorando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Maria Edna dos Santos Coroa dos Anjos",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "VASCONCELOS, Pedro de Almeida",
+          "QUADROS, C.",
+          "CASTRO, J. R.",
+          "MOURAD, Laila Nazem"
+        ],
+        "titulo_trabalho": "As territorialidades decoloniais das Mulheres Negras em Salvador/Bahia",
+        "curso": "Exame de qualificação (Doutorando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; TEIXEIRA, Aparecida Netto; CARVALHO, Silvana Sá de; MATTA, A. E. R.; OLIVEIRA, J. D. B.. Participação em banca de Joelma Cerqueira de Oliveira. EDUCAÇÃO INCLUSIVA DOS ALUNOS COM DEFICIÊNCIA NA REDE PÚBLICA ESTADUAL DE SALVADOR-BA: COMPLEXIDADES E EXPECTATIVAS. 2022. Exame de qualificação (Doutorando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Joelma Cerqueira de Oliveira",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "TEIXEIRA, Aparecida Netto",
+          "CARVALHO, Silvana Sá de",
+          "MATTA, A. E. R.",
+          "OLIVEIRA, J. D. B."
+        ],
+        "titulo_trabalho": "EDUCAÇÃO INCLUSIVA DOS ALUNOS COM DEFICIÊNCIA NA REDE PÚBLICA ESTADUAL DE SALVADOR-BA: COMPLEXIDADES E EXPECTATIVAS",
+        "curso": "Exame de qualificação (Doutorando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FONSECA, Antonio Angelo Martins da; SILVA, Maina Pirajá; FERNADES, Rosali Braga; PEREIRA, Gilberto Corso; FREITAS, N. B.; DELGADO, Juan Pedro Moreno. Participação em banca de Cleonice Moreira da Silva. Funcionalidade e a formação da macrorregião de Feira de Santana-Salvador. 2022. Exame de qualificação (Doutorando em Geografia) - Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Cleonice Moreira da Silva",
+        "membros_banca": [
+          "FONSECA, Antonio Angelo Martins da",
+          "SILVA, Maina Pirajá",
+          "FERNADES, Rosali Braga",
+          "PEREIRA, Gilberto Corso",
+          "FREITAS, N. B.",
+          "DELGADO, Juan Pedro Moreno"
+        ],
+        "titulo_trabalho": "Funcionalidade e a formação da macrorregião de Feira de Santana-Salvador",
+        "curso": "Exame de qualificação (Doutorando em Geografia)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CARVALHO, S. S.; SILVA, Maina Pirajá; SOUSA, M. L.; OLIVEIRA, Liana Silvia de Viveiros e; AMORIM, A. L.. Participação em banca de Arnaldo Bispo de Jesus. Engajamento popular nas cidades digitais: realidades, possibilidades e desafios do planejamento territorial participativo. 2022. Exame de qualificação (Doutorando em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Arnaldo Bispo de Jesus",
+        "membros_banca": [
+          "CARVALHO, S. S.",
+          "SILVA, Maina Pirajá",
+          "SOUSA, M. L.",
+          "OLIVEIRA, Liana Silvia de Viveiros e",
+          "AMORIM, A. L."
+        ],
+        "titulo_trabalho": "Engajamento popular nas cidades digitais: realidades, possibilidades e desafios do planejamento territorial participativo",
+        "curso": "Exame de qualificação (Doutorando em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CARVALHO, Silvana Sá de; SILVA, Maina Pirajá; PORCIUNCULA, Débora Carol Luz da; CORDEIRO, Márcia; MONTEIRO, Emanuel. Participação em banca de Iracema dos Santos Lemos. Desenvolvimento Social em Salvador Promovido pelos Programas de Extensão da UCSAL, UNEB e UFBA. 2020. Exame de qualificação (Doutorando em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Iracema dos Santos Lemos",
+        "membros_banca": [
+          "CARVALHO, Silvana Sá de",
+          "SILVA, Maina Pirajá",
+          "PORCIUNCULA, Débora Carol Luz da",
+          "CORDEIRO, Márcia",
+          "MONTEIRO, Emanuel"
+        ],
+        "titulo_trabalho": "Desenvolvimento Social em Salvador Promovido pelos Programas de Extensão da UCSAL, UNEB e UFBA",
+        "curso": "Exame de qualificação (Doutorando em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "VASCONCELOS, Pedro de Almeida; SILVA, Maina Pirajá; CARVALHO, Silvana Sá de; FERNADES, Rosali Braga; NERY, Maria Goreth e Silva Nery. Participação em banca de Valter Luiz dos Santos Marcelo. Jequié: dinâmicas e retrações urbanas. 2020. Exame de qualificação (Doutorando em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Valter Luiz dos Santos Marcelo",
+        "membros_banca": [
+          "VASCONCELOS, Pedro de Almeida",
+          "SILVA, Maina Pirajá",
+          "CARVALHO, Silvana Sá de",
+          "FERNADES, Rosali Braga",
+          "NERY, Maria Goreth e Silva Nery"
+        ],
+        "titulo_trabalho": "Jequié: dinâmicas e retrações urbanas",
+        "curso": "Exame de qualificação (Doutorando em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; DIAS, C.; SILVA, A.. Participação em banca de Luana Nascimento Santos. CAPITAL IMOBILIÁRIO E OS ENCLAVES VERDES URBANOS: O CASO DO PARQUE ECOLÓGICO VALE ENCANTADO, SALVADOR-BA. 2026. Exame de qualificação (Mestrando em Geografia) - Universidade Federal da Bahia.",
+        "ano": 2026,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Luana Nascimento Santos",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "DIAS, C.",
+          "SILVA, A."
+        ],
+        "titulo_trabalho": "CAPITAL IMOBILIÁRIO E OS ENCLAVES VERDES URBANOS: O CASO DO PARQUE ECOLÓGICO VALE ENCANTADO, SALVADOR-BA",
+        "curso": "Exame de qualificação (Mestrando em Geografia)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; TEIXEIRA, Aparecida Netto; JESUS, L. V.. Participação em banca de VINÍCIUS CERQUEIRA DA SILVA. (RE)PRODUÇÃO DO ESPAÇO E DINÂMICAS IMOBILIÁRIAS NO BAIRRO DA BOCA DO RIO E ENTORNO, SALVADOR/BAHIA. 2025. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "VINÍCIUS CERQUEIRA DA SILVA. (RE)PRODUÇÃO DO ESPAÇO E DINÂMICAS IMOBILIÁRIAS NO BAIRRO DA BOCA DO RIO E ENTORNO, SALVADOR/BAHIA",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MOURAD, Laila Nazem",
+          "TEIXEIRA, Aparecida Netto",
+          "JESUS, L. V."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; CARVALHO, Silvana Sá de; LOPES, Kaíc Fernando Ferreira. Participação em banca de PAULO ROBERTO SENTO SÉ DO NASCIMENTO. PRAIA DE ITACIMIRIM E SEUS CONDOMÍNIOS HORIZONTAIS: URBANIZAÇÃO, PAISAGEM E MEIO AMBIENTE. 2025. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "PAULO ROBERTO SENTO SÉ DO NASCIMENTO",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "CARVALHO, Silvana Sá de",
+          "LOPES, Kaíc Fernando Ferreira"
+        ],
+        "titulo_trabalho": "PRAIA DE ITACIMIRIM E SEUS CONDOMÍNIOS HORIZONTAIS: URBANIZAÇÃO, PAISAGEM E MEIO AMBIENTE",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MARCHI, Cristina Maria Dacach Fernandez; PIMENTEL, P. C. B.; RAMOS, V. M. L.. Participação em banca de JOSÉ JORGE DA CRUZ SANTOS. COMPOSTAGEM DE RESÍDUOS ORGÂNICOS DA MERENDA ESCOLAR: UM PROJETO DE EDUCAÇÃO AMBIENTAL. 2025. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "JOSÉ JORGE DA CRUZ SANTOS",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MARCHI, Cristina Maria Dacach Fernandez",
+          "PIMENTEL, P. C. B.",
+          "RAMOS, V. M. L."
+        ],
+        "titulo_trabalho": "COMPOSTAGEM DE RESÍDUOS ORGÂNICOS DA MERENDA ESCOLAR: UM PROJETO DE EDUCAÇÃO AMBIENTAL",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; ACOSTA-LEYVA, Pedro. Participação em banca de EVELINE AUXILIADORA CRUZ SOWZER DOS SANTOS. ILÊ AXÉ ODÔ OBÁ OBITIKÔ: MEMÓRIA E IDENTIDADE EM UM TERRITÓRIO RELIGIOSO EM SALVADOR-BA. 2025. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "EVELINE AUXILIADORA CRUZ SOWZER DOS SANTOS",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MOURAD, Laila Nazem",
+          "ACOSTA-LEYVA, Pedro"
+        ],
+        "titulo_trabalho": "ILÊ AXÉ ODÔ OBÁ OBITIKÔ: MEMÓRIA E IDENTIDADE EM UM TERRITÓRIO RELIGIOSO EM SALVADOR-BA",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "MOURAD, Laila Nazem; SILVA, Maina Pirajá; ACOSTA-LEYVA, Pedro; PIRES, I. A.. Participação em banca de NICANDRO OQUETE INDI. Mediações culturais a partir de instrumentos internacionais de direitos humanos: caso de conflitos da posse de terra do povo Pepel na região de Biombo/Guiné-Bissau. 2024. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "NICANDRO OQUETE INDI",
+        "membros_banca": [
+          "MOURAD, Laila Nazem",
+          "SILVA, Maina Pirajá",
+          "ACOSTA-LEYVA, Pedro",
+          "PIRES, I. A."
+        ],
+        "titulo_trabalho": "Mediações culturais a partir de instrumentos internacionais de direitos humanos: caso de conflitos da posse de terra do povo Pepel na região de Biombo/Guiné-Bissau",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; FERNADES, Rosali Braga. Participação em banca de SILVIANE FERREIRA DE JESUS. (RE)PRODUÇÃO DO ESPAÇO URBANO E VERTICALIZAÇÃO NA ORLA ATLÂNTICA DE SALVADOR/BAHIA: IMPACTOS SOCIOAMBIENTAIS NO BAIRRO BOCA DO RIO. 2024. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "SILVIANE FERREIRA DE JESUS. (RE)PRODUÇÃO DO ESPAÇO URBANO E VERTICALIZAÇÃO NA ORLA ATLÂNTICA DE SALVADOR/BAHIA: IMPACTOS SOCIOAMBIENTAIS NO BAIRRO BOCA DO RIO",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MOURAD, Laila Nazem",
+          "FERNADES, Rosali Braga"
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "VASCONCELOS, Pedro de Almeida; SILVA, Maina Pirajá; TEIXEIRA, Aparecida Netto. Participação em banca de HELTON DE FELIZBERTO ALEXANDRE TOMAS JEQUE. O COMÉRCIO INFORMAL EM MOÇAMBIQUE: DESENVOLVIMENTO E DESAFIOS DOS TRABALHADORES DESTE SETOR - UMA LEITURA VOLTADA À CIDADE DE MAPUTO. 2024. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "HELTON DE FELIZBERTO ALEXANDRE TOMAS JEQUE",
+        "membros_banca": [
+          "VASCONCELOS, Pedro de Almeida",
+          "SILVA, Maina Pirajá",
+          "TEIXEIRA, Aparecida Netto"
+        ],
+        "titulo_trabalho": "O COMÉRCIO INFORMAL EM MOÇAMBIQUE: DESENVOLVIMENTO E DESAFIOS DOS TRABALHADORES DESTE SETOR - UMA LEITURA VOLTADA À CIDADE DE MAPUTO",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MARCHI, Cristina Maria Dacach Fernandez; CASTRO, J. R. B.. Participação em banca de SILVIA CELESTE FERREIRA DA CONCEIÇÃO. DESTERRITORIALIZAÇÃO E INCERTEZAS: A RETERRITORIALIZAÇÃO NO ASSENTAMENTO DA AGROVILA DO SOBRADO NA ZONA RURAL DE CABACEIRAS DO PARAGUAÇU/BAHIA. 2023. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "SILVIA CELESTE FERREIRA DA CONCEIÇÃO",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MARCHI, Cristina Maria Dacach Fernandez",
+          "CASTRO, J. R. B."
+        ],
+        "titulo_trabalho": "DESTERRITORIALIZAÇÃO E INCERTEZAS: A RETERRITORIALIZAÇÃO NO ASSENTAMENTO DA AGROVILA DO SOBRADO NA ZONA RURAL DE CABACEIRAS DO PARAGUAÇU/BAHIA",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "CARVALHO, Silvana Sá de; SILVA, Maina Pirajá; JESUS, Arnaldo Bispo de; AMORIM, A. L.. Participação em banca de THALITA EMANUELE TEIXEIRA SANTIAGO. CIDADES INTELIGENTES, GESTÃO URBANA E GEOTECNOLOGIAS: PROPOSTA DE CITY INFORMATION MODELING - CIM APLICADO AO MUNICÍPIO DE MADRE DE DEUS - BA. 2023. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "THALITA EMANUELE TEIXEIRA SANTIAGO",
+        "membros_banca": [
+          "CARVALHO, Silvana Sá de",
+          "SILVA, Maina Pirajá",
+          "JESUS, Arnaldo Bispo de",
+          "AMORIM, A. L."
+        ],
+        "titulo_trabalho": "CIDADES INTELIGENTES, GESTÃO URBANA E GEOTECNOLOGIAS: PROPOSTA DE CITY INFORMATION MODELING - CIM APLICADO AO MUNICÍPIO DE MADRE DE DEUS - BA",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; GONCALVES, M. V. P.; CARVALHO, S. S.; TOMASONI, M. A.. Participação em banca de NUBSON JORGE LAGO LYRIO. TRANSFORMAÇÕES SÓCIO-HISTÓRICAS E CONFLITOS QUE ENVOLVEM O PARQUE DO ABAETÉ, SALVADOR/BAHIA. 2023. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "NUBSON JORGE LAGO LYRIO",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "GONCALVES, M. V. P.",
+          "CARVALHO, S. S.",
+          "TOMASONI, M. A."
+        ],
+        "titulo_trabalho": "TRANSFORMAÇÕES SÓCIO-HISTÓRICAS E CONFLITOS QUE ENVOLVEM O PARQUE DO ABAETÉ, SALVADOR/BAHIA",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "TINOCO, M.; CARVALHO, Silvana Sá de; SILVA, Maina Pirajá; CHAVES, M. F.. Participação em banca de MARINA NÓBREGA GONÇALVES. ?UTILIZAÇÃO DO GEOPROCESSAMENTO E DA MATRIZ DE LEOPOLD NA AVALIAÇÃO DE IMPACTOS AMBIENTAIS: FERROVIA INTEGRATIVA OESTE-LESTE (FIOL) E A APA LAGOA ENCANTADA E RIO ALMADA. 2023. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "MARINA NÓBREGA GONÇALVES. ?UTILIZAÇÃO DO GEOPROCESSAMENTO E DA MATRIZ DE LEOPOLD NA AVALIAÇÃO DE IMPACTOS AMBIENTAIS: FERROVIA INTEGRATIVA OESTE-LESTE (FIOL) E A APA LAGOA ENCANTADA E RIO ALMADA",
+        "membros_banca": [
+          "TINOCO, M.",
+          "CARVALHO, Silvana Sá de",
+          "SILVA, Maina Pirajá",
+          "CHAVES, M. F."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "JESUS, L. V.; SILVA, Maina Pirajá; SA, Katia Oliver. Participação em banca de LILIAN MAGALHÃES SANTOS LIMA. EDUCAÇÃO EM TEMPOS DE PANDEMIA: DESAFIOS E POSSIBILIDADES EM TRÊS ESCOLAS PÚBLICAS DE SALVADOR/BA. 2023. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "LILIAN MAGALHÃES SANTOS LIMA",
+        "membros_banca": [
+          "JESUS, L. V.",
+          "SILVA, Maina Pirajá",
+          "SA, Katia Oliver"
+        ],
+        "titulo_trabalho": "EDUCAÇÃO EM TEMPOS DE PANDEMIA: DESAFIOS E POSSIBILIDADES EM TRÊS ESCOLAS PÚBLICAS DE SALVADOR/BA",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "JESUS, L. V.; OLIVEIRA, Liana Silvia de Viveiros e; SILVA, Maina Pirajá; TAVARES, R. B.. Participação em banca de MILENA DAMASCENO NASCIMENTO. A MULHER NA CIDADE: INVISIBILIDADE NO PLANEJAMENTO URBANO E OPRESSÕES NO ESPAÇO PÚBLICO DE ITABUNA-BA. 2022. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "MILENA DAMASCENO NASCIMENTO",
+        "membros_banca": [
+          "JESUS, L. V.",
+          "OLIVEIRA, Liana Silvia de Viveiros e",
+          "SILVA, Maina Pirajá",
+          "TAVARES, R. B."
+        ],
+        "titulo_trabalho": "A MULHER NA CIDADE: INVISIBILIDADE NO PLANEJAMENTO URBANO E OPRESSÕES NO ESPAÇO PÚBLICO DE ITABUNA-BA",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "MOURAD, Laila Nazem; SILVA, Maina Pirajá; QUADROS, C.. Participação em banca de SARA SANTOS MORAES SANTIAGO. DO CORPO-TERRITÓRIO AO DIREITO À PROTEÇÃO DA MULHER VÍTIMA DE VIOLÊNCIA DOMÉSTICA NA BAHIA EM 2020: UMA ANÁLISE CRÍTICA DE ELEMENTOS DESENCORAJADORES Á DENÚNCIA. 2022. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "SARA SANTOS MORAES SANTIAGO",
+        "membros_banca": [
+          "MOURAD, Laila Nazem",
+          "SILVA, Maina Pirajá",
+          "QUADROS, C."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; GIUDICE, Dante Severo. Participação em banca de IVIS DANIELLE DUTRA DE OLIVEIRA. A (RE)PRODUÇÃO DO ESPAÇO EM BARRA DOS COQUEIROS-SE A PARTIR DA CONSTRUÇÃO DA PONTE CONSTRUTOR JOÃO ALVES: A HEGEMONIA DO CAPITAL IMOBILIÁRIO. 2022. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "IVIS DANIELLE DUTRA DE OLIVEIRA",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "MOURAD, Laila Nazem",
+          "GIUDICE, Dante Severo"
+        ],
+        "titulo_trabalho": "A (RE)PRODUÇÃO DO ESPAÇO EM BARRA DOS COQUEIROS-SE A PARTIR DA CONSTRUÇÃO DA PONTE CONSTRUTOR JOÃO ALVES: A HEGEMONIA DO CAPITAL IMOBILIÁRIO",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; PEREIRA, Aliger dos Santos; MOURAD, Laila Nazem. Participação em banca de UBIRATAN FÉLIX PEREIRA DOS SANTOS. O SISTEMA DE GOVERNANÇA EM REGIÕES METROPOLITANAS: O CASO DA REGIÃO METROPOLITANA DE SALVADOR E SEUS DESAFIOS. 2022. Exame de qualificação (Mestrando em Território, Ambiente e Sociedade) - Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "UBIRATAN FÉLIX PEREIRA DOS SANTOS",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "PEREIRA, Aliger dos Santos",
+          "MOURAD, Laila Nazem"
+        ],
+        "titulo_trabalho": "O SISTEMA DE GOVERNANÇA EM REGIÕES METROPOLITANAS: O CASO DA REGIÃO METROPOLITANA DE SALVADOR E SEUS DESAFIOS",
+        "curso": "Exame de qualificação (Mestrando em Território, Ambiente e Sociedade)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; VASCONCELOS, Pedro de Almeida; CARVALHO, Silvana Sá de; FERNADES, Rosali Braga. Participação em banca de Mariana de Oliveira Santana. A reprodução do espaço urbano na orla atlântica de Salvador a partir da ótica do capital imobiliário residencial: rede de coalizões e impactos na governança. 2021. Exame de qualificação (Mestrando em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Mariana de Oliveira Santana",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "VASCONCELOS, Pedro de Almeida",
+          "CARVALHO, Silvana Sá de",
+          "FERNADES, Rosali Braga"
+        ],
+        "titulo_trabalho": "A reprodução do espaço urbano na orla atlântica de Salvador a partir da ótica do capital imobiliário residencial: rede de coalizões e impactos na governança",
+        "curso": "Exame de qualificação (Mestrando em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "BENATI, Katia Regina; SILVA, Maina Pirajá; PERES, Marcelo Cesar Lima. Participação em banca de Rosinei Teixeira de Araújo Pereira. Educação ambiental e sustentabilidade: práticas pedagógicas no ensino fundamental. 2021. Exame de qualificação (Mestrando em Planejamento Territorial e Desenvolvimento Social) - Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Rosinei Teixeira de Araújo Pereira",
+        "membros_banca": [
+          "BENATI, Katia Regina",
+          "SILVA, Maina Pirajá",
+          "PERES, Marcelo Cesar Lima"
+        ],
+        "titulo_trabalho": "Educação ambiental e sustentabilidade: práticas pedagógicas no ensino fundamental",
+        "curso": "Exame de qualificação (Mestrando em Planejamento Territorial e Desenvolvimento Social)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "JESUS, L. V.; SILVA, Maina Pirajá; MACEDO, I. B. R.. Participação em banca de Ayana Marçal Ales. Santos Ester Maia Gabriel Sena Kelly Sant.Literatura e Cidade Contemporânea: os percalços na sociabilidade do homem negro na obra Avesso da Pele de Jeferson Tenório. 2024. Trabalho de Conclusão de Curso (Graduação em Letras - Língua Portuguesa) - Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Ayana Marçal Ales",
+        "membros_banca": [
+          "JESUS, L. V.",
+          "SILVA, Maina Pirajá",
+          "MACEDO, I. B. R."
+        ],
+        "titulo_trabalho": "Santos Ester Maia Gabriel Sena Kelly Sant.Literatura e Cidade Contemporânea: os percalços na sociabilidade do homem negro na obra Avesso da Pele de Jeferson Tenório",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Letras",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "HIDE, E. S. S.; SILVA, Maina Pirajá; FREITAS, M.. Participação em banca de Camille Lima, Franciele Basílio, Jéssica Conceição.AÇÕES E PRÁTICAS PEDAGÓGICAS NO COMBATE AO RACISMO NA INFÂNCIA. 2023. Trabalho de Conclusão de Curso (Graduação em Pedagogia) - Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Camille Lima, Franciele Basílio, Jéssica Conceição",
+        "membros_banca": [
+          "HIDE, E. S. S.",
+          "SILVA, Maina Pirajá",
+          "FREITAS, M."
+        ],
+        "titulo_trabalho": "AÇÕES E PRÁTICAS PEDAGÓGICAS NO COMBATE AO RACISMO NA INFÂNCIA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Pedagogia)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "FERNADES, Rosali Braga; SILVA, Maina Pirajá; GIUDICE, Dante Severo. Participação em banca de Kaíc Fernando Ferreira Lopes.As desigualdades socioespaciais e seus reflexos sobre a cidade de Salvador, Bahia, Brasil. 2020. Trabalho de Conclusão de Curso (Graduação em Geografia) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Kaíc Fernando Ferreira Lopes",
+        "membros_banca": [
+          "FERNADES, Rosali Braga",
+          "SILVA, Maina Pirajá",
+          "GIUDICE, Dante Severo"
+        ],
+        "titulo_trabalho": "As desigualdades socioespaciais e seus reflexos sobre a cidade de Salvador, Bahia, Brasil",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Geografia)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; GIUDICE, Dante Severo; FERNADES, Rosali Braga. Participação em banca de Marcos José dos Santos de Oliveira.Produção do espaço urbano: crescimento imobiliário no entorno da Avenida Aliomar Baleeiro, Salvador/BA. 2020. Trabalho de Conclusão de Curso (Graduação em Geografia) - Universidade Católica do Salvador.",
+        "ano": 2020,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Marcos José dos Santos de Oliveira",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "GIUDICE, Dante Severo",
+          "FERNADES, Rosali Braga"
+        ],
+        "titulo_trabalho": "Produção do espaço urbano: crescimento imobiliário no entorno da Avenida Aliomar Baleeiro, Salvador/BA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Geografia)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; ALENCAR, Cristina Maria Macêdo; JESUS, L. V.. Seleção interna de professor(a) doutor(a) para a docência no quadro de professores de carreira do programa de Pósgraduação Stricto Sensu em Território, ambiente e sociedade da Universidade Católica do Salvador. 2024. Universidade Católica do Salvador.",
+        "ano": 2024,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ALENCAR, Cristina Maria Macêdo; SILVA, Maina Pirajá; OLIVEIRA, André Augusto Araújo. Programa de Suporte à Pós-graduação de Instituições Comunitárias de Educação Superior ? PROSUC/CAPES. 2021. Universidade Católica do Salvador.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "SILVA, Maina Pirajá; TEIXEIRA, Aparecida Netto; DRUCIAKI, V. P.. Participação em banca de Ian Mendes Galvão. DIREITO À CIDADE NA PRIMEIRA INFÂNCIA: mobilidade ativa e espaços de brincar como estratégias de inclusão social em Salvador/BA. 2025.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "Ian Mendes Galvão",
+        "membros_banca": [
+          "SILVA, Maina Pirajá",
+          "TEIXEIRA, Aparecida Netto",
+          "DRUCIAKI, V. P."
+        ],
+        "titulo_trabalho": "DIREITO À CIDADE NA PRIMEIRA INFÂNCIA: mobilidade ativa e espaços de brincar como estratégias de inclusão social em Salvador/BA",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "CARVALHO, Silvana Sá de; SILVA, Maina Pirajá; DELGADO, Juan Pedro Moreno. Participação em banca de Fernando Trioschi Fernandes Guerra. Mobilidade urbana em Salvador: integração intermodal e avaliação do serviço na Linha 2 do metrô. 2020.",
+        "ano": 2020,
+        "tipo": "Participação em banca",
+        "aluno": "Fernando Trioschi Fernandes Guerra",
+        "membros_banca": [
+          "CARVALHO, Silvana Sá de",
+          "SILVA, Maina Pirajá",
+          "DELGADO, Juan Pedro Moreno"
+        ],
+        "titulo_trabalho": "Mobilidade urbana em Salvador: integração intermodal e avaliação do serviço na Linha 2 do metrô",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; BENATI, Katia Regina; MOURAD, Laila Nazem; MARCHI, Cristina Maria Dacach Fernandez; SA, S. M. P.; NEVES, J. B.. Comissão de seleção de bolsitas UCSAL. 2025. Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; SA, S. M. P.; NEVES, J. B.; MOURAD, Laila Nazem; MARCHI, Cristina Maria Dacach Fernandez; BENATI, Katia Regina. Comissão de seleção de bolsitas FAPESB/UCSAL. 2025. Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; JESUS, L. V.; CARVALHO, Silvana Sá de. Comissão de Seleção de bolsistas do PPGTAS. 2025. Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; VASCONCELOS, Pedro de Almeida; MOURAD, Laila Nazem. XI Prêmio \"Milton Santos\" de Artigo - ANPUR 2023. 2023. Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "2023. Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; MOURAD, Laila Nazem; VASCONCELOS, Pedro de Almeida. VI PRÊMIO ?ANA CLARA TORRES RIBEIRO - ANPUR 2023. 2023. Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "2023. Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; ALENCAR, Cristina Maria Macêdo; MARCHI, Cristina Maria Dacach Fernandez. Comissão de seleção do Programa de Pós-doutoramento. 2023. Universidade Católica do Salvador.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá; TRAJANO, Tagore. Comissão de Seleção de Alunos Estrangeiros. 2022. Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá. Comissão de Seleção - PIBIC/UCSAL. 2022. Universidade Católica do Salvador.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Católica do Salvador.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, Maina Pirajá. Comissão de Seleção - PIBIC/FAPESB. 2022.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 9,
+    "total_livros": 1,
+    "total_capitulos": 5,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 3,
+    "total_projetos_extensao": 1,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 17,
+    "total_orientacoes_andamento": 10
+  }
+}

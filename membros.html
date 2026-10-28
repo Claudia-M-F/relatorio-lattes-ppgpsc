@@ -1,0 +1,105 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>ppgpsc</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>ppgpsc</h2></div>
+    <link href="css/tabulator_site.min.css" rel="stylesheet" />
+    <link href="css/tabulator-scriplattes.css" rel="stylesheet" />
+    <script src="js/tabulator.min.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+    
+    <style>
+    /* Ellipsis nas células: mostra "..." e deixa o tooltip trabalhar */
+    #tabela-membros .tabulator-cell {
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+    </style>
+    
+    <h3>Lista de membros</h3>
+    <div class="sl-controls">
+      <button id="membros-csv">⬇️ CSV</button>
+      <button id="membros-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-membros" class="sl-tabela" id="tabela-membros"></div>
+    
+    <script>
+    const DATA_MEMBROS = [{"nome": "Dirley da Cunha Júnior", "url": "membro-2828640231760353.html", "id_lattes": "2828640231760353", "rotulo_grupo": "Permanente", "bolsa": "", "periodo": "2000", "atualizacao": "05/08/2026", "atualizacao_num": 20260805, "grande_area": "Ciências Sociais Aplicadas", "area": "Direito", "instituicao": "Universidade Católica do Salvador, Faculdade de Direito, Departamento de Direito Publico"}, {"nome": "Julie Sarah Lourau Alves da Silva", "url": "membro-4556425108523824.html", "id_lattes": "4556425108523824", "rotulo_grupo": "Permanente", "bolsa": "", "periodo": "2013", "atualizacao": "09/09/2026", "atualizacao_num": 20260909, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": ""}, {"nome": "Maria de Fátima Pessôa Lepikson", "url": "membro-7702914755827440.html", "id_lattes": "7702914755827440", "rotulo_grupo": "Permanente", "bolsa": "", "periodo": "2004", "atualizacao": "28/07/2026", "atualizacao_num": 20260728, "grande_area": "Ciências Sociais Aplicadas", "area": "Serviço Social", "instituicao": "Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania"}, {"nome": "Kátia Oliver de Sá", "url": "membro-4245810315007996.html", "id_lattes": "4245810315007996", "rotulo_grupo": "Permanente", "bolsa": "", "periodo": "1991", "atualizacao": "07/09/2026", "atualizacao_num": 20260907, "grande_area": "Ciências Humanas", "area": "Filosofia", "instituicao": "Universidade Católica do Salvador, Programa de Políticas Sociais e Cidadania da UCSal"}, {"nome": "Joaci de Sousa Cunha", "url": "membro-7245172604097622.html", "id_lattes": "7245172604097622", "rotulo_grupo": "Permanente", "bolsa": "", "periodo": "1999", "atualizacao": "27/08/2026", "atualizacao_num": 20260827, "grande_area": "Ciências Humanas", "area": "Ciência Política", "instituicao": "Universidade Católica do Salvador, PPGPPC-UCSAL"}, {"nome": "Aparecida Netto Teixeira", "url": "membro-4602341145962830.html", "id_lattes": "4602341145962830", "rotulo_grupo": "Permanente", "bolsa": "", "periodo": "2009", "atualizacao": "25/03/2026", "atualizacao_num": 20260325, "grande_area": "Ciências Sociais Aplicadas", "area": "Arquitetura e Urbanismo", "instituicao": "Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania"}, {"nome": "Maria Gorete Borges Figueirêdo", "url": "membro-7910445092841679.html", "id_lattes": "7910445092841679", "rotulo_grupo": "Permanente", "bolsa": "", "periodo": "2018", "atualizacao": "17/08/2026", "atualizacao_num": 20260817, "grande_area": "Ciências Sociais Aplicadas", "area": "Planejamento Urbano e Regional", "instituicao": "Universidade Católica do Salvador, PROGRAMA DE PÓS-GRADUAÇÃO EM POLÍTICAS SOCIAIS E CIDADANIA - PPGPSC"}, {"nome": "Ilzver de Matos Oliveira", "url": "membro-4770751511233073.html", "id_lattes": "4770751511233073", "rotulo_grupo": "Permanente", "bolsa": "", "periodo": "2023", "atualizacao": "27/07/2026", "atualizacao_num": 20260727, "grande_area": "Ciências Sociais Aplicadas", "area": "Direito", "instituicao": "Universidade Federal de Sergipe, Centro de Ciências Sociais Aplicadas, Departamento de Direito"}, {"nome": "Cláudia Monteiro Fernandes", "url": "membro-9606507679613575.html", "id_lattes": "9606507679613575", "rotulo_grupo": "Permanente", "bolsa": "", "periodo": "2025", "atualizacao": "16/07/2026", "atualizacao_num": 20260716, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": ""}, {"nome": "Anderson Eslie Leite de Oliveira", "url": "membro-7834637895518358.html", "id_lattes": "7834637895518358", "rotulo_grupo": "Permanente", "bolsa": "", "periodo": "2025", "atualizacao": "04/09/2026", "atualizacao_num": 20260904, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Católica do Salvador, Pro Reitoria de Pesquisa e Pós Graduação, Políticas Sociais e Cidadania"}, {"nome": "Maina Pirajá Silva", "url": "membro-1454954636042924.html", "id_lattes": "1454954636042924", "rotulo_grupo": "Permanente", "bolsa": "", "periodo": "2019", "atualizacao": "27/07/2026", "atualizacao_num": 20260727, "grande_area": "Ciências Humanas", "area": "Geografia", "instituicao": "Universidade Católica do Salvador, Pós-Graduação"}, {"nome": "Gustavo Rodrigues de Oliveira", "url": "membro-9961846863546492.html", "id_lattes": "9961846863546492", "rotulo_grupo": "Colaborador", "bolsa": "", "periodo": "2025", "atualizacao": "03/08/2026", "atualizacao_num": 20260803, "grande_area": "Ciências Sociais Aplicadas", "area": "Administração", "instituicao": "Hospital Santa Marcelina"}, {"nome": "Emerson Tyrone Mattje", "url": "membro-5794628653554786.html", "id_lattes": "5794628653554786", "rotulo_grupo": "Colaborador", "bolsa": "", "periodo": "2025", "atualizacao": "25/06/2026", "atualizacao_num": 20260625, "grande_area": "Ciências Humanas", "area": "Ciência Política", "instituicao": ""}];
+    const TABLE_HEIGHT = "auto"; // "auto" | "70vh" | "90vh"
+    
+    const LANG_PT = {
+      "pt-br": {
+        "pagination": {
+          "first":"«","first_title":"Primeira",
+          "last":"»","last_title":"Última",
+          "prev":"‹","prev_title":"Anterior",
+          "next":"›","next_title":"Próxima"
+        },
+        "headerFilters": { "default":"⎯ Filtrar ⎯" }
+      }
+    };
+    
+    // Ordenador para data BR usando campo auxiliar yyyymmdd (numérico)
+    function sortDateBR(a, b, aRow, bRow, column, dir, sorterParams) {
+      const av = aRow?.getData()?.atualizacao_num ?? 0;
+      const bv = bRow?.getData()?.atualizacao_num ?? 0;
+      return av - bv;
+    }
+    
+    // Formatter de link com title (tooltip no próprio <a>)
+    function linkWithTitle(cell, formatterParams, onRendered) {
+      const data = cell.getData();
+      const url = data && data.url ? String(data.url) : "#";
+      const label = String(cell.getValue() ?? "");
+      const a = document.createElement("a");
+      a.href = url;
+      a.textContent = label;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.title = label; // <-- tooltip no link
+      return a;
+    }
+    
+    function createTable(el, data, columns, initialSort) {
+      const base = {
+        data,
+        layout: "fitColumns",
+        responsiveLayout: "collapse",
+        pagination: "local",
+        paginationSize: 50,
+        paginationSizeSelector: [10, 25, 50, 100, 200, 500],
+        movableColumns: true,
+        initialSort,
+        headerFilterLiveFilter: true,
+        columns,
+        locale: true, langs: LANG_PT, locale: "pt-br",
+        tooltips: true    // <-- tooltip global (para colunas sem link)
+      };
+      if (TABLE_HEIGHT !== "auto") {
+        base.height = TABLE_HEIGHT;
+      }
+      return new Tabulator(el, base);
+    }
+    
+    document.addEventListener("DOMContentLoaded", function(){
+      const columns = [
+        // Nome com link + title no próprio <a>
+        { title:"Nome", field:"nome", formatter: linkWithTitle,
+           headerFilter:"input", widthGrow:3, tooltip:true },
+    
+        // Demais colunas (tooltip global já cobre)
+        { title:"ID Lattes", field:"id_lattes", headerFilter:"input", tooltip:true },
+        { title:"Rótulo/Grupo", field:"rotulo_grupo", headerFilter:"input", tooltip:true },
+        { title:"Bolsa CNPq", field:"bolsa", headerFilter:"input", tooltip:true },
+        { title:"Período de análise individual", field:"periodo", headerFilter:"input", tooltip:true },
+        { title:"Data de atualização do CV", field:"atualizacao", headerFilter:"input", sorter: sortDateBR, tooltip:true },
+        { title:"Grande área", field:"grande_area", headerFilter:"input", tooltip:true },
+        { title:"Área", field:"area", headerFilter:"input", tooltip:true },
+        { title:"Instituição", field:"instituicao", headerFilter:"input", tooltip:true },
+      ];
+    
+      const t = createTable("#tabela-membros", DATA_MEMBROS, columns, [{ column: "nome", dir: "asc" }]);
+    
+      document.getElementById("membros-csv").onclick  = () => t.download("csv",  "lista_membros.csv", { bom:true });
+      document.getElementById("membros-xlsx").onclick = () => t.download("xlsx", "lista_membros.xlsx", { sheetName:"Membros" });
+    });
+    </script>
+    <br><p><br>(*) Relatório criado com produções desde 2020 até 2026
+<br>Data de processamento: 28/10/2026 14:05:01<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V.2025.09</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:claudia.monteiro@pro.ucsal.br">claudia.monteiro@pro.ucsal.br</a>         </div> </body></html>

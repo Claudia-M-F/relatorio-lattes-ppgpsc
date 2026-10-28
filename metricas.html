@@ -1,0 +1,171 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>ppgpsc</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>ppgpsc</h2></div>
+    <link href="css/tabulator_site.min.css" rel="stylesheet" />
+    <link href="css/tabulator-scriplattes.css" rel="stylesheet" />
+    <script src="js/tabulator.min.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+    
+    <style>
+    /* Ellipsis nas três tabelas */
+    #tabela-producao .tabulator-cell,
+    #tabela-orientacoes .tabulator-cell,
+    #tabela-projetos .tabulator-cell {
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+    </style>
+    
+    <h3>Métricas: Produções bibliográficas, técnicas e artísticas</h3>
+    <div class="sl-controls">
+      <button id="prod-csv">⬇️ CSV</button>
+      <button id="prod-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-producao" class="sl-tabela"></div>
+    
+    <h3>Métricas: Orientações concluídas e em andamento</h3>
+    <div class="sl-controls">
+      <button id="ori-csv">⬇️ CSV</button>
+      <button id="ori-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-orientacoes" class="sl-tabela"></div>
+    
+    <h3>Métricas: Projetos, prêmios e eventos</h3>
+    <div class="sl-controls">
+      <button id="proj-csv">⬇️ CSV</button>
+      <button id="proj-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-projetos" class="sl-tabela"></div>
+    <script>
+const DATA = {"producao": [{"nome": "Dirley da Cunha Júnior", "url": "membro-2828640231760353.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2000", "atualizacao": "05/08/2026", "atualizacao_num": 20260805, "grande_area": "Ciências Sociais Aplicadas", "area": "Direito", "pb_total": 89, "periodicos": 12, "livros": 37, "capitulos": 34, "congressos": 4, "resumos": 1, "aceitos": 1, "tec_total": 38, "art_total": 0}, {"nome": "Julie Sarah Lourau Alves da Silva", "url": "membro-4556425108523824.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2013", "atualizacao": "09/09/2026", "atualizacao_num": 20260909, "grande_area": "Ciências Humanas", "area": "Sociologia", "pb_total": 19, "periodicos": 8, "livros": 2, "capitulos": 4, "congressos": 3, "resumos": 2, "aceitos": 0, "tec_total": 5, "art_total": 0}, {"nome": "Maria de Fátima Pessôa Lepikson", "url": "membro-7702914755827440.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2004", "atualizacao": "28/07/2026", "atualizacao_num": 20260728, "grande_area": "Ciências Sociais Aplicadas", "area": "Serviço Social", "pb_total": 11, "periodicos": 3, "livros": 1, "capitulos": 4, "congressos": 0, "resumos": 2, "aceitos": 1, "tec_total": 12, "art_total": 0}, {"nome": "Kátia Oliver de Sá", "url": "membro-4245810315007996.html", "rotulo": "Permanente", "bolsa": "", "periodo": "1991", "atualizacao": "07/09/2026", "atualizacao_num": 20260907, "grande_area": "Ciências Humanas", "area": "Filosofia", "pb_total": 13, "periodicos": 7, "livros": 1, "capitulos": 3, "congressos": 1, "resumos": 1, "aceitos": 0, "tec_total": 26, "art_total": 0}, {"nome": "Joaci de Sousa Cunha", "url": "membro-7245172604097622.html", "rotulo": "Permanente", "bolsa": "", "periodo": "1999", "atualizacao": "27/08/2026", "atualizacao_num": 20260827, "grande_area": "Ciências Humanas", "area": "Ciência Política", "pb_total": 7, "periodicos": 6, "livros": 1, "capitulos": 0, "congressos": 0, "resumos": 0, "aceitos": 0, "tec_total": 9, "art_total": 0}, {"nome": "Aparecida Netto Teixeira", "url": "membro-4602341145962830.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2009", "atualizacao": "25/03/2026", "atualizacao_num": 20260325, "grande_area": "Ciências Sociais Aplicadas", "area": "Arquitetura e Urbanismo", "pb_total": 46, "periodicos": 12, "livros": 1, "capitulos": 6, "congressos": 11, "resumos": 14, "aceitos": 2, "tec_total": 41, "art_total": 0}, {"nome": "Maria Gorete Borges Figueirêdo", "url": "membro-7910445092841679.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2018", "atualizacao": "17/08/2026", "atualizacao_num": 20260817, "grande_area": "Ciências Sociais Aplicadas", "area": "Planejamento Urbano e Regional", "pb_total": 22, "periodicos": 8, "livros": 3, "capitulos": 6, "congressos": 5, "resumos": 0, "aceitos": 0, "tec_total": 35, "art_total": 0}, {"nome": "Ilzver de Matos Oliveira", "url": "membro-4770751511233073.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2023", "atualizacao": "27/07/2026", "atualizacao_num": 20260727, "grande_area": "Ciências Sociais Aplicadas", "area": "Direito", "pb_total": 25, "periodicos": 7, "livros": 4, "capitulos": 11, "congressos": 0, "resumos": 3, "aceitos": 0, "tec_total": 9, "art_total": 0}, {"nome": "Cláudia Monteiro Fernandes", "url": "membro-9606507679613575.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2025", "atualizacao": "16/07/2026", "atualizacao_num": 20260716, "grande_area": "Ciências Humanas", "area": "Sociologia", "pb_total": 2, "periodicos": 1, "livros": 0, "capitulos": 1, "congressos": 0, "resumos": 0, "aceitos": 0, "tec_total": 0, "art_total": 0}, {"nome": "Anderson Eslie Leite de Oliveira", "url": "membro-7834637895518358.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2025", "atualizacao": "04/09/2026", "atualizacao_num": 20260904, "grande_area": "Ciências Humanas", "area": "Sociologia", "pb_total": 1, "periodicos": 0, "livros": 0, "capitulos": 0, "congressos": 1, "resumos": 0, "aceitos": 0, "tec_total": 0, "art_total": 1}, {"nome": "Maina Pirajá Silva", "url": "membro-1454954636042924.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2019", "atualizacao": "27/07/2026", "atualizacao_num": 20260727, "grande_area": "Ciências Humanas", "area": "Geografia", "pb_total": 20, "periodicos": 9, "livros": 1, "capitulos": 5, "congressos": 0, "resumos": 5, "aceitos": 0, "tec_total": 24, "art_total": 0}, {"nome": "Gustavo Rodrigues de Oliveira", "url": "membro-9961846863546492.html", "rotulo": "Colaborador", "bolsa": "", "periodo": "2025", "atualizacao": "03/08/2026", "atualizacao_num": 20260803, "grande_area": "Ciências Sociais Aplicadas", "area": "Administração", "pb_total": 3, "periodicos": 3, "livros": 0, "capitulos": 0, "congressos": 0, "resumos": 0, "aceitos": 0, "tec_total": 0, "art_total": 0}, {"nome": "Emerson Tyrone Mattje", "url": "membro-5794628653554786.html", "rotulo": "Colaborador", "bolsa": "", "periodo": "2025", "atualizacao": "25/06/2026", "atualizacao_num": 20260625, "grande_area": "Ciências Humanas", "area": "Ciência Política", "pb_total": 4, "periodicos": 4, "livros": 0, "capitulos": 0, "congressos": 0, "resumos": 0, "aceitos": 0, "tec_total": 0, "art_total": 0}], "orientacoes": [{"nome": "Dirley da Cunha Júnior", "url": "membro-2828640231760353.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2000", "atualizacao": "05/08/2026", "atualizacao_num": 20260805, "grande_area": "Ciências Sociais Aplicadas", "area": "Direito", "concl_total": 85, "concl_posdoc": 5, "concl_dout": 18, "concl_mest": 20, "concl_espec": 38, "concl_tcc": 4, "concl_ic": 0, "and_total": 11, "and_posdoc": 0, "and_dout": 9, "and_mest": 2, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Julie Sarah Lourau Alves da Silva", "url": "membro-4556425108523824.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2013", "atualizacao": "09/09/2026", "atualizacao_num": 20260909, "grande_area": "Ciências Humanas", "area": "Sociologia", "concl_total": 16, "concl_posdoc": 1, "concl_dout": 4, "concl_mest": 5, "concl_espec": 0, "concl_tcc": 3, "concl_ic": 3, "and_total": 4, "and_posdoc": 0, "and_dout": 3, "and_mest": 1, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Maria de Fátima Pessôa Lepikson", "url": "membro-7702914755827440.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2004", "atualizacao": "28/07/2026", "atualizacao_num": 20260728, "grande_area": "Ciências Sociais Aplicadas", "area": "Serviço Social", "concl_total": 32, "concl_posdoc": 2, "concl_dout": 2, "concl_mest": 20, "concl_espec": 0, "concl_tcc": 8, "concl_ic": 0, "and_total": 14, "and_posdoc": 1, "and_dout": 8, "and_mest": 5, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Kátia Oliver de Sá", "url": "membro-4245810315007996.html", "rotulo": "Permanente", "bolsa": "", "periodo": "1991", "atualizacao": "07/09/2026", "atualizacao_num": 20260907, "grande_area": "Ciências Humanas", "area": "Filosofia", "concl_total": 31, "concl_posdoc": 0, "concl_dout": 3, "concl_mest": 22, "concl_espec": 1, "concl_tcc": 4, "concl_ic": 1, "and_total": 14, "and_posdoc": 1, "and_dout": 11, "and_mest": 2, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Joaci de Sousa Cunha", "url": "membro-7245172604097622.html", "rotulo": "Permanente", "bolsa": "", "periodo": "1999", "atualizacao": "27/08/2026", "atualizacao_num": 20260827, "grande_area": "Ciências Humanas", "area": "Ciência Política", "concl_total": 6, "concl_posdoc": 1, "concl_dout": 2, "concl_mest": 3, "concl_espec": 0, "concl_tcc": 0, "concl_ic": 0, "and_total": 5, "and_posdoc": 0, "and_dout": 5, "and_mest": 0, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Aparecida Netto Teixeira", "url": "membro-4602341145962830.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2009", "atualizacao": "25/03/2026", "atualizacao_num": 20260325, "grande_area": "Ciências Sociais Aplicadas", "area": "Arquitetura e Urbanismo", "concl_total": 20, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 7, "concl_espec": 0, "concl_tcc": 5, "concl_ic": 8, "and_total": 8, "and_posdoc": 0, "and_dout": 4, "and_mest": 4, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Maria Gorete Borges Figueirêdo", "url": "membro-7910445092841679.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2018", "atualizacao": "17/08/2026", "atualizacao_num": 20260817, "grande_area": "Ciências Sociais Aplicadas", "area": "Planejamento Urbano e Regional", "concl_total": 18, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 9, "concl_espec": 0, "concl_tcc": 9, "concl_ic": 0, "and_total": 12, "and_posdoc": 0, "and_dout": 6, "and_mest": 6, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Ilzver de Matos Oliveira", "url": "membro-4770751511233073.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2023", "atualizacao": "27/07/2026", "atualizacao_num": 20260727, "grande_area": "Ciências Sociais Aplicadas", "area": "Direito", "concl_total": 37, "concl_posdoc": 1, "concl_dout": 0, "concl_mest": 6, "concl_espec": 0, "concl_tcc": 15, "concl_ic": 15, "and_total": 9, "and_posdoc": 0, "and_dout": 5, "and_mest": 3, "and_espec": 0, "and_tcc": 0, "and_ic": 1}, {"nome": "Cláudia Monteiro Fernandes", "url": "membro-9606507679613575.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2025", "atualizacao": "16/07/2026", "atualizacao_num": 20260716, "grande_area": "Ciências Humanas", "area": "Sociologia", "concl_total": 0, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 0, "concl_espec": 0, "concl_tcc": 0, "concl_ic": 0, "and_total": 8, "and_posdoc": 0, "and_dout": 2, "and_mest": 6, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Anderson Eslie Leite de Oliveira", "url": "membro-7834637895518358.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2025", "atualizacao": "04/09/2026", "atualizacao_num": 20260904, "grande_area": "Ciências Humanas", "area": "Sociologia", "concl_total": 0, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 0, "concl_espec": 0, "concl_tcc": 0, "concl_ic": 0, "and_total": 7, "and_posdoc": 0, "and_dout": 1, "and_mest": 6, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Maina Pirajá Silva", "url": "membro-1454954636042924.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2019", "atualizacao": "27/07/2026", "atualizacao_num": 20260727, "grande_area": "Ciências Humanas", "area": "Geografia", "concl_total": 18, "concl_posdoc": 2, "concl_dout": 2, "concl_mest": 9, "concl_espec": 0, "concl_tcc": 1, "concl_ic": 4, "and_total": 10, "and_posdoc": 0, "and_dout": 4, "and_mest": 6, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Gustavo Rodrigues de Oliveira", "url": "membro-9961846863546492.html", "rotulo": "Colaborador", "bolsa": "", "periodo": "2025", "atualizacao": "03/08/2026", "atualizacao_num": 20260803, "grande_area": "Ciências Sociais Aplicadas", "area": "Administração", "concl_total": 0, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 0, "concl_espec": 0, "concl_tcc": 0, "concl_ic": 0, "and_total": 0, "and_posdoc": 0, "and_dout": 0, "and_mest": 0, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Emerson Tyrone Mattje", "url": "membro-5794628653554786.html", "rotulo": "Colaborador", "bolsa": "", "periodo": "2025", "atualizacao": "25/06/2026", "atualizacao_num": 20260625, "grande_area": "Ciências Humanas", "area": "Ciência Política", "concl_total": 9, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 0, "concl_espec": 0, "concl_tcc": 9, "concl_ic": 0, "and_total": 0, "and_posdoc": 0, "and_dout": 0, "and_mest": 0, "and_espec": 0, "and_tcc": 0, "and_ic": 0}], "projetos": [{"nome": "Dirley da Cunha Júnior", "url": "membro-2828640231760353.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2000", "atualizacao": "05/08/2026", "atualizacao_num": 20260805, "grande_area": "Ciências Sociais Aplicadas", "area": "Direito", "projetos": 1, "premios": 1, "part_event": 53, "org_event": 13}, {"nome": "Julie Sarah Lourau Alves da Silva", "url": "membro-4556425108523824.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2013", "atualizacao": "09/09/2026", "atualizacao_num": 20260909, "grande_area": "Ciências Humanas", "area": "Sociologia", "projetos": 3, "premios": 0, "part_event": 17, "org_event": 7}, {"nome": "Maria de Fátima Pessôa Lepikson", "url": "membro-7702914755827440.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2004", "atualizacao": "28/07/2026", "atualizacao_num": 20260728, "grande_area": "Ciências Sociais Aplicadas", "area": "Serviço Social", "projetos": 3, "premios": 0, "part_event": 5, "org_event": 1}, {"nome": "Kátia Oliver de Sá", "url": "membro-4245810315007996.html", "rotulo": "Permanente", "bolsa": "", "periodo": "1991", "atualizacao": "07/09/2026", "atualizacao_num": 20260907, "grande_area": "Ciências Humanas", "area": "Filosofia", "projetos": 9, "premios": 0, "part_event": 62, "org_event": 22}, {"nome": "Joaci de Sousa Cunha", "url": "membro-7245172604097622.html", "rotulo": "Permanente", "bolsa": "", "periodo": "1999", "atualizacao": "27/08/2026", "atualizacao_num": 20260827, "grande_area": "Ciências Humanas", "area": "Ciência Política", "projetos": 2, "premios": 0, "part_event": 10, "org_event": 6}, {"nome": "Aparecida Netto Teixeira", "url": "membro-4602341145962830.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2009", "atualizacao": "25/03/2026", "atualizacao_num": 20260325, "grande_area": "Ciências Sociais Aplicadas", "area": "Arquitetura e Urbanismo", "projetos": 2, "premios": 0, "part_event": 34, "org_event": 32}, {"nome": "Maria Gorete Borges Figueirêdo", "url": "membro-7910445092841679.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2018", "atualizacao": "17/08/2026", "atualizacao_num": 20260817, "grande_area": "Ciências Sociais Aplicadas", "area": "Planejamento Urbano e Regional", "projetos": 2, "premios": 0, "part_event": 47, "org_event": 9}, {"nome": "Ilzver de Matos Oliveira", "url": "membro-4770751511233073.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2023", "atualizacao": "27/07/2026", "atualizacao_num": 20260727, "grande_area": "Ciências Sociais Aplicadas", "area": "Direito", "projetos": 4, "premios": 0, "part_event": 19, "org_event": 24}, {"nome": "Cláudia Monteiro Fernandes", "url": "membro-9606507679613575.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2025", "atualizacao": "16/07/2026", "atualizacao_num": 20260716, "grande_area": "Ciências Humanas", "area": "Sociologia", "projetos": 1, "premios": 0, "part_event": 6, "org_event": 0}, {"nome": "Anderson Eslie Leite de Oliveira", "url": "membro-7834637895518358.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2025", "atualizacao": "04/09/2026", "atualizacao_num": 20260904, "grande_area": "Ciências Humanas", "area": "Sociologia", "projetos": 1, "premios": 0, "part_event": 8, "org_event": 0}, {"nome": "Maina Pirajá Silva", "url": "membro-1454954636042924.html", "rotulo": "Permanente", "bolsa": "", "periodo": "2019", "atualizacao": "27/07/2026", "atualizacao_num": 20260727, "grande_area": "Ciências Humanas", "area": "Geografia", "projetos": 3, "premios": 0, "part_event": 11, "org_event": 10}, {"nome": "Gustavo Rodrigues de Oliveira", "url": "membro-9961846863546492.html", "rotulo": "Colaborador", "bolsa": "", "periodo": "2025", "atualizacao": "03/08/2026", "atualizacao_num": 20260803, "grande_area": "Ciências Sociais Aplicadas", "area": "Administração", "projetos": 0, "premios": 0, "part_event": 0, "org_event": 1}, {"nome": "Emerson Tyrone Mattje", "url": "membro-5794628653554786.html", "rotulo": "Colaborador", "bolsa": "", "periodo": "2025", "atualizacao": "25/06/2026", "atualizacao_num": 20260625, "grande_area": "Ciências Humanas", "area": "Ciência Política", "projetos": 0, "premios": 0, "part_event": 0, "org_event": 2}]};
+const TABLE_HEIGHT = "40vh";
+const LANG_PT = {
+  "pt-br": {
+    "pagination": {
+      "first":"«","first_title":"Primeira",
+      "last":"»","last_title":"Última",
+      "prev":"‹","prev_title":"Anterior",
+      "next":"›","next_title":"Próxima"
+    },
+    "headerFilters": { "default":"⎯ Filtrar ⎯" }
+  }
+};
+
+// Ordenação por data BR via campo auxiliar yyyymmdd
+function sortDateBR(a, b, aRow, bRow, column, dir, sorterParams) {
+  const av = aRow?.getData()?.atualizacao_num ?? 0;
+  const bv = bRow?.getData()?.atualizacao_num ?? 0;
+  return av - bv;
+}
+
+// Link com title (tooltip no <a>)
+function linkWithTitle(cell) {
+  const data = cell.getData();
+  const url = data && data.url ? String(data.url) : '#';
+  const label = String(cell.getValue() ?? '');
+  const a = document.createElement('a');
+  a.href = url; a.textContent = label; a.target = '_blank'; a.rel = 'noopener'; a.title = label;
+  return a;
+}
+
+function createTable(el, data, columns, initialSort) {
+  const base = {
+    data,
+    layout: 'fitColumns',
+    responsiveLayout: 'collapse',
+    pagination: 'local',
+    paginationSize: 50,
+    paginationSizeSelector: [10, 25, 50, 100, 200, 500],
+    movableColumns: true,
+    initialSort,
+    headerFilterLiveFilter: true,
+    columns,
+    locale: true, langs: LANG_PT, locale: 'pt-br',
+    tooltips: true
+  };
+  if (TABLE_HEIGHT !== 'auto') base.height = TABLE_HEIGHT;
+  return new Tabulator(el, base);
+}
+
+function mkTabelaProducao() {
+  const columns = [
+    { title:'Nome', field:'nome', formatter: linkWithTitle, headerFilter:'input', widthGrow:3, tooltip:true },
+    { title:'Rótulo', field:'rotulo', headerFilter:'input', tooltip:true },
+    { title:'Bolsa CNPq', field:'bolsa', headerFilter:'input', tooltip:true },
+    { title:'Período', field:'periodo', headerFilter:'input', tooltip:true },
+    { title:'Atualização CV', field:'atualizacao', headerFilter:'input', sorter: sortDateBR, tooltip:true },
+    { title:'Grande área', field:'grande_area', headerFilter:'input', tooltip:true },
+    { title:'Área', field:'area', headerFilter:'input', tooltip:true },
+    { title:'PB (total)', field:'pb_total', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Periódicos', field:'periodicos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Livros', field:'livros', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Capítulos', field:'capitulos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Congressos', field:'congressos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Resumos', field:'resumos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Aceitos', field:'aceitos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Técnica (total)', field:'tec_total', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Artística (total)', field:'art_total', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true }
+  ];
+  const t = createTable('#tabela-producao', DATA.producao, columns, [{ column: 'pb_total', dir: 'desc' }]);
+  document.getElementById('prod-csv').onclick  = () => t.download('csv',  'metricas_producao.csv', { bom:true });
+  document.getElementById('prod-xlsx').onclick = () => t.download('xlsx', 'metricas_producao.xlsx', { sheetName:'Produção' });
+  return t;
+}
+
+function mkTabelaOrientacoes() {
+  const columns = [
+    { title:'Nome', field:'nome', formatter: linkWithTitle, headerFilter:'input', widthGrow:3, tooltip:true },
+    { title:'Rótulo', field:'rotulo', headerFilter:'input', tooltip:true },
+    { title:'Bolsa CNPq', field:'bolsa', headerFilter:'input', tooltip:true },
+    { title:'Período', field:'periodo', headerFilter:'input', tooltip:true },
+    { title:'Atualização CV', field:'atualizacao', headerFilter:'input', sorter: sortDateBR, tooltip:true },
+    { title:'Grande área', field:'grande_area', headerFilter:'input', tooltip:true },
+    { title:'Área', field:'area', headerFilter:'input', tooltip:true },
+    { title:'Concluídas (total)', field:'concl_total', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Pós-doc', field:'concl_posdoc', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Doutorado', field:'concl_dout', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Mestrado', field:'concl_mest', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Especialização', field:'concl_espec', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'TCC', field:'concl_tcc', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'IC', field:'concl_ic', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Em andamento (total)', field:'and_total', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Pós-doc', field:'and_posdoc', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Doutorado', field:'and_dout', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Mestrado', field:'and_mest', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Especialização', field:'and_espec', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'TCC', field:'and_tcc', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'IC', field:'and_ic', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true }
+  ];
+  const t = createTable('#tabela-orientacoes', DATA.orientacoes, columns, [{ column: 'concl_total', dir: 'desc' }]);
+  document.getElementById('ori-csv').onclick  = () => t.download('csv',  'metricas_orientacoes.csv', { bom:true });
+  document.getElementById('ori-xlsx').onclick = () => t.download('xlsx', 'metricas_orientacoes.xlsx', { sheetName:'Orientações' });
+  return t;
+}
+
+function mkTabelaProjetos() {
+  const columns = [
+    { title:'Nome', field:'nome', formatter: linkWithTitle, headerFilter:'input', widthGrow:3, tooltip:true },
+    { title:'Rótulo', field:'rotulo', headerFilter:'input', tooltip:true },
+    { title:'Bolsa CNPq', field:'bolsa', headerFilter:'input', tooltip:true },
+    { title:'Período', field:'periodo', headerFilter:'input', tooltip:true },
+    { title:'Atualização CV', field:'atualizacao', headerFilter:'input', sorter: sortDateBR, tooltip:true },
+    { title:'Grande área', field:'grande_area', headerFilter:'input', tooltip:true },
+    { title:'Área', field:'area', headerFilter:'input', tooltip:true },
+    { title:'Projetos', field:'projetos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Prêmios', field:'premios', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Participação em eventos', field:'part_event', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Organização de eventos', field:'org_event', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true }
+  ];
+  const t = createTable('#tabela-projetos', DATA.projetos, columns, [{ column: 'projetos', dir: 'desc' }]);
+  document.getElementById('proj-csv').onclick  = () => t.download('csv',  'metricas_projetos.csv', { bom:true });
+  document.getElementById('proj-xlsx').onclick = () => t.download('xlsx', 'metricas_projetos.xlsx', { sheetName:'Projetos' });
+  return t;
+}
+
+document.addEventListener('DOMContentLoaded', function(){
+  mkTabelaProducao();
+  mkTabelaOrientacoes();
+  mkTabelaProjetos();
+});
+</script>
+<br><p><br>(*) Relatório criado com produções desde 2020 até 2026
+<br>Data de processamento: 28/10/2026 14:05:01<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V.2025.09</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:claudia.monteiro@pro.ucsal.br">claudia.monteiro@pro.ucsal.br</a>         </div> </body></html>

@@ -1,0 +1,1821 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "9606507679613575",
+    "nome_completo": "Cláudia Monteiro Fernandes",
+    "nome_citacoes": "FERNANDES, C. M.;FERNANDES, CLÁUDIA MONTEIRO;FERNANDES, CLAUDIA MONTEIRO",
+    "sexo": "Masculino",
+    "rotulo": "Permanente",
+    "periodo": "2025",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "16/07/2026",
+    "url": "http://lattes.cnpq.br/9606507679613575",
+    "texto_resumo": "Professora do Programa de Pós-Graduação em Políticas Sociais e Cidadania da Universidade Católica do Salvador (UCSal). Doutora e Mestra em Sociologia, especialista e bacharel em Ciências Econômicas pela UFBA. Professora Licenciada em Sociologia. Líder do Grupo de pesquisa GEDIH - Grupo de Estudos em Estado, Desigualdades Interseccionais e Humanidades da UCSal. Pesquisadora do Observatório das Metrópoles (INCT), do Programa A Cor da Bahia (UFBA) e do Grupo Periféricas (UFBA). Atuou como bolsista do IPEA, professora substituta na UFRB (CCAAB - Cruz das Almas, Bahia), Diretora de Avaliação de informações educacionais e Coordenadora de Ações Afirmativas em Educação Superior da Secretaria da Educação e Diretora de Planejamento Social da Secretaria de Planejamento do Estado da Bahia. Atuou como oficial de monitoramento e avaliação do UNICEF no Brasil e como Tecnologista do IBGE, na Coordenação de Trabalho e Rendimento, no Rio de Janeiro. Trabalha principalmente com os temas: desigualdades raciais e de gênero, educação, sociologia urbana e econômica, políticas sociais, políticas de cuidados, demografia e indicadores socioeconômicos. ORCID: https://orcid.org/0000-0002-0536-2516 E-mail: claudia.monteiro@pro.ucsal.br (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Ciências Sociais",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2022",
+      "descricao": "Título: Desigualdades raciais e de gênero na Educação Superior no Brasil, Ano de obtenção: 2022. Orientador: Paula Cristina da Silva Barreto. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Desigualdade; Educação superior; Universidade; Relações Raciais; Ações Afirmativas; Gênero. Grande área: Ciências Humanas / Área: Sociologia. Grande Área: Ciências Humanas / Área: Educação / Subárea: Fundamentos da Educação / Especialidade: Sociologia da Educação. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Relações Étnicas e Raciais."
+    },
+    {
+      "tipo": "Mestrado em Ciências Sociais",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2008",
+      "descricao": "Título: Juventude em transição para o mundo do trabalho O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2008. Orientador: Inaiá Maria Moreira de Carvalho. Palavras-chave: rendimentos; educação; mercado de trabalho; Trabalho; Juventude; metrópoles. Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Desenvolvimento / Especialidade: Indicadores Sociais. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Desenvolvimento / Especialidade: Mercado de Trabalho. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Urbana. Setores de atividade: Mercado de Trabalho e Mão-De-Obra; Educação; Planejamento e Gestão das Cidades, Inclusive Política e Planejamento Habitacional."
+    },
+    {
+      "tipo": "Especialização em Economia Política",
+      "nome_instituicao": "(Carga Horária: 920h)",
+      "ano_inicio": "1997",
+      "ano_conclusao": "1999",
+      "descricao": "Universidade Federal da Bahia, UFBA, Brasil. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil."
+    },
+    {
+      "tipo": "Graduação em Sociologia",
+      "nome_instituicao": "Universidade Paulista, UNIP, Brasil",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2024",
+      "descricao": ""
+    },
+    {
+      "tipo": "Graduação em Ciências Econômicas",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "1990",
+      "ano_conclusao": "1995",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil.",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": "Celetista",
+      "enquadramento": "Professora horista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Pro Reitoria de Pesquisa e Pós Graduação, Políticas Sociais e Cidadania."
+      ]
+    },
+    {
+      "instituicao": "Universidade Católica do Salvador, UCSAL, Brasil",
+      "instituicao_nome": "Universidade Católica do Salvador",
+      "instituicao_sigla": "UCSAL",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2021",
+      "ano_inicio": "2019",
+      "ano_fim": "2021",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista de Pesquisa",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": "Bolsista",
+      "enquadramento": "Professora colaboradora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": "Bolsista",
+      "enquadramento": "Professora colaboradora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": "Bolsista",
+      "enquadramento": "Professora colaboradora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": "Bolsista",
+      "enquadramento": "Professora colaboradora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": "Bolsista",
+      "enquadramento": "Estágio docente",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": "Bolsista",
+      "enquadramento": "Estágio docente",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2014",
+      "ano_inicio": "2012",
+      "ano_fim": "2014",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista de Pesquisa",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1995 - 1998",
+      "ano_inicio": "1995",
+      "ano_fim": "1998",
+      "vinculo": "Outro",
+      "enquadramento": "Bolsista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2016 - 11/2021",
+      "ano_inicio": "2016",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Faculdade de Filosofia e Ciências Humanas."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Faculdade de Ciências Econômicas, Departamento de Economia Aplicada."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Faculdade de Ciências Econômicas, Departamento de Economia Aplicada."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio de Janeiro, UFRJ, Brasil.",
+      "instituicao_nome": "Universidade Federal do Rio de Janeiro",
+      "instituicao_sigla": "UFRJ",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - 2024",
+      "ano_inicio": "2023",
+      "ano_fim": "2024",
+      "vinculo": "Bolsista",
+      "enquadramento": "Pesquisadora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio de Janeiro, UFRJ, Brasil",
+      "instituicao_nome": "Universidade Federal do Rio de Janeiro",
+      "instituicao_sigla": "UFRJ",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio de Janeiro, UFRJ, Brasil.",
+      "instituicao_nome": "Universidade Federal do Rio de Janeiro",
+      "instituicao_sigla": "UFRJ",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2018",
+      "ano_inicio": "2017",
+      "ano_fim": "2018",
+      "vinculo": "Bolsista",
+      "enquadramento": "Pesquisadora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio de Janeiro, UFRJ, Brasil",
+      "instituicao_nome": "Universidade Federal do Rio de Janeiro",
+      "instituicao_sigla": "UFRJ",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015-2020",
+      "ano_inicio": "2015",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio de Janeiro, UFRJ, Brasil",
+      "instituicao_nome": "Universidade Federal do Rio de Janeiro",
+      "instituicao_sigla": "UFRJ",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto de Pesquisa Planejamento Urbano e Regional."
+      ]
+    },
+    {
+      "instituicao": "Instituto de Pesquisa Econômica Aplicada - DF, IPEA, Brasil.",
+      "instituicao_nome": "Instituto de Pesquisa Econômica Aplicada - DF",
+      "instituicao_sigla": "IPEA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2022 - 2023",
+      "ano_inicio": "2022",
+      "ano_fim": "2023",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Pesquisa Econômica Aplicada - DF, IPEA, Brasil",
+      "instituicao_nome": "Instituto de Pesquisa Econômica Aplicada - DF",
+      "instituicao_sigla": "IPEA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Pesquisa Econômica Aplicada - DF, IPEA, Brasil",
+      "instituicao_nome": "Instituto de Pesquisa Econômica Aplicada - DF",
+      "instituicao_sigla": "IPEA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2022 - 03/2023",
+      "ano_inicio": "2022",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto de Pesquisa Econômica e Aplicada."
+      ]
+    },
+    {
+      "instituicao": "Fundação Escola Politécnica da Bahia, FEPBA, Brasil.",
+      "instituicao_nome": "Fundação Escola Politécnica da Bahia",
+      "instituicao_sigla": "FEPBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2020",
+      "ano_inicio": "2019",
+      "ano_fim": "2020",
+      "vinculo": "Colaborador",
+      "enquadramento": "Consultora por produto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Escola Politécnica da Bahia, FEPBA, Brasil",
+      "instituicao_nome": "Fundação Escola Politécnica da Bahia",
+      "instituicao_sigla": "FEPBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Recôncavo da Bahia, UFRB, Brasil.",
+      "instituicao_nome": "Universidade Federal do Recôncavo da Bahia",
+      "instituicao_sigla": "UFRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2018",
+      "ano_inicio": "2017",
+      "ano_fim": "2018",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professora Substituta",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Recôncavo da Bahia, UFRB, Brasil",
+      "instituicao_nome": "Universidade Federal do Recôncavo da Bahia",
+      "instituicao_sigla": "UFRB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "disciplinas": [
+        "Sociologia Geral, Sociologia Rural, Sociologia e Extensão Rural, Metodologia da Pesquisa."
+      ]
+    },
+    {
+      "instituicao": "Fundo das Nações Unidas para a Infância (BA), UNICEF, Brasil.",
+      "instituicao_nome": "Fundo das Nações Unidas para a Infância (BA)",
+      "instituicao_sigla": "UNICEF",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2012",
+      "ano_inicio": "2007",
+      "ano_fim": "2012",
+      "vinculo": "Contrato",
+      "enquadramento": "Assessor Técnico em Monitoramento e Avaliação",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundo das Nações Unidas para a Infância (BA), UNICEF, Brasil",
+      "instituicao_nome": "Fundo das Nações Unidas para a Infância (BA)",
+      "instituicao_sigla": "UNICEF",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundo das Nações Unidas para a Infância (BA), UNICEF, Brasil",
+      "instituicao_nome": "Fundo das Nações Unidas para a Infância (BA)",
+      "instituicao_sigla": "UNICEF",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2008 - 10/2012",
+      "ano_inicio": "2008",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Escritório Salvador."
+      ]
+    },
+    {
+      "instituicao": "Fundo das Nações Unidas para a Infância (BA), UNICEF, Brasil",
+      "instituicao_nome": "Fundo das Nações Unidas para a Infância (BA)",
+      "instituicao_sigla": "UNICEF",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2010 - 10/2011",
+      "ano_inicio": "2010",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Instituto Brasileiro de Geografia e Estatística, IBGE, Brasil.",
+      "instituicao_nome": "Fundação Instituto Brasileiro de Geografia e Estatística",
+      "instituicao_sigla": "IBGE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2002 - 2004",
+      "ano_inicio": "2002",
+      "ano_fim": "2004",
+      "vinculo": "Servidor público",
+      "enquadramento": "Tecnologista Junior I",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Instituto Brasileiro de Geografia e Estatística, IBGE, Brasil",
+      "instituicao_nome": "Fundação Instituto Brasileiro de Geografia e Estatística",
+      "instituicao_sigla": "IBGE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Instituto Brasileiro de Geografia e Estatística, IBGE, Brasil",
+      "instituicao_nome": "Fundação Instituto Brasileiro de Geografia e Estatística",
+      "instituicao_sigla": "IBGE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, DPE - Diretoria de Pesquisas, COREN - Coordenação de Trabalho e Rendimento."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil.",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - 2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": "Professor Visitante",
+      "enquadramento": "Convidada",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Ceará, UFC, Brasil",
+      "instituicao_nome": "Universidade Federal do Ceará",
+      "instituicao_sigla": "UFC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil.",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": "2004 - 2007",
+      "ano_inicio": "2004",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": "Outro (especifique) - Cargo",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil.",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": "2001 - 2002",
+      "ano_inicio": "2001",
+      "ano_fim": "2002",
+      "vinculo": "Colaborador",
+      "enquadramento": "Outro",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil.",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": "2001 - 2001",
+      "ano_inicio": "2001",
+      "ano_fim": "2001",
+      "vinculo": "Pesquisador",
+      "enquadramento": "Supervisora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Coordenação de Pesquisas Sociais."
+      ]
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Coordenação de Pesquisas Sociais."
+      ]
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Superintendência de Estudos Econômicos e Sociais, SEI, Brasil",
+      "instituicao_nome": "Superintendência de Estudos Econômicos e Sociais",
+      "instituicao_sigla": "SEI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Gerência de Estudos e Acompanhamento Conjuntural."
+      ]
+    },
+    {
+      "instituicao": "Secretaria de Educação do Estado da Bahia, SEEBA, Brasil.",
+      "instituicao_nome": "Secretaria de Educação do Estado da Bahia",
+      "instituicao_sigla": "SEEBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2016 - 2017",
+      "ano_inicio": "2016",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": "Diretora de Avaliação",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria de Educação do Estado da Bahia, SEEBA, Brasil",
+      "instituicao_nome": "Secretaria de Educação do Estado da Bahia",
+      "instituicao_sigla": "SEEBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria de Educação do Estado da Bahia, SEEBA, Brasil.",
+      "instituicao_nome": "Secretaria de Educação do Estado da Bahia",
+      "instituicao_sigla": "SEEBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2016",
+      "ano_inicio": "2015",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": "Coordenadora I",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria de Educação do Estado da Bahia, SEEBA, Brasil",
+      "instituicao_nome": "Secretaria de Educação do Estado da Bahia",
+      "instituicao_sigla": "SEEBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria de Educação do Estado da Bahia, SEEBA, Brasil",
+      "instituicao_nome": "Secretaria de Educação do Estado da Bahia",
+      "instituicao_sigla": "SEEBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2015 - 03/2017",
+      "ano_inicio": "2015",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Coordenação de Desenvolvimento da Educação Superior (CODES)."
+      ]
+    },
+    {
+      "instituicao": "Secretaria de Planejamento do Estado da Bahia, SEPLAN BA, Brasil.",
+      "instituicao_nome": "Secretaria de Planejamento do Estado da Bahia",
+      "instituicao_sigla": "SEPLAN BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - 2015",
+      "ano_inicio": "2014",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": "Diretora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria de Planejamento do Estado da Bahia, SEPLAN BA, Brasil",
+      "instituicao_nome": "Secretaria de Planejamento do Estado da Bahia",
+      "instituicao_sigla": "SEPLAN BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2016-2019",
+      "ano_inicio": "2016",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria de Planejamento do Estado da Bahia, SEPLAN BA, Brasil",
+      "instituicao_nome": "Secretaria de Planejamento do Estado da Bahia",
+      "instituicao_sigla": "SEPLAN BA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2014 - 07/2015",
+      "ano_inicio": "2014",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Superintendência de Planejamento Estratégico (SPE)."
+      ]
+    },
+    {
+      "instituicao": "Organizacão Internacional do Trabalho, OIT, Brasil.",
+      "instituicao_nome": "Organizacão Internacional do Trabalho",
+      "instituicao_sigla": "OIT",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": "Consultora",
+      "enquadramento": "Avaliadora independente",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Organizacão Internacional do Trabalho, OIT, Brasil",
+      "instituicao_nome": "Organizacão Internacional do Trabalho",
+      "instituicao_sigla": "OIT",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009-2012",
+      "ano_inicio": "2009",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil.",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2015",
+      "ano_inicio": "2015",
+      "ano_fim": "2015",
+      "vinculo": "Professor horista",
+      "enquadramento": "Professor horista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Salvador, UNIFACS, Brasil",
+      "instituicao_nome": "Universidade Salvador",
+      "instituicao_sigla": "UNIFACS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Associação Baiana de Educação e Cultura Faculdades Diplomata, ASBEC, Brasil.",
+      "instituicao_nome": "Associação Baiana de Educação e Cultura Faculdades Diplomata",
+      "instituicao_sigla": "ASBEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2000 - 2002",
+      "ano_inicio": "2000",
+      "ano_fim": "2002",
+      "vinculo": "Celetista",
+      "enquadramento": "Professora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Associação Baiana de Educação e Cultura Faculdades Diplomata, ASBEC, Brasil",
+      "instituicao_nome": "Associação Baiana de Educação e Cultura Faculdades Diplomata",
+      "instituicao_sigla": "ASBEC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Associação Baiana de Educação e Cultura Faculdades Diplomata, ASBEC, Brasil",
+      "instituicao_nome": "Associação Baiana de Educação e Cultura Faculdades Diplomata",
+      "instituicao_sigla": "ASBEC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Educação Superior Unyahna, IESUS, Brasil.",
+      "instituicao_nome": "Instituto de Educação Superior Unyahna",
+      "instituicao_sigla": "IESUS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2001 - 2002",
+      "ano_inicio": "2001",
+      "ano_fim": "2002",
+      "vinculo": "Celetista",
+      "enquadramento": "Professora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Educação Superior Unyahna, IESUS, Brasil",
+      "instituicao_nome": "Instituto de Educação Superior Unyahna",
+      "instituicao_sigla": "IESUS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Educação Superior Unyahna, IESUS, Brasil",
+      "instituicao_nome": "Instituto de Educação Superior Unyahna",
+      "instituicao_sigla": "IESUS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Federação das Indústrias do Estado da Bahia, FIEB, Brasil.",
+      "instituicao_nome": "Federação das Indústrias do Estado da Bahia",
+      "instituicao_sigla": "FIEB",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 2001",
+      "ano_inicio": "1999",
+      "ano_fim": "2001",
+      "vinculo": "Celetista",
+      "enquadramento": "Economista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "INCT Observatório das Metrópoles",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Pesquisadora e Coordenadora Adjunta do Núcleo Salvador. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Cláudia Monteiro Fernandes - Integrante / PEREIRA, Gilberto Corso - Coordenador / Maina Pirajá Silva - Integrante / Juan Pedro Moreno Delgado - Integrante / Maria das Graças Gondim dos Santos Pereira - Integrante / Rafael de Aguiar Arantes - Integrante / Pablo Vieira Florentino - Integrante / Aparecida Netto Teixeira - Integrante / Laila Nazem Mourad - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Cláudia Monteiro Fernandes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "PEREIRA, Gilberto Corso",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Maina Pirajá Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juan Pedro Moreno Delgado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria das Graças Gondim dos Santos Pereira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rafael de Aguiar Arantes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Pablo Vieira Florentino",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Aparecida Netto Teixeira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Laila Nazem Mourad",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "CURSO DE ATUALIZAÇÃO EM GESTÃO EDUCACIONAL E PRÁTICAS PEDAGÓGICAS",
+      "ano_inicio": "2025",
+      "ano_conclusao": "2025",
+      "descricao": [
+        "Descrição: Curso com o objetivo geral de promover a atualização de profissionais de educação, que ocupam a função de diretores escolares que atendem o 6. ao 9. ano na rede pública de ensino do município de Salvador, articulada com a formação de estudantes de graduação da área de educação da UCSal, a partir de estudos temáticos, que discutem teorias de gestão educacional e práticas pedagógicas curriculares, a partir da viabilidade de uma pesquisa-ação, enquanto instrumento diagnóstico da realidade que abre o diálogo com a universidade.. Situação: Concluído; Natureza: Extensão. Integrantes: Cláudia Monteiro Fernandes - Coordenador / Maria Gorete Borges Figueirêdo - Integrante / Maria de Fátima Pessoa Leipkson - Integrante / Kátia Oliver de Sá - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Cláudia Monteiro Fernandes",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Maria Gorete Borges Figueirêdo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria de Fátima Pessoa Leipkson",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Kátia Oliver de Sá",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Sociologia do Desenvolvimento",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Desenvolvimento."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Relações Étnicas e Raciais",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Relações Étnicas e Raciais."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Sociologia Urbana",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Urbana."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Economia",
+      "subarea": "Métodos Quantitativos em Economia",
+      "especialidade": "Estatística Sócio-Econômica",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Economia / Subárea: Métodos Quantitativos em Economia/Especialidade: Estatística Sócio-Econômica."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Ciência Política",
+      "subarea": "Políticas Públicas",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Ciência Política / Subárea: Políticas Públicas."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Gênero",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Gênero."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Trabalho Infantil",
+      "objetivo": ""
+    },
+    {
+      "nome": "Trabalho do Adolescente",
+      "objetivo": ""
+    },
+    {
+      "nome": "Relações Raciais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Desigualdades socioeconômicas",
+      "objetivo": ""
+    },
+    {
+      "nome": "Gênero e interseccionalidade",
+      "objetivo": ""
+    },
+    {
+      "nome": "Desigualdades educacionais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Educação Superior",
+      "objetivo": ""
+    },
+    {
+      "nome": "Informalidade na Região Metropolitana de Salvador",
+      "objetivo": ""
+    },
+    {
+      "nome": "Perfil da Ocupação na Região Metropolitana de Salvador",
+      "objetivo": ""
+    },
+    {
+      "nome": "Economia Baiana",
+      "objetivo": ""
+    },
+    {
+      "nome": "Políticas Públicas",
+      "objetivo": ""
+    },
+    {
+      "nome": "Demografia",
+      "objetivo": ""
+    },
+    {
+      "nome": "Mercado de Trabalho",
+      "objetivo": ""
+    },
+    {
+      "nome": "Indicadores sociais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Desigualdades",
+      "objetivo": ""
+    },
+    {
+      "nome": "Pobreza",
+      "objetivo": ""
+    },
+    {
+      "nome": "Famílias",
+      "objetivo": ""
+    },
+    {
+      "nome": "Rendimento",
+      "objetivo": ""
+    },
+    {
+      "nome": "Trabalho",
+      "objetivo": ""
+    },
+    {
+      "nome": "Crianças e Adolescentes das Comunidades Populares dos Centros Urbanos",
+      "objetivo": ""
+    },
+    {
+      "nome": "Infância no Semiárido Brasileiro",
+      "objetivo": ""
+    },
+    {
+      "nome": "Situação da Infância e Adolescência no Brasil",
+      "objetivo": ""
+    },
+    {
+      "nome": "Metrópoles Brasileiras",
+      "objetivo": ""
+    },
+    {
+      "nome": "Estrutura Social",
+      "objetivo": ""
+    },
+    {
+      "nome": "Dinâmica Econômica, Mudanças Sociais e Novas Pautas de Políticas Públicas",
+      "objetivo": ""
+    },
+    {
+      "nome": "2. Estado, desenvolvimento e desigualdades sociais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Gênero e Gerações",
+      "objetivo": ""
+    },
+    {
+      "nome": "Teoria Social Crítica e Interseccionalidade",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Desigualdade, segregação espacial e violência urbana em Salvador",
+        "ano": 2025,
+        "autores": "FERNANDES, CLAUDIA MONTEIRO",
+        "revista": "Bahia Análise & Dados",
+        "volume": "34",
+        "numero": "",
+        "paginas": "276-295-295",
+        "issn": "0103-8117",
+        "doi": "http://dx.doi.org/10.56839/bd.v34i2.a14",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [
+      {
+        "titulo": "Desafios metodológicos da construção de pontes pela extensão universitária de Porgramas de Pós-Graduação",
+        "ano": 2026,
+        "autores": "SA, K. O. ; FIGUEIREDO, M. G. B. ; FERNANDES, C. M. ; TELES, A. ; SANTOS, L.",
+        "titulo_livro": "",
+        "editora": "UCSal Press",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "47-79"
+      }
+    ],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "ENVELHEÇO NA CIDADE: TRANSIÇÃO DEMOGRÁFICA, GÊNERO E TRABALHO DE CUIDADOS NAS METRÓPOLES BRASILEIRAS",
+        "ano": 2025,
+        "autores": "FERNANDES, CLÁUDIA MONTEIRO",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [
+      {
+        "titulo": "Salvador do Carnaval ? e das construções nas nossas praias",
+        "ano": 2026,
+        "autores": "FERNANDES, CLÁUDIA MONTEIRO",
+        "jornal": "",
+        "cidade": "",
+        "data": "10 fev. 2026"
+      }
+    ],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "Naturalizar, hierarquizar, decidir: efeitos da linguagem em políticas públicas de gênero",
+          "ano_inicio": 2026,
+          "orientando": "Lisdeili Maria Nobre Guimarães Dantas",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "PARTICIPAÇÃO FEMININA NO JUDICIÁRIO, ?DO DISCURSO À PRÁTICA?: A (NÃO) PRESENÇA DE MULHERES NOS ESPAÇOS DECISÓRIOS E POLÍTICAS JUDICIÁRIAS NOS TRIBUNAIS",
+          "ano_inicio": 2025,
+          "orientando": "Manuela Hermes de Lima",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "A VIOLÊNCIA DE GÊNERO E CIDADANIA: DESAFIOS PARA A CONSTRUÇÃO DE UMA SOCIEDADE JUSTA NO ESTADO DE TOCANTINS",
+          "ano_inicio": 2025,
+          "orientando": "Rosa Maria da Silva Leite",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "POLÍTICAS PÚBLICAS, ORÇAMENTO, GARANTIA DOS DIREITOS FUNDAMENTAIS E O DEBATE EM TORNO DA JUDICIALIZAÇÃO DA POLÍTICA",
+          "ano_inicio": 2025,
+          "orientando": "Valdery Matias da Conceição",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Acesso à Justiça e Direitos Humanos no Brasil",
+          "ano_inicio": 2025,
+          "orientando": "Pablo Araujo Macedo",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "DESIGUALDADE DE ACESSO AOS CARGOS DE PODER: PERCEPÇÕES DAS VEREADORAS DA CÂMARA MUNICIPAL DE PALMAS SOBRE OS DESAFIOS DA REPRESENTATIVIDADE FEMININA",
+          "ano_inicio": 2025,
+          "orientando": "Eduarda Maria Ibiapina da Rocha Coelho",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "LEIS DE INICIATIVA PARLAMENTAR E O VETO DO EXECUTIVO: COMO O VETO AFETA O PROCESSO LEGISLATIVO E A IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS",
+          "ano_inicio": 2025,
+          "orientando": "Ana Maria Marinho Montelo Bomtempo",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        },
+        {
+          "titulo": "Transparência e participação cidadã nas transmissões audiovisuais da Câmara Municipal de Palmas: o papel da comunicação pública na efetivação de direitos e no controle social",
+          "ano_inicio": 2025,
+          "orientando": "Lucas Rodrigues da Silva",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Católica do Salvador",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "2º Webinário \"Precisamos falar do trabalho de cuidado\" - Bases normativas - Conselho Nacional de Justiça",
+        "apresentacao": null,
+        "ano": 2026,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Encontro Pedagógico 2026",
+        "apresentacao": "1",
+        "ano": 2026,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "PPGPSC Aula Inaugural 2026-1",
+        "apresentacao": null,
+        "ano": 2026,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "28ª Semana de Mobilização Científica - SEMOC",
+        "apresentacao": "Oficina - Introdução à busca de referências e dados em Humanidades",
+        "ano": 2025,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "28ª Semana de Mobilização Científica - SEMOC",
+        "apresentacao": "Mesa Redonda - A UCSal no INCT Observatório das Metrópoles",
+        "ano": 2025,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V Fórum de Planejamento e Avaliação da UCSal",
+        "apresentacao": null,
+        "ano": 2025,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "PEREIRA, R. C.; FIGUEIREDO, M. G. B.; FERNANDES, CLÁUDIA MONTEIRO; AVILA, H. D. D.. Participação em banca de Rodolfo Cardoso Pereira. Controle Social e participação cidadã no SUS: a atuação do Conselho Municipal de Saúde de Camaçari-BA. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Rodolfo Cardoso Pereira",
+        "membros_banca": [
+          "PEREIRA, R. C.",
+          "FIGUEIREDO, M. G. B.",
+          "FERNANDES, CLÁUDIA MONTEIRO",
+          "AVILA, H. D. D."
+        ],
+        "titulo_trabalho": "Controle Social e participação cidadã no SUS: a atuação do Conselho Municipal de Saúde de Camaçari-BA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "SILVA, T.F.; FIGUEIREDO, M. G. B.; FERNANDES, CLÁUDIA MONTEIRO; NASCIMENTO, J.F.. Participação em banca de Tiago Ferreira da Silva. A auditoria interna enquanto instrumento de avaliação da governança do Regime Própiro de Previdência de Camaçari-BA. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Tiago Ferreira da Silva",
+        "membros_banca": [
+          "SILVA, T.F.",
+          "FIGUEIREDO, M. G. B.",
+          "FERNANDES, CLÁUDIA MONTEIRO",
+          "NASCIMENTO, J.F."
+        ],
+        "titulo_trabalho": "A auditoria interna enquanto instrumento de avaliação da governança do Regime Própiro de Previdência de Camaçari-BA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "MALLMANN, J. K. W.; TEIXEIRA, A.N.; TORRES, P. R.; FERNANDES, CLÁUDIA MONTEIRO. Participação em banca de JEAN KARLO WOICIECHOSKI MALLMANN. INVENTÁRIO ELETRÔNICO ESTATÍSTICO DO REGISTRO DE IMÓVEIS (IERI-E): DESAFIOS E PERSPECTIVAS PARA O CONTROLE DA MALHA IMOBILIÁRIA BRASILEIRA. 2025. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "JEAN KARLO WOICIECHOSKI MALLMANN",
+        "membros_banca": [
+          "MALLMANN, J. K. W.",
+          "TEIXEIRA, A.N.",
+          "TORRES, P. R.",
+          "FERNANDES, CLÁUDIA MONTEIRO"
+        ],
+        "titulo_trabalho": "INVENTÁRIO ELETRÔNICO ESTATÍSTICO DO REGISTRO DE IMÓVEIS (IERI-E): DESAFIOS E PERSPECTIVAS PARA O CONTROLE DA MALHA IMOBILIÁRIA BRASILEIRA",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "SILVA, T.F.; FIGUEIREDO, M. G. B.; FERNANDES, CLÁUDIA MONTEIRO; NASCIMENTO, J.F.. Participação em banca de Tiago Ferreira da Silva. A auditoria interna enquanto instrumento de avaliação da governança do Regime Própiro de Previdência de Camaçari-BA. 2025. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Tiago Ferreira da Silva",
+        "membros_banca": [
+          "SILVA, T.F.",
+          "FIGUEIREDO, M. G. B.",
+          "FERNANDES, CLÁUDIA MONTEIRO",
+          "NASCIMENTO, J.F."
+        ],
+        "titulo_trabalho": "A auditoria interna enquanto instrumento de avaliação da governança do Regime Própiro de Previdência de Camaçari-BA",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "MALLMANN, J. K. W.; TEIXEIRA, A.N.; FERNANDES, CLÁUDIA MONTEIRO; TORRES, P. R.. Participação em banca de JEAN KARLO WOICIECHOSKI MALLMANN. INVENTÁRIO ELETRÔNICO ESTATÍSTICO DO REGISTRO DE IMÓVEIS (IERI-E): DESAFIOS E PERSPECTIVAS PARA O CONTROLE DA MALHA IMOBILIÁRIA BRASILEIRA. 2025. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "JEAN KARLO WOICIECHOSKI MALLMANN",
+        "membros_banca": [
+          "MALLMANN, J. K. W.",
+          "TEIXEIRA, A.N.",
+          "FERNANDES, CLÁUDIA MONTEIRO",
+          "TORRES, P. R."
+        ],
+        "titulo_trabalho": "INVENTÁRIO ELETRÔNICO ESTATÍSTICO DO REGISTRO DE IMÓVEIS (IERI-E): DESAFIOS E PERSPECTIVAS PARA O CONTROLE DA MALHA IMOBILIÁRIA BRASILEIRA",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "FERNANDES, C. M.; PEREIRA, G.C.; ARANTES, R.A.; DELGADO, J. P. M.; SANTOS, J.L.C.. Participação em banca de Rodrigo Cortes Almeida. Regimes Urbanos e Governança: Coalizões urbanas e dinâmicas de acumulação urbana na Região Metropolitana de Salvador. 2025. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Arquitetura e Urbanismo) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Rodrigo Cortes Almeida",
+        "membros_banca": [
+          "FERNANDES, C. M.",
+          "PEREIRA, G.C.",
+          "ARANTES, R.A.",
+          "DELGADO, J. P. M.",
+          "SANTOS, J.L.C."
+        ],
+        "titulo_trabalho": "Regimes Urbanos e Governança: Coalizões urbanas e dinâmicas de acumulação urbana na Região Metropolitana de Salvador",
+        "curso": "Exame de qualificação (Doutorando em Programa de Pós-Graduação em Arquitetura e Urbanismo)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 1,
+    "total_livros": 0,
+    "total_capitulos": 1,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 1,
+    "total_projetos_extensao": 1,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 8
+  }
+}

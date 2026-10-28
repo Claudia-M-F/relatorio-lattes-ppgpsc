@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-10-28">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="url" type="string" />
+      <attribute id="1" title="publicacoesEmCoautoria" type="long" />
+      <attribute id="2" title="atualizacaoCV" type="string" />
+      <attribute id="3" title="resumo" type="string" />
+      <attribute id="4" title="rotulo" type="string" />
+      <attribute id="5" title="periodo" type="string" />
+      <attribute id="6" title="nomePrimeiraGrandeArea" type="string" />
+      <attribute id="7" title="nomePrimeiraArea" type="string" />
+      <attribute id="8" title="instituicao" type="string" />
+      <attribute id="9" title="enderecoProfissional" type="string" />
+      <attribute id="10" title="artigosPeriodicos" type="long" />
+      <attribute id="11" title="artigosEventos" type="long" />
+      <attribute id="12" title="capitulosDeLivros" type="long" />
+      <attribute id="13" title="livros" type="long" />
+      <attribute id="14" title="color" type="string" />
+      <attribute id="15" title="fontColor" type="string" />
+      <attribute id="16" title="degree" type="long" />
+      <attribute id="17" title="x" type="double" />
+      <attribute id="18" title="y" type="double" />
+      <attribute id="19" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="0" label="Dirley da Cunha Júnior">
+        <viz:color r="251" g="128" b="114" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/2828640231760353" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="05/08/2026" />
+          <attvalue for="3" value="É Professor Titular de Direito Constitucional da Universidade Federal da Bahia (UFBA), onde ensina nos Cursos de Graduação, Mestrado e Doutorado em Direito. Também é Professor Titular da Universidade Católica do Salvador (UCSAL), onde leciona, no Curso de Graduação em Direito, a disciplina Direito Constitucional, e nos Cursos de Mestrado e Doutorado em Políticas Sociais e Cidadania, as disciplinas Direitos Fundamentais e Efetividade dos Direitos Sociais, Judicialização da Política, Ativismo e Efetividade dos Direitos Sociais. É Professor do Mestrado Profissional em Gestão de Sistemas de Justiça e de mecanismos de Efetivação de Direitos da Faculdade Baiana de Direito. É Pós-Doutor em Direito Constitucional pela Universidade de Lisboa/Portugal (2015-2016). É Doutor em Direito Constitucional pela Pontifícia Universidade Católica de São Paulo - PUC/SP (2001-2003) e Mestre em Direito Econômico pela Universidade Federal da Bahia - UFBA (1996-1999). É Graduado em Direito pela Universidade Federal da Bahia (1987-1991). É Professor Convidado das Escolas Judiciais do TRT 5a Região (BA), TRT 24a Região (MS), TRT 12a Região (SC), da Escola Judicial do TJSE (EJUSE - Escola Judicial do Estado de Sergipe), da Universidade Corporativa do TJBA (UNICORP), da Academia Judicial do TJSC e da Escola da Magistratura Federal da 1a Região do TRF-1a Região (ESMAF/TRF1). Leciona, como conferencista, em diversos Cursos de Pós-Graduação em Direito no País. Tem experiência na área de Direito Público, com ênfase em Direito Constitucional, atuando principalmente nos seguintes temas: Jurisdição Constitucional e Controle de Constitucionalidade; Processo Constitucional e Efetividade dos Direitos Fundamentais; Reforma do Poder Judiciário; Judicialização e Direitos Sociais; Direito Administrativo; e investiga os temas ligados ao Direito, às Políticas Sociais e Cidadania. É Professor-pesquisador do CNPQ, liderando dois grupos de pesquisa. Na Universidade Federal da Bahia, lidera o Núcleo de Pesquisa em ''Jurisdição Constitucional e Controle de Constitucionalidade''. Na UCSAL, lidera o Núcleo de Pesquisa em ''Processo Constitucional e Direitos Fundamentais'', tendo como linhas de pesquisa ''Cidadania e Efetividade dos Direitos'' e ''Jurisdição Constitucional e Efetividade dos Direitos Fundamentais''; e é vice-líder na UFBA do núcleo de pesquisa ''O Discurso Jusfundamental da Dignidade da Pessoa Humana no Direito Comparado''. Atualmente, está desenvolvendo, no Programa de Mestrado e Doutorado em Políticas Sociais e Cidadania da UCSAL, o Projeto de Pesquisa sobre Cidadania e Efetividade dos Direitos Sociais; e no Programa de Mestrado e Doutorado em Direito da UFBA, o Projeto de Pesquisa sobre ''Jurisdição Constitucional e Efetividade dos Direitos Fundamentais''. Possui diversos Livros e Artigos publicados. É Autor dos Livros ''Curso de Direito Constitucional'' (Editora Juspodivm, já na 19a edição), ''Curso de Direito Administrativo'' (Editora Juspodivm, já na 22a edição), ''Controle de Constitucionalidade no Brasil e no Direito Comparado'' (Editora Juspodivm, já na 13a edição), ''Controle Judicial das Omissões do Poder Público'' (Editora Saraiva, 2a edição), ''Constituição Federal para Concursos'' (Editora Juspodivm, já na 16a edição, em coautoria com Marcelo Novelino). É Titular da Cadeira n 09 da Academia de Letras Jurídicas da Bahia. É Membro da Associação Brasileira de Constitucionalistas Democratas (ABCD). É Membro Fundador e Presidente de Honra do Instituto de Direito Constitucional da Bahia (IDCB). É Juiz Federal Titular na Seção Judiciária da Bahia (desde 1999), mas já foi Promotor de Justiça na Bahia (1992-1995) e Procurador da República (1995-1999). Foi Juiz Federal Diretor do Foro da Justiça Federal da Bahia, cargo que ocupou no biênio 2018-2020. (Texto informado pelo autor)" />
+          <attvalue for="4" value="Permanente" />
+          <attvalue for="5" value="2000" />
+          <attvalue for="6" value="Ciências Sociais Aplicadas" />
+          <attvalue for="7" value="Direito" />
+          <attvalue for="8" value="Universidade Católica do Salvador, Faculdade de Direito, Departamento de Direito Publico" />
+          <attvalue for="9" value="Universidade Católica do Salvador, Faculdade de Direito, Departamento de Direito Publico. Campus da Federação Federação Salvador, BA - Brasil URL da Homepage: http://" />
+          <attvalue for="10" value="12" />
+          <attvalue for="11" value="4" />
+          <attvalue for="12" value="34" />
+          <attvalue for="13" value="37" />
+          <attvalue for="14" value="#fb8072" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.2063993357002022" />
+          <attvalue for="18" value="0.6874259463968241" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="1" label="Julie Sarah Lourau Alves da Silva">
+        <viz:color r="251" g="128" b="114" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/4556425108523824" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="09/09/2026" />
+          <attvalue for="3" value="Antropóloga. Professora assistente no PPG de Políticas Sociais e Cidadania da Universidade Católica do Salvador. Líder do grupo de pesquisa Antropologia, Fronteiras, Espaços e Cidadania (GP AFEC). Doutora em Antropologia Social e Etnologia da École des Hautes Études en Sciences sociales (EHESS-França) sob a direção de Michel Agier e doutorado em Ciências Sociais da Universidade Federal da Bahia (UFBA) sob a direção de Maria Rosario de Carvalho (cotutela): ''Festas, turismo e identidades em Salvador da Bahia _ Os pobres do comércio de rua na mega festa carnaval (2013). Fez estágio pós-doutoral CAPES/PNPD no PPG Políticas Sociais e Cidadania da Universidade Católica do Salvador de 2013 a 2017 e foi professora visitante na Universidade de Toulouse em setembro de 2021 a convite do departamento de Geografia (Lisst-Cieu). Teve acolhimento institucional do Laboratório das Ciências Sociais do Político (LaSSP) do Instituto de Ciência Política de Toulouse Capitole 1, sendo membro da equipe de pesquisa Culture Rights, a turning point for cultural policies? A comparison of South Africa, Brazil and France (2019-2023). Membro do Grupo de trabalho Direito à cidade antirracista e equidade de gênero da Ouvidoria da defensoria pública (DP-BA). Coordenadora do Programa de Pós-Graduação Políticas Sociais e Cidadania de julho de 2020 a dezembro de 2021.Trabalha os temas relativos à Direito à cidade; Mobilidades urbanas; Políticas culturais; Juventudes; Estudos das relações étnico-raciais; Ações afirmativas; Antropologia da cidade e Epistemologias críticas e decoloniais. Sócia efetiva da Associação brasileira de antropologia (ABA) desde 2014 e da Associação Brasileira de Pesquisadores Negros (ABPN) desde 2021. (Texto informado pelo autor)" />
+          <attvalue for="4" value="Permanente" />
+          <attvalue for="5" value="2013" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="8" />
+          <attvalue for="11" value="3" />
+          <attvalue for="12" value="4" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="#fb8072" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.08210812855205436" />
+          <attvalue for="18" value="0.008850220272283526" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="2" label="Maria de Fátima Pessôa Lepikson">
+        <viz:color r="251" g="128" b="114" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7702914755827440" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="28/07/2026" />
+          <attvalue for="3" value="Assistente Social formada pela Escola de Serviço Social da Universidade Católica do Salvador / UCSAL (1978); possui doutorado em Educação pela Universidade Federal da Bahia (2014), mestrado em Educação pela Universidade Federal de Santa Catarina (1998) e especialização em Metodologia do Ensino Superior pela ?Faculdades Olga Mettig?. Assumiu a função de coordenadora do Programa de Mestrado e Doutorado em Políticas Sociais e Cidadania da Universidade Católica do Salvador -UCSAL de janeiro de 2018 a junho de 2020; atualmente é membro do corpo docente deste PPG. Foi membro da Comissão que elaborou Projeto de Mestrado Profissional em Educação (APCN /CAPES) / Programa de Pós-Graduação da UCSAL; foi coordenadora da Escola de Serviço Social da UCSal do qual é hoje, professora; membro do Núcleo Docente Estruturante (NDE) da UCSal; é líder do Grupo de Pesquisa Questão Social, Estado e Sociedade Civil. Presidiu o Conselho Municipal dos Direitos da Criança e do Adolescente da cidade do Salvador / Bahia (por duas gestões 2004/2006 e 2006/2008); exerceu, até o ano de 2016, funções relacionadas à educação popular, mais especificamente execução direta, coordenação e assessoria de projetos voltados para comunidades de periferia e crianças e adolescentes em situação de rua. (Texto informado pelo autor) (Texto informado pelo autor)" />
+          <attvalue for="4" value="Permanente" />
+          <attvalue for="5" value="2004" />
+          <attvalue for="6" value="Ciências Sociais Aplicadas" />
+          <attvalue for="7" value="Serviço Social" />
+          <attvalue for="8" value="Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania" />
+          <attvalue for="9" value="Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania. Av. Cardeal da Silva, 205 Federação 40231305 - Salvador, BA - Brasil Telefone: (71) 32478711 URL da Homepage: http://ucsal.br" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="4" />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="#fb8072" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="2" />
+          <attvalue for="17" value="0.05601669527187619" />
+          <attvalue for="18" value="0.01497918690663884" />
+          <attvalue for="19" value="3" />
+        </attvalues>
+      </node>
+      <node id="3" label="Kátia Oliver de Sá">
+        <viz:color r="251" g="128" b="114" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/4245810315007996" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="07/09/2026" />
+          <attvalue for="3" value="Doutorado em Educação pela UFBA em 2009. Em 2013 desenvolveu e concluiu estudos, pesquisa e estágio de Pós-doutoramento no PPG da Faculdade de Educação da UNICAMP em História e Filosofia da Educação. Possui Mestrado em Educação pela UFBA (2003). Licenciatura em Educação Física pela Universidade Católica do Salvador (1988). Tem especializações em: Angiologia (1990), Educação em Saúde Pública (1992), Metodologia e Didática do Ensino Superior (1994) e Liderança Organizacional (1998) e Pedagogia Histórico- Crítica para as Escolas do Campo (2015). Tem 35 anos de experiência em docência de ensino superior: Curso de Licenciatura em Educação Física da UCSal (1991 a 2008), UNIRB (2007 a 2013) e Curso de Bacharelado em Hotelaria e Turismo da UNIFACS (2000 a 2002). Foi professora substituta na FACED/UFBA (1995 - 1997). É aposentada do serviço público da rede de ensino do estado da Bahia com 28 anos de serviços prestados à rede de ensino da educação básica (1974-2002); exerceu nesse período o cargo de Gerente do Ensino Fundamental e Educação Especial na SEC/BA (1995-1999). Foi integrante e fundadora do Instituto de Ciências da Atividade Física (ICAF) da Fundação Baiana para o Desenvolvimento da Medicina e desenvolveu serviços nas áreas de Cineantropometria e Orientação de Profilaxia da Insuficiência Venosa Crônica em Membros Inferiores (1989-1996). Exerceu a Chefia de Departamento de Ciências Humanas do curso de Lic. em Educação Física (1994 a 1996) na UCSal. É membro pesquisadora da rede do Grupo de Pesquisa: LEPEL da FACED/UFBA e é líder dos grupos de pesquisa: GEPEFEL e GEPPGE do PPGPSC/UCSal. É pesquisadora associada ao Colégio Brasileiro de Ciências do Esporte (CBCE), em que exerceu o cargo de secretária no estado da Bahia (2004-2006). É membro e foi secretária no estado da Bahia da Associação Nacional pela Formação dos Profissionais da Educação - ANFOPE (2014 a 2016). Trabalhou como pesquisadora com bolsa da FAPEX no ano de 2010, realizando trabalhos pedagógicos e de pesquisa na Licenciatura da Educação do Campo da FACED/UFBA e implantou e coordenou o Polo de Referência de novas Tecnologias para a Educação do Campo no estado da Bahia pela UFBA. Desenvolveu pela FACED/UFBA o PRONACAMPO - Ação Escola da Terra, como formadora de professores de classes multisseriadas e quilombolas no ano de 2014. Foi bolsista pesquisadora do FNDE no ano de 2015, pelo PRONACAMPO na condição de conteudista na ação Escola da Terra, voltada para a formação de professores de educação do campo nos municípios do recôncavo do estado da Bahia; no ano de 2017 foi professora supervisora desse mesmo Programa. Atuou como membro Pesquisadora/Bolsa DTI-B/CNPq do Projeto Diagnóstico Nacional do Esporte - DIESPORTE no. 10.0184/01/01.0033 no ano de 2014 no LEPEL/FACED/UFBA. Foi membro pesquisadora e coordenadora no estado da Bahia do projeto de investigação - PRODUÇÃO DO CONHECIMENTO EM EDUCAÇÃO FÍSICA: Impacto do sistema de pós-graduação das regiões sul e sudeste do Brasil na formação e produção de mestres e doutores que atuam nas instituições de ensino superior da região nordeste, sob a coordenação geral do prof. Dr. Silvio Sánchez Gamboa - UNICAMP. (Financiamento da FAPESP - Proc. 2012 /500019-7), anuência (2011-2016). Atualmente é docente e foi coordenadora do Programa de Pós-Graduação stricto sensu em Políticas Sociais e Cidadania da Universidade Católica do Salvador (UCSal), período de agosto de 2021 a julho de 2023. É membro do Centro de Escrita Científica da UCSal, desde 2018; é membro do Centro de Estudo e Extensão Avançado CEA/UCSal). É atualmente, membro do Fórum de Educação do Estado da Bahia (FEEBA).desenvolve pesquisas e publicações na área de Estudos do Lazer, Educação do Campo, Prática pedagógica do Ensino Superior. Formação de Professores, Gestão Educacional; Epistemologia, Metodologia da Pesquisa, Educação Física, Formação Humana, Pedagogia Histórico Crítica e Psicologia Histórico-cultural. (Texto informado pelo autor)" />
+          <attvalue for="4" value="Permanente" />
+          <attvalue for="5" value="1991" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Filosofia" />
+          <attvalue for="8" value="Universidade Católica do Salvador, Programa de Políticas Sociais e Cidadania da UCSal" />
+          <attvalue for="9" value="Universidade Católica do Salvador, Programa de Políticas Sociais e Cidadania da UCSal. Avenida Reitor Miguel Calmon Canela 40110100 - Salvador, BA - Brasil Telefone: (71) 33687241" />
+          <attvalue for="10" value="7" />
+          <attvalue for="11" value="1" />
+          <attvalue for="12" value="3" />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="#fb8072" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="2" />
+          <attvalue for="17" value="0.025701097946594496" />
+          <attvalue for="18" value="0.022150994537134632" />
+          <attvalue for="19" value="3" />
+        </attvalues>
+      </node>
+      <node id="4" label="Joaci de Sousa Cunha">
+        <viz:color r="251" g="128" b="114" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7245172604097622" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="27/08/2026" />
+          <attvalue for="3" value="Doutor em História pela Universidade Federal da Bahia (UFBA, 2011), pós-doutor pelo Programa de Políticas Sociais e Cidadania da Universidade Católica do Salvador - UCSal (2020), onde desde 2022 é professor do quadro efetivo; mestre em História e Bacharel em Direito também pela UFBA. Tem experiência docente em pesquisa nas áreas de Brasil Republicano, História do Direito, Políticas e Movimentos Sociais, além de História Econômica. É assessor do Centro de Estudos e Ação Social e atual coeditor científico da revista Cadernos do CEAS. Pela Edufba publicou os livros O fazer político da Bahia na República (2017) e, em 2025, Questão agrária-ambiental e movimentos sociais: lições a partir do espaço baiano (1998-2022). (Texto informado pelo autor)" />
+          <attvalue for="4" value="Permanente" />
+          <attvalue for="5" value="1999" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Ciência Política" />
+          <attvalue for="8" value="Universidade Católica do Salvador, PPGPPC-UCSAL" />
+          <attvalue for="9" value="Universidade Católica do Salvador, PPGPPC-UCSAL. Avenida Professor Pinto de Aguiar Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (071) 991476548" />
+          <attvalue for="10" value="6" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="#fb8072" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.6809271956496874" />
+          <attvalue for="18" value="0.23550960644695387" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="5" label="Aparecida Netto Teixeira">
+        <viz:color r="251" g="128" b="114" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/4602341145962830" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="25/03/2026" />
+          <attvalue for="3" value="Doutora em Estruturas Ambientais Urbanas pela Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - FAUUSP (2004). Pós-doutorado no Programa de Pos Graduação da Universidade Federal da Bahia (PPGAU/UFBA) (2009-2010). Implantou e coordenou o Curso de Arquitetura e Urbanismo da Universidade Católica de Salvador/UCSAL (2015 a 2019), aprovado com nota máxima pelo MEC em 2019. Coordenadora de Pesquisa e Inovação/UCSAL (2020 a 2022). Atualmente é Coordenadora do Programa de Pós-Graduação de Políticas Sociais e Cidadania (UCSAL), Profa. Colaboradora do Programa de Pós-Graduação em Território, Ambiente e Sociedade (UCSAL) e Profa. do Curso de Arquitetura e Urbanismo (UCSAL). Integra o Núcleo de Salvador do Observatório das Metrópoles (INCT/CNPq) e coordena o Grupo de Pesquisa Gestão Democrática das Cidades (CNPq/UCSAL). Tem experiência na área de Arquitetura e Urbanismo, com ênfase principalmente nos seguintes temas: direito à cidade; planejamento urbano regional; habitação de interesse social; espaços públicos; conflitos territoriais e socioambientais. (Texto informado pelo autor)" />
+          <attvalue for="4" value="Permanente" />
+          <attvalue for="5" value="2009" />
+          <attvalue for="6" value="Ciências Sociais Aplicadas" />
+          <attvalue for="7" value="Arquitetura e Urbanismo" />
+          <attvalue for="8" value="Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania" />
+          <attvalue for="9" value="Universidade Católica do Salvador, Programa de Pós-Graduação em Políticas Sociais e Cidadania. Avenida Professor Pinto de Aguiar- 2589 Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (71) 32067895 URL da Homepage: www.ucsal.br" />
+          <attvalue for="10" value="12" />
+          <attvalue for="11" value="11" />
+          <attvalue for="12" value="6" />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="#fb8072" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="-0.013150626473769066" />
+          <attvalue for="18" value="0.031398861331728034" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="6" label="Maria Gorete Borges Figueirêdo">
+        <viz:color r="251" g="128" b="114" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7910445092841679" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="17/08/2026" />
+          <attvalue for="3" value="Professora Permanente do Programa de Pós-Graduação em Políticas Sociais e Cidadania - PPGPSC (UCSal). Coordena o PPGPSC e a Assessoria de Relações Internacionais (ARI). Professora na Pós-Graduação Lato Sensu em Gestão de Política da Assistência Social no contexto SUAS(UCSal). Professora na Graduação nos cursos de Direito, Pedagogia, História, Música, Letras e Serviço Social; Doutora em Planejamento Territorial e Desenvolvimento Social (UCSAL) - Área das Ciências Socias Aplicadas; e Mestre em Desenvolvimento Regional e Urbano (UNIFACS), MBA em Finanças Corporativas (UNIFACS), Pós-graduada em Administração de RH (UFBA), e Pós em TERAPIA DE FAMÍLIA (UCSAL/COFAM); é graduada em SERVIÇO SOCIAL (UCSal), e em PEDAGOGIA com Habilitação em Orientação Educacional (FEBA). Foi Pró-reitora de Extensão e Ação Comunitária da UCSAL (2021/2022). Coordenou o Curso de Serviço Social (2019-2024) e Pedagogia na UCSal 2020/2021. Foi Professora Substituta na Universidade Federal do Recôncavo da Bahia-UFRB no curso de Serviço Social (2017/2019); Professora Tutora: Uniasselvi 2009/2014 e na UNEF 2023/2025. Foi Pesquisadora Bolsista na Secretaria de Ciência Tecnologia e Inovação (SECTI BA) 2014/2017, onde atuou com gestão de projetos de energias alternativas, inovação e tecnologias no semiárido BA. Coordenou curso de Pós-graduação ESPECIALIZAÇÃO EM POLITICAS E ESTRATÉGIAS na parceria ADESG-UNEB; trabalhou com Planejamento Estratégico, formação de TIME, acompanhamento e monitoramento de indicadores e certificações ISO 9001 e ISO 26000(1994-2014). Foi facilitadora do CAPACITASUAS- BA pela UFRB (2017/2019) e UFBA (2019/2022). Fez trabalho voluntário no programa Mobilidade Humana com Migrantes e Refugiados (2017-2022). Coordena os grupos de pesquisa GRUPO DE ESTUDOS E PESQUISA EM EDUCAÇÃO, INCLUSÃO E SUSTENTABILIDADE- interdisciplinaridades na Gestão e nas Políticas Públicas (GEPEIS) e o NÚCLEO DE ESTUDOS INTERDISCIPLINARES SOBRE POVOS, MIGRAÇÕES , INCLUSÃO E CIDADANIA - diálogo, práticas e políticas públicas (NEIPOMIC), e é membro ativo dos grupos de pesquisa: GEPPGE Grupo de Estudos em Políticas Públicas e Gestão Educacional do PPGPSC/UCSal cujo objeto de estudo é educação, políticas públicas no cenário nacional e as relações internacionais; Gestão Democrática das Cidades (GDC) cujo objeto de estudo é discutir e investigar processos urbanos contemporâneos, relacionados às políticas públicas e gestão participativa; e Territórios em Resistência que tem como objeto de estudo Territorialidade, Desenvolvimento Social e Meio Ambiente. É membro do Conselho Gestor do Parque Metropolitano de Pituaçu (CGPMP) em Salvador/BA 2021/atual; e é membro Comitê Estadual Intersetorial de Migrações, Apatridia e Refúgio na Bahia - CEIMAR/BA 2025. (Texto informado pelo autor)" />
+          <attvalue for="4" value="Permanente" />
+          <attvalue for="5" value="2018" />
+          <attvalue for="6" value="Ciências Sociais Aplicadas" />
+          <attvalue for="7" value="Planejamento Urbano e Regional" />
+          <attvalue for="8" value="Universidade Católica do Salvador, PROGRAMA DE PÓS-GRADUAÇÃO EM POLÍTICAS SOCIAIS E CIDADANIA - PPGPSC" />
+          <attvalue for="9" value="Universidade Católica do Salvador, PROGRAMA DE PÓS-GRADUAÇÃO EM POLÍTICAS SOCIAIS E CIDADANIA - PPGPSC. Avenida Professor Pinto de Aguiar n.2589 Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (71) 32067800 URL da Homepage: www.ucsal.br" />
+          <attvalue for="10" value="8" />
+          <attvalue for="11" value="5" />
+          <attvalue for="12" value="6" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="#fb8072" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="2" />
+          <attvalue for="17" value="0.0025157764036236674" />
+          <attvalue for="18" value="0.027648520648113732" />
+          <attvalue for="19" value="3" />
+        </attvalues>
+      </node>
+      <node id="7" label="Ilzver de Matos Oliveira">
+        <viz:color r="251" g="128" b="114" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/4770751511233073" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="27/07/2026" />
+          <attvalue for="3" value="Professor do Departamento de Direito da Universidade Federal de Sergipe (2023 - atual) do Programa de Pós-graduação em Direito e do Programa de Pós-graduação em Políticas Sociais e Cidadania da Universidade Católica do Salvador (2023 - atual). Bolsista de Pós-doutorado Sênior CNPq (2022 - 2023). Doutor em Direito pela Pontifícia Universidade Católica do Rio de Janeiro - PUC-RIO (2014) com atividades de pós-doutoramento na UFBA (2017-2018), com bolsa PPDOC/CAPES/FAPITEC. Foi bolsista PDJ/CNPq. É Mestre em Direito pela Universidade Federal da Bahia - UFBA (2008). Possui graduação em Direito pela Universidade Federal de Sergipe - UFS (2004). Foi bolsista do Programa Internacional de Bolsas de Pós-graduação da Fundação Ford - Internacional Fellowship Program - IFP. Realizou Mestrado-Sanduíche no Centro de Estudos Sociais- CES da Universidade de Coimbra, sob a co-orientação do Professor Dr. Boaventura de Sousa Santos. Advogado. Presidiu a Comissão de Igualdade Racial e a Comissão da Verdade Sobre a Escravidão Negra e a Comissão de Igualdade Racial da OAB/SE. Foi professor do Programa de Pós-graduação em Direitos Humanos da Universidade Tiradentes e do Programa de Pós-graduação em Direitos Humanos e Políticas Públicas da Pontifícia Universidade Católica do Paraná - PPGDH/PUCPR. Foi Diretor de Direitos Humanos da Prefeitura de Aracaju. Recebeu o Prêmio Direitos Humanos 2018, do Ministério dos Direitos Humanos, a Medalha de Direitos Humanos ''Dom José Vicente Távora 2019'', da Assembleia Legislativa do Estado de Sergipe e o Prêmio do Programa Ancestralidades de Valorização à Pesquisa 2022, da Fundação Tide Setúbal e Itaú Cultural. Tem experiência na área de Direito, com ênfase em Direito Público, Direito Constitucional e Direitos Humanos, com atuação nos temas ações afirmativas, desenvolvimento sustentável, povos e comunidades tradicionais, desigualdade racial, intolerância religiosa, racismo religioso e políticas públicas. (Texto informado pelo autor)" />
+          <attvalue for="4" value="Permanente" />
+          <attvalue for="5" value="2023" />
+          <attvalue for="6" value="Ciências Sociais Aplicadas" />
+          <attvalue for="7" value="Direito" />
+          <attvalue for="8" value="Universidade Federal de Sergipe, Centro de Ciências Sociais Aplicadas, Departamento de Direito" />
+          <attvalue for="9" value="Universidade Federal de Sergipe, Centro de Ciências Sociais Aplicadas, Departamento de Direito. Av. Marcelo Deda Chagas Rosa Elze 49100000 - São Cristóvão, SE - Brasil - Caixa-postal: 000 Telefone: (79) 31946767 Ramal: 000 Fax: (79) 00000000 URL da Homepage: https://www.ufs.br" />
+          <attvalue for="10" value="7" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="11" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="#fb8072" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.3499270040994739" />
+          <attvalue for="18" value="-0.6106354124012527" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="8" label="Cláudia Monteiro Fernandes">
+        <viz:color r="251" g="128" b="114" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/9606507679613575" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="16/07/2026" />
+          <attvalue for="3" value="Professora do Programa de Pós-Graduação em Políticas Sociais e Cidadania da Universidade Católica do Salvador (UCSal). Doutora e Mestra em Sociologia, especialista e bacharel em Ciências Econômicas pela UFBA. Professora Licenciada em Sociologia. Líder do Grupo de pesquisa GEDIH - Grupo de Estudos em Estado, Desigualdades Interseccionais e Humanidades da UCSal. Pesquisadora do Observatório das Metrópoles (INCT), do Programa A Cor da Bahia (UFBA) e do Grupo Periféricas (UFBA). Atuou como bolsista do IPEA, professora substituta na UFRB (CCAAB - Cruz das Almas, Bahia), Diretora de Avaliação de informações educacionais e Coordenadora de Ações Afirmativas em Educação Superior da Secretaria da Educação e Diretora de Planejamento Social da Secretaria de Planejamento do Estado da Bahia. Atuou como oficial de monitoramento e avaliação do UNICEF no Brasil e como Tecnologista do IBGE, na Coordenação de Trabalho e Rendimento, no Rio de Janeiro. Trabalha principalmente com os temas: desigualdades raciais e de gênero, educação, sociologia urbana e econômica, políticas sociais, políticas de cuidados, demografia e indicadores socioeconômicos. ORCID: https://orcid.org/0000-0002-0536-2516 E-mail: claudia.monteiro@pro.ucsal.br (Texto informado pelo autor)" />
+          <attvalue for="4" value="Permanente" />
+          <attvalue for="5" value="2025" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="1" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#fb8072" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.6199276360806476" />
+          <attvalue for="18" value="0.313872051678341" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="9" label="Anderson Eslie Leite de Oliveira">
+        <viz:color r="251" g="128" b="114" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7834637895518358" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="04/09/2026" />
+          <attvalue for="3" value="Professor Permanente dos Programas de Pós-Graduação em Políticas Sociais e Cidadania e Família na Sociedade Contemporânea da Universidade Católica do Salvador - UCSal, e membro do GEDIH (Grupo de Estudos em Estado, Desigualdades Interseccionais e Humanidades). Possuo Licenciatura em Ciências Sociais pela Universidade Federal da Bahia (2008), Mestrado em Ciências Sociais pela UFBA (2012), e Doutorado em Ciências Sociais pela Unicamp - Universidade Estadual de Campinas (2019). Membro do NENU (Núcleo de Estudantes Negras e Negros da UFBA) de 2003 a 2010. Fui instrutor de desenvolvimento social pela ONG Adesol (2009). Trabalhei como coordenador territorial pela ONG Avante, no projeto Vozes da Cidade (2015). Atuei como professor substituto da disciplina Sociologia no Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA, campus Santo Amaro, entre 2016 e 2017, e como professor de Sociologia do Sesi - Serviço Social da Indústria (2018). Fui editor musical na produtora Arroz de Hauçá, entre 2019 e 2020. Estive como professor do ensino médio e superior do Instituto Federal de São Paulo - IFSP câmpus de Campos do Jordão (2021). Fui professor de Sociologia da Universidade Estadual de Mato Grosso do Sul - UEMS, unidade de Paranaíba entre 2021 e 2022, e professor do Magistério Superior substituto de Sociologia na Faculdade de Filosofia e Ciências Humanas da Universidade Federal da Bahia, entre 2023 e 2025. Discuti colonização e descolonização do continente africano, as lutas por independência, e os debates contemporâneos sobre pensamento anticolonial no podcast Descoloniza Podcast. Tenho um canal no YouTube chamado ''Ciências Sociais em Pauta'' e participei de outro canal sobre temas sociais importantes entrecortados pela dinâmica das relações raciais chamado ''Canal dos Broders''.Tenho experiência na área de Ciências Sociais (Sociologia, Antropologia, Ciência Política), Educação e Música, e no Terceiro Setor. (Texto informado pelo autor)" />
+          <attvalue for="4" value="Permanente" />
+          <attvalue for="5" value="2025" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Católica do Salvador, Pro Reitoria de Pesquisa e Pós Graduação, Políticas Sociais e Cidadania" />
+          <attvalue for="9" value="Universidade Católica do Salvador, Pro Reitoria de Pesquisa e Pós Graduação, Políticas Sociais e Cidadania. Avenida Professor Pinto de Aguiar Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (71) 32067800 URL da Homepage: https://www.ucsal.br/" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="1" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#fb8072" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.12282678637223639" />
+          <attvalue for="18" value="-0.7" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="10" label="Maina Pirajá Silva">
+        <viz:color r="251" g="128" b="114" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/1454954636042924" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="27/07/2026" />
+          <attvalue for="3" value="Doutora em Geografia pela Universidade Federal da Bahia - UFBA. Realizou pós-doutoramento no PPG em Planejamento Territorial e Desenvolvimento Social da Universidade Católica do Salvador - UCSAL. Mestre, bacharel e licenciada em Geografia pela Universidade Federal da Bahia. Atualmente é professora titular e pesquisadora dos PPGs Território, Ambiente e Sociedade e Políticas Sociais e Cidadania da Universidade Católica do Salvador. Coordena o grupo de pesquisa GAM - Grupo de Estudos de Áreas Metropolitanas - UCSAL. Pesquisadora associada à Rede INCT Observatório das Metrópoles - Núcleo Salvador. Desenvolve pesquisas nas áreas da Geografia Urbana e Planejamento Urbano e Regional, com ênfase em análises sobre Governança urbana/metropolitana e arranjos institucionais, Dinâmicas e Transformações socioespaciais, Metropolização turística; Política Urbana e Justiça Social e Espacial, atuando, ainda, na área de geotecnologia. (Texto informado pelo autor)" />
+          <attvalue for="4" value="Permanente" />
+          <attvalue for="5" value="2019" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Geografia" />
+          <attvalue for="8" value="Universidade Católica do Salvador, Pós-Graduação" />
+          <attvalue for="9" value="Universidade Católica do Salvador, Pós-Graduação. Avenida Professor Pinto de Aguiar Pituaçu 41740090 - Salvador, BA - Brasil Telefone: (71) 30243567" />
+          <attvalue for="10" value="9" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="5" />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="#fb8072" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.5631525935091494" />
+          <attvalue for="18" value="-0.4541555066779778" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="11" label="Gustavo Rodrigues de Oliveira">
+        <viz:color r="141" g="211" b="199" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/9961846863546492" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="03/08/2026" />
+          <attvalue for="3" value="Gestor Hospitalar. Assessor da Presidência e Head do Programa Institucional de Integridade e Conformidade / LGPD. Compliance Officer da Santa Marcelina Saúde SP/SP. Ombudsman responsável pela Gestão do Canal Direto Corporativo. Responsável pela Integração e Gerenciamento Jurídico Estratégico - Contencioso, Consultivo e Contratos (Hospitais e Atenção Primária). Membro da Comissão de Privacidade e Proteção de Dados - CPDP da Ordem dos Advogados do Brasil - Seccional do Rio de Janeiro - OAB/RJ (2025-2027) e da Seccional São Paulo - OAB/SP (2025-2027). Docente do Curso CST em Gestão Hospitalar da Faculdade Racine (Racine/SP).Titular da Disciplina Gerenciamento em Saúde no Curso de Bacharelado em Medicina (Faculdade Santa Marcelina - FASM/SP). Docente no Curso de MBA de Gestão Estratégica em Ouvidoria na Área da Saúde - Centro Universitário São Camilo (CUSC/SP). Docente no Curso de Bacharelado em Direito da Faculdade Unida de São Paulo (FAUSP/SP). Docente nos Cursos de Especialização Lato Sensu em Gestão Hospitalar (Instituto Focar - SP/SP - Araraquara/SP, Ribeirão Preto/SP e Bauru/SP). Docente no MBA em Visagismo (Faculdade Monitor SP/SP e Faculdade Phorte SP/SP). Pós-Doutorado em Politicas Sociais e Cidadania pela Universidade Católica do Salvador (UCSAL/BA); Pós-Doutorando pela Universidade de Araraquara - (UNIARA/SP). Doutor em Desenvolvimento Territorial e Meio Ambiente - Linha de Pesquisa em Politicas Públicas pela Universidade de Araraquara - (UNIARA/SP). Mestre em Administração pela Universidade São Marcos (USM/SP). Especialista em Direito Administrativo e do Estado pela Universidade Gama Filho (UGF/RJ). MBA Executivo em Saúde pela Fundação Getúlio Vargas (FGV/SP), Especialista em Administração Hospitalar pela Universidade de Ribeirão Preto (UNAERP/SP). Graduado em Direito pela Universidade Gama Filho (UGF/RJ). Vivência na área de Administração Público-Privada, com ênfase em Gestão dos Serviços de Saúde. Atuou como Coordenador e Docente do Curso de Administração de Empresas da Faculdade Santa Marcelina (FASM/SP).Atuou como Docente e Coordenador Geral do Programa de Pós-Graduação, Pesquisa e Extensão da Faculdade Paulista de Pesquisa e Ensino Superior (FAPPES/SP) e do PPG de MBA em Coaching (Sociedade Brasileira de Coaching - SBC / FAPPES SP/SP). Atuou como Docente do Curso de Administração de Empresas da FAPPES/SP e da Unisantanna (Centro Universitário Santanna - SP/SP). Atuou como Coordenador da Pós Graduação em Saúde Pública com Ênfase em Saúde da Família e da Pós Graduação em Gerontologia e Interdisciplinaridade - Centro Universitário São Camilo (CUSC/SP).Assessor Jurídico Ad Hoc da Secretaria de Estado da Saúde do Rio de Janeiro (SES-RJ). Ministra palestras, Cursos Livres, dentre outras atividades educacionais. Gestor do Programa de Educação e Negócios e Coordenador do PPG-GHSS - Gestão Hospitalar e dos Serviços de Saúde (FASM SP/SP / AAGAPE Santa Marcelina (Associação para Aprimoramento da Gestão, Assistência, Pesquisa e Ensino Santa Marcelina). Co-Fundador da Liga Acadêmica de Gestão e Empreendedorismo em Saúde - LAGES (FASM/SP). Co-Fundador da Jr. Company (Empresa Jr. do Curso de Administração da Faculdade Santa Marcelina - FASM/SP). Pesquisador em Políticas Públicas, nas linhas de pesquisa: Gestão e Acesso aos Serviços de Saúde e Ciências Jurídicas, com ênfase em Judicialização da Saúde, Responsabilidade Profissional e Penal .Membro Efetivo da Comissão Institucional de Pesquisa (CIP) - Membro Efetivo da Comissão de Bioética (CBio), ambas da Santa Marcelina Saúde. ORCID iD https://orcid.org/0009-0001-5385-1795 (Texto informado pelo autor)" />
+          <attvalue for="4" value="Colaborador" />
+          <attvalue for="5" value="2025" />
+          <attvalue for="6" value="Ciências Sociais Aplicadas" />
+          <attvalue for="7" value="Administração" />
+          <attvalue for="8" value="Hospital Santa Marcelina" />
+          <attvalue for="9" value="Hospital Santa Marcelina. Rua Santa Marcelina, 177 Itaquera 08270070 - São Paulo, SP - Brasil Telefone: (011) 20706000 Ramal: 6201 Fax: (011) 25247884 URL da Homepage: www.santamarcelina.org" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#8dd3c7" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.6626305561251612" />
+          <attvalue for="18" value="-0.22070886963569675" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="12" label="Emerson Tyrone Mattje">
+        <viz:color r="141" g="211" b="199" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/5794628653554786" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="25/06/2026" />
+          <attvalue for="3" value="Pós-Doutor em Políticas Sociais e Cidadania (Universidade Católica do Salvador - Salvador/BA). Doutor em Diversidade Cultural e Inclusão Social (Universidade Feevale - Novo Hamburgo/RS). Mestre pela Faculdade de Direito da Pontifícia Universidade Católica do Rio Grande do Sul - Porto Alegre/RS. Bacharel em Ciências Jurídicas e Sociais (Universidade do Vale do Rio dos Sinos - São Leopoldo/RS). É professor de ensino superior na Universidade FEEVALE. Também exerce o cargo de Auditor Fiscal do Trabalho do quadro permanente de pessoal do Ministério do Trabalho e Emprego. Atua nas áreas do Direito e Interdisciplinar, tendo como suas principais preocupações as seguintes temáticas: Direito do Trabalho; Direitos Humanos; Direito Previdenciário; Fiscalização do Trabalho e Políticas Públicas relacionadas à Qualificação Profissional e à Inclusão de Pessoas com Deficiência no Mercado de Trabalho. Orientou cento e seis trabalhos de conclusão de curso de graduação e cinco monografias de conclusão de curso de aperfeiçoamento/especialização. Participou de trezentas bancas de avaliação de trabalhos de conclusão de curso de graduação e de setenta e sete bancas de avaliação de monografias de conclusão de curso de especialização, de uma banca examinadora de qualificação de mestrado, de quatro bancas de mestrado, de duas bancas examinadoras de qualificação de doutorado e de duas bancas de doutorado. (Texto informado pelo autor)" />
+          <attvalue for="4" value="Colaborador" />
+          <attvalue for="5" value="2025" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Ciência Política" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="4" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#8dd3c7" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.3187868847740321" />
+          <attvalue for="18" value="0.6436644004969095" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="1" target="2" id="0" weight="1.0" />
+      <edge source="2" target="3" id="1" weight="1.0" />
+      <edge source="3" target="6" id="2" weight="2.0" />
+      <edge source="5" target="6" id="3" weight="4.0" />
+    </edges>
+  </graph>
+</gexf>
